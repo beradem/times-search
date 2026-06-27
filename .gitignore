@@ -1,0 +1,12 @@
+# Secrets — never commit the NYT API key
+.env
+
+# Cached Archive API responses (~20MB each)
+prototype/cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code local (machine-specific) settings
+.claude/settings.local.json
