@@ -4,8 +4,10 @@ import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Reuse the prototype's download cache so we don't re-fetch ~20MB months.
 CACHE_DIR = os.path.join(ROOT, "prototype", "cache")
-PUZZLE_DIR = os.path.join(ROOT, "puzzles")
-LEDGER_PATH = os.path.join(PUZZLE_DIR, "ledger.json")
+# Puzzles are served by the web app, so they live under web/ (the deploy root).
+PUZZLE_DIR = os.path.join(ROOT, "web", "puzzles")
+# Ledger is internal state — kept OUTSIDE web/ so it isn't publicly served.
+LEDGER_PATH = os.path.join(ROOT, "data", "ledger.json")
 
 ARCHIVE_MIN_YEAR = 1851
 ARCHIVE_MAX_YEAR = 2019

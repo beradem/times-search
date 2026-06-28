@@ -2,10 +2,13 @@
 (function () {
   "use strict";
 
-  // Pick the puzzle by ?date=YYYY-MM-DD (default: the sample).
-  // In production this will default to today's ET date.
-  const DATE = new URLSearchParams(location.search).get("date") || "2026-06-28";
-  const PUZZLE_URL = `../puzzles/${DATE}.json`;
+  // Default to today's ET date (Wordle-style rollover); ?date= overrides.
+  // Falls back to a known edition if today's isn't published yet.
+  const params = new URLSearchParams(location.search);
+  const todayET = new Intl.DateTimeFormat("en-CA",
+    { timeZone: "America/New_York" }).format(new Date());
+  const FALLBACK_DATE = "2026-06-28";
+  const DATE = params.get("date") || todayET;
   const MONTHS = ["", "January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December"];
 
@@ -18,17 +21,18 @@
 
   // One game per day, no accounts: persist progress in localStorage keyed by
   // the puzzle date (Wordle-style). Per-device, clearable — fine for MVP.
-  const STORAGE_KEY = `times-search:v1:${DATE}`;
+  // Key by the actually-loaded puzzle date (may differ from DATE if we fell back).
+  const storageKey = () => `times-search:v1:${state.puzzle ? state.puzzle.date : DATE}`;
   function saveProgress() {
     try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify({
+      localStorage.setItem(storageKey(), JSON.stringify({
         round: state.round, results: state.results,
         total: state.total, completed: state.completed,
       }));
     } catch (_) { /* storage blocked (private mode); progress just won't persist */ }
   }
   function loadProgress() {
-    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || "null"); }
+    try { return JSON.parse(localStorage.getItem(storageKey()) || "null"); }
     catch (_) { return null; }
   }
 
@@ -322,20 +326,28 @@
     else renderHome();
   }
 
+  async function fetchPuzzle(d) {
+    const res = await fetch(`puzzles/${d}.json`, { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    return res.json();
+  }
+
   // ---- boot ----
   async function init() {
     app.innerHTML = `<section class="screen loading"><p>Setting the type&hellip;</p></section>`;
     try {
-      const res = await fetch(PUZZLE_URL, { cache: "no-store" });
-      if (!res.ok) throw new Error("HTTP " + res.status);
-      state.puzzle = await res.json();
+      try {
+        state.puzzle = await fetchPuzzle(DATE);
+      } catch (e) {
+        if (params.get("date")) throw e;           // explicit date: don't mask
+        state.puzzle = await fetchPuzzle(FALLBACK_DATE); // today's not out yet
+      }
       restoreAndRoute();
     } catch (e) {
       app.innerHTML = `<section class="screen error">
-        <h2>Couldn&rsquo;t load today&rsquo;s edition</h2>
-        <p>${escapeHtml(String(e))}</p>
-        <p class="hint">Serve from the repo root: <code>python3 -m http.server</code>,
-          then open <code>/web/</code>.</p></section>`;
+        <h2>No edition available</h2>
+        <p class="hint">Today&rsquo;s puzzle hasn&rsquo;t been published yet. Check back soon.</p>
+      </section>`;
     }
   }
 
