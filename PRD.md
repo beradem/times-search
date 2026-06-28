@@ -265,6 +265,7 @@ The reveal-screen blurb is **LLM-generated using a Groq API key** (Groq serves f
 - Hints (reveal a section name, a decade nudge) — *possibly with a scoring penalty*.
 - Richer share image card.
 - Blend headline-richness into cluster ranking for the noisy partial-keyword era (~1900–1930) (§6.3).
+- **Display-headline cleanup:** `headline.main` for older articles is a long run-on of every deck, and sometimes kicker-first (e.g. "EFFECTIVE THIS MORNING; …" instead of "2-DAY BANK HOLIDAY…"). Derive a concise display headline for the play screen (the pipeline currently passes the raw `headline.main`).
 
 ---
 
