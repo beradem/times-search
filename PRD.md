@@ -79,7 +79,7 @@ A daily game = **3 rounds**. Every player gets the **same 3 rounds** on a given 
 - **Home** and **Share** buttons.
 
 ### Rules
-- **One game per day** per device (enforced client-side via localStorage in v1; not account-locked).
+- **One game per day** per device — built, enforced client-side via `localStorage`; not account-locked. Completed/in-progress state is restored on load (details in §8).
 - Puzzle rolls over at **midnight America/New_York (ET)** every night, globally (same puzzle for everyone, Wordle-style). See §6.4.
 - No mid-game retries; each guess is final on submit.
 
@@ -253,6 +253,7 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 - **Puzzle store/CDN:** serves the day's puzzle to clients as small JSON — headlines, abstracts, image URLs, links, the blurb, **and the answers**. *(DECIDED: **client-side answers**, Wordle-style. Cheating only fools yourself; the shared "top XX%" stat is already spam-gameable with no accounts. Revisit if the future iOS app adds accounts/competitive leaderboards. See §10.)*
 - **Score-distribution service:** tiny endpoint storing daily anonymous scores + returning percentile/histogram.
 - **Client:** responsive web app implementing the 4 screens.
+- **Play-state persistence — DECIDED & built (no auth):** the client stores today's progress in **`localStorage`**, keyed by the puzzle date (`times-search:v1:<date>`), Wordle-style. On load: **completed → results**, **in-progress → resume**, **fresh → home**; the home CTA is contextual (Play / Resume / See Your Results) and there is **no replay** once the day is done. *Trade-offs (acceptable for MVP):* it is **per-device + per-browser**, resets on clearing storage / private mode, and is **not tamper-proof** (a user can clear it to replay — only affects their own run and the already-gameable anonymous distribution). **Real cross-device identity + integrity is a later concern, arriving with accounts / the native iOS app.**
 
 *(OPEN — concrete stack TBD: static site + serverless functions is likely enough.)*
 
