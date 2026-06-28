@@ -65,13 +65,11 @@
         </ol>
         <div class="editors-note">
           <h2>Editor&rsquo;s Note</h2>
-          <p>Every front page is a fingerprint of its moment. A country at war reads
-          nothing like a country at the movies; a breathless dispatch about the wireless
-          could only have been set in one slim band of years. We hand you four stories
-          from a single month and ask the oldest question in any newsroom: <em>when?</em>
-          Don&rsquo;t hunt for dates — read the texture: the names in the air, the worries,
-          the things taken for granted. Trust it, and you&rsquo;ll land closer than you&rsquo;d
-          think. &mdash; <span class="signoff">The Editors</span></p>
+          <p>Every front page is a fingerprint of its moment. A country at war doesn&rsquo;t
+          read like a country at peace. We give you four stories and want you to think:
+          <em>when?</em> What is the feeling? Read and process to show your touch and
+          understanding of history, and the lens we see it through. &mdash;
+          <span class="signoff">The Editors</span></p>
         </div>
         <button id="play" class="primary">Play Today&rsquo;s Edition</button>
       </section>`;
