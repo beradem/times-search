@@ -18,8 +18,7 @@
 
 body {
   margin: 0;
-  background: var(--paper);
-  background-image: var(--paper-grain);
+  background: #ffffff;
   color: var(--ink);
   font-family: var(--serif);
   line-height: 1.5;
