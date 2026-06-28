@@ -14,7 +14,23 @@
   const roundPill = document.getElementById("round-pill");
   const scoreTotalEl = document.getElementById("score-total");
 
-  const state = { puzzle: null, round: 0, results: [], total: 0 };
+  const state = { puzzle: null, round: 0, results: [], total: 0, completed: false };
+
+  // One game per day, no accounts: persist progress in localStorage keyed by
+  // the puzzle date (Wordle-style). Per-device, clearable — fine for MVP.
+  const STORAGE_KEY = `times-search:v1:${DATE}`;
+  function saveProgress() {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify({
+        round: state.round, results: state.results,
+        total: state.total, completed: state.completed,
+      }));
+    } catch (_) { /* storage blocked (private mode); progress just won't persist */ }
+  }
+  function loadProgress() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || "null"); }
+    catch (_) { return null; }
+  }
 
   // ---- helpers ----
   const escapeHtml = (s) => (s || "").replace(/[&<>"']/g, (c) => (
@@ -49,6 +65,12 @@
   // ---- home screen ----
   function renderHome() {
     scoreboard.hidden = true;
+    // CTA reflects whether you've already played today.
+    const cta = state.completed
+      ? { label: "See Your Results", action: renderResults }
+      : state.results.length
+        ? { label: "Resume Today’s Edition", action: renderPlay }
+        : { label: "Play Today’s Edition", action: startGame };
     app.innerHTML = `
       <section class="screen home">
         <div class="home-nameplate">
@@ -70,9 +92,9 @@
           <em>when?</em> What is the feeling? Read and process to show your touch and
           understanding of history, and the lens we see it through.</p>
         </div>
-        <button id="play" class="primary">Play Today&rsquo;s Edition</button>
+        <button id="play" class="primary">${cta.label}</button>
       </section>`;
-    document.getElementById("play").addEventListener("click", startGame);
+    document.getElementById("play").addEventListener("click", cta.action);
   }
 
   // ---- play screen ----
@@ -146,6 +168,7 @@
     const points = Scoring.roundPoints(e_months);
     state.total += points;
     state.results.push({ guess, actual: round.answer, err: e_months, points });
+    saveProgress();
     renderReveal();
   }
 
@@ -213,6 +236,8 @@
 
   function renderResults() {
     scoreboard.hidden = true;
+    state.completed = true;
+    saveProgress();
     const { topPct, bucket, dist } = percentileTop(state.total);
     const max = Math.max(...dist);
 
@@ -275,8 +300,26 @@
   }
 
   function startGame() {
+    if (state.completed) { renderResults(); return; } // no replay once done
     state.round = 0; state.results = []; state.total = 0;
     renderPlay();
+  }
+
+  // Restore any saved progress for today, then show the right screen.
+  function restoreAndRoute() {
+    const saved = loadProgress();
+    if (saved && Array.isArray(saved.results)) {
+      state.results = saved.results;
+      state.total = saved.total || 0;
+      state.completed = !!saved.completed ||
+        saved.results.length >= state.puzzle.rounds.length;
+      state.round = state.completed
+        ? state.puzzle.rounds.length - 1
+        : saved.results.length;
+    }
+    if (state.completed) renderResults();
+    else if (state.results.length) renderPlay(); // resume mid-game
+    else renderHome();
   }
 
   // ---- boot ----
@@ -286,7 +329,7 @@
       const res = await fetch(PUZZLE_URL, { cache: "no-store" });
       if (!res.ok) throw new Error("HTTP " + res.status);
       state.puzzle = await res.json();
-      renderHome();
+      restoreAndRoute();
     } catch (e) {
       app.innerHTML = `<section class="screen error">
         <h2>Couldn&rsquo;t load today&rsquo;s edition</h2>
