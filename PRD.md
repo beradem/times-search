@@ -183,7 +183,7 @@ Prototyping corrected our assumption. The cliff is **keyword availability**, and
 - *Validated:* July 1921 now surfaces the **Dempsey–Carpentier fight** and the **Irish truce** (real lead stories) instead of trivia.
 
 **Implications & remaining refinement:**
-- The UI must handle **0 images** gracefully (older articles have no `multimedia`); the wireframe already treats images as optional. Confirm the prompt screen works text-only.
+- Older articles have **no images** — handled by the newspaper-clipping visual (§6.7), so the play screen never depends on photos.
 - **Partial-keyword era (~1900–1930, 30–50% coverage):** cluster mode catches the *top* story (April 1912 correctly leads with the **Titanic**) but the tail gets noisy from mis-tagged small clusters. **Refinement (later):** blend headline-richness into cluster ranking so weak-headline clusters lose. Tracked, not yet built.
 
 ### 6.4 Daily / round selection strategy *(DECIDED)*
@@ -204,13 +204,25 @@ Each day's game = **3 rounds, each a random MM/YYYY pair** drawn from the full a
 
 ### 6.5 The "this month in history" blurb *(DECIDED: LLM-generated via Groq)*
 
-The reveal-screen blurb is **LLM-generated using a Groq API key** (Groq serves fast, cheap open models — e.g. Llama — well-suited to batch generation). It runs **in the pre-generation pipeline, not at play time**, so each blurb is produced once per puzzle and is cheap, cacheable, and reviewable.
+The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-versatile`** (Groq serves fast, cheap *open* models — Llama, etc.; it does **not** host Gemini, which is Google's and would be a separate integration). It runs **in the pre-generation pipeline, not at play time**, so each blurb is produced once per puzzle and is cheap, cacheable, and reviewable.
 
-**Anti-hallucination grounding (important):** the blurb describes a *real* month in history, so the model must be **grounded in the 4 extracted top stories** — pass their headlines + abstracts as context and instruct the model to summarize *only* what those articles support, not to volunteer outside "facts." This keeps invented dates/events out. *(Optional later: a lightweight factual spot-check or human review pass before publish.)*
+**Consistency tuning (done):** early blurbs varied in length, opening, and tense. Tightened the prompt to a fixed shape — **2–3 sentences, ~45–65 words, past tense, open directly on the most significant event** (no "this month in history" filler, no addressing the reader) — at **`temperature` 0.2**. Result is uniform across months.
+
+**Anti-hallucination grounding (important):** the blurb describes a *real* month, so the model is **grounded strictly in the 4 extracted top stories** — only facts those stories support; invent nothing. On Groq's Cloudflare front, requests must send a non-default `User-Agent` (else HTTP 403 / error 1010). *(Optional later: a lightweight factual spot-check or human review before publish.)*
 
 ### 6.6 Legal / ToS
 - **Resolved:** project is **non-commercial, for social learning**, so NYT content-display terms are not considered a blocker for this use.
 - Still good practice: respect API rate limits (per-minute and per-day 429s) via pre-generation/caching, and attribute the NYT as the source in the UI.
+
+### 6.7 Imagery *(DECIDED: newspaper-clipping visual)*
+
+**Data finding:** the Archive API only carries photos for roughly the **last ~20 years** — `multimedia` is present on **94% of June 2018 articles but 0% of every month sampled from 1912–1969**. So for most of the 1851–2019 range there are *no* NYT images at all.
+
+**Game-design catch:** a real photo would often **leak the answer** on the play screen. Because only recent articles have photos, *any* image signals "recent decade," and a recognizable event shot (moon landing, Titanic) gives the date away outright.
+
+**Decision: the newspaper front page IS the picture.** Each round's stories render as a styled vintage NYT front page — masthead, **redacted dateline** (no real date in the DOM), a prominent lead story, and columned secondary stories on aged paper. This is visually rich, works identically in **1851 and 2019**, never leaks the date, and is perfectly on-theme. Real NYT photos may later appear on the **reveal** screen (post-guess, when available) where leaking no longer matters.
+
+**Later option (backlog):** pull period event photos from **Wikimedia Commons** (free-licensed) for older eras — richer coverage, but adds entity-matching complexity, risks wrong/misleading images, and can make guessing too easy. Parked, not in v1.
 
 ---
 
@@ -265,6 +277,8 @@ The reveal-screen blurb is **LLM-generated using a Groq API key** (Groq serves f
 - Hints (reveal a section name, a decade nudge) — *possibly with a scoring penalty*.
 - Richer share image card.
 - Blend headline-richness into cluster ranking for the noisy partial-keyword era (~1900–1930) (§6.3).
+- **Wikimedia Commons historical photos** for older-era imagery (§6.7) — richer pictures across the full range; deferred for matching complexity / leak risk.
+- **Real NYT photos on the reveal screen** for recent-era puzzles (~2000+), where leaking the date no longer matters (§6.7).
 - **Display-headline cleanup:** `headline.main` for older articles is a long run-on of every deck, and sometimes kicker-first (e.g. "EFFECTIVE THIS MORNING; …" instead of "2-DAY BANK HOLIDAY…"). Derive a concise display headline for the play screen (the pipeline currently passes the raw `headline.main`).
 
 ---

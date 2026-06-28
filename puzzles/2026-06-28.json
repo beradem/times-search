@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T16:26:20.965574+00:00",
+  "generated_at": "2026-06-28T16:43:47.021730+00:00",
   "rounds": [
     {
       "round": 1,
@@ -34,7 +34,7 @@
           "url": "https://www.nytimes.com/1969/07/09/archives/senate-hearings-on-tax-reforms-will-delay-bill-long-of-finance.html"
         }
       ],
-      "blurb": "July 1969 was a month of significant developments in the United States, marked by President Nixon's efforts to reshape the country's role in Asia and address domestic issues. As Nixon toured Asia, he outlined plans to reduce the US military commitment in the region, while also making history back home with the launch of Apollo 11, the first mission to attempt a moon landing. Meanwhile, the President also sounded the alarm on a looming crisis in healthcare, calling for private sector assistance to revamp the system, amidst ongoing debates over tax reforms and inflation in Congress.",
+      "blurb": "President Nixon outlined a new Asia policy, reducing US military commitments. Astronauts sped toward the moon in the Apollo 11 mission. Nixon also warned of a healthcare crisis and sought tax reforms.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.581
@@ -72,7 +72,7 @@
           "url": "https://www.nytimes.com/1945/08/11/archives/wpb-ready-to-act-snyder-said-to-sanction-wide-program-to-start-as.html"
         }
       ],
-      "blurb": "As August 1945 drew to a close, the world was on the cusp of a new era, with Japan's acceptance of the Potsdam terms paving the way for surrender and an end to World War II. Meanwhile, the US was already shifting its focus to post-war reconstruction, with the termination of the Lend-Lease program and the laying off of 100,000 war industry workers as contracts came to an end. The War Production Board was also gearing up for a wide-scale reconversion program to help the country transition back to peacetime operations.",
+      "blurb": "Japan accepted the Potsdam terms, leading to its surrender. The end of the war prompted significant changes, including the halt of Lend-Lease and widespread layoffs in war jobs. War production and rationing controls were also being dismantled.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.697
@@ -110,7 +110,7 @@
           "url": "https://www.nytimes.com/1933/03/17/archives/mdonald-proposes-world-arms-cuts-limits-effectives-british-premier.html"
         }
       ],
-      "blurb": "This month in history, March 1933, the global economy was in turmoil, with the US banking system grinding to a halt due to an emergency decree that closed all banks and securities markets. Meanwhile, in Europe, the newly-formed Reich regime in Germany was experiencing internal power struggles, with key figures like Papen and Goering vying for control. Against this backdrop of economic and political instability, world leaders were gathering to discuss disarmament, with British Premier McDonald proposing significant cuts to arms and advocating for international cooperation to preserve peace.",
+      "blurb": "President Roosevelt's inauguration occurred, marking a significant shift in leadership. The banking system was also impacted by a two-day bank holiday. A disarmament conference proposed world arms cuts, aiming for parity among nations.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.691

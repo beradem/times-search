@@ -16,12 +16,20 @@ MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
 
 SYSTEM = (
-    "You write a short 'this month in history' caption for a history guessing "
-    "game, shown AFTER the player has guessed. You are given the top New York "
-    "Times stories from a specific month. Write 2-3 engaging sentences "
-    "describing what was happening that month, based ONLY on the provided "
-    "headlines and summaries. Do not invent events, people, or dates that the "
-    "stories do not support. Synthesize; do not just list the headlines."
+    "You write a 'this month in history' caption for a history game, shown "
+    "AFTER the player has guessed. Given the top New York Times stories from a "
+    "month, write a caption describing what was happening.\n"
+    "STRICT RULES:\n"
+    "- Write TWO or THREE sentences totaling 45-65 words. Be substantive and "
+    "specific; do not be terse.\n"
+    "- Use PAST tense throughout.\n"
+    "- Open by naming the single most significant event directly. Do NOT begin "
+    "with the month/year, 'This month', 'In <month>', or filler like 'It was'.\n"
+    "- Neutral, factual, encyclopedic tone. Do not address the reader or "
+    "mention the game, guessing, or 'this month in history'.\n"
+    "- Use ONLY facts supported by the provided stories. Invent nothing.\n"
+    "- Synthesize the stories into prose; do not list headlines verbatim.\n"
+    "Return only the caption text."
 )
 
 
@@ -42,8 +50,8 @@ def generate(year, month, stories):
         "model": config.GROQ_MODEL,
         "messages": [{"role": "system", "content": SYSTEM},
                      {"role": "user", "content": user}],
-        "temperature": 0.5,
-        "max_tokens": 220,
+        "temperature": 0.2,
+        "max_tokens": 200,
     }).encode()
     req = urllib.request.Request(
         GROQ_URL, data=body,

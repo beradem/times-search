@@ -71,28 +71,78 @@ main {
   font-style: italic;
   font-size: 1.05rem;
   color: var(--ink-soft);
-  margin: 0 0 0.75rem;
-  border-bottom: 1px solid var(--rule);
-  padding-bottom: 0.6rem;
+  margin: 0 0 0.85rem;
 }
-.play-body { display: grid; gap: 1rem; }
-.headlines { list-style: none; margin: 0; padding: 0; }
-.story { padding: 0.85rem 0; border-bottom: 1px solid var(--rule); }
-.story:first-child { padding-top: 0; }
-.story h2 {
-  font-size: 1.18rem;
-  font-weight: 700;
-  line-height: 1.25;
-  margin: 0 0 0.3rem;
-}
-.story p { margin: 0; color: var(--ink-soft); font-size: 0.95rem; }
 
-.images { display: flex; gap: 0.5rem; flex-wrap: wrap; }
-.images img {
-  width: 100%;
-  max-width: 320px;
-  border: 1px solid var(--rule);
-  filter: grayscale(15%);
+/* The newspaper front page IS the visual. Aged paper, redacted dateline,
+   prominent lead story, columned secondary stories. Works in every era. */
+.newspaper {
+  --paper-ink: #1a1712;
+  --paper-bg: #f3ecda;
+  --paper-rule: #c9bd9d;
+  background:
+    repeating-linear-gradient(0deg, rgba(0,0,0,0.012) 0 2px, transparent 2px 4px),
+    var(--paper-bg);
+  color: var(--paper-ink);
+  border: 1px solid var(--paper-rule);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 6px 20px rgba(40,33,20,0.10);
+  padding: 1.1rem 1.15rem 1.3rem;
+  margin-bottom: 1.4rem;
+}
+.paper-masthead {
+  text-align: center;
+  border-bottom: 4px double var(--paper-ink);
+  padding-bottom: 0.45rem;
+  margin-bottom: 0.85rem;
+}
+.paper-name {
+  font-weight: 800;
+  font-size: clamp(1.9rem, 7vw, 2.9rem);
+  letter-spacing: 0.01em;
+  line-height: 1;
+}
+.paper-dateline {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: 0.35rem;
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #7a7058;
+}
+.redacted { color: #2a261d; letter-spacing: -0.05em; }
+
+.lead {
+  text-align: center;
+  border-bottom: 1px solid var(--paper-rule);
+  padding-bottom: 0.85rem;
+  margin-bottom: 0.85rem;
+}
+.lead h2 {
+  font-weight: 800;
+  font-size: clamp(1.35rem, 5.5vw, 2rem);
+  line-height: 1.08;
+  margin: 0 0 0.45rem;
+}
+.lead p {
+  text-align: left;
+  font-size: 0.97rem;
+  color: #322c21;
+  margin: 0;
+}
+
+.paper-columns { display: grid; grid-template-columns: 1fr; }
+.col { padding: 0.65rem 0; border-top: 1px dotted var(--paper-rule); }
+.col h2 { font-weight: 700; font-size: 1.04rem; line-height: 1.2; margin: 0 0 0.3rem; }
+.col p { font-size: 0.86rem; color: #45402f; margin: 0; }
+
+@media (min-width: 560px) {
+  .lead p { column-count: 2; column-gap: 1.4rem; }
+  .paper-columns { grid-template-columns: repeat(3, 1fr); }
+  .col { padding: 0.1rem 0.85rem; border-top: none; border-left: 1px solid var(--paper-rule); }
+  .col:first-child { border-left: none; padding-left: 0; }
+  .col:last-child { padding-right: 0; }
 }
 
 /* ---- guess form ---- */

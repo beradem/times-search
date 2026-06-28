@@ -41,27 +41,35 @@
     const round = state.puzzle.rounds[state.round];
     setScoreboard();
 
-    const headlines = round.stories.map((s) => `
-      <li class="story">
+    // The "picture" is the newspaper itself: a styled front page that works in
+    // any era and never leaks the date (dateline is redacted). PRD §6.7.
+    const [lead, ...rest] = round.stories;
+    const story = (s, tag) => `
+      <article class="${tag}">
         <h2>${escapeHtml(displayHeadline(s.headline))}</h2>
         ${s.summary ? `<p>${escapeHtml(s.summary)}</p>` : ""}
-      </li>`).join("");
+      </article>`;
 
-    const imgs = imagesOf(round).slice(0, 2);
-    const imageBlock = imgs.length ? `
-      <div class="images">${imgs.map((u) =>
-        `<img src="${escapeHtml(u)}" alt="" loading="lazy" />`).join("")}</div>` : "";
+    const newspaper = `
+      <div class="newspaper">
+        <div class="paper-masthead">
+          <span class="paper-name">The Times</span>
+          <div class="paper-dateline">
+            <span class="redacted">██████ ██, ████</span>
+            <span class="redacted">No. ██,███</span>
+          </div>
+        </div>
+        ${story(lead, "lead")}
+        <div class="paper-columns">${rest.map((s) => story(s, "col")).join("")}</div>
+      </div>`;
 
     const monthOpts = MONTHS.slice(1).map((m, i) =>
       `<option value="${i + 1}">${m}</option>`).join("");
 
     app.innerHTML = `
       <section class="screen play">
-        <p class="prompt">In the Times that month&hellip;</p>
-        <div class="play-body">
-          <ol class="headlines">${headlines}</ol>
-          ${imageBlock}
-        </div>
+        <p class="prompt">Read the front page. When did it run?</p>
+        ${newspaper}
         <form class="guess" id="guess-form" novalidate>
           <p class="guess-legend">When was this?</p>
           <div class="guess-fields">
