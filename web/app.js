@@ -281,6 +281,9 @@
     document.getElementById("share").addEventListener("click", share);
   }
 
+  // Adapts to whatever domain the game is served from (vercel.app or custom).
+  const SHARE_URL = location.origin + "/";
+
   function shareText() {
     const squares = state.results.map((r) => Scoring.shareSquare(r.err)).join("");
     return `Times Search — ${state.puzzle.date}\n${squares}  ` +
@@ -290,10 +293,13 @@
   async function share() {
     const text = shareText();
     try {
-      if (navigator.share) { await navigator.share({ text }); return; }
-      await navigator.clipboard.writeText(text);
-      toast("Copied to clipboard!");
-    } catch (_) { toast("Couldn't share — here it is:\n" + text); }
+      if (navigator.share) {
+        await navigator.share({ title: "Times Search", text, url: SHARE_URL });
+        return;
+      }
+      await navigator.clipboard.writeText(`${text}\n${SHARE_URL}`);
+      toast("Copied — score and link on your clipboard!");
+    } catch (_) { toast("Couldn't share — here it is:\n" + text + "\n" + SHARE_URL); }
   }
 
   function toast(msg) {
