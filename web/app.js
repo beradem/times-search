@@ -236,8 +236,7 @@
         <h2>That&rsquo;s the edition.</h2>
         <p class="final-score"><strong id="ftotal">0</strong>
           <span>/ ${Scoring.maxTotal.toLocaleString()}</span></p>
-        <p class="percentile">You were in the <strong>top ${topPct}%</strong> of players today
-          <span class="stub-note">(demo estimate)</span></p>
+        <p class="percentile">You were in the <strong>top ${topPct}%</strong> of players today</p>
         <div class="histogram">${bars}</div>
         <h3>Today&rsquo;s New York Times history&hellip;</h3>
         <ul class="recap">${recap}</ul>
