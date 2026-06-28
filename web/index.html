@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Times Search</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <h1 class="wordmark">Times Search</h1>
+      <div class="scoreboard" id="scoreboard" hidden>
+        <span class="round-pill" id="round-pill"></span>
+        <span class="score-pill">Score <strong id="score-total">0</strong></span>
+      </div>
+    </div>
+  </header>
+
+  <main id="app" aria-live="polite"><!-- screens render here --></main>
+
+  <footer class="colophon">
+    Stories from <span>The New York Times</span> Archive · a history guessing game
+  </footer>
+
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
