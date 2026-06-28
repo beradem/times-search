@@ -4,14 +4,11 @@ Runs in the pre-generation pipeline (not at play time). Grounded strictly in
 the month's extracted top stories to avoid hallucinated dates/events.
 REVEAL-ONLY: never show this on the play screen — it would leak the answer.
 """
-import json
 import sys
 import urllib.error
-import urllib.request
 
-from . import config
+from . import groq_client
 
-GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
 
@@ -40,29 +37,16 @@ def _fallback(stories):
 
 
 def generate(year, month, stories):
-    key = config.env("GROQ_API_KEY", required=True)
     listing = "\n".join(
         f"{i}. {s['headline']} — {s['summary']}".strip(" —")
         for i, s in enumerate(stories, 1)
     )
     user = f"Month: {MONTHS[month]} {year}\n\nTop stories:\n{listing}"
-    body = json.dumps({
-        "model": config.GROQ_MODEL,
-        "messages": [{"role": "system", "content": SYSTEM},
-                     {"role": "user", "content": user}],
-        "temperature": 0.2,
-        "max_tokens": 200,
-    }).encode()
-    req = urllib.request.Request(
-        GROQ_URL, data=body,
-        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json",
-                 # Cloudflare blocks the default Python-urllib UA (error 1010).
-                 "User-Agent": "times-search/0.1"},
-    )
     try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            data = json.load(r)
-        return data["choices"][0]["message"]["content"].strip()
-    except (urllib.error.URLError, KeyError, json.JSONDecodeError) as e:
+        return groq_client.chat(
+            [{"role": "system", "content": SYSTEM},
+             {"role": "user", "content": user}],
+            temperature=0.2, max_tokens=200)
+    except (urllib.error.URLError, KeyError, ValueError) as e:
         print(f"  ! Groq blurb failed ({e}); using fallback.", file=sys.stderr)
         return _fallback(stories)

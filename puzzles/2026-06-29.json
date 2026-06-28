@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-28T17:00:06.192542+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2018,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "Microsoft Employees Protest Work With ICE, as Tech Industry Mobilizes Over Immigration",
+          "summary": "Microsoft employees protested the company's work with immigration authorities due to objections over the administration's immigration policy. This was part of a larger wave of outrage in the tech industry.",
+          "image": "https://static01.nyt.com/images/2018/06/20/business/20MICROSOFT-2/merlin_126685346_b6ea8d03-ebea-409b-890a-55fd21b1bfe0-superJumbo.jpg",
+          "url": "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html"
+        },
+        {
+          "headline": "Amazon Studios’ New Boss Is Reshaping Its Strategy. Step One: Lure New Talent.",
+          "summary": "The new head of Amazon Studios is working to attract new talent to the company by making it a welcoming place for creative people.",
+          "image": "https://static01.nyt.com/images/2018/06/12/business/12amazon1/12amazon1-superJumbo.jpg",
+          "url": "https://www.nytimes.com/2018/06/11/business/media/amazon-studios-jennifer-salke.html"
+        },
+        {
+          "headline": "Behind Trump’s Plan to Overhaul the Government: Scaling Back the Safety Net",
+          "summary": "A group of conservatives is working to reduce the social welfare system by proposing various initiatives, including a cabinet reshuffle.",
+          "image": "https://static01.nyt.com/images/2018/06/22/us/22poverty2_dc/22poverty2_dc-superJumbo-v2.jpg",
+          "url": "https://www.nytimes.com/2018/06/21/us/politics/trump-government-overhaul-safety-net.html"
+        },
+        {
+          "headline": "Spain and Portugal Play a Draw for the Ages, Starring a Player for All Time",
+          "summary": "Portugal and Spain played a tied soccer game, with Cristiano Ronaldo scoring three goals for Portugal, including one near the end of the match.",
+          "image": "https://static01.nyt.com/images/2018/06/16/sports/16spain-portugal4/merlin_139641699_8c75e11f-f4c9-4a52-b7ad-6980b741a731-superJumbo.jpg",
+          "url": "https://www.nytimes.com/2018/06/15/sports/spain-portugal-world-cup.html"
+        }
+      ],
+      "blurb": "Microsoft employees protested the company's work with immigration authorities, fueling a wave of outrage in the tech industry. The Trump administration's immigration policy sparked controversy, while conservatives proposed scaling back the safety net. Cristiano Ronaldo starred in a historic soccer match between Portugal and Spain.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.936
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2016,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "Sorry, ‘Twilight’ Fans, Stephenie Meyer’s Latest Is a Twisted Spy Thriller",
+          "summary": "Stephenie Meyer has written a new book that is a spy thriller, a departure from her previous vampire novels. She said she gets bored with repeating herself, which led to the change in genre.",
+          "image": "https://static01.nyt.com/images/2016/11/09/arts/10MEYER/10MEYER-superJumbo.jpg",
+          "url": "https://www.nytimes.com/2016/11/10/books/sorry-twilight-fans-stephenie-meyers-latest-is-a-twisted-spy-thriller.html"
+        },
+        {
+          "headline": "FilmStruck Streaming Service Places a Big Bet on Cinephiles",
+          "summary": "Turner Classic Movies and the Criterion Collection have launched a streaming service called FilmStruck, targeting viewers who want more than what other services offer.",
+          "image": "https://static01.nyt.com/images/2016/11/02/arts/02TCM2/02TCM2-superJumbo-v3.jpg",
+          "url": "https://www.nytimes.com/2016/11/02/arts/television/filmstruck-streaming-service-places-a-big-bet-on-cinephiles.html"
+        },
+        {
+          "headline": "What Would You Serve With Gin and Juice? At the Table With Martha Stewart and Snoop Dogg",
+          "summary": "Martha Stewart and Snoop Dogg have a new TV show called 'Martha & Snoop’s Potluck Dinner Party' where they share cooking advice and witty banter.",
+          "image": "https://static01.nyt.com/images/2016/11/06/fashion/06MARTHASNOOP04/06MARTHASNOOP04-superJumbo.jpg",
+          "url": "https://www.nytimes.com/2016/11/06/fashion/martha-stewart-snoop-dogg-dinner.html"
+        },
+        {
+          "headline": "Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally",
+          "summary": "Beyoncé made a significant statement by performing with the Dixie Chicks at the Country Music Association Awards, which was seen as a powerful and subtle move.",
+          "image": "https://static01.nyt.com/images/2016/11/06/arts/07BEYONCEJP2/06BEYONCE1-superJumbo.jpg",
+          "url": "https://www.nytimes.com/2016/11/06/arts/music/beyonce-political-hillary-clinton-dixie-chicks.html"
+        }
+      ],
+      "blurb": "Beyoncé made a significant statement by performing with the Dixie Chicks at the Country Music Association Awards. Stephenie Meyer released a spy thriller, departing from her vampire novels. FilmStruck and 'Martha & Snoop’s Potluck Dinner Party' also debuted.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.915
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2008,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
+          "summary": "President-elect Barack Obama is preparing to build his team, starting with the selection of a White House chief of staff. This is his first step towards taking office.",
+          "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+          "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
+        },
+        {
+          "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
+          "summary": "The election is over, and news media outlets are wondering what's next for them after achieving record viewership.",
+          "image": null,
+          "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
+        },
+        {
+          "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
+          "summary": "China's economy, which had been growing rapidly, is now slowing down more quickly than expected.",
+          "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
+          "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
+        },
+        {
+          "headline": "Booksellers and Publishers Nervous as Holiday Season Approaches",
+          "summary": "The publishing industry is feeling anxious as the holiday season approaches, due to recent economic difficulties.",
+          "image": null,
+          "url": "https://www.nytimes.com/2008/11/11/books/11book.html"
+        }
+      ],
+      "blurb": "Barack Obama's presidential election victory prompted him to build a transition team. He selected a White House chief of staff as his first step towards taking office. China's economy slowed down rapidly, while the publishing industry felt anxious.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.507
+      }
+    }
+  ]
+}

@@ -2,8 +2,10 @@
 (function () {
   "use strict";
 
-  // In production this resolves to today's ET puzzle; for now, the sample.
-  const PUZZLE_URL = "../puzzles/2026-06-28.json";
+  // Pick the puzzle by ?date=YYYY-MM-DD (default: the sample).
+  // In production this will default to today's ET date.
+  const DATE = new URLSearchParams(location.search).get("date") || "2026-06-28";
+  const PUZZLE_URL = `../puzzles/${DATE}.json`;
   const MONTHS = ["", "January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December"];
 

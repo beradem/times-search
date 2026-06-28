@@ -13,7 +13,7 @@ import os
 import sys
 from zoneinfo import ZoneInfo
 
-from . import blurb, config, nyt, selection
+from . import blurb, config, nyt, selection, summaries
 from .ranker import rank_month
 
 PUBLIC_STORY_KEYS = ("headline", "summary", "image", "url")
@@ -28,6 +28,10 @@ def build_round(index, year, month, with_blurb=True):
     stories, meta = rank_month(docs)
     if not stories:
         raise ValueError(f"{year}-{month:02d} produced no rankable stories")
+    if with_blurb:
+        # Clarify the cryptic abstracts into plain-English play-screen summaries.
+        for s, clear in zip(stories, summaries.clarify(year, month, stories)):
+            s["summary"] = clear
     text = blurb.generate(year, month, stories) if with_blurb else None
     print(f"  round {index}: {year}-{month:02d}  [{meta['mode']}, "
           f"kw={meta['keyword_coverage']:.0%}]  -> {stories[0]['headline'][:60]}",
