@@ -53,8 +53,8 @@
       <section class="screen home">
         <div class="home-nameplate">
           <div class="home-rule"></div>
-          <h1 class="home-title">The Times</h1>
-          <p class="home-subtitle">Search &middot; a daily history game</p>
+          <h1 class="home-title">Times Search</h1>
+          <p class="home-subtitle">a daily history game</p>
           <div class="home-rule"></div>
         </div>
         <p class="home-tagline">Four real front-page stories from a single month, somewhere since 1851. Name it.</p>
@@ -95,7 +95,7 @@
     const newspaper = `
       <div class="newspaper">
         <div class="paper-masthead">
-          <span class="paper-name">The Times</span>
+          <span class="paper-name">Times Search</span>
           <div class="paper-dateline">
             <span class="redacted">██████ ██, ████</span>
             <span class="redacted">No. ██,███</span>
