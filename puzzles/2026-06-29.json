@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-28T17:00:06.192542+00:00",
+  "generated_at": "2026-06-28T17:19:15.032274+00:00",
   "rounds": [
     {
       "round": 1,
@@ -11,19 +11,19 @@
       "stories": [
         {
           "headline": "Microsoft Employees Protest Work With ICE, as Tech Industry Mobilizes Over Immigration",
-          "summary": "Microsoft employees protested the company's work with immigration authorities due to objections over the administration's immigration policy. This was part of a larger wave of outrage in the tech industry.",
+          "summary": "Microsoft employees protested the company's work with immigration authorities due to disagreements with the current immigration policy. The protest is part of a larger wave of outrage in the tech industry over immigration issues.",
           "image": "https://static01.nyt.com/images/2018/06/20/business/20MICROSOFT-2/merlin_126685346_b6ea8d03-ebea-409b-890a-55fd21b1bfe0-superJumbo.jpg",
           "url": "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html"
         },
         {
           "headline": "Amazon Studios’ New Boss Is Reshaping Its Strategy. Step One: Lure New Talent.",
-          "summary": "The new head of Amazon Studios is working to attract new talent to the company by making it a welcoming place for creative people.",
+          "summary": "Amazon Studios' new head is working to attract new talent to the company by making it a welcoming place for creative people to work.",
           "image": "https://static01.nyt.com/images/2018/06/12/business/12amazon1/12amazon1-superJumbo.jpg",
           "url": "https://www.nytimes.com/2018/06/11/business/media/amazon-studios-jennifer-salke.html"
         },
         {
           "headline": "Behind Trump’s Plan to Overhaul the Government: Scaling Back the Safety Net",
-          "summary": "A group of conservatives is working to reduce the social welfare system by proposing various initiatives, including a cabinet reshuffle.",
+          "summary": "A group of conservatives is working on plans to reduce the social welfare system, including a proposal to reorganize the government.",
           "image": "https://static01.nyt.com/images/2018/06/22/us/22poverty2_dc/22poverty2_dc-superJumbo-v2.jpg",
           "url": "https://www.nytimes.com/2018/06/21/us/politics/trump-government-overhaul-safety-net.html"
         },
@@ -34,7 +34,11 @@
           "url": "https://www.nytimes.com/2018/06/15/sports/spain-portugal-world-cup.html"
         }
       ],
-      "blurb": "Microsoft employees protested the company's work with immigration authorities, fueling a wave of outrage in the tech industry. The Trump administration's immigration policy sparked controversy, while conservatives proposed scaling back the safety net. Cristiano Ronaldo starred in a historic soccer match between Portugal and Spain.",
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2018/06/20/business/20MICROSOFT-2/merlin_126685346_b6ea8d03-ebea-409b-890a-55fd21b1bfe0-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Microsoft employees protested the company's work with immigration authorities, sparking a larger tech industry outcry over immigration policy. The Trump administration was planning to overhaul the government, including scaling back the safety net. Cristiano Ronaldo scored three goals in a historic Portugal-Spain soccer match.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.936
@@ -55,13 +59,13 @@
         },
         {
           "headline": "FilmStruck Streaming Service Places a Big Bet on Cinephiles",
-          "summary": "Turner Classic Movies and the Criterion Collection have launched a streaming service called FilmStruck, targeting viewers who want more than what other services offer.",
+          "summary": "A new streaming service called FilmStruck has been launched, targeting film enthusiasts who want more than what other services offer.",
           "image": "https://static01.nyt.com/images/2016/11/02/arts/02TCM2/02TCM2-superJumbo-v3.jpg",
           "url": "https://www.nytimes.com/2016/11/02/arts/television/filmstruck-streaming-service-places-a-big-bet-on-cinephiles.html"
         },
         {
           "headline": "What Would You Serve With Gin and Juice? At the Table With Martha Stewart and Snoop Dogg",
-          "summary": "Martha Stewart and Snoop Dogg have a new TV show called 'Martha & Snoop’s Potluck Dinner Party' where they share cooking advice and witty banter.",
+          "summary": "Martha Stewart and Snoop Dogg have a new TV show where they share cooking advice and witty banter.",
           "image": "https://static01.nyt.com/images/2016/11/06/fashion/06MARTHASNOOP04/06MARTHASNOOP04-superJumbo.jpg",
           "url": "https://www.nytimes.com/2016/11/06/fashion/martha-stewart-snoop-dogg-dinner.html"
         },
@@ -72,7 +76,11 @@
           "url": "https://www.nytimes.com/2016/11/06/arts/music/beyonce-political-hillary-clinton-dixie-chicks.html"
         }
       ],
-      "blurb": "Beyoncé made a significant statement by performing with the Dixie Chicks at the Country Music Association Awards. Stephenie Meyer released a spy thriller, departing from her vampire novels. FilmStruck and 'Martha & Snoop’s Potluck Dinner Party' also debuted.",
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2016/11/09/arts/10MEYER/10MEYER-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Stephenie Meyer released a spy thriller, departing from her vampire novels. FilmStruck launched, targeting film enthusiasts with unique offerings. Beyoncé made a subtle statement by performing with the Dixie Chicks at the Country Music Association Awards.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.915
@@ -87,30 +95,34 @@
       "stories": [
         {
           "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
-          "summary": "President-elect Barack Obama is preparing to build his team, starting with the selection of a White House chief of staff. This is his first step towards taking office.",
+          "summary": "Barack Obama is preparing to choose a White House chief of staff as he starts to build his transition team after being elected president. This is one of his first steps towards taking office.",
           "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
           "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
         },
         {
           "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
-          "summary": "The election is over, and news media outlets are wondering what's next for them after achieving record viewership.",
+          "summary": "The election of Senator Barack Obama has ended, and now news media outlets are wondering what will happen next for them.",
           "image": null,
           "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
         },
         {
           "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
-          "summary": "China's economy, which had been growing rapidly, is now slowing down more quickly than expected.",
+          "summary": "China's economy, which had been growing very quickly, is now slowing down faster than expected.",
           "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
           "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
         },
         {
           "headline": "Booksellers and Publishers Nervous as Holiday Season Approaches",
-          "summary": "The publishing industry is feeling anxious as the holiday season approaches, due to recent economic difficulties.",
+          "summary": "The publishing industry is experiencing financial difficulties, making booksellers and publishers anxious as the holiday season approaches.",
           "image": null,
           "url": "https://www.nytimes.com/2008/11/11/books/11book.html"
         }
       ],
-      "blurb": "Barack Obama's presidential election victory prompted him to build a transition team. He selected a White House chief of staff as his first step towards taking office. China's economy slowed down rapidly, while the publishing industry felt anxious.",
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Barack Obama began building his transition team, selecting a White House chief of staff. His election marked a significant shift, while China's economy slowed down rapidly. The publishing industry faced financial difficulties.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.507

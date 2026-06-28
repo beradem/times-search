@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T16:59:01.420424+00:00",
+  "generated_at": "2026-06-28T17:19:36.533613+00:00",
   "rounds": [
     {
       "round": 1,
@@ -11,30 +11,36 @@
       "stories": [
         {
           "headline": "NIXON PLANS CUT IN MILITARY ROLE FOR U.S. IN ASIA; Starting Tour, He Promises Respect for Commitments, but Under New Forms ARRIVES IN PHILIPPINES President, at Guam, Asserts Nation Won't Be Drawn Into More Vietnams President Nixon Declares That U.S. Will Reduce Its Military Commitments in Asia POLICIES OUTLINED AT START OF TOUR He Says Nation Will Not Be Drawn Into Future Wars Like That in Vietnam",
-          "summary": "President Nixon announced plans to reduce the US military role in Asia and said the country will not be drawn into more wars like Vietnam. He also expressed willingness to reduce military operations in South Vietnam if it would help negotiations to end the war.",
+          "summary": "President Nixon announced plans to reduce the US military role in Asia, while also stating that the US will respect its existing commitments in the region. He also expressed his intention to avoid being drawn into future wars like the one in Vietnam.",
           "image": null,
           "url": "https://www.nytimes.com/1969/07/26/archives/nixon-plans-cut-in-military-role-for-us-in-asia-starting-tour-he.html"
         },
         {
           "headline": "ASTRONAUTS SPEEDING TOWARD THE MOON; FIRST DAY OF APOLLO FLIGHT IS FLAWLESS; NIXON ASKS FOR NATIONAL HOLIDAY MONDAY; CRAFT ON TARGET World Watches Start of Man's Attempt to Achieve Landing Astronauts Speeding Toward the Moon; First Day of Apollo 11 Flight Is Flawless World Watches the Start Of Attempt for a Landing",
-          "summary": "Astronauts are on their way to the moon as part of the Apollo 11 mission, with the first day of the flight being successful. The spacecraft is currently on target to achieve a landing on the moon.",
+          "summary": "Astronauts are on their way to the moon as part of the Apollo 11 mission, with the first day of the flight being successful. The spacecraft is currently on target to achieve a lunar landing.",
           "image": null,
           "url": "https://www.nytimes.com/1969/07/17/archives/astronauts-speeding-toward-the-moon-first-day-of-apollo-flight-is.html"
         },
         {
           "headline": "PRESIDENT WARNS OF 'MASSIVE CRISIS' IN HEALTH CARE; He and Aides Call Upon the Private Sector to Assist in Revamping System MEDICAID IS CRITICIZED Three Panels Being Set Up to Search for Solutions and Medical Personnel President Warns Against Crisis In Health Care; Calls for Help",
-          "summary": "The President warned of a massive crisis in the healthcare system and called for the private sector to help revamp it. The administration also announced a program to train returning medical corpsmen for civilian medical careers.",
+          "summary": "The President warned of a potential crisis in the healthcare system and called for the private sector to help revamp it. The administration also announced a program to train returning medical corpsmen for civilian medical careers.",
           "image": null,
           "url": "https://www.nytimes.com/1969/07/11/archives/president-warns-of-massive-crisis-in-health-care-he-and-aides-call.html"
         },
         {
           "headline": "SENATE HEARINGS ON TAX REFORMS WILL DELAY BILL; Long of Finance Committee Bids Colleagues Submit Proposals by July 18 AN APPEAL BY TREASURY Secretary Kennedy Calls for Early Surtax Extension -- Stresses Inflation Peril Senate Hearings on Reforms Will Delay Action on Bill to Extend Income Tax Surcharge",
-          "summary": "The Senate will hold hearings on tax reforms, which will delay the passage of a bill to extend the income tax surcharge. The Treasury Secretary appealed for an early extension of the surcharge, warning that failure to do so could lead to inflation and the need for wage and price controls.",
+          "summary": "The Senate will hold hearings on tax reforms, which is expected to delay the passage of a bill to extend the income tax surcharge. The delay may lead to inflation and potentially force the government to consider wage and price controls.",
           "image": null,
           "url": "https://www.nytimes.com/1969/07/09/archives/senate-hearings-on-tax-reforms-will-delay-bill-long-of-finance.html"
         }
       ],
-      "blurb": "President Nixon announced plans to reduce the US military role in Asia. Astronauts sped toward the moon as part of the Apollo 11 mission. The President also warned of a massive crisis in the healthcare system.",
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Helicopters_of_the_170th_and_the_189th_Helicopter_Assault_Companies%2C_await_the_leading_of_troops_at_Polei_Kleng%2C_in..._-_NARA_-_531458.tif/lossy-page1-1280px-Helicopters_of_the_170th_and_the_189th_Helicopter_Assault_Companies%2C_await_the_leading_of_troops_at_Polei_Kleng%2C_in..._-_NARA_-_531458.tif.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1969_in_the_Vietnam_War",
+        "title": "1969 in the Vietnam War"
+      },
+      "blurb": "President Nixon announced plans to reduce the US military role in Asia. Astronauts sped toward the moon as part of the Apollo 11 mission. The President also warned of a potential crisis in the healthcare system.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.581
@@ -55,13 +61,13 @@
         },
         {
           "headline": "100,000 LAID OFF IN WAR JOBS HERE AS CONTRACTS END; Orders Canceled Estimated at $100,000,000 as Plants Close for 'Inventory' SOME WILL BE RECALLED Belief Is Expressed That There Will Be Enough Work for All After Initial Curtailment Raw Materials Main Factor 100,000 LAID OFF IN WAR JOBS HERE To Be Notified Individually Other Plants Affected 10 Per Cent Layoff Expected Regional Director Hopeful 9,000 Out at Republic",
-          "summary": "Around 100,000 people in the New York area have lost their jobs in war-related industries due to canceled contracts and plant closures. Some of these workers are expected to be rehired after an initial period of curtailment.",
+          "summary": "Around 100,000 people in the New York area have lost their jobs in the war industry due to canceled contracts and plant closures. Some of these workers are expected to be rehired after an initial period of curtailment.",
           "image": null,
           "url": "https://www.nytimes.com/1945/08/18/archives/100000-laid-off-in-war-jobs-here-as-contracts-end-orders-canceled.html"
         },
         {
           "headline": "LEND-LEASE HALTS; ALLIES' NEEDS PUT ON PURCHASE BASIS; Truman Ends War Measure, Inviting Nations Concerned to Negotiate for Goods WAY OPENED FOR LOANS Banks May Join in Financing-- Total Outlay $41,208,000,000, $5,500,000,000 Returned Missions Are Notified LEND-LEASE HALTS; ALLIES TO BUY NOW Lend-Lease Total Itemized Banks May Enter Picture",
-          "summary": "The US has ended its lend-lease program, which provided war materials to its allies, and will now require them to purchase these goods instead. The allies have been notified to negotiate for the goods they need.",
+          "summary": "The US has ended its lend-lease program, which provided goods to its allies during the war, and will now require them to purchase these goods instead. The allies have been notified to negotiate for the goods they need.",
           "image": null,
           "url": "https://www.nytimes.com/1945/08/22/archives/lendlease-halts-allies-needs-put-on-purchase-basis-truman-ends-war.html"
         },
@@ -72,7 +78,13 @@
           "url": "https://www.nytimes.com/1945/08/11/archives/wpb-ready-to-act-snyder-said-to-sanction-wide-program-to-start-as.html"
         }
       ],
-      "blurb": "Japan accepted the terms of surrender, according to the Domei news agency. The US ended its lend-lease program, requiring allies to purchase war materials instead. War Production Board preparations for post-war reconversion were underway.",
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RIAN_archive_834147_Hoisting_the_banner_in_Port-Artur._WWII_%281941-1945%29.jpg/1280px-RIAN_archive_834147_Hoisting_the_banner_in_Port-Artur._WWII_%281941-1945%29.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Japanese_War",
+        "title": "Soviet–Japanese War"
+      },
+      "blurb": "Japan accepted the terms of surrender, according to the Japanese news agency Domei. The US ended its lend-lease program, requiring allies to purchase goods instead. War production adjustments followed, with 100,000 workers laid off in the New York area.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.697
@@ -87,30 +99,36 @@
       "stories": [
         {
           "headline": "EFFECTIVE THIS MORNING; Governor Acts After an All-Night Conference With Banking Heads. PERIOD INCLUDES MONDAY All Banks and the Securities Markets Are Affected by Emergency Decree. ILLINOIS TAKES STEP, TOO Period of Closing There Is Put at Three Days -- Pederal Officials in Conferences. 2-DAY BANK HOLIDAY IS LEHMAN'S ORDER",
-          "summary": "The governor has ordered a bank holiday, closing all banks and securities markets, after meeting with banking leaders. The holiday includes Monday and is part of an emergency decree.",
+          "summary": "The governor has ordered a bank holiday, closing all banks and securities markets, after meeting with banking leaders. The closure includes a 60-day limit on withdrawals.",
           "image": null,
           "url": "https://www.nytimes.com/1933/03/04/archives/effective-this-morning-governor-acts-after-an-allnight-conference.html"
         },
         {
           "headline": "ROOSEVELT WILL GO TO CAPITAL TODAY FOR INAUGURATION; Confers With Woodin on Banks and May Alter That Phase of His Message. GREETED BY CITY CROWDS Rides in From Hyde Park to Pack Up -- Daniels and Dern Call on Him. READY TO SEE GOVERNORS Speech March 6 to Stress Vital Issues -- Names Howe, Mclntyre and Early as His Secretaries. ROOSEVELT TO GO TO CAPITAL TODAY PRESIDENT-ELECT QUITS HIS COUNTRY HOME FOR THE WHITE HOUSE.",
-          "summary": "Roosevelt is preparing for his inauguration and has been meeting with officials to discuss important issues, including banking. He is set to give a speech on vital issues and has named his secretaries.",
+          "summary": "Roosevelt is preparing for his inauguration and has been meeting with officials to discuss his plans, including possible changes to his message about banks.",
           "image": null,
           "url": "https://www.nytimes.com/1933/03/02/archives/roosevelt-will-go-to-capital-today-for-inauguration-confers-with.html"
         },
         {
           "headline": "REICH REGIME SPLIT ON PRUSSIAN RULE; PAPEN HOLDS POWER; Choice of Premier Put Off Till May 2 at Latest as He and Goering Vie for Post. DIET HOLDS FIRST SESSION Nationalist Counters Eulogy of Hitler With Appeal for Return of Hohenzollerns. NO MORE RAIDS REPORTED Hope That Persecution of Jews Has Ended Rises in Paris as Exodus Declines. Meeting of Prussian Diet. CABINET IS SPLIT ON PRUSSIAN RULE",
-          "summary": "The Prussian Diet has voted to oust the Prussian Cabinet and government, and two men, Von Papen and Goering, are competing to become the new premier. There is also hope that the persecution of Jews may have ended.",
+          "summary": "The Prussian Diet has voted to approve the removal of the Prussian cabinet and government by Reich commissioners, and two leaders are now competing for the premiership.",
           "image": null,
           "url": "https://www.nytimes.com/1933/03/23/archives/reich-regime-split-on-prussian-rule-papen-holds-power-choice-of.html"
         },
         {
           "headline": "M'DONALD PROPOSES WORLD ARMS CUTS; LIMITS EFFECTIVES; British Premier Would Give France, Germany, Poland, Italy Parity in Home Forces. 7 POWERS EQUALS IN AIR Proposals Restrict Big Guns and Tanks and Provide Navy Parley in 1935. NEUTRALITY IS OPPOSED Prime Minister, in Pleading for His Five-Year Treaty, Warns Peace Is at Stake in Conference. M'DONALD PROPOSES WORLD ARMS CUTS",
-          "summary": "The British Premier has proposed cutting arms worldwide, suggesting that several countries, including France, Germany, and Italy, should have equal numbers of home forces. The proposal also includes limits on big guns, tanks, and naval power.",
+          "summary": "The British Prime Minister has proposed cutting arms worldwide, suggesting limits on the size of military forces and reductions in weapons like big guns and tanks.",
           "image": null,
           "url": "https://www.nytimes.com/1933/03/17/archives/mdonald-proposes-world-arms-cuts-limits-effectives-british-premier.html"
         }
       ],
-      "blurb": "The bank holiday was declared, closing all banks and securities markets. Roosevelt prepared for his inauguration, meeting with officials to discuss banking and other vital issues. The Prussian Diet voted to oust its cabinet, amidst a split regime and hopes of ending Jewish persecution.",
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/1280px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Emergency_Banking_Act_of_1933",
+        "title": "Emergency Banking Act of 1933"
+      },
+      "blurb": "President Roosevelt's inauguration occurred, marking a significant shift in leadership. The new president had been meeting with officials to discuss his plans, including possible changes to his message about banks. A two-day bank holiday was also ordered by Governor Lehman.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.691

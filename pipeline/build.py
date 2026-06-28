@@ -13,7 +13,7 @@ import os
 import sys
 from zoneinfo import ZoneInfo
 
-from . import blurb, config, nyt, selection, summaries
+from . import blurb, config, nyt, selection, summaries, wikimedia
 from .ranker import rank_month
 
 PUBLIC_STORY_KEYS = ("headline", "summary", "image", "url")
@@ -21,6 +21,21 @@ PUBLIC_STORY_KEYS = ("headline", "summary", "image", "url")
 
 def _clean_story(s):
     return {k: s.get(k) for k in PUBLIC_STORY_KEYS}
+
+
+def reveal_image(stories, year, with_wikimedia=True):
+    """Pick the reveal-screen image: the lead story's NYT photo if it has one
+    (recent era), otherwise a Wikimedia image of the lead event (older eras).
+    Returns {url, source, page?, title?} or None."""
+    nyt_url = next((s["image"] for s in stories if s.get("image")), None)
+    if nyt_url:
+        return {"url": nyt_url, "source": "The New York Times"}
+    if not with_wikimedia:
+        return None
+    lead = stories[0]
+    # Entity-like topic keyword is the best query; else the headline's lead deck.
+    term = lead.get("topic") or lead["headline"].split(";")[0].strip()
+    return wikimedia.find_image(f"{term} {year}")
 
 
 def build_round(index, year, month, with_blurb=True):
@@ -33,13 +48,15 @@ def build_round(index, year, month, with_blurb=True):
         for s, clear in zip(stories, summaries.clarify(year, month, stories)):
             s["summary"] = clear
     text = blurb.generate(year, month, stories) if with_blurb else None
+    image = reveal_image(stories, year, with_wikimedia=with_blurb)
     print(f"  round {index}: {year}-{month:02d}  [{meta['mode']}, "
-          f"kw={meta['keyword_coverage']:.0%}]  -> {stories[0]['headline'][:60]}",
-          file=sys.stderr)
+          f"kw={meta['keyword_coverage']:.0%}]  -> {stories[0]['headline'][:55]}"
+          f"  | img: {image['source'] if image else 'none'}", file=sys.stderr)
     return {
         "round": index,
         "answer": {"year": year, "month": month},
         "stories": [_clean_story(s) for s in stories],
+        "reveal_image": image,
         "blurb": text,
         "ranking": meta,
     }

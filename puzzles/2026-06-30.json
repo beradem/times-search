@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated_at": "2026-06-28T17:14:21.696727+00:00",
+  "generated_at": "2026-06-28T17:19:42.267826+00:00",
   "rounds": [
     {
       "round": 1,
@@ -17,23 +17,29 @@
         },
         {
           "headline": "ONE WEEK LATER FROM EUROPE.; The City of New-York at this Port and the Scotia off Cape Race. Reported Capture of the Steamship Moses Taylor bythe Alabama.Important Proceedings in the British Parliament.Mr. Roebuck Withdraws his Motion forRecognition. Mr. Lindsay Explains theVisit to the French Emperor.The News of Lee's Defeat Receivedin England.The London Times Does Not See the Ground of Mr. Lincoln's Hopeful Anticipations.The Principal Struggle to Take Place atVicksburgh and Port Hudson. ASPECT OF THE POLISH QUESTION.",
-          "summary": "There were important proceedings in the British Parliament, including speeches by Mr. Roebuck and Mr. Lindsay. The news of a defeat by Lee was received in England.",
+          "summary": "There were important proceedings in the British Parliament, including speeches by Mr. Roebuck and Mr. Lindsay. The news of a defeat by Lee was also received in England.",
           "image": null,
           "url": "https://www.nytimes.com/1863/07/26/archives/one-week-later-from-europe-the-city-of-newyork-at-this-port-and-the.html"
         },
         {
           "headline": "Our Dear British Cousins Getting Nervous.; We published in our issue of Wednesday the memorial of a large number of the leading shipping merchants of Liverpool to Earl RUSSELL, urging upon him the necessity of pressing upon Parliament amendments to the Neutrality law that shall make it more effective against the building and fitting out of Confederate cruisers in British ports.",
-          "summary": "British shipping merchants from Liverpool asked Earl Russell to push for changes to the Neutrality law to prevent Confederate cruisers from being built or fitted in British ports. This is related to the Neutrality Question and the Liverpool Memorial.",
+          "summary": "Shipping merchants from Liverpool asked Earl Russell to push for changes to the Neutrality law to prevent Confederate cruisers from being built or fitted in British ports. This is related to the Neutrality Question and the Liverpool Memorial.",
           "image": null,
           "url": "https://www.nytimes.com/1863/07/11/archives/our-dear-british-cousins-getting-nervous-we-published-in-our-issue.html"
         },
         {
           "headline": "The Mexican Empire New Developments of French Policy.",
-          "summary": "There were new developments in French policy related to the Mexican Empire.",
+          "summary": "There are new developments in French policy related to the Mexican Empire.",
           "image": null,
           "url": "https://www.nytimes.com/1863/07/28/archives/the-mexican-empire-new-developments-of-french-policy.html"
         }
       ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/1862%E2%80%9363_United_States_Senate_elections.svg/1280px-1862%E2%80%9363_United_States_Senate_elections.svg.png",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1862%E2%80%9363_United_States_Senate_elections",
+        "title": "1862–63 United States Senate elections"
+      },
       "blurb": "The Siege of Fort Wagner occurred, involving the Massachusetts Negro Regiment. General G. C. Strong was wounded during the siege. The news of Lee's defeat was received in England, prompting discussion in the British Parliament.",
       "ranking": {
         "mode": "topic-clusters",
@@ -49,30 +55,36 @@
       "stories": [
         {
           "headline": "THE OBSEQUIES; Removal of the Remains from Washington. The Reception of the Funeral Train at Baltimore and Harrisburgh. AFFECTING SCENES ALONG THE ROUTE. Preparations for the Reception of the Remains in this City on Monday. Meeting of Citizens at the Custom-House. Address of the New-York Delegation to President Johnson. The President's Emphatic Declaration of His Future Policy. Arrangements for a Grand Assembly at Union Square on Tuesday. Hon. George Bancroft Invited to Deliver an Oration. Official Announcement of the Route of the Funeral Procession.THE CIVIC AND MILITARY PROGRAMME. DISPATCH TO THE ASSOCIATED PRESS. THE DEPARTURE. IN BALTIMORE. THE MILITARY ESCORT. THE CATAFALQUE. DEPARTURE FROM BALTIMORE. IN HARRISBURGH. THE FUNERAL TRAIN. AFFECTING SCENES AND INCIDENTS--EXHIBITIONS OF VENERATION AND SORROW. PREPARATIONS IN THIS CITY. Meeting at the Custom-House. ADDRESS TO PRESIDENT JOHNSON. SPEECH OF PRESIDENT JOHNSON. RESOLUTIONS: COMMITTEE OF ARRANGEMENTS. Department of the East. The Arrangements of the Common Council.",
-          "summary": "The remains of a deceased person were removed from Washington and transported to other cities, where they were received with solemn ceremonies and tributes. Preparations were made for a grand assembly and funeral procession in New York City.",
+          "summary": "The remains of a deceased leader were removed from Washington and transported to other cities, where they were met with emotional scenes and preparations for a grand funeral procession. The president made a statement about his future policy during this time.",
           "image": null,
           "url": "https://www.nytimes.com/1865/04/22/archives/the-obsequies-removal-of-the-remains-from-washington-the-reception.html"
         },
         {
           "headline": "EUROPEAN NEWS.; THREE DAYS LATER BY THE CHINA. The Rebel Iron-Clad Stonewall Leaves Ferrol. She Declines a Fight With the Niagara and Sacramento and Returns to Port. IMPORTANT DEBATES IN PARLIAMENT. Significant Speeches by Earl Russell and Lord Palmerston. Peaceful Relations With the United States to be Maintained. The Protested Rebel Drafts to be Paid. Withdrawal by Mr. Seward of the Notice to Terminate the Treaty of 1817. Progress of the Preparations to Lay the Atlantic Cable. COMMERCIAL AND FINANCIAL. OUR PARIS CORRESPONDENCE. The late Duke de Morny The Alarm in Eng- land About a War with America Napoleon and Mexico Dr. Gwin's Schemes The Stonewall. AMERICAN TOPICS. THE REBEL RAM STONEWALL. THE ATLANTIC TELEGRAPH. PARLIAMENT. THE CANADIAN DEFENCES.",
-          "summary": "The rebel iron-clad ship Stonewall left the port of Ferrol and declined to engage in a fight with American ships, then returned to port. Meanwhile, in England, there were debates in Parliament about maintaining peaceful relations with the United States.",
+          "summary": "A rebel iron-clad ship called the Stonewall left the port of Ferrol but declined to fight with two other ships and returned to port. There were also important debates in parliament about maintaining peaceful relations with the United States.",
           "image": null,
           "url": "https://www.nytimes.com/1865/04/08/archives/european-news-three-days-later-by-the-china-the-rebel-ironclad.html"
         },
         {
           "headline": "MORE REBEL PLOTS IN CANADA; An Armed Expedition Ready to Sail from Toronto. The Scheme Detected and Frustrated. THE NOTORIOUS McDONALD CRIMINATED. A TORONTO COUNCILMAN IMPLICATED. Hand-Grenades, Greek Fire, Shells, &c., Ready for Shipment. The Feeling in Regard to the President's Death. ANOTHER REBEL PLOT IN CANADA. THE ASSASSINATION OF THE PRESIDENT AND MR. JUSTICE SMITH'S JUDGMENT ON THE RAIDERS. From the Montreal Herald. SINGULAR, IDEAS. From the Montreal Herald. THE GREAT MEETING IN MONTREAL. Cry of an Injured Innocent. FROM THE ARMY OF THE POTOMAC. Johnston's Army Demoralized--New Dispositions of our Troops. From Philadelphia. The Black Hawk Destroyed. Arrival of a French Man-of-War.",
-          "summary": "A plot by rebels to launch an armed expedition from Toronto was detected and frustrated, with several individuals implicated, including a Toronto councilman. The plot was thwarted, and the would-be perpetrators were stopped from shipping weapons and explosives.",
+          "summary": "An armed expedition from Toronto was detected and frustrated, and several people were implicated in the plot, including a Toronto councilman. The plot was related to the death of the president and other rebel activities in Canada.",
           "image": null,
           "url": "https://www.nytimes.com/1865/04/23/archives/more-rebel-plots-in-canada-an-armed-expedition-ready-to-sail-from.html"
         },
         {
           "headline": "Gen. Sherman's Army Moving.; Transfer of the Examining Board for Officers of Colored Regiments to Richmond Recruiting Officers for Colored Troops Sent There.",
-          "summary": "General Sherman's army is on the move, and an examining board for officers of colored regiments has been transferred to Richmond, where recruiting efforts for colored troops are also underway.",
+          "summary": "General Sherman's army is on the move, and an examining board for officers of colored regiments has been transferred to Richmond, where recruiting officers for colored troops have also been sent.",
           "image": null,
           "url": "https://www.nytimes.com/1865/04/06/archives/gen-shermans-army-moving-transfer-of-the-examining-board-for.html"
         }
       ],
-      "blurb": "President Abraham Lincoln's remains were removed from Washington and transported to other cities, where they were received with solemn ceremonies. The funeral procession was prepared in New York City. General Sherman's army was on the move, transferring an examining board to Richmond.",
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/1280px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+        "title": "Abraham Lincoln"
+      },
+      "blurb": "The president's remains were removed from Washington and transported to other cities. Emotional scenes and preparations for a grand funeral procession ensued. The president's successor made a statement about his future policy during this time.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.401
@@ -93,23 +105,29 @@
         },
         {
           "headline": "THE MINERS PROPOSE A NEW ARBITRATION; Would Let Judge Gray and Conciliation Board Adjudicate. OPERATORS DELAY ANSWER Will Think It Over and Reply on Monday -- But They Issue an Unconciliatory Statement. THE MINERS PROPOSE A NEW ARBITRATION",
-          "summary": "Miners have proposed a new arbitration plan to resolve the anthracite coal difficulties, which would involve a conciliation board led by a chairman and umpire, but the operators have not yet agreed to the plan. The operators have expressed that they are not in a conciliatory mood and consider some of the miners' demands inadmissible.",
+          "summary": "Miners have proposed a new arbitration plan to resolve the anthracite coal difficulties, which would involve a conciliation board led by a judge, but the operators have not yet agreed to it. The operators have issued a statement indicating they are not in a conciliatory mood and consider some of the miners' demands unacceptable.",
           "image": null,
           "url": "https://www.nytimes.com/1906/04/06/archives/the-miners-propose-a-new-arbitration-would-let-judge-gray-and.html"
         },
         {
           "headline": "BAILEY ROUTS SPOONER AND KNOX ON RATE BILL; Shows They Misled the Senate as to the Law. HALE INDORSES HIS VIEWS Agrees That Congress Has Power to Control All Federal Courts Except the Supreme Court. BAILEY ROUTS SPOONER AND KNOX ON RATE BILL",
-          "summary": "Bailey accused Spooner and Knox of misleading the Senate regarding the law on a rate bill, and his views were supported by Hale, who agreed that Congress has the power to control federal courts except the Supreme Court.",
+          "summary": "Bailey accused Spooner and Knox of misleading the Senate regarding the law on a rate bill, and his views were supported by Hale, who agreed that Congress has the power to control federal courts except the Supreme Court. Bailey's argument challenged the positions of Spooner and Knox on the bill.",
           "image": null,
           "url": "https://www.nytimes.com/1906/04/11/archives/bailey-routs-spooner-and-knox-on-rate-bill-shows-they-misled-the.html"
         },
         {
           "headline": "BRITISH IMPERIALISM.; A Frenchman's View of Mr. Joseph Chamberlain's Fiscal Policy -- Victor Berard's Entertaining Book.*",
-          "summary": "A Frenchman, Victor Berard, wrote a book about his perspective on British imperialism and commercial supremacy, specifically addressing Joseph Chamberlain's fiscal policy.",
+          "summary": "A Frenchman, Victor Berard, has written a book about British imperialism and commercial supremacy, offering his perspective on the fiscal policy of Joseph Chamberlain.",
           "image": null,
           "url": "https://www.nytimes.com/1906/04/14/archives/british-imperialism-a-frenchmans-view-of-mr-joseph-chamberlains.html"
         }
       ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/1280px-Post-and-Grant-Avenue-Look.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+        "title": "1906 San Francisco earthquake"
+      },
       "blurb": "The San Francisco earthquake devastated the city, killing over 500 people and leaving 50,000 homeless. Federal troops and militia guarded the city, maintaining order amidst the destruction. The disaster caused $200 million in damage, with nearly half of the city in ruins.",
       "ranking": {
         "mode": "topic-clusters",

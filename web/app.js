@@ -30,8 +30,6 @@
     return h.length > 110 ? h.slice(0, 107).trimEnd() + "…" : h;
   }
 
-  const imagesOf = (round) => round.stories.map((s) => s.image).filter(Boolean);
-
   function setScoreboard() {
     scoreboard.hidden = false;
     roundPill.textContent = `Round ${state.round + 1} / ${state.puzzle.rounds.length}`;
@@ -123,11 +121,14 @@
       `<li><a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">
         ${escapeHtml(displayHeadline(s.headline))}</a></li>`).join("");
 
-    // Show an image not already used on the play screen, if any.
-    const imgs = imagesOf(round);
-    const extra = imgs[2] || imgs[0];
-    const imageBlock = extra ?
-      `<img class="reveal-image" src="${escapeHtml(extra)}" alt="" loading="lazy" />` : "";
+    // Reveal-screen image: NYT photo (recent era) or Wikimedia (older era).
+    const ri = round.reveal_image;
+    const imageBlock = ri && ri.url ? `
+      <figure class="reveal-figure">
+        <img class="reveal-image" src="${escapeHtml(ri.url)}" alt="" loading="lazy" />
+        <figcaption>Image: ${escapeHtml(ri.source || "")}${
+          ri.title ? ` — ${escapeHtml(ri.title)}` : ""}</figcaption>
+      </figure>` : "";
 
     app.innerHTML = `
       <section class="screen reveal">

@@ -220,9 +220,12 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 
 **Game-design catch:** a real photo would often **leak the answer** on the play screen. Because only recent articles have photos, *any* image signals "recent decade," and a recognizable event shot (moon landing, Titanic) gives the date away outright.
 
-**Decision: the newspaper front page IS the picture.** Each round's stories render as a styled vintage NYT front page — masthead, **redacted dateline** (no real date in the DOM), a prominent lead story, and columned secondary stories on aged paper. This is visually rich, works identically in **1851 and 2019**, never leaks the date, and is perfectly on-theme. Real NYT photos may later appear on the **reveal** screen (post-guess, when available) where leaking no longer matters.
+**Decision: the newspaper front page IS the play-screen picture.** Each round's stories render as a styled vintage NYT front page — masthead, **redacted dateline** (no real date in the DOM), a prominent lead story, and columned secondary stories on aged paper. This is visually rich, works identically in **1851 and 2019**, never leaks the date, and is perfectly on-theme.
 
-**Later option (backlog):** pull period event photos from **Wikimedia Commons** (free-licensed) for older eras — richer coverage, but adds entity-matching complexity, risks wrong/misleading images, and can make guessing too easy. Parked, not in v1.
+**Reveal-screen images — DECIDED & built (full-era coverage):** the post-guess reveal screen shows one image per round, so leaking the era no longer matters:
+- **Recent era (~2000+):** the lead story's NYT photo.
+- **Older era:** a free-licensed image from **Wikimedia Commons** (`pipeline/wikimedia.py`), found by searching the lead story's topic/headline **plus the year** (safe to use — it's pre-generation, server-side). Results are disk-cached and attributed in the UI ("Image: Wikimedia Commons — <title>").
+- *Validated:* exact matches for Titanic, 1906 SF earthquake, Apollo 11, Lincoln assassination, Emergency Banking Act. **Matching is imperfect** (~5/6 in testing; e.g. an 1863 Fort Wagner round mis-matched to "Senate elections"). **Refinement (later):** when the topic-keyword query yields a weak match, fall back to the headline's lead deck; optionally validate relevance.
 
 ---
 
@@ -266,6 +269,8 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 - Spoiler-free share.
 - Full 1851–2019 guess range; 3 random pairs/day, no repeat in a rolling 14 days, deterministic per ET date (§6.4).
 - LLM-generated "this month in history" blurb via Groq (§6.5).
+- LLM-clarified, plain-English story descriptions (Groq), year never leaked (§6.5/play screen).
+- Reveal-screen images across all eras: NYT photo (recent) or Wikimedia Commons (older) (§6.7).
 - Client-side answers, Wordle-style (§8).
 - Responsive web.
 
@@ -277,8 +282,7 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 - Hints (reveal a section name, a decade nudge) — *possibly with a scoring penalty*.
 - Richer share image card.
 - Blend headline-richness into cluster ranking for the noisy partial-keyword era (~1900–1930) (§6.3).
-- **Wikimedia Commons historical photos** for older-era imagery (§6.7) — richer pictures across the full range; deferred for matching complexity / leak risk.
-- **Real NYT photos on the reveal screen** for recent-era puzzles (~2000+), where leaking the date no longer matters (§6.7).
+- **Reveal-image matching refinement** (§6.7) — fall back from topic-keyword to headline-deck query when Wikimedia returns a weak match; optionally validate relevance. *(Wikimedia reveal images themselves are built.)*
 - **Display-headline cleanup:** `headline.main` for older articles is a long run-on of every deck, and sometimes kicker-first (e.g. "EFFECTIVE THIS MORNING; …" instead of "2-DAY BANK HOLIDAY…"). Derive a concise display headline for the play screen (the pipeline currently passes the raw `headline.main`).
 
 ---
