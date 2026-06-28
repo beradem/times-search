@@ -129,8 +129,7 @@ main {
   text-align: left;
   font-size: 0.97rem;
   color: #322c21;
-  margin: 0 auto;
-  max-width: 46ch; /* tidy single-column standfirst; no awkward 2-col gap */
+  margin: 0; /* full content width, left-aligned to match the columns below */
 }
 
 .paper-columns { display: grid; grid-template-columns: 1fr; }
