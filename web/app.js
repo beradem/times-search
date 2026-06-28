@@ -36,6 +36,48 @@
     scoreTotalEl.textContent = state.total.toLocaleString();
   }
 
+  // Animate a number counting up (eases out). Ends on the exact value.
+  function countUp(el, to, prefix = "", dur = 650) {
+    const start = performance.now();
+    (function tick(now) {
+      const t = Math.min((now - start) / dur, 1);
+      el.textContent = prefix + Math.round(to * (1 - Math.pow(1 - t, 3)));
+      if (t < 1) requestAnimationFrame(tick);
+    })(start);
+  }
+
+  // ---- home screen ----
+  function renderHome() {
+    scoreboard.hidden = true;
+    app.innerHTML = `
+      <section class="screen home">
+        <div class="home-nameplate">
+          <div class="home-rule"></div>
+          <h1 class="home-title">The Times</h1>
+          <p class="home-subtitle">Search &middot; a daily history game</p>
+          <div class="home-rule"></div>
+        </div>
+        <p class="home-tagline">Four real front-page stories from a single month, somewhere since 1851. Name it.</p>
+        <ol class="howto">
+          <li><span class="howto-n">1</span><span>Read the front page — four real New York Times stories, all from one month.</span></li>
+          <li><span class="howto-n">2</span><span>Guess the <strong>month and year</strong> they ran.</span></li>
+          <li><span class="howto-n">3</span><span>The closer you are, the higher your score. Three editions a day.</span></li>
+        </ol>
+        <div class="editors-note">
+          <h2>Editor&rsquo;s Note</h2>
+          <p>Every front page is a fingerprint of its moment. A country at war reads
+          nothing like a country at the movies; a breathless dispatch about the wireless
+          could only have been set in one slim band of years. We hand you four stories
+          from a single month and ask the oldest question in any newsroom: <em>when?</em>
+          Don&rsquo;t hunt for dates — read the texture: the names in the air, the worries,
+          the things taken for granted. Trust it, and you&rsquo;ll land closer than you&rsquo;d
+          think. &mdash; <span class="signoff">The Editors</span></p>
+        </div>
+        <button id="play" class="primary">Play Today&rsquo;s Edition</button>
+      </section>`;
+    document.getElementById("play").addEventListener("click", startGame);
+  }
+
   // ---- play screen ----
   function renderPlay() {
     const round = state.puzzle.rounds[state.round];
@@ -84,7 +126,7 @@
             </label>
           </div>
           <p class="error" id="guess-error" hidden></p>
-          <button type="submit" class="primary">Submit Guess</button>
+          <button type="submit" class="primary">Go to Press</button>
         </form>
       </section>`;
 
@@ -133,11 +175,11 @@
     app.innerHTML = `
       <section class="screen reveal">
         <p class="reveal-eyebrow">These stories ran in&hellip;</p>
-        <p class="reveal-date">${MONTHS[round.answer.month]} ${round.answer.year}</p>
+        <p class="reveal-date stamp">${MONTHS[round.answer.month]} ${round.answer.year}</p>
         <p class="reveal-verdict">
           <span class="verdict-main">${Scoring.errorLabel(r.err)}</span>
           <span class="verdict-tone">${Scoring.toneMessage(r.err)}</span>
-          <span class="verdict-points">+${r.points}</span>
+          <span class="verdict-points" id="vpoints">+0</span>
         </p>
         ${round.blurb ? `<p class="blurb">${escapeHtml(round.blurb)}</p>` : ""}
         ${imageBlock}
@@ -145,9 +187,10 @@
           <summary>The stories</summary>
           <ul class="links">${links}</ul>
         </details>
-        <button id="next" class="primary">${last ? "See Final Score" : "Next Round"}</button>
+        <button id="next" class="primary">${last ? "The Final Word" : "Next Edition"}</button>
       </section>`;
 
+    countUp(document.getElementById("vpoints"), r.points, "+");
     document.getElementById("next").addEventListener("click", () => {
       if (last) { renderResults(); } else { state.round += 1; renderPlay(); }
     });
@@ -193,8 +236,8 @@
 
     app.innerHTML = `
       <section class="screen results">
-        <h2>Thanks for playing!</h2>
-        <p class="final-score"><strong>${state.total.toLocaleString()}</strong>
+        <h2>That&rsquo;s the edition.</h2>
+        <p class="final-score"><strong id="ftotal">0</strong>
           <span>/ ${Scoring.maxTotal.toLocaleString()}</span></p>
         <p class="percentile">You were in the <strong>top ${topPct}%</strong> of players today
           <span class="stub-note">(demo estimate)</span></p>
@@ -208,7 +251,8 @@
         <p class="toast" id="toast" hidden></p>
       </section>`;
 
-    document.getElementById("home").addEventListener("click", reset);
+    countUp(document.getElementById("ftotal"), state.total, "", 850);
+    document.getElementById("home").addEventListener("click", renderHome);
     document.getElementById("share").addEventListener("click", share);
   }
 
@@ -234,21 +278,22 @@
     setTimeout(() => { t.hidden = true; }, 2500);
   }
 
-  function reset() {
+  function startGame() {
     state.round = 0; state.results = []; state.total = 0;
     renderPlay();
   }
 
   // ---- boot ----
   async function init() {
+    app.innerHTML = `<section class="screen loading"><p>Setting the type&hellip;</p></section>`;
     try {
       const res = await fetch(PUZZLE_URL, { cache: "no-store" });
       if (!res.ok) throw new Error("HTTP " + res.status);
       state.puzzle = await res.json();
-      renderPlay();
+      renderHome();
     } catch (e) {
       app.innerHTML = `<section class="screen error">
-        <h2>Couldn't load today's puzzle</h2>
+        <h2>Couldn&rsquo;t load today&rsquo;s edition</h2>
         <p>${escapeHtml(String(e))}</p>
         <p class="hint">Serve from the repo root: <code>python3 -m http.server</code>,
           then open <code>/web/</code>.</p></section>`;

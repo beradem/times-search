@@ -21,13 +21,14 @@
     return Math.round(MAX_POINTS * Math.pow(0.5, err / HALF_LIFE));
   }
 
-  // Tone copy shown on the reveal screen (PRD §5.3).
+  // Tone copy shown on the reveal screen (PRD §5.3). Voiced, magnitude-based.
   function toneMessage(err) {
-    if (err === 0) return "Bullseye.";
-    if (err <= 3) return "So close!";
-    if (err <= 12) return "Close.";
-    if (err <= 36) return "Nice try.";
-    return "Way off.";
+    if (err === 0) return "Bullseye — stop the presses.";
+    if (err <= 3) return "Practically the same edition.";
+    if (err <= 12) return "Right era, wrong season.";
+    if (err <= 36) return "A few years adrift.";
+    if (err <= 120) return "Wrong decade, friend.";
+    return "Off by a generation.";
   }
 
   // "X months off" -> human string ("Exact!", "3 months off", "2 years off").

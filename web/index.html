@@ -3,13 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Times Search</title>
+  <title>Times Search — date the front page</title>
+  <meta name="description" content="A daily history game: read four real New York Times front-page stories and guess the month and year they ran." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="masthead">
     <div class="masthead-inner">
-      <h1 class="wordmark">Times Search</h1>
+      <a class="wordmark" href="./">Times Search</a>
       <div class="scoreboard" id="scoreboard" hidden>
         <span class="round-pill" id="round-pill"></span>
         <span class="score-pill">Score <strong id="score-total">0</strong></span>
@@ -20,7 +25,8 @@
   <main id="app" aria-live="polite"><!-- screens render here --></main>
 
   <footer class="colophon">
-    Stories from <span>The New York Times</span> Archive · a history guessing game
+    All the News That&rsquo;s Fit to Guess · stories from the
+    <span>New York Times</span> Archive
   </footer>
 
   <script src="scoring.js"></script>
