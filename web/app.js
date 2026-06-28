@@ -68,8 +68,7 @@
           <p>Every front page is a fingerprint of its moment. A country at war doesn&rsquo;t
           read like a country at peace. We give you four stories and want you to think:
           <em>when?</em> What is the feeling? Read and process to show your touch and
-          understanding of history, and the lens we see it through. &mdash;
-          <span class="signoff">The Editors</span></p>
+          understanding of history, and the lens we see it through.</p>
         </div>
         <button id="play" class="primary">Play Today&rsquo;s Edition</button>
       </section>`;
