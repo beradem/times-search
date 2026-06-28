@@ -54,6 +54,7 @@ body {
   text-decoration: none;
 }
 .scoreboard { display: flex; gap: 0.5rem; align-items: center; font-family: var(--sans); }
+.scoreboard[hidden] { display: none; } /* let the `hidden` attr win over display:flex */
 .round-pill, .score-pill {
   font-size: 0.72rem;
   text-transform: uppercase;
