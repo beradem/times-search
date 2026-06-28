@@ -129,7 +129,8 @@ main {
   text-align: left;
   font-size: 0.97rem;
   color: #322c21;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 46ch; /* tidy single-column standfirst; no awkward 2-col gap */
 }
 
 .paper-columns { display: grid; grid-template-columns: 1fr; }
@@ -138,7 +139,6 @@ main {
 .col p { font-size: 0.86rem; color: #45402f; margin: 0; }
 
 @media (min-width: 560px) {
-  .lead p { column-count: 2; column-gap: 1.4rem; }
   .paper-columns { grid-template-columns: repeat(3, 1fr); }
   .col { padding: 0.1rem 0.85rem; border-top: none; border-left: 1px solid var(--paper-rule); }
   .col:first-child { border-left: none; padding-left: 0; }
