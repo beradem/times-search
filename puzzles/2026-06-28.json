@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T16:26:20.965574+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1969,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "NIXON PLANS CUT IN MILITARY ROLE FOR U.S. IN ASIA; Starting Tour, He Promises Respect for Commitments, but Under New Forms ARRIVES IN PHILIPPINES President, at Guam, Asserts Nation Won't Be Drawn Into More Vietnams President Nixon Declares That U.S. Will Reduce Its Military Commitments in Asia POLICIES OUTLINED AT START OF TOUR He Says Nation Will Not Be Drawn Into Future Wars Like That in Vietnam",
+          "summary": "Nixon says he may order reduction in mil operations in S Vietnam if it would help negotiations to end war, news conf, Guam; favors summit meeting with USSR in search for end of war, but doubts USSR would work for settlement in pub forum; concedes many Amers are frustrated with war and want reduction in US commitment",
+          "image": null,
+          "url": "https://www.nytimes.com/1969/07/26/archives/nixon-plans-cut-in-military-role-for-us-in-asia-starting-tour-he.html"
+        },
+        {
+          "headline": "ASTRONAUTS SPEEDING TOWARD THE MOON; FIRST DAY OF APOLLO FLIGHT IS FLAWLESS; NIXON ASKS FOR NATIONAL HOLIDAY MONDAY; CRAFT ON TARGET World Watches Start of Man's Attempt to Achieve Landing Astronauts Speeding Toward the Moon; First Day of Apollo 11 Flight Is Flawless World Watches the Start Of Attempt for a Landing",
+          "summary": "CAPE KENNEDY, Fla., Thursday, July 17 -- Three American astronauts commissioned to fulfill an age-old dream and a national goal of the decade were streaking across the black sea of space today in man's first attempt to walk on another world -- the moon.",
+          "image": null,
+          "url": "https://www.nytimes.com/1969/07/17/archives/astronauts-speeding-toward-the-moon-first-day-of-apollo-flight-is.html"
+        },
+        {
+          "headline": "PRESIDENT WARNS OF 'MASSIVE CRISIS' IN HEALTH CARE; He and Aides Call Upon the Private Sector to Assist in Revamping System MEDICAID IS CRITICIZED Three Panels Being Set Up to Search for Solutions and Medical Personnel President Warns Against Crisis In Health Care; Calls for Help",
+          "summary": "Nixon Adm announces program to train returning med corpsmen for civilian med careers",
+          "image": null,
+          "url": "https://www.nytimes.com/1969/07/11/archives/president-warns-of-massive-crisis-in-health-care-he-and-aides-call.html"
+        },
+        {
+          "headline": "SENATE HEARINGS ON TAX REFORMS WILL DELAY BILL; Long of Finance Committee Bids Colleagues Submit Proposals by July 18 AN APPEAL BY TREASURY Secretary Kennedy Calls for Early Surtax Extension -- Stresses Inflation Peril Senate Hearings on Reforms Will Delay Action on Bill to Extend Income Tax Surcharge",
+          "summary": "final extension seen unlikely until autumn as Sen R B Long sets open hearings on reforms to be tied to bill; Long favors further extensions of present withholding rates to avoid adm chaos; says he expects Sen to vote 'less revenue' than is provided in HR-passed bill, TV int; Kennedy appeals to Sen com to pass surcharge now, reforms later; warns that if surcharge is not extended and anti-inflationary efforts fail, Govt would have to consider wage and price controls and controls allocating credit; calls consequences of failure to extend tax 'unthinkable'; holds delay spurs inflation; urges com to make less liberal bill provision providing for rapid depreciation of pollution abatement equipment; Sen Mansfield says he will not call bill to Sen floor before reform pkg is ready for action; Repr Ford, after meeting with Nixon, says Nixon feels that those responsible for delay will be responsible for any ill effects on econ",
+          "image": null,
+          "url": "https://www.nytimes.com/1969/07/09/archives/senate-hearings-on-tax-reforms-will-delay-bill-long-of-finance.html"
+        }
+      ],
+      "blurb": "July 1969 was a month of significant developments in the United States, marked by President Nixon's efforts to reshape the country's role in Asia and address domestic issues. As Nixon toured Asia, he outlined plans to reduce the US military commitment in the region, while also making history back home with the launch of Apollo 11, the first mission to attempt a moon landing. Meanwhile, the President also sounded the alarm on a looming crisis in healthcare, calling for private sector assistance to revamp the system, amidst ongoing debates over tax reforms and inflation in Congress.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.581
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1945,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "POTSDAM TERMS ACCEPTED, DOMEI SAYS; An Imperial Message Is Forthcoming Soon,' Official News Agency Reports in Broadcast at 1:49 A.M. DISCLOSES LONG SESSION BY CABINET FCC Monitors Hear Code Dispatch Being Sent by Japanese to Switzerland--Washington Began to Suspect 'Stalling' Message to Switzerland Heard Cheering Greets Report in Guam Capital Awaited Reply All Day DOMEI ANNOUNCES FOE'S SURRENDER Japanese End Vigil Swiss Blame Japanese",
+          "summary": "all-day vigil cited",
+          "image": null,
+          "url": "https://www.nytimes.com/1945/08/14/archives/potsdam-terms-accepted-domei-says-an-imperial-message-is.html"
+        },
+        {
+          "headline": "100,000 LAID OFF IN WAR JOBS HERE AS CONTRACTS END; Orders Canceled Estimated at $100,000,000 as Plants Close for 'Inventory' SOME WILL BE RECALLED Belief Is Expressed That There Will Be Enough Work for All After Initial Curtailment Raw Materials Main Factor 100,000 LAID OFF IN WAR JOBS HERE To Be Notified Individually Other Plants Affected 10 Per Cent Layoff Expected Regional Director Hopeful 9,000 Out at Republic",
+          "summary": "cancellations estimated at $100 millions, NY met area; plants close for inventory; list",
+          "image": null,
+          "url": "https://www.nytimes.com/1945/08/18/archives/100000-laid-off-in-war-jobs-here-as-contracts-end-orders-canceled.html"
+        },
+        {
+          "headline": "LEND-LEASE HALTS; ALLIES' NEEDS PUT ON PURCHASE BASIS; Truman Ends War Measure, Inviting Nations Concerned to Negotiate for Goods WAY OPENED FOR LOANS Banks May Join in Financing-- Total Outlay $41,208,000,000, $5,500,000,000 Returned Missions Are Notified LEND-LEASE HALTS; ALLIES TO BUY NOW Lend-Lease Total Itemized Banks May Enter Picture",
+          "summary": "Truman orders lend-lease end; Allied govts notified to purchase goods contracted for in US, and to negotiate for mdse in stockpiles throughout world; Admr Crowley says financial aid must come from Export-Import Bank pending Cong action on govt loans",
+          "image": null,
+          "url": "https://www.nytimes.com/1945/08/22/archives/lendlease-halts-allies-needs-put-on-purchase-basis-truman-ends-war.html"
+        },
+        {
+          "headline": "WPB READY TO ACT; Snyder Said to Sanction Wide Program to Start as Soon as War Ends RATION SHIFTS LOOM Agencies Rush to Map Future Work as Many Face Liquidation Plan Classed as \"Sound\" Gasoline Food Manpower Controls Price Controls WPB Master Reconversion Plan Is Reported Approved by Snyder Transportation Price Agency Ready to Quit Questions Raised Over OWI. Maverick Sees Control Need Many Civilian Bans Affected",
+          "summary": "To close on Jap war end",
+          "image": null,
+          "url": "https://www.nytimes.com/1945/08/11/archives/wpb-ready-to-act-snyder-said-to-sanction-wide-program-to-start-as.html"
+        }
+      ],
+      "blurb": "As August 1945 drew to a close, the world was on the cusp of a new era, with Japan's acceptance of the Potsdam terms paving the way for surrender and an end to World War II. Meanwhile, the US was already shifting its focus to post-war reconstruction, with the termination of the Lend-Lease program and the laying off of 100,000 war industry workers as contracts came to an end. The War Production Board was also gearing up for a wide-scale reconversion program to help the country transition back to peacetime operations.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1933,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "EFFECTIVE THIS MORNING; Governor Acts After an All-Night Conference With Banking Heads. PERIOD INCLUDES MONDAY All Banks and the Securities Markets Are Affected by Emergency Decree. ILLINOIS TAKES STEP, TOO Period of Closing There Is Put at Three Days -- Pederal Officials in Conferences. 2-DAY BANK HOLIDAY IS LEHMAN'S ORDER",
+          "summary": "Invokes 60-day clause on withdrawals",
+          "image": null,
+          "url": "https://www.nytimes.com/1933/03/04/archives/effective-this-morning-governor-acts-after-an-allnight-conference.html"
+        },
+        {
+          "headline": "ROOSEVELT WILL GO TO CAPITAL TODAY FOR INAUGURATION; Confers With Woodin on Banks and May Alter That Phase of His Message. GREETED BY CITY CROWDS Rides in From Hyde Park to Pack Up -- Daniels and Dern Call on Him. READY TO SEE GOVERNORS Speech March 6 to Stress Vital Issues -- Names Howe, Mclntyre and Early as His Secretaries. ROOSEVELT TO GO TO CAPITAL TODAY PRESIDENT-ELECT QUITS HIS COUNTRY HOME FOR THE WHITE HOUSE.",
+          "summary": "Roosevelt inauguration plans",
+          "image": null,
+          "url": "https://www.nytimes.com/1933/03/02/archives/roosevelt-will-go-to-capital-today-for-inauguration-confers-with.html"
+        },
+        {
+          "headline": "REICH REGIME SPLIT ON PRUSSIAN RULE; PAPEN HOLDS POWER; Choice of Premier Put Off Till May 2 at Latest as He and Goering Vie for Post. DIET HOLDS FIRST SESSION Nationalist Counters Eulogy of Hitler With Appeal for Return of Hohenzollerns. NO MORE RAIDS REPORTED Hope That Persecution of Jews Has Ended Rises in Paris as Exodus Declines. Meeting of Prussian Diet. CABINET IS SPLIT ON PRUSSIAN RULE",
+          "summary": "Prussian Diet votes approval of ousting of Prussian Cabinet and Govt by Reich comrs; Von Papen and Goering vie for Premiership; F von Winterfeld cites hope for return of Hohenzollerns",
+          "image": null,
+          "url": "https://www.nytimes.com/1933/03/23/archives/reich-regime-split-on-prussian-rule-papen-holds-power-choice-of.html"
+        },
+        {
+          "headline": "M'DONALD PROPOSES WORLD ARMS CUTS; LIMITS EFFECTIVES; British Premier Would Give France, Germany, Poland, Italy Parity in Home Forces. 7 POWERS EQUALS IN AIR Proposals Restrict Big Guns and Tanks and Provide Navy Parley in 1935. NEUTRALITY IS OPPOSED Prime Minister, in Pleading for His Five-Year Treaty, Warns Peace Is at Stake in Conference. M'DONALD PROPOSES WORLD ARMS CUTS",
+          "summary": "conf; s at disarmament conf",
+          "image": null,
+          "url": "https://www.nytimes.com/1933/03/17/archives/mdonald-proposes-world-arms-cuts-limits-effectives-british-premier.html"
+        }
+      ],
+      "blurb": "This month in history, March 1933, the global economy was in turmoil, with the US banking system grinding to a halt due to an emergency decree that closed all banks and securities markets. Meanwhile, in Europe, the newly-formed Reich regime in Germany was experiencing internal power struggles, with key figures like Papen and Goering vying for control. Against this backdrop of economic and political instability, world leaders were gathering to discuss disarmament, with British Premier McDonald proposing significant cuts to arms and advocating for international cooperation to preserve peace.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.691
+      }
+    }
+  ]
+}
