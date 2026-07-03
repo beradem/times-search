@@ -128,28 +128,50 @@ def rank_month(docs):
 
 
 def _rank_by_clusters(docs, kw_freq, n):
-    generic = {k for k, c in kw_freq.items()
-               if c / n > GENERIC_DF or k.lower() in STOP_KEYWORDS}
+    # Front-page frequency per keyword — the clearest importance signal, since
+    # editors put the month's biggest stories on page 1.
+    fp_freq = Counter()
+    for d in docs:
+        if as_int(d.get("print_page")) == 1:
+            for k in d.get("keywords") or []:
+                if k.get("value"):
+                    fp_freq[k["value"]] += 1
+
+    def is_generic(k):
+        # Hard stopwords are always noise. Otherwise a very common keyword is
+        # only generic if it barely touches the front page; one that DOMINATES
+        # page 1 is the month's lead (e.g. an election), so keep it — this is
+        # what stops a niche book review out-ranking the real news.
+        if k.lower() in STOP_KEYWORDS:
+            return True
+        return kw_freq[k] / n > GENERIC_DF and fp_freq[k] < 3
+
     clusters = {}
     for d in _candidate_docs(docs):
         page = as_int(d.get("print_page"))
         kws = [k.get("value") for k in (d.get("keywords") or []) if k.get("value")]
-        specific = [k for k in kws if k not in generic]
-        topic = max(specific, key=lambda v: kw_freq[v]) if specific else None
+        specific = [k for k in kws if not is_generic(k)]
+        # Topic = the article's keyword that most dominates the front page.
+        topic = (max(specific, key=lambda v: (fp_freq[v], kw_freq[v]))
+                 if specific else None)
         key = topic or f"_solo:{(d.get('headline') or {}).get('main')}"
         clusters.setdefault(key, {"docs": [], "topic": topic})["docs"].append((d, page))
 
     reps = []
     for c in clusters.values():
-        # Representative: strongest front page, then richest headline.
         doc, page = max(c["docs"],
                         key=lambda dp: (front_weight(dp[1]),
                                         len((dp[0].get("headline") or {}).get("main") or "")))
-        coverage = kw_freq[c["topic"]] if c["topic"] else 0
-        reps.append((coverage, page, _story(doc, page, c["topic"], len(c["docs"]))))
+        topic = c["topic"]
+        fp = fp_freq[topic] if topic else (1 if page == 1 else 0)
+        cov = kw_freq[topic] if topic else 0
+        story = _story(doc, page, topic, len(c["docs"]))
+        # Rank by front-page presence, then coverage, then front weight, then
+        # headline richness (helps sparse old months with few keywords).
+        reps.append(((fp, cov, front_weight(page), story["_richness"]), story))
 
-    reps.sort(key=lambda r: (r[0], front_weight(r[1])), reverse=True)
-    return [r[2] for r in reps[:4]]
+    reps.sort(key=lambda r: r[0], reverse=True)
+    return [r[1] for r in reps[:4]]
 
 
 def _rank_by_headline(docs):

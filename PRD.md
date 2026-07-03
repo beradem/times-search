@@ -282,9 +282,9 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 - Archive/practice mode (play past days).
 - Hints (reveal a section name, a decade nudge) — *possibly with a scoring penalty*.
 - Richer share image card.
-- Blend headline-richness into cluster ranking for the noisy partial-keyword era (~1900–1930) (§6.3).
 - **Reveal-image matching refinement** (§6.7) — fall back from topic-keyword to headline-deck query when Wikimedia returns a weak match; optionally validate relevance. *(Wikimedia reveal images themselves are built.)*
-- **Display-headline cleanup:** `headline.main` for older articles is a long run-on of every deck, and sometimes kicker-first (e.g. "EFFECTIVE THIS MORNING; …" instead of "2-DAY BANK HOLIDAY…"). Derive a concise display headline for the play screen (the pipeline currently passes the raw `headline.main`).
+- ~~Ranking: front-page weighting~~ — **done**. Topics are ranked by front-page presence and high-frequency keywords that dominate page 1 are kept, so the real lead wins (fixed Nov 2016 → Trump transition over a Twilight book; 1894 → real news over a Pusey book review; 1969 → Apollo leads). *Remaining nit:* some soft/celebrity secondaries can still surface in busy modern months.
+- ~~Display-headline cleanup~~ — **done**. Front-end collapses multi-deck run-ons: all-caps deck stacks reduce to the first deck, trailing all-caps decks are dropped, modern title-case headlines untouched.
 
 ---
 

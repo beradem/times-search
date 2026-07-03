@@ -40,14 +40,25 @@
   const escapeHtml = (s) => (s || "").replace(/[&<>"']/g, (c) => (
     { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-  // Old headline.main is a long, multi-deck run-on (sometimes kicker-first).
-  // Show a concise display headline. (Proper fix tracked in PRD backlog.)
+  // Old NYT headlines are long, multi-deck run-ons. Collapse to a concise,
+  // readable headline.
   function displayHeadline(raw) {
     if (!raw) return "(untitled)";
-    const parts = raw.split(";").map((s) => s.trim()).filter(Boolean);
-    let h = parts[0] || raw;
-    if (h.length < 25 && parts[1]) h += "; " + parts[1];
-    return h.length > 110 ? h.slice(0, 107).trimEnd() + "…" : h;
+    let h = raw.replace(/\s+/g, " ").trim();
+    const semi = h.indexOf(";");
+    if (semi > 0 && /^\s*[A-Z][A-Z'’&.\-]+\s+[A-Z]/.test(h.slice(semi + 1))) {
+      // A stack of ALL-CAPS decks ("HOUSE VOTES PEACE; SENATE AND HARDING…") —
+      // keep only the first deck.
+      h = h.slice(0, semi);
+    } else {
+      // A kicker + Title-Case subhead with trailing ALL-CAPS decks
+      // ("…Esmeralda. WILSON BARRETT AS A ROMAN…") — drop the trailing decks.
+      // Cut at a sentence break followed by 2+ caps words (not after "U.S.").
+      const m = h.match(/[^A-Z][.;]\s+[A-Z][A-Z'’&.\-]+\s+[A-Z][A-Z'’&.\-]+/);
+      if (m && m.index > 18) h = h.slice(0, m.index + 2).trim();
+    }
+    if (h.length > 92) h = h.slice(0, 90).replace(/[\s,;:.\-–—]+\S*$/, "") + "…";
+    return h.replace(/[;,]\s*$/, "");
   }
 
   function setScoreboard() {

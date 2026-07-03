@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T19:16:00.739509+00:00",
+  "generated_at": "2026-07-03T19:44:21.056354+00:00",
   "rounds": [
     {
       "round": 1,
@@ -10,37 +10,37 @@
       },
       "stories": [
         {
+          "headline": "FALLEN STAR: THE MANAGERS -- An Alchemist Who Turned Gold Into Lead; Financial Wizard Done In By His Smoke and Mirrors",
+          "summary": "A private hedge fund called Long-Term Capital Management, founded by John W Meriwether, is at the center of a $90 billion financial crisis that led to a $3.5 billion bailout. The bailout was orchestrated by the Federal Reserve Bank of New York and gave the participating banks control of 90 percent of Meriwether's company.",
+          "image": null,
+          "url": "https://www.nytimes.com/1998/09/25/business/fallen-star-managers-alchemist-who-turned-gold-into-lead-financial-wizard-done.html"
+        },
+        {
           "headline": "The Nation: Shadow Play -- Washington's Gears, Grinding; Surprise: Government's Not Necessarily Paralyzed",
-          "summary": "The US government is still functioning despite the president's personal issues, but these problems are making it hard for the administration to focus on important policy decisions. Some officials are having trouble getting the president's attention due to these distractions.",
+          "summary": "Despite the government's focus on the President's problems, the machinery of government and policy making has continued to function, but Congressional moves towards impeachment may hinder efforts to address major issues. Some officials are finding it difficult to get the attention of the President or his top aides.",
           "image": null,
           "url": "https://www.nytimes.com/1998/09/20/weekinreview/nation-shadow-play-washington-s-gears-grinding-surprise-government-s-not.html"
         },
         {
           "headline": "Sports of The Times: A Sport Is Reborn -- The Home Run, America's Signature Feat, Invigorates Baseball; September's Aura Restored to Fans",
-          "summary": "The home run record is being challenged by two baseball players, which has brought new excitement to the sport and restored fan interest. This development is being seen as a rebirth for baseball.",
+          "summary": "The pursuit of the single-season home run record by Mark McGwire and Sammy Sosa has revitalized interest in baseball, with the two players closing in on Roger Maris's record of 61 home runs.",
           "image": null,
           "url": "https://www.nytimes.com/1998/09/04/sports/sports-times-sport-reborn-home-run-america-s-signature-feat-invigorates-baseball.html"
         },
         {
-          "headline": "THE 1998 CAMPAIGN: The Schumer Record; Schumer Viewed as Relentless, Ambitious Legislator",
-          "summary": "A US Representative named Charles E Schumer is running in the Democratic primary for the United States Senate, and his campaign is being examined in a series of articles. Schumer is viewed as a driven and ambitious legislator.",
+          "headline": "When Lending Money Just Isn't Enough; Critics Seek a New Role for the I.M.F. As Recent Bailout Programs Fall Short",
+          "summary": "The International Monetary Fund is facing criticism and calls for reform as its recent bailout programs have been unsuccessful, depleting its reserves due to costly bailouts of countries affected by the Asian crisis and Russia.",
           "image": null,
-          "url": "https://www.nytimes.com/1998/09/11/nyregion/1998-campaign-schumer-record-schumer-viewed-relentless-ambitious-legislator.html"
-        },
-        {
-          "headline": "Talking the Tawk; New Yorkers Are Sounding More Like Everybody Else. Is It Curtains for the Accent People Love to Hate?",
-          "summary": "The distinctive New York accent is losing some of its unique characteristics and sounding more like accents from other parts of the country. This change is happening due to increased mobility, immigration, and mass communication, which are reducing regional variations in speech across America.",
-          "image": null,
-          "url": "https://www.nytimes.com/1998/09/20/nyregion/talking-tawk-new-yorkers-are-sounding-more-like-everybody-else-it-curtains-for.html"
+          "url": "https://www.nytimes.com/1998/09/30/business/when-lending-money-just-isn-t-enough-critics-seek-new-role-for-imf-recent.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/1280px-Greater_coat_of_arms_of_the_United_States.svg.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Biographical_Directory_of_the_United_States_Congress.png",
         "source": "Wikimedia Commons",
-        "page": "https://en.wikipedia.org/wiki/Politics_of_the_United_States",
-        "title": "Politics of the United States"
+        "page": "https://en.wikipedia.org/wiki/Biographical_Directory_of_the_United_States_Congress",
+        "title": "Biographical Directory of the United States Congress"
       },
-      "blurb": "The US government continued functioning despite the president's personal issues, which hindered the administration's focus on policy decisions. Baseball experienced a rebirth as two players challenged the home run record, restoring fan interest. Charles Schumer's legislative record was scrutinized during his Senate campaign.",
+      "blurb": "The Long-Term Capital Management crisis unfolded, prompting a $3.5 billion bailout. The Federal Reserve Bank of New York orchestrated the rescue, gaining control of the company. Meanwhile, Mark McGwire and Sammy Sosa pursued the home run record.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.925
@@ -54,37 +54,37 @@
       },
       "stories": [
         {
-          "headline": "NEW PUBLICATIONS; THE THIRD PUSEY VOLUME THE LIFE OF EDWARD BOUVERIE PUSEY, D D., Canon of Christ Church; Regius Professor of Hebrew in the University of Oxford. By Henry Parry Liddon, D.D., D.C.L., LL. D. Edited and prepared for publication by the Rev. J.O. Johnston, M.A., and the Rev. Robert J. Wilson, D.D. Vol. III. 1845-1858. New:York: Longmans, Green & Co. $4.50",
-          "summary": "A new biography about Edward Bouverie Pusey, written by H.P. Liddon, has been published. The book is the third volume in a series about Pusey's life.",
+          "headline": "SAME OLD SUGAR SENATE; Stands Doggedly by the Trust and Its Traditions. VOTES ON TARIFF AND CLOSURE The \"Pop-Gun\" Sugar Bill Practically Killed -- Vest's Motion for a Change of Rules Defeated. SAME OLD SUGAR SENATE",
+          "summary": "The Senate defeated a motion to consider a bill, and also rejected a proposal to change its rules. This decision effectively killed a sugar bill that was being considered.",
           "image": null,
-          "url": "https://www.nytimes.com/1894/12/28/archives/new-publications-the-third-pusey-volume-the-life-of-edward-bouverie.html"
-        },
-        {
-          "headline": "NEW THEATRICAL BILLS; Annie Russell Returns to Her First Character, Esmeralda. WILSON BARRETT AS A ROMAN FATHER \" The Amazons\" in View Again at the Lyceum Theatre and William Collier Has a Brand New Comic Play.",
-          "summary": "Annie Russell is performing as Esmeralda again, and other new plays are being shown at the Lyceum Theatre.",
-          "image": null,
-          "url": "https://www.nytimes.com/1894/12/18/archives/new-theatrical-bills-annie-russell-returns-to-her-first-character.html"
-        },
-        {
-          "headline": "ARMENIA AND DIPLOMACY; Lord Rosebery Diverts England's Attention and Criticism. FINANCES AND RUSSIAN ALLIANCE LOSS of a liberal Seat at Brigg Will Increase Ministerial Grief at Turkish Crime. ATTITUDE OF TRIPLE ALLIANCE NATIONS Vienna's Official Journals Express Disappointment in Insults -- Berlin Feeling.",
-          "summary": "There are concerns about England's diplomatic response to issues in Armenia, and the impact of recent election results on the government.",
-          "image": null,
-          "url": "https://www.nytimes.com/1894/12/09/archives/armenia-and-diplomacy-lord-rosebery-diverts-englands-attention-and.html"
+          "url": "https://www.nytimes.com/1894/12/13/archives/same-old-sugar-senate-stands-doggedly-by-the-trust-and-its.html"
         },
         {
           "headline": "BOND SYNDICATE ENDED; Sold One-fifth of the Fives, but Must Keep, Pro Rata, $19,500,000. MARKET DID NOT EXHIBIT EAGERNESS Bankers Talk of New Threes Against Two-Sevens and of a Better Market for the Fives Shortly.",
-          "summary": "A bond syndicate has been dissolved, and bankers are discussing the market for new bonds and criticizing the procedure used by Secretary Carlisle.",
+          "summary": "A bond syndicate has been dissolved after selling a portion of its bonds, but the members must still hold a significant amount of them. The syndicate's dissolution was accompanied by criticism of the government's handling of the situation.",
           "image": null,
           "url": "https://www.nytimes.com/1894/12/28/archives/bond-syndicate-ended-sold-onefifth-of-the-fives-but-must-keep-pro.html"
+        },
+        {
+          "headline": "ANOTHER MAN CONFESSES; Indicted Policeman Thorne Told Mr. Lindsay Everything. WHAT IT WAS NOT YET DIVULGED The Assistant District Attorney Says, However, That the Revelations Are Astounding -- To Go to the Grand Jury.",
+          "summary": "A man has confessed to wrongdoing, revealing surprising information that will be presented to a grand jury. The confession was made to a district attorney and is related to a case involving a suspended policeman.",
+          "image": null,
+          "url": "https://www.nytimes.com/1894/12/16/archives/another-man-confesses-indicted-policeman-thorne-told-mr-lindsay.html"
+        },
+        {
+          "headline": "WILL PAY ITS DIVIDEND; After All the Talk About the Sugar Industry Being Ruined. THE SUGAR TRUST'S DEVIOUS WAYS Speculators Had a Rare Chance for a Quick Turn -- Sales Reached 170,482 Shares -- Mr. Have- meyer's Statements.",
+          "summary": "The Sugar Trust will pay its dividend despite concerns about the state of the sugar industry. The company's president made a statement about the dividend, and there was significant activity in the stock market as a result.",
+          "image": null,
+          "url": "https://www.nytimes.com/1894/12/06/archives/will-pay-its-dividend-after-all-the-talk-about-the-sugar-industry.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fairy_Tales_%28Boston_Public_Library%29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/1894-95_Senate_Map.svg/1280px-1894-95_Senate_Map.svg.png",
         "source": "Wikimedia Commons",
-        "page": "https://en.wikipedia.org/wiki/Children%27s_literature",
-        "title": "Children's literature"
+        "page": "https://en.wikipedia.org/wiki/1894%E2%80%9395_United_States_Senate_elections",
+        "title": "1894–95 United States Senate elections"
       },
-      "blurb": "The publication of Henry Parry Liddon's biography of Edward Bouverie Pusey occurred. England's diplomatic response to issues in Armenia was a concern. A bond syndicate was dissolved, affecting the market for new bonds.",
+      "blurb": "The Senate defeated a motion to consider a sugar bill, effectively killing it. The bond syndicate was dissolved after selling a portion of its bonds. A man confessed to wrongdoing, revealing surprising information to a district attorney.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.26
@@ -98,37 +98,37 @@
       },
       "stories": [
         {
-          "headline": "SOVIET ADDS SNAGS TO EARLY SOLUTION ON AUSTRIAN PACT; Wants Troops to Stay Pending German Treaty -- Would Curb Vienna Alliances INJECTS TRIESTE ISSUE Molotov Makes Proposal After Figl Urges Quick Settlement -- Dulles Assails New Plan SOVIET ADDS SNAGS TO AUSTRIAN PACT",
-          "summary": "The Soviet Union is adding conditions to the Austrian peace treaty, including the presence of its troops and limits on Austria's alliances. This move is seen as a complication in the negotiations.",
+          "headline": "WHITE HOUSE SAYS G. O. P. TOLD 'FACTS,' DENIES ANY 'SMEAR'; Democratic Leaders' Charge of 'Attacks' on Their Party Is Rejected by Hagerty PARTISAN TENSION GROWS Johnson Sides With Rayburn in Warning Administration Its Program Could Fail White House Rejects 'Smear' Cry; Says It 'Just Gave People Facts'",
+          "summary": "The White House denied that it was trying to smear the Democratic Party, saying it was just presenting facts. The administration also rejected claims that it was hindering New York City's ability to function.",
           "image": null,
-          "url": "https://www.nytimes.com/1954/02/13/archives/soviet-adds-snags-to-early-solution-on-austrian-pact-wants-troops.html"
+          "url": "https://www.nytimes.com/1954/02/10/archives/white-house-says-g-o-p-told-facts-denies-any-smear-democratic.html"
         },
         {
-          "headline": "BIG FOUR TO BEGIN TALKS ON AUSTRIA FRIDAY AT LATEST; Ministers Agree in Secret Session to Admit Vienna Aides Into Conference NEWS BLACKOUT IMPOSED Day's Discussions Are Shielded but West Is Said to Offer Limited Far East Parley Big 4 to Begin Austrian Talks By Friday With Viennese Present",
-          "summary": "The Big Four powers will start talks on Austria, with representatives from Vienna invited to join, and have agreed to keep the discussions private for now.",
+          "headline": "MOLOTOV BLOCKS AN AUSTRIAN PACT BY OLD PROVISOS; Accepts Move to Finish Treaty Before Talks End Thursday, but Demands His Changes DULLES CHARGES 'FRAUD' Asserts U.S. Will Not Be Party to Russian Plan -- Ministers Agree on Final Sessions MOLOTOV BLOCKS AN AUSTRIAN PACT",
+          "summary": "Soviet Minister Molotov blocked an Austrian treaty by insisting on certain conditions, which the US considered fraudulent. The ministers agreed to hold a final session to discuss the treaty.",
           "image": null,
-          "url": "https://www.nytimes.com/1954/02/09/archives/big-four-to-begin-talks-on-austria-friday-at-latest-ministers-agree.html"
+          "url": "https://www.nytimes.com/1954/02/15/archives/molotov-blocks-an-austrian-pact-by-old-provisos-accepts-move-to.html"
         },
         {
-          "headline": "BRITAIN TO OFFER PACT TO AID E. D. C.; Treaty for Close Army Link Aimed to Overcome French Fear and Spur Approval BRITAIN TO OFFER PACT TO AID E. D. C.",
-          "summary": "Britain plans to offer a treaty to strengthen its military ties with the European Defense Community in an effort to address French concerns.",
+          "headline": "WEST SAID TO ASK SOVIET TO BID MAO DROP VIETMINH AID; Molotov's Answer Is Awaited -- French Hopes Gaining for Talks on Indo-China War WILSON VOICES OPTIMISM Asserts Victory Is 'Probable' -- Seeks to Dispel the Air of Crisis in Washington WEST REPORTED IN INDO-CHINA BID",
+          "summary": "The Western powers reportedly asked the Soviet Union to persuade Communist China to stop providing military aid to Vietminh. The outcome of this request is still awaited.",
           "image": null,
-          "url": "https://www.nytimes.com/1954/02/23/archives/britain-to-offer-pact-to-aid-e-d-c-treaty-for-close-army-link-aimed.html"
+          "url": "https://www.nytimes.com/1954/02/10/archives/west-said-to-ask-soviet-to-bid-mao-drop-vietminh-aid-molotovs.html"
         },
         {
-          "headline": "PRESIDENT TO ACT IN SLUMP IF MARCH BRINGS NO UPTURN; If Employment Does Not Rise Then, He Tells News Parley, He Will Take Warning TAX RELIEF IS POSSIBLE He Backs Cut in Butter Props -- Goes on 5-Day Vacation in Southern California PRESIDENT LOOKS TO MARCH TRADE",
-          "summary": "The President has announced that he will take action to address the economic slump if employment does not improve by the end of March, and is considering tax relief measures.",
+          "headline": "CITY REALTY VALUE RISES HALF BILLION TO A RECORD HIGH; $20,369,499,758 Is Set as Tentative Total, but May Be Cut Before Final Action CITY REALTY TOTAL UP HALF A BILLION",
+          "summary": "The total value of real estate in the city has increased by half a billion dollars to a record high of over 20 billion dollars.",
           "image": null,
-          "url": "https://www.nytimes.com/1954/02/18/archives/president-to-act-in-slump-if-march-brings-no-upturn-if-employment.html"
+          "url": "https://www.nytimes.com/1954/02/01/archives/city-realty-value-rises-half-billion-to-a-record-high-20369499758.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/De_Valera%2C_1939_%28cropped%29.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Claas_Tucano_430.jpg",
         "source": "Wikimedia Commons",
-        "page": "https://en.wikipedia.org/wiki/1954_Irish_general_election",
-        "title": "1954 Irish general election"
+        "page": "https://en.wikipedia.org/wiki/Agriculture_in_the_United_Kingdom",
+        "title": "Agriculture in the United Kingdom"
       },
-      "blurb": "The Soviet Union added conditions to the Austrian peace treaty, complicating negotiations. The Big Four powers prepared to begin talks on Austria, inviting Vienna representatives to join. Britain planned to offer a treaty to strengthen its military ties with the European Defense Community.",
+      "blurb": "Molotov blocked an Austrian treaty by insisting on certain conditions. The White House denied smearing the Democratic Party, saying it presented facts. The Western powers asked the Soviet Union to persuade China to stop aiding Vietminh.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.625
