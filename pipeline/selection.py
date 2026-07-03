@@ -30,7 +30,7 @@ def load_ledger():
 
 
 def save_ledger(ledger):
-    os.makedirs(config.PUZZLE_DIR, exist_ok=True)
+    os.makedirs(os.path.dirname(config.LEDGER_PATH), exist_ok=True)
     with open(config.LEDGER_PATH, "w") as f:
         json.dump(ledger, f, indent=2, sort_keys=True)
 
