@@ -7,6 +7,9 @@ on:
     - cron: "5 4 * * *"   # 04:05 UTC → 00:05 ET during EDT (summer)
     - cron: "5 5 * * *"   # 05:05 UTC → 00:05 ET during EST (winter)
   workflow_dispatch: {}    # allow manual runs from the Actions tab
+  push:                    # also run when this workflow file changes (easy testing)
+    branches: [main]
+    paths: [".github/workflows/daily-puzzle.yml"]
 
 permissions:
   contents: write          # needed to push the generated puzzle
