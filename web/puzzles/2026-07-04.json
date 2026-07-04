@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T15:42:58.728866+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1966,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "BRITAIN TIGHTENS CREDIT SQUEEZE; RAISES BANK RATE; London, Lifting Loan Cost to 7%, Warns of Further Restraints to Aid Pound WILSON FEARS A CRISIS Promises Tough Measures to Curb Spending--Banks' Reserve Level Increased Britain Imposes Credit Squeeze And Raises Her Bank Rate to 7%",
+          "summary": "The British government has raised its bank lending rate to 7% and restricted credit to help the pound. This move is intended to ease pressure on the currency.",
+          "image": null,
+          "url": "https://www.nytimes.com/1966/07/15/archives/britain-tightens-credit-squeeze-raises-bank-rate-london-lifting.html"
+        },
+        {
+          "headline": "CITY INCOME TAX VOTED BY SENATE; ASSEMBLY WAITS; Levy on Commuters Also Passes by 37-27 Margin --Budget Action Delayed COUNCIL IS STANDING BY Republicans in Lower House Holding Back, Travia Says --Adjournment Put Off City Income Tax Voted by State Senate, but Assembly Defers Action Until Today A COMMUTER LEVY IS ALSO APPROVED Travia Says Republicans 'Weren't Prepared to Go' on Passage of Bills",
+          "summary": "The state senate has voted in favor of a city income tax, but the assembly has delayed taking action on the measure. A levy on commuters was also approved.",
+          "image": null,
+          "url": "https://www.nytimes.com/1966/07/01/archives/city-income-tax-voted-by-senate-assembly-waits-levy-on-commuters.html"
+        },
+        {
+          "headline": "1,000 POLICEMEN MOVE IN TO STEM BROOKLYN UNREST; Troublemakers Kept Apart  Leary Sees Easing of East New York Tension FIREMEN ARE RELEASED Additional 1,000 Patrolmen Guard Other Sections  Mayor Urges Calm 1,000 Policemen Move In to Avert Violence in Brooklyn's East New York Section LEARY PROMISES 'ALL-OUT EFFORT'",
+          "summary": "Over 1,000 extra police officers have been deployed to East New York to contain outbreaks of violence, with additional officers sent to other areas. The mayor is urging residents to remain calm.",
+          "image": null,
+          "url": "https://www.nytimes.com/1966/07/23/archives/1000-policemen-move-in-to-stem-brooklyn-unrest-troublemakers-kept.html"
+        },
+        {
+          "headline": "MEDICARE STARTS COVERAGE TODAY; 17 MILLION SIGNED; Smooth Beginning Expected --Hospitals With 92% of Beds Are Qualified Medicare Program Is Hailed on Its Start Today OFFICIALS EXPECT SMOOTH BEGINNING Johnson Says Hospitals With 92% of Beds Already Comply With Law",
+          "summary": "The Medicare program has started, with 17 million people signed up and a smooth beginning expected. Most hospitals are already compliant with the new law.",
+          "image": null,
+          "url": "https://www.nytimes.com/1966/07/01/archives/medicare-starts-coverage-today-17-million-signed-smooth-beginning.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/South_Vietnam_Map.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1966_in_the_Vietnam_War",
+        "title": "1966 in the Vietnam War"
+      },
+      "blurb": "Britain tightened its credit squeeze by raising its bank lending rate to 7%. The British government restricted credit to help the pound. Medicare coverage also began, with 17 million people signed up.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.52
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1860,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "The News Packages by the Bohemian.; The newspapers brought by the steamship Bohemian, at Portland, reached this City at an early hour this morning.We subjoin extracts of interest and importance. Massimo D'Azeglio on the Italian Question.",
+          "summary": "Italy is at a critical point in its struggle for stability, and it's essential that the country becomes secure to avoid causing problems for the surrounding nations. This is seen as possibly the final phase of the Italian question.",
+          "image": null,
+          "url": "https://www.nytimes.com/1860/01/07/archives/the-news-packages-by-the-bohemian-the-newspapers-brought-by-the.html"
+        },
+        {
+          "headline": "NEWS BY TELEGRAPH.; FROM WASHINGTON. Hopelessness of an Organization--The cabinet Difficulty--Mexican News at the Mexican Legation--The Protest of Miramon--volunteers for the Liberal Cause--Over land Mail to California--Examination of Brown's Secretary of State.",
+          "summary": "In Washington, different factions and parties are trying to organize Congress, with the Democrats planning to vote for a candidate from North Carolina. Various meetings have taken place to try to achieve this goal.",
+          "image": null,
+          "url": "https://www.nytimes.com/1860/01/23/archives/news-by-telegraph-from-washington-hopelessness-of-an.html"
+        },
+        {
+          "headline": "AFFAIRS IN FRANCE.; The Intense Cold at Paris Winter Sports Rights of American Citizens in Paris Illness of Ex-King Jerome Theatrical.From Our Own Correspondent.",
+          "summary": "A severe cold snap has hit Paris, with temperatures well below freezing for several days, making it a significant event in the city. The cold has been particularly intense in some areas.",
+          "image": null,
+          "url": "https://www.nytimes.com/1860/01/09/archives/affairs-in-france-the-intense-cold-at-paris-winter-sports-rights-of.html"
+        },
+        {
+          "headline": "FROM WASHINGTON.; Interesting Day in the House. A Virginia Journalist Berates a New-York Editor. Able and Gallant Speech of Hon. John Sherman. HOUSE OF REPRESENTATIVES.",
+          "summary": "A day in the House of Representatives was marked by a lack of progress on organization, despite advice from Senators, and a notable speech by Hon. John Sherman, as well as a confrontation between a Virginia journalist and a New York editor.",
+          "image": null,
+          "url": "https://www.nytimes.com/1860/01/21/archives/from-washington-interesting-day-in-the-house-a-virginia-journalist.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Battle_of_Milazzo.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1860",
+        "title": "1860"
+      },
+      "blurb": "The Italian question reached a critical point as the country struggled for stability. Massimo D'Azeglio emphasized the need for security to avoid causing problems for surrounding nations. Meanwhile, a severe cold snap hit Paris, and Congress in Washington struggled to organize.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.184
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1954,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "U. S. MAY APPROVE REVISION OF E. D. C. WITH RELUCTANCE; Officials Predict Washington to Gain German Army, Will Support Mendes-France STAND NOT YET DEFINITE Strong Argument Is Expected at Brussels Conference -- British Voice Fears U. S. MAY APPROVE REVISION OF E.D.C.",
+          "summary": "The US may approve changes to the European Defense Community that would allow for German rearmament. US officials believe these changes would still permit rearmament to happen.",
+          "image": null,
+          "url": "https://www.nytimes.com/1954/08/16/archives/u-s-may-approve-revision-of-e-d-c-with-reluctance-officials-predict.html"
+        },
+        {
+          "headline": "PRESIDENT PRAISES CONGRESS' RECORD, ASKS G.O.P. VICTORY; Tells Nation Only Good Start Has Been Made -- Appeals for Aid to Push Job HE SCOFFS AT OPPONENTS Reviews Laws Enacted Under Him -- Cites Seaway and Tax Revision Measures President Hails Congress Record, Calls for a G.O.P. Victory in Fall",
+          "summary": "The President praised Congress for their work and asked for a Republican victory, saying that only a good start has been made and there is still more to be done.",
+          "image": null,
+          "url": "https://www.nytimes.com/1954/08/24/archives/president-praises-congress-record-asks-gop-victory-tells-nation.html"
+        },
+        {
+          "headline": "6 SENATORS NAMED AS A SELECT PANEL IN M'CARTHY CASE; Nixon Appoints Watkins, Case, Carlson, Stennis, Ervin and Johnson of Colorado OPEN HEARINGS INDICATED Senate Will Not Adjourn Till Issue Is Settled but May Recess by Mid-August PANEL APPOINTED IN M'CARTHY CASE",
+          "summary": "A select panel of six senators has been appointed to handle a case involving McCarthy.",
+          "image": null,
+          "url": "https://www.nytimes.com/1954/08/06/archives/6-senators-named-as-a-select-panel-in-mcarthy-case-nixon-appoints.html"
+        },
+        {
+          "headline": "LAY-OFFS OF 15,712 SLATED BY AIRLINE; American to Drop 1,891 Today, Notify Others -- No Talks Set With 1,243 Striking Pilots LAY-OFFS OF 15,712 SLATED BY AIRLINE",
+          "summary": "An airline plans to lay off 15,712 employees due to a strike by pilots, with 1,891 layoffs happening immediately and notices sent to the rest.",
+          "image": null,
+          "url": "https://www.nytimes.com/1954/08/16/archives/layoffs-of-15712-slated-by-airline-american-to-drop-1891-today.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/NATOTreatyCopyAuthenticationPage.jpg/1280px-NATOTreatyCopyAuthenticationPage.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/North_Atlantic_Treaty",
+        "title": "North Atlantic Treaty"
+      },
+      "blurb": "The US considered approving revisions to the European Defense Community, allowing German rearmament. President praised Congress' record and sought a Republican victory. A select Senate panel was appointed to handle the McCarthy case.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.616
+      }
+    }
+  ]
+}

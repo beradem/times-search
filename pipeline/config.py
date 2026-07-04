@@ -11,6 +11,9 @@ LEDGER_PATH = os.path.join(ROOT, "data", "ledger.json")
 
 ARCHIVE_MIN_YEAR = 1851
 ARCHIVE_MAX_YEAR = 2019
+# The NYT's first issue was September 18, 1851 — earlier months return no
+# articles, so puzzle selection must not draw them.
+ARCHIVE_START = (1851, 9)
 
 _ENV_CACHE = None
 

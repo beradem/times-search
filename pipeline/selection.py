@@ -59,7 +59,7 @@ def select_pairs(date_str, ledger=None):
     while len(chosen) < ROUNDS_PER_DAY:
         pair = (rng.randint(config.ARCHIVE_MIN_YEAR, config.ARCHIVE_MAX_YEAR),
                 rng.randint(1, 12))
-        if pair not in excluded and pair not in chosen:
+        if pair >= config.ARCHIVE_START and pair not in excluded and pair not in chosen:
             chosen.append(pair)
     return chosen
 
