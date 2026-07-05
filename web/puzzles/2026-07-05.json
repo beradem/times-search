@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T07:35:46.012576+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1884,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "THE WORLD FROM LONDON; GEN. GORDON'S INFLUENCE SAID TO BE OVER-STATED. THE FRENCH IN TONQUIN--BARNUM'S WHITE ELEPHANT--SOCIETY MEN AS GAMBLERS--COURT AND OTHER GOSSIP.",
+          "summary": "General Gordon's influence in the Soudan is thought to be less significant than initially believed, as the tribes he expected to support him are not as welcoming as anticipated. The enthusiasm for his mission in England is declining as a result.",
+          "image": null,
+          "url": "https://www.nytimes.com/1884/01/27/archives/the-world-from-london-gen-gordons-influence-said-to-be-overstated.html"
+        },
+        {
+          "headline": "LONDON TALK OF THE DAY; EVENTS AND QUESTIONS ATTRACTING ATTENTION ABROAD. GOVERNMENTS INTERESTING THEMSELVES IN EGYPT'S TROUBLE--DEALING WITH THE ENEMIES OF ROYALTY--MATTERS GRAVE AND GAY.",
+          "summary": "The British government has not made a decision on intervening in the Soudan, but has asked the Turkish government about the terms of a potential Turkish expedition to the region.",
+          "image": null,
+          "url": "https://www.nytimes.com/1884/01/06/archives/london-talk-of-the-day-events-and-questions-attracting-attention.html"
+        },
+        {
+          "headline": "RAILROAD WAR CLOUDS; THE TROUBLE IN THE WEST ENDING IN OPEN RUPTURE. ALL HOPES OF PEACE DISPELLED--THE BURLINGTON PREPARIING CUT-RATE TICKETS--AN EFFORT TO KEEP UP THE FREIGHT TARIFF.",
+          "summary": "The dispute between the Burlington and Western trunk lines has ended in an open rupture, with no peace agreement reached, and the Burlington is preparing to offer cut-rate tickets.",
+          "image": null,
+          "url": "https://www.nytimes.com/1884/01/27/archives/railroad-war-clouds-the-trouble-in-the-west-ending-in-open-rupture.html"
+        },
+        {
+          "headline": "THE BODIES AT GAY HEAD; A VISIT TO THE SCENE OF THE STEAM-SHIP DISASTER. SAD SIGHTS ALONG THE DESOLATE SHORE-- A CORRECTED LIST OF THE SAVED-- THE NUMBER OF THE DEAD 97.",
+          "summary": "A steam-ship disaster has occurred, resulting in 97 deaths, and a visit to the scene has revealed a desolate and sad landscape along the shore.",
+          "image": null,
+          "url": "https://www.nytimes.com/1884/01/21/archives/the-bodies-at-gay-head-a-visit-to-the-scene-of-the-steamship.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/1280px-London_Skyline_%28125508655%29.jpeg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/London",
+        "title": "London"
+      },
+      "blurb": "General Gordon's influence in the Soudan waned as expected tribal support failed to materialize. The British government considered intervening, seeking information from Turkey. A steam-ship disaster occurred, resulting in 97 deaths.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.0
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1889,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "BALFOUR'S ARBITRARY ACT; A STORM OF INDIGNATION OVER SHEEHY'S ARREST. SCOTLAND ESPECIALLY WROUGHT UP BY IT--THE INVINCIBLES' PLOT--A NEW AND SUCCESSFUL COMEDY.",
+          "summary": "A member of parliament named Sheehy was arrested, causing widespread outrage, especially in Scotland.",
+          "image": null,
+          "url": "https://www.nytimes.com/1889/01/23/archives/balfours-arbitrary-act-a-storm-of-indignation-over-sheehys-arrest.html"
+        },
+        {
+          "headline": "A STRONG POLICY NEEDED; THE SAMOAN APPROPRIATION LIKELY TO BE GRANTED. BUT NOBODY SEEMS TO KNOW WHAT IT IS TO BE USED FOR--SECRETARY WHITNEY'S LETTER TO MR. BAYARD.",
+          "summary": "The US Congress is likely to approve a proposal to allocate funds to occupy a coaling station in Samoa and protect American interests there.",
+          "image": null,
+          "url": "https://www.nytimes.com/1889/01/27/archives/a-strong-policy-needed-the-samoan-appropriation-likely-to-be.html"
+        },
+        {
+          "headline": "EUROPE'S COSTLY PEACE; MILLIONS THAT STANDING ARMIES HAVE USED UP. WAR THAT MIGHT HAVE BEEN A SAVING--BISMARCK'S MOTIVES--A RETURNED IRISHMAN--THE STAGE.",
+          "summary": "Secrets about military matters were allegedly given to Marshal Bazaine by Sir Robert Morier, but this has been denied.",
+          "image": null,
+          "url": "https://www.nytimes.com/1889/01/06/archives/europes-costly-peace-millions-that-standing-armies-have-used-up-war.html"
+        },
+        {
+          "headline": "HENRY M. STANLEY IS SAFE; LETTERS FROM THE EXPLORER RECEIVED IN LONDON.THEY ARE WITHHELD FOR OFFICIAL REASONS--A QUESTION OF ROYAL SUCCESSION--A NEW COMEDY.",
+          "summary": "Letters from explorer Henry M. Stanley have been received in London, confirming that he is safe, but the contents are being kept secret for official reasons.",
+          "image": null,
+          "url": "https://www.nytimes.com/1889/01/15/archives/henry-m-stanley-is-safe-letters-from-the-explorer-received-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Everyone_has_Influenza_-_The_Round_of_Doctors_and_Druggists.jpg/1280px-Everyone_has_Influenza_-_The_Round_of_Doctors_and_Druggists.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1889%E2%80%931890_pandemic",
+        "title": "1889–1890 pandemic"
+      },
+      "blurb": "Sheehy's arrest sparked widespread outrage, especially in Scotland. The US Congress considered allocating funds to occupy a coaling station in Samoa. Henry M. Stanley's safety was confirmed with letters received in London.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.155
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2007,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "A 1-Yard Catch, a 50-Yard Receiving Line for Jets’ Kowalewski",
+          "summary": "Jets tight end Joe Kowalewski scored his first NFL touchdown, celebrating with a notable reception and celebration.",
+          "image": "https://static01.nyt.com/images/2007/11/07/sports/07jets.1.75.jpg",
+          "url": "https://www.nytimes.com/2007/11/07/sports/football/07jets.html"
+        },
+        {
+          "headline": "Knicks Fall in Double Overtime, Stretching Losing Streak to Five",
+          "summary": "The Knicks lost a game in double overtime, extending their losing streak to five games.",
+          "image": "https://static01.nyt.com/images/2007/11/17/sports/17knicks.75.jpg",
+          "url": "https://www.nytimes.com/2007/11/17/sports/basketball/17knicks.html"
+        },
+        {
+          "headline": "Companies Bolster Sales Abroad to Offset Weakness at Home",
+          "summary": "American companies are increasing their sales in other countries to make up for slower sales at home.",
+          "image": null,
+          "url": "https://www.nytimes.com/2007/11/20/business/worldbusiness/20global.html"
+        },
+        {
+          "headline": "In the Theater District, Merchants and Fans Are Eager for Reopening Night",
+          "summary": "A tentative settlement of the Broadway strike has been welcomed by fans and merchants in the Theater District.",
+          "image": null,
+          "url": "https://www.nytimes.com/2007/11/29/theater/29scene.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2007/11/07/sports/07jets.1.75.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "The Broadway strike tentative settlement brought relief to the Theater District. American companies bolstered sales abroad to offset domestic weakness. The Jets' Joe Kowalewski scored his first NFL touchdown.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.613
+      }
+    }
+  ]
+}
