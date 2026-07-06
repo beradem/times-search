@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T08:39:12.872735+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1926,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "GIRL KILLED, 44 HURT, AS TRAINS COLLIDE IN FOG ON BRIDGE; Wooden Cars, Jammed to Limit, Hit Steel Ones That Stopped When Way Was Blocked. INJURED MOTORMAN HELD Says Brakes Failed, but First Tests of Transit Engineers Do Not Corroborate Him. TWO INQUIRIES ARE BEGUN Steel Underframes Prevent Cars Telescoping -- Women Praise Men for Helping Coolly. GIRL KILLED, 44 HURT AS TRAINS COLLIDE",
+          "summary": "Two trains collided on a bridge in foggy conditions, killing one person and injuring 44, and an investigation into the crash is underway. The motorman of one of the trains was arrested after claiming the brakes failed, but initial tests did not support this claim.",
+          "image": null,
+          "url": "https://www.nytimes.com/1926/01/19/archives/girl-killed-44-hurt-as-trains-collide-in-fog-on-bridge-wooden-cars.html"
+        },
+        {
+          "headline": "WALKER NOW MAYOR; DR. LOUIS I. HARRIS NAMED HEALTH HEAD; New Mayor Picks Aids for All Posts but One -- Formal Induction at Noon. SATISFIED WITH SELECTIONS Many Hylan Heads Retained -- McCooey and Connelly Fare Well in Job Distribution. NICHOLSON TO STAY A YEAR Corporation Counsel Then to Quit on a Pension -- Senator Downing Expected to Succeed Him. DR. LOUIS I. HARRIS NAMED HEALTH HEAD",
+          "summary": "A new mayor has been sworn in and has appointed various officials to positions, including a new health head, with many previous officials retaining their jobs.",
+          "image": null,
+          "url": "https://www.nytimes.com/1926/01/01/archives/walker-now-mayor-dr-louis-i-harris-named-health-head-new-mayor.html"
+        },
+        {
+          "headline": "AMERICA CONSIDERS URGING ON LEAGUE NAVAL PARLEY HERE; Plan for Separate Conference Would Be Made at Geneva if Atmosphere Is Favorable. THINKS THIS LOGICAL PLACE Administration Holds That Only the Five Nations in the Original Parley Should Take Part. BRITISH READY TO ACCEPT Will Back Any Plan That Has a Chance to Succeed -- Welcome Our New Stand on League. AMERICA CONSIDERS NAVAL PARLEY HERE",
+          "summary": "The US is considering hosting a naval conference and is taking steps to select personnel for its delegation, with the goal of making the conference a success.",
+          "image": null,
+          "url": "https://www.nytimes.com/1926/01/06/archives/america-considers-urging-on-league-naval-parley-here-plan-for.html"
+        },
+        {
+          "headline": "$112,031 COLLECTED FOR POLICE HOSPITAL DWINDLED TO $1,162; McLaughlin Publishes Audit Showing the Public Gave $109,514 to Fund. $55,000 SPENT ON OPTIONS $12,469 for Police Banks and Collection Baskets -- Two Suits Over Land Took $23,000. FORCE SURPRISED AT TOTAL Enright Had Put It at $50,000 -- Ordered Drive Dropped in 1920 After Three Weeks. $112,031 COLLECTED FOR POLICE HOSPITAL",
+          "summary": "An audit of a police hospital fund revealed that over $100,000 was collected, but the balance dwindled to just $1,162 due to expenses such as land options, lawsuits, and police banks and collection baskets.",
+          "image": null,
+          "url": "https://www.nytimes.com/1926/01/21/archives/112031-collected-for-police-hospital-dwindled-to-1162-mclaughlin.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Two trains collided on a bridge in foggy conditions, killing one person and injuring 44. The US considered hosting a naval conference, taking steps to select personnel for its delegation. A new mayor was sworn in, appointing various officials to positions.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.752
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1925,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "BUCKNER BIDS PUBLIC GET LIQUOR EVIDENCE FOR HIS PADLOCK WAR; Volunteer Detectives Need Not Taste or Test, He Says, and Can Mail Affidavits. PLANS FOR A SPECIAL JUDGE Wants to Have Him Sit All Summer Closing Up Violators -- Police Aid Promised. SUGGESTS PERJURY ACTION Replies to Denials of Accused Cafe Owners That It's Their Word Against His Lawyers'. BUCKNER BIDS PUBLIC GETS LIQOUR EVIDENCE",
+          "summary": "Judge Buckner is asking the public to help gather evidence of liquor law violations, and a special judge may be appointed to handle these cases. He also plans to take action against those who deny accusations of violating liquor laws.",
+          "image": null,
+          "url": "https://www.nytimes.com/1925/03/07/archives/buckner-bids-public-get-liquor-evidence-for-his-padlock-war.html"
+        },
+        {
+          "headline": "' DEMANDS' BY PERU CALL ON COOLIDGE TO USE OUR FORCES; Protest on Tacna-Arica Says Chile Must Evacuate Zone and Americans Take It Over. ATTACKS PLEBISCITE AWARD Translation of Treaty Is Called Faulty -- Guarantees in the Disputed Territory Are Claimed. NOTE NOT YET PRESENTED Diplomats Are Silent on Reputed Text of the Document, Published in Washington. PROTEST BY PERU SETS NEW 'DEMANDS'",
+          "summary": "Peru is making demands that the US intervene in a dispute with Chile over a territory, and is protesting a recent decision regarding the area. The details of Peru's demands have been circulated in Washington.",
+          "image": null,
+          "url": "https://www.nytimes.com/1925/03/30/archives/-demands-by-peru-call-on-coolidge-to-use-our-forces-protest-on.html"
+        },
+        {
+          "headline": "GEORGETOWN SETS WORLD RELAY MARK; Breaks Own Two-Mile Record for Second Time This Year in I.C.A.A.A.A. Meet. CUTS TIME TO 7:41 6-10 Laps Penn Team Just as Marsters Breasts Tape -- Boston College Is Second. POLE VAULT RECORD FALLS Sherrill, Penn, Clears Bar at 13 Feet -- College Hurdle Mark Broken 6 Times -- Georgetown Wins Title. GEORGETOWN SETS WORLD RELAY MARK",
+          "summary": "Georgetown University's relay team has broken the world record for the 2-mile relay, achieving a time of 7:41. Georgetown also won the overall title at the meet, where several other records were broken.",
+          "image": null,
+          "url": "https://www.nytimes.com/1925/03/08/archives/georgetown-sets-world-relay-mark-breaks-own-twomile-record-for.html"
+        },
+        {
+          "headline": "STUDY INSURANCE LOSSES.; Companies Think They Will Bear Three-fourths of Damage.",
+          "summary": "Insurance companies expect to cover most of the damage from a recent event, and people are waiting to see the results of a special election related to Mayor Dever's policy.",
+          "image": null,
+          "url": "https://www.nytimes.com/1925/03/22/archives/study-insurance-losses-companies-think-they-will-bear-threefourths.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/NC_Wyeth_ca1920.jpg/1280px-NC_Wyeth_ca1920.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/N._C._Wyeth",
+        "title": "N. C. Wyeth"
+      },
+      "blurb": "Judge Buckner launched a padlock war, seeking public evidence of liquor law violations. He planned to appoint a special judge to handle these cases and take action against accused violators. Georgetown University's relay team broke the world record.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.726
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1948,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "WALLACE MAN WINS SWEEPING VICTORY IN BRONX ELECTION; Isacson, ALP, Defeats Propper, Flynn's Candidate, by Nearly 2 to 1 in Congress Race REPUBLICAN, LIBERAL TRAIL Upset in Usually Democratic Area Viewed as Blow to Hope of Truman Forces in Fall WALLACE MAN WINS IN BRONX ELECTION WINS SEAT IN CONGRESS",
+          "summary": "A man named Isacson, representing the American Labor Party, won a congressional election in the Bronx by a significant margin. This victory is seen as a potential indication that a third party can be successful in the area.",
+          "image": null,
+          "url": "https://www.nytimes.com/1948/02/18/archives/wallace-man-wins-sweeping-victory-in-bronx-election-isacson-alp.html"
+        },
+        {
+          "headline": "CRIPPLED OVER SEA, PLANE CARRYING 69 LANDS IN SAFETY; Steward Dead, Fuselage Torn, Boston-Miami Craft Fights Way to Florida Field STARTED BY ENGINE BLAST Dick Merrill, Riding as Check Pilot, Is Said to Have Saved All From Ocean Plunge DOWNED MIAMI-BOUND PLANE AND SOME WHO WERE ABOARD PLANE CARRYING 69 LANDS IN SAFETY",
+          "summary": "A plane carrying 69 people experienced engine trouble over the ocean but managed to land safely in Florida, despite a steward being killed and the fuselage being damaged. The plane, which was headed from Boston to Miami, was able to fight its way to a nearby field.",
+          "image": null,
+          "url": "https://www.nytimes.com/1948/02/08/archives/crippled-over-sea-plane-carrying-69-lands-in-safety-steward-dead.html"
+        },
+        {
+          "headline": "Non-Red Parties Pick Heads Approved by Czech 'Front'; Report Says Benes May Resign as President Today, to Be Succeeded by Fierlinger -- Changes Accepted With Surprising Calm CZECHOSLOVAKS CELEBRATING RED ARMY DAY IN PRAGUE Czech Communists Extend Sway; Report States Benes May Resign",
+          "summary": "Non-communist parties in Czechoslovakia have chosen leaders that are approved by the communist 'front', and there are reports that the current president may resign. The changes are being accepted calmly, as the communist party extends its influence.",
+          "image": null,
+          "url": "https://www.nytimes.com/1948/02/27/archives/nonred-parties-pick-heads-approved-by-czech-front-report-says-benes.html"
+        },
+        {
+          "headline": "ALL U. S. PRODUCERS OF STEEL ANNOUNCE $5 A TON PRICE RISE; New Rates on Semi-Finished Products to Add Millions to Nation's Supply Bill ATTRIBUTED TO HIGH COST Action May Be Reflected Later by Increase to Consumer on Industrial Items All Democratic Producers of Steel Increase Prices by $5 a Ton",
+          "summary": "All steel producers in the US have announced a $5 per ton price increase for semi-finished products, which will add millions of dollars to the nation's steel bill and may lead to higher prices for industrial items.",
+          "image": null,
+          "url": "https://www.nytimes.com/1948/02/20/archives/all-u-s-producers-of-steel-announce-5-a-ton-price-rise-new-rates-on.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Abdul_Qader_April_1948_ii.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1948_Palestine_war",
+        "title": "1948 Palestine war"
+      },
+      "blurb": "Isacson's congressional election victory in the Bronx marked a significant upset, indicating potential third-party success. The American Labor Party candidate defeated his opponents by a nearly 2-to-1 margin. Czechoslovakia's non-communist parties also accepted communist-approved leaders.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.621
+      }
+    }
+  ]
+}
