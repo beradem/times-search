@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T07:50:25.237831+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1870,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "TELEGRAMS.; Details of the Massacre of Captives by the Greek Bandits. Capture of the Stronghold and Escape of the Robbers. A Painful Story about the Steamer City of Boston. Napoleon's Appeal to France in Favor of His Dynasty. Interview of a Jesuit with the Piegan Indians. EUROPE. Massacre of the Captive by the Greek Bobbers--Particulars of the Murder--Conflict with the Troops--Escape of the Band. Supposed Tidings of the City of Boston--The Steamer Reported to be Sinking on the 11th of February. The Napoleonic Dynasty-An Appeal to Vote for the Plebiscitum-The Opposition-Prinee Pierre and the Corsicans of the Guard. Reassembling of the British Parliament--Passage of the Naturlization Law. The Ecumenical Council-Revival of the Question of the Spanish MonarchyGermany--Victor E The Sapphe and Cambria--Queen Victoria's Recent Fright a Hoax--Capt. Eyre and His Certificate--Parliament.",
+          "summary": "English captives were murdered by brigands. The captives were killed by Greek bandits.",
+          "image": null,
+          "url": "https://www.nytimes.com/1870/04/26/archives/telegrams-details-of-the-massacre-of-captives-by-the-greek-bandits.html"
+        },
+        {
+          "headline": "TELEGRAMS.; Destruction of the Town of Medina, Ohio, by Fire, Other Disasters by Fire at Sea and on Land. Bursting of the St. Anthony Tunnel-Mills Destroyed. A Conspiracy Against the Pope in the Papal States. DESTRUCTIVE FIRES. A Conflagration in Ohio--The Whole of the Business Part of the Town of Medina Destroyed by Fire--Origin of the Fire. Particulars of the Fire--Narrow Escaoe of Some of the Innabitants from Burning Buildings. Fire at Sea--Loss of the Schooner Emma. Fire at Warwick, R. I.--The Pontiac Mills Burned. Heavy Loss by Fire in Meriden, Conn. Five Men Executed in Barcelona, Spain.",
+          "summary": "The town of Medina, Ohio, was largely destroyed by a fire. Several other fires also occurred at sea and on land, causing destruction and loss.",
+          "image": null,
+          "url": "https://www.nytimes.com/1870/04/16/archives/telegrams-destruction-of-the-town-of-medina-ohio-by-fire-other.html"
+        },
+        {
+          "headline": "Fenian Invasion of Canada.",
+          "summary": "A group of Fenians invaded Canada.",
+          "image": null,
+          "url": "https://www.nytimes.com/1870/04/16/archives/fenian-invasion-of-canada.html"
+        },
+        {
+          "headline": "WASHINGTON.; The Louisiana Election Cases-sypher at First Admitted and Then Rejected in the House-Disposition of the senate Georgia Bill-The Northern Pacific Railroad Bill in the senate Miscellaneous. The Georgia Bill as Passed.",
+          "summary": "The US Senate passed a bill related to the Georgia election cases and the Northern Pacific Railroad.",
+          "image": null,
+          "url": "https://www.nytimes.com/1870/04/21/archives/washington-the-louisiana-election-casessypher-at-first-admitted-and.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Coat_of_arms_of_the_United_Kingdom_%281837%29.svg/1280px-Coat_of_arms_of_the_United_Kingdom_%281837%29.svg.png",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Foreign_Enlistment_Act_1870",
+        "title": "Foreign Enlistment Act 1870"
+      },
+      "blurb": "Greek bandits massacred English captives, killing them in a brutal attack. The town of Medina, Ohio, was largely destroyed by a fire, while other fires occurred at sea and on land. A Fenian invasion of Canada also took place.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.134
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1910,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "AERO CLUB CHARGES AGAINST MR. DREXEL; His Resignation Held Up Pending a Hearing on His Criticisms of the International Meet. MEMBERS ARE STIRRED UP Harmon Blamed for Starting Dissen- sion Among the Aviators -- Cornelius Vanderbilt Aloft. AERO CLUB CHARGES AGAINST MR. DREXEL",
+          "summary": "The Aero Club of America has held up the resignation of Mr. Drexel pending a hearing on his criticisms of the International Meet. The club has charges against his conduct prior to the start of the Belmont meet.",
+          "image": null,
+          "url": "https://www.nytimes.com/1910/11/02/archives/aero-club-charges-against-mr-drexel-his-resignation-held-up-pending.html"
+        },
+        {
+          "headline": "TROOPS RETAKE MEXICAN CITIES; Fresh Outbreaks Occur, However, and Widespread Revolt Makes the Situation Serious. FIGHTING HAS BEEN HEAVY Plot to Kill High Government Of- ficials Frustrated by Finding of Papers at Capital. AMERICANS LEAVE COUNTRY Tell of Strong Feeling Against Them -- Railways Are Crippled and Passengers Are Killed by Bullets.",
+          "summary": "Troops have retaken cities that were captured by rebels in Mexico, but the revolution is still widespread and there have been plots to kill government officials. Many Americans are leaving the country due to strong anti-American sentiment.",
+          "image": null,
+          "url": "https://www.nytimes.com/1910/11/23/archives/troops-retake-mexican-cities-fresh-outbreaks-occur-however-and.html"
+        },
+        {
+          "headline": "VOTE TO SETTLE EXPRESS STRIKE; Men Accept Offer from the Companies Submitted by Mayor Gaynor. ALL BACK TO WORK MONDAY No Discrimination Against Union- ists and the Scale of Wages and Hours to be Adjusted. TAXICAB STRIKE CONTINUES. Two-thirds Vote of Strikers Confirms Agreement, Providing Jersey Men Concur -- Leaders Wanted to Fight On.",
+          "summary": "The express strike has been settled after drivers and helpers voted to accept an offer from the companies, and they will return to work with no discrimination against union members and adjustments to wages and hours.",
+          "image": null,
+          "url": "https://www.nytimes.com/1910/11/11/archives/vote-to-settle-express-strike-men-accept-offer-from-the-companies.html"
+        },
+        {
+          "headline": "DIX WIRES SCORNFUL ANSWER TO STIMSON; Believes Twelve Questions Were Not Asked in Good Faith, but Replies to Them. ALWAYS FOR LOWER DUTIES Cites Stimson's Actions on Sugar Cases and Hints That He Is Trying to Dodge the Facts.",
+          "summary": "Dix has replied to 12 questions from Stimson in a telegram, believing the questions were not asked in good faith, and has expressed his support for lower duties.",
+          "image": null,
+          "url": "https://www.nytimes.com/1910/11/07/archives/dix-wires-scornful-answer-to-stimson-believes-twelve-questions-were.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/NHIndustries_NH90_at_Paris_Air_Show_2025_%283%29.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Aeronautics",
+        "title": "Aeronautics"
+      },
+      "blurb": "Troops retaking Mexican cities marked a significant development in the country's widespread revolt. The revolution remained serious, with heavy fighting and plots to kill government officials. Americans left the country due to strong anti-American sentiment.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.37
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1938,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "ARRESTS CONTINUE; Insurance Settlements to Be Confiscated for Reich's Benefit NEW RESTRICTIONS IN VIEW Jews Must Pay for Damage by Rioters--Forbidden to Enter. Any Place of Amusement Germany issued a new series of decrees yesterday to complete \"the liquidation of the Jews.\" At fine of 1,000,000,000 marks was imposed on all of them. Owners were ordered to repair all damaged property and their insurance was confiscated. Virtually all business was closed to Jews. They were barred from amusement places. Further drastic decries will be issued soon. [Page 1.] Egged on by a speech by the Bavarian Minister of the Interior, a Nazi mob broke windows in the palace of Cardinal Faulhaber at Munich. He had previously appealed for police protection. Jews were forbidden to open their shops, but were ordered to pay their employes. [Page 1.]",
+          "summary": "The German government issued new decrees that imposed harsh restrictions on Jews, including fines, confiscation of insurance settlements, and bans from public places and businesses. Jews were also ordered to pay for damages caused by rioters and to keep paying their employees despite being forbidden to open their shops.",
+          "image": null,
+          "url": "https://www.nytimes.com/1938/11/13/archives/arrests-continue-insurance-settlements-to-be-confiscated-for-reichs.html"
+        },
+        {
+          "headline": "COUGHLIN DEFENDS ADDRESS ON JEWS; Denying Anti-Semitism, Priest Repeats Charge of Aid to Reds-3 Stations Bar Him Asks Audience to Judge COUGHLIN DEFENDS ADDRESS ON JEWS Refers to Secret Document Holds Smertenko Misinformed Case Put Before Public WMCA EXPLAINS ITS STAND Flamm Asserts Federal License Bars 'Religious Dissension' TALK WITHHELD IN CHICAGO Phone Calls Swamp Exchanges as Two Stations Omit Speech",
+          "summary": "A priest defended his speech about Jews, denying that it was anti-Semitic and repeating his claim that they had helped the Reds, citing a secret document as evidence. He asked his audience to judge for themselves after some radio stations refused to air his speech.",
+          "image": null,
+          "url": "https://www.nytimes.com/1938/11/28/archives/coughlin-defends-address-on-jews-denying-antisemitism-priest.html"
+        },
+        {
+          "headline": "BRITAIN PROPOSES PALESTINE PARLEY; REJECTS PARTITION; Calls Arab-Jewish Conference as Woodhead Board Finds Division Plan Unworkable; MANDATE IS REAFFIRMED; Arabs in the Holy Land Are Angered by Statement-- Jews Are Pleased More Delay Forecast Britain Has Own Proposals Neighboring States Invited BRITAIN PROPOSES PALESTINE PARLEY Washington Deeply Interested PALESTINE ARABS BITTER; Declare They Must Fight On-- British Move Pleases Jews",
+          "summary": "The British government proposed a conference between Arabs and Jews in Palestine, rejecting the idea of partitioning the land, and reaffirmed its mandate over the territory. The decision was met with anger from Arabs and satisfaction from Jews.",
+          "image": null,
+          "url": "https://www.nytimes.com/1938/11/10/archives/britain-proposes-palestine-parley-rejects-partition-calls.html"
+        },
+        {
+          "headline": "DALADIER PREPARES DRASTIC MEASURES TO MEET BIG STRIKE; He May Mobilize Workers to Prevent Public Service Stoppage Wednesday GENERAL WALKOUT CALLED Socialists Demand Cabinet Resign--40,000 in North Out as Strikes Spread Strike Held Political Three Meetings Today Allowed Strike Call Urges Calm Daladler Is Enigmatic Mines Requisition Authorized Army Council to Try Workers DALADIER IS READY TO FIGHT BIG STRIKE Chief Trouble In North",
+          "summary": "A general strike was called, with thousands of workers participating, and the government prepared to take drastic measures to prevent a stoppage of public services, including mobilizing workers and authorizing the army to intervene.",
+          "image": null,
+          "url": "https://www.nytimes.com/1938/11/26/archives/daladier-prepares-drastic-measures-to-meet-big-strike-he-may.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Adolf_Hitler_cropped_restored_%283x4_cropped%29.jpg/1280px-Adolf_Hitler_cropped_restored_%283x4_cropped%29.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1938_German_parliamentary_election_and_referendum",
+        "title": "1938 German parliamentary election and referendum"
+      },
+      "blurb": "The German government imposed harsh restrictions on Jews, including fines and bans from public places. Nazis also vandalized Jewish properties and the palace of Cardinal Faulhaber. Britain proposed a Palestine conference, rejecting partition and reaffirming its mandate.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.656
+      }
+    }
+  ]
+}
