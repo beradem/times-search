@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T06:36:27.558184+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2010,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "Investor Appetite for Bonds in a Tepid Recovery Weighs on Rates",
+          "summary": "Interest rates for various financial products, including mortgages and savings accounts, are decreasing. This change is happening without the involvement of the central bank.",
+          "image": "https://static01.nyt.com/images/2010/08/09/business/economy/09rates-graphic/09rates-graphic-jumbo.jpg",
+          "url": "https://www.nytimes.com/2010/08/09/business/economy/09rates.html"
+        },
+        {
+          "headline": "H.P.’s Bidding War With Dell Underscores the Demand for Data Storage",
+          "summary": "A bidding war between two tech companies highlights the growing importance of data storage in the technology industry.",
+          "image": "https://static01.nyt.com/images/2010/08/24/business/HEWLETT/HEWLETT-jumbo.jpg",
+          "url": "https://www.nytimes.com/2010/08/24/technology/24hewlett.html"
+        },
+        {
+          "headline": "He Still Plays Weddings: A Musical Polymath’s Quirky Career",
+          "summary": "A musician, known for his eclectic career, has a very busy schedule ahead of him, including performing at weddings.",
+          "image": "https://static01.nyt.com/images/2010/08/07/arts/Lljova/Lljova-jumbo.jpg",
+          "url": "https://www.nytimes.com/2010/08/07/arts/music/07ljova.html"
+        },
+        {
+          "headline": "Israelis and Palestinians to Resume Talks, Officials Say",
+          "summary": "Israeli and Palestinian officials will restart direct negotiations, which have been on hold for almost two years, in an effort to move the peace process forward.",
+          "image": null,
+          "url": "https://www.nytimes.com/2010/08/20/world/middleeast/20mideast.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2010/08/09/business/economy/09rates-graphic/09rates-graphic-jumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Israeli and Palestinian officials resumed direct negotiations, aiming to advance the peace process. Interest rates decreased without central bank involvement, affecting mortgages and savings accounts. A bidding war between H.P. and Dell highlighted data storage demand.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.653
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1877,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "REAL DEMOCRATIC ENERGY; SEEKIG FOR TESTIMONY BUT NOT FOR TRUTH. REAPPEARANCE OF THE DISGRACED MADDOX HE PRODUCES A MUCH-TALKED ABOUT LETTER A REASOVABLE REQUEST MADE BY GOV. WELLS DENIED BY DEMOCRATS DAVID DUDLEY FIELD'S IDEA OF DECENCY AND FAIR PLAY THE WITNESS LITTLEFIELD. N.F. LITTLEFIELD'S TESTIMONY BEFORE SENATOR HOWE'S SUB-COMMITTEE PORTRAIT OF A GENTLEMAN DRAWN BY HIMSELF. MR. FIELD'S WITNESS MADDOX RECALLED LETTER PURPORTING TO BE FROM GOV. WELLS AND CONTAINING NOTHING OF IMPORTANCE READ TO THE COMMITTEE. THE OREGON CASE THE AUTHENTICITY OF DISPATCES PROVED TILDEN'S BARREL OF MONEY AGAIN. THE MISSISSIPPI ELECTION DUPLICATE BALLOT-BOX KEYS SUPPLIED TO THE DEMOCRATIC JUDGES THE SHOT-GUN POLICY TESTIMONY OF A MAN WHO HAS SEEN ITS EFFECT.",
+          "summary": "A senate committee heard testimony related to a disputed election, including a letter from a governor and claims of voting irregularities. The testimony also involved discussions of a specific case and allegations of intimidation.",
+          "image": null,
+          "url": "https://www.nytimes.com/1877/02/04/archives/real-democratic-energy-seekig-for-testimony-but-not-for-truth.html"
+        },
+        {
+          "headline": "TILDEN'S DISPATCH FROM \"GOBBLE.\"; THE TELEGRAM UNQUESTIONABLY SENT BY GOV. GROVER HIS DECISION AGAINST THE REPUBLICAN ELECTOR ANNOUNCED TO TILDEN FIVE DAYS BEFORE THE PUBLIC ANNOUNCEMENT PATRICK'S MINING STOCK BROKERS KEY USED BY THE GOVERNORS OF OREGON AND NEWYORK.",
+          "summary": "A governor sent a telegram to a politician, revealing a decision about an election dispute, and this message was received before it was publicly announced. The telegram's authenticity was verified through a specific key used by the governors of two states.",
+          "image": null,
+          "url": "https://www.nytimes.com/1877/02/08/archives/tildens-dispatch-from-gobble-the-telegram-unquestionably-sent-by.html"
+        },
+        {
+          "headline": "RESTLESS ENGINEERS.; STRIKE OF LOCOMOTIVE DRIVERS. THE ENGINEERS AND FIREMEN ON THE BOSTON AND MAINE ROAD STOP WORK THEIR PLACES PARTLY SUPPLIED THE COMPLAINTS OF THE STRIKERS THE RAILROAD OFFICERS DETERMINED NOT TO MAKE THE DEMANDED CONCESSIONS.",
+          "summary": "Engineers and firemen working on the Boston and Maine railroad went on strike, stopping work and partially disrupting the railroad's operations. The railroad's management refused to meet the strikers' demands.",
+          "image": null,
+          "url": "https://www.nytimes.com/1877/02/13/archives/restless-engineers-strike-of-locomotive-drivers-the-engineers-and.html"
+        },
+        {
+          "headline": "WASHINGTON.; THE SUCCESSION TO THE PRESIDENCY.FIELD'S UNCONSTITUTIONAL PROPOSITION THE CONSTITUTIONAL PROVISION INTHE CASE THE MODE STILL OPEN INTHE EVENT OF FAILURE OF THE COUNT MR. CONKLING AND THE FIELD BILL.",
+          "summary": "A bill was passed to address the issue of presidential succession in case no candidate is elected, with one proposal being deemed unconstitutional. The bill aimed to prevent a power vacuum in the event of an election failure.",
+          "image": null,
+          "url": "https://www.nytimes.com/1877/02/26/archives/washington-the-succession-to-the-presidencyfields-unconstitutional.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Keppler-Conkling-Mephistopheles.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Compromise_of_1877",
+        "title": "Compromise of 1877"
+      },
+      "blurb": "The disputed election testimony revealed voting irregularities and intimidation. A governor's telegram was sent to a politician, verifying a decision about an election dispute. Engineers and firemen struck, disrupting railroad operations.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.173
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1888,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "OLD WORLD NEWS BY CABLE; EMPEROR WILLIAM'S JOURNEY AS A SIGN OF PEACE.WARMTH OF THE MEETING AT VIENNA--HOW THE POPE WILL RECEIVE HIM--LOCAL GOVERNMENT FOR SCOTLAND--AN EXPEDITION TO EGYPT--MINOR NEWS AND GOSSIP.",
+          "summary": "Emperor William is making a journey that is seen as a sign of peace, and there is a lot of interest in how he will be received by the Pope. The meeting between Emperor William and the Pope is getting a lot of attention.",
+          "image": null,
+          "url": "https://www.nytimes.com/1888/10/07/archives/old-world-news-by-cable-emperor-williams-journey-as-a-sign-of.html"
+        },
+        {
+          "headline": "OLD WORLD NEWS BY CABLE; THE MEETING OF POPE, KAISER, AND KING IN ROME.WHY ITALY GAVE SO CORDIAL A WELCOME--AFFAIRS IN TUNIS THAT CONCERN FRANCE--WILL MACKENZIE BE CHALLENGED TO FIGHT--LAST OF THE HANSEATIC LEAGUE--MINOR NEWS AND GOSSIP.",
+          "summary": "The Pope, the Kaiser, and the King are meeting in Rome, and Italy is giving them a very warm welcome. This meeting is drawing a lot of attention to the Empire of Germany and the Kingdom of Italy.",
+          "image": null,
+          "url": "https://www.nytimes.com/1888/10/14/archives/old-world-news-by-cable-the-meeting-of-pope-kaiser-and-king-in.html"
+        },
+        {
+          "headline": "OLD WORLD NEWS BY CABLE.; HOME POLITICS ACTIVE AFTER THE LONG VACATION. LABOUCHERE ON CHAMBERLAIN--IMPORTANCE ATTACHED TO THE PARNELL COMMISSION--BISMARCK ANDWILLIAM SAID TO HAVE DIFFERENCES--MACKENZIE OUT OF FAVOR--MINOR TALK AND FACTS.",
+          "summary": "After a long break, politics in England are becoming active again, with a focus on home issues and speeches from key figures. There are also rumors of differences between Bismarck and William.",
+          "image": null,
+          "url": "https://www.nytimes.com/1888/10/21/archives/old-world-news-by-cable-home-politics-active-after-the-long.html"
+        },
+        {
+          "headline": "OLD WORLD NEWS BY CABLE; SACKVILLE'S POSSIBLE RESIGNATION TALKED OF.ENGLISH COMMENTS ON HIS STUPID ACT--HARM DONE THE IRISH CAUSE HERE--HOPES THE LIBERALS INDULGE--MILAN'S LOW AMBITION--MINOR NEWS AND NOTES.",
+          "summary": "There is talk that Lord Sackville might resign due to a recent mistake, and this incident is causing a lot of discussion and harming the Irish cause. The episode is currently dominating the news.",
+          "image": null,
+          "url": "https://www.nytimes.com/1888/10/28/archives/old-world-news-by-cable-sackvilles-possible-resignation-talked.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/11_Cable_Car_on_Powell_St_crop%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg/1280px-11_Cable_Car_on_Powell_St_crop%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Cable_car_(railway)",
+        "title": "Cable car (railway)"
+      },
+      "blurb": "Emperor William's journey was seen as a sign of peace, garnering significant attention. The Pope and Emperor William met in Rome, receiving a warm welcome from Italy. Politics in England became active again after a long break.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.001
+      }
+    }
+  ]
+}
