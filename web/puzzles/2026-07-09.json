@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T07:49:41.289532+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1929,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "WICKERSHAM WOULD CHANGE DRY LAW, STATES TAKING OVER LOCAL ENFORCEMENT, ASKS GOVERNORS TO CONSIDER HIS PLAN; FOR DIVISION OF POWER Government Would End 'Wholesale' Trade and States the 'Retail.' MIGHT MEAN MODIFICATION Hoover Commission Head for Revising Law to Make It 'Reasonably Enforceable.' LETTER READ BY ROOSEVELT New York Executive, in Address to Conference, Backs Plea for Data to Fight Crime. Wickersham Dry Law Plan Read at Governors' Meeting by Roosevelt Governors Divided in Opinions. Wickersham's Letter. Aided by New York Board. For Central Crime Office. Roosevelt for Secret Discussion. Every State Must Act. To Record Crimes Committed. Popular Support Essential. Cahill Urges Uniformity. Hits at Federal Oil Policy. Calls Criminality Big Business.",
+          "summary": "The head of the Hoover Commission proposed a plan to modify the dry law, giving states more control over local enforcement, and the plan was presented to a conference of governors. The plan aims to make the law more enforceable by dividing power between the government and states.",
+          "image": null,
+          "url": "https://www.nytimes.com/1929/07/17/archives/wickersham-would-change-dry-law-states-taking-over-local.html"
+        },
+        {
+          "headline": "COMMONS OPPOSES THE BRITISH TARIFF; Labor, With Liberal Aid, Wins First Clash With Tories by 340 to 220. EMPIRE UNITY ENDORSED Snowden Says Inter-Trade Problem Will Be Treated at Imperial Conference Next Year. To End Safeguarding. COMMONS OPPOSES THE BRITISH TARIFF Rhine Manoeuvres Off.",
+          "summary": "The British Labor party, with the help of the Liberal party, voted against the British tariff in the Commons, winning by a significant margin. This vote was a clash with the Conservative party and showed opposition to the Empire preference.",
+          "image": null,
+          "url": "https://www.nytimes.com/1929/07/10/archives/commons-opposes-the-british-tariff-labor-with-liberal-aid-wins.html"
+        },
+        {
+          "headline": "CLEVELAND FLIERS TELL STORY OF WEEK IN THE AIR TO WIN ENDORANCE RECORD; STORM WAS FIERCEST TEST Only 'Mitch' Could Keep Ship Right Side Up, Says Newcomb: DRIVEN LOW BY THE FOG Pair Had So Much Food They Dropped Some to Fish in Lake. FORCED DOWN BY WEARINESS Decided to Be Satisfied With Beating Record--Shook Hands When Flares Gave Notice. Objective Was 200 Hours. Mitchell Pilot in Storm Resistance Was \"Shot.\" Newcomb at Refueling Post. Air Rough the First Night. Refueling in Storm. Refueling Crew Saved Record. Log Kept by Pilots. Hear All Rivals Are Down. Oil Befogs Windshield. Fog Closes In on Them. Wearied by Short Circles. Refueling Relieves Tension. Sleep and Fly at Same Time. Hear of Robey's Death. Not a Cross Word Exchanged Wind Blows 100 Miles an Hour. Both Tired and Nervous Decide Not to Go On. Kissed a Thousand Times. FLIERS MAY GET $25,000, Cleveland to Honor Newcomb and Mitchell for Feat. Robbine aad Helly pleased. CALIFORNIANS UP 100 HOURS. \"Hope to Keep On for Another Week,\" Say Endurance Fliers. Talk on Radio of 300-Hour Flight.",
+          "summary": "Two Cleveland fliers attempted to break an endurance record by flying for over 200 hours, facing challenges such as fierce storms and thick fog, but decided to end their flight after beating the record. They shared their story of the week-long flight.",
+          "image": null,
+          "url": "https://www.nytimes.com/1929/07/07/archives/cleveland-fliers-tell-story-of-week-in-the-air-to-win-endorance.html"
+        },
+        {
+          "headline": "STIMSON MOVES TO AVERT WAR EAST CLASH; CONSULTS 3 POWERS AND THEN APPEALS TO DISPUTANTS; BOTH DENY WAR AIMS; KELLOGG PACT INVOKED Russia and China Are Reminded They Are Signatories. FOUR-POWER TREATY HELPS Our Stake Department Chief Confers With Envoys From Britain, France and Japan. RESULTS FOLLOW QUICKLY Minister Wu Indicates That China Also Will Abide by Kellogg Treaty Pledge. Other Powers Are Informed. Also Acted Under Four-Power Treaty Treaty Provides for Conference. Diplomats Indicate Approval. Pleased by French Cooperation. Next Step Not Yet Visualized.",
+          "summary": "The US Secretary of State consulted with representatives from several countries to prevent a war between Russia and China, reminding them of their commitment to the Kellogg Pact, and both countries denied having war aims.",
+          "image": null,
+          "url": "https://www.nytimes.com/1929/07/20/archives/stimson-moves-to-avert-war-east-clash-consults-3-powers-and-then.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+        "title": "Wall Street crash of 1929"
+      },
+      "blurb": "The Wickersham Commission proposed modifying the dry law, giving states more control over local enforcement. This plan aimed to make the law more enforceable by dividing power between the government and states. The British Labor party also voted against the British tariff.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.577
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1884,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "NEWS OF THE OLD WORLD; HOME AND FOREIGN POLITICS AND GOSSIP OF PERSONS. BISMARCK AND THE WAR--GLADSTONE CRITICISED--EMPEROR WILLIAM FAILING--MUNKACZY IN A MAD HOUSE. GLADSTONE IN SCOTLAND. EGYPT AND AFGHANISTAN. MUNKACZY INSANE.",
+          "summary": "There are reports of Chinese duplicity and French treachery in the far east, with Admiral Courbet accused of trying to provoke the Chinese. The London Times's correspondent is the only journalist on the scene, providing a unique perspective on the hostilities.",
+          "image": null,
+          "url": "https://www.nytimes.com/1884/09/07/archives/news-of-the-old-world-home-and-foreign-politics-and-gossip-of.html"
+        },
+        {
+          "headline": "LONDON NEWS AND TALK; HELP FOR GORDON, WAR WITH FRANCE, PERSONAL GOSSIP. PRAISE FOR KING HUMBERT--BAD FEELING IN FRANCE--BELGIAN AFFAIRS--ROYAL SCANDALS AND GLADSTONE'S SCOTCH SUCCESS. PLIGHT OF THE BELGIAN KING. A WAR CLOUD IN LONDON. DRAMATIC GOSSIP.",
+          "summary": "The European press is comparing the conduct of King Humbert in Naples to that of the Emperor Alexander in Warsaw, highlighting their differences. This contrast is being widely discussed in the press.",
+          "image": null,
+          "url": "https://www.nytimes.com/1884/09/14/archives/london-news-and-talk-help-for-gordon-war-with-france-personal.html"
+        },
+        {
+          "headline": "LONDON'S NEWS OF EUROPE; SOME SERIOUS POLITICS AND SOME PERSONAL GOSSIP. ILLIBERAL BELGIAN LIBERALS--TROUBLE IN AUSTRIA FEARED--FATHER CURCI SUBMITS--LANGTRY'S REAPPEARANCE-- GLADSTONE'S FEAT. CROATIA AND HUNGARY. LORD TENNYSON FURIOUS. NEWS OF THE STAGE.",
+          "summary": "The Liberal party in Belgium is being criticized by other European liberal parties for refusing to accept the results of constitutional government when they are unfavorable. This criticism is coming from liberal papers across Europe.",
+          "image": null,
+          "url": "https://www.nytimes.com/1884/09/21/archives/londons-news-of-europe-some-serious-politics-and-some-personal.html"
+        },
+        {
+          "headline": "NEWS OF THE OLD WORLD; GRAVE AND GAY FACTS AND GOSSIP FROM LONDON. CLOSE QUARTERS FOR THE LIBERALS OF ENGLAND--HIGH PRICES FOR FOOD IN FRANCE--FINISHING THE ABBEY--SPANISH AFFAIRS IN A BAD WAY--TO DIVIDE THE CHINESE EMPIRE. ENGLISH FOREIGN AFFAIRS. BELGIAN POLITICS. BETTER TIMES IN POLAND. GERMAN AND FRENCH POLITICS. BLAINE AND THE MORRILL LETTEE. GOSSIP OF THE STAGE.",
+          "summary": "The Liberal party in England is facing challenges, while food prices are high in France and there are problems in Spanish affairs. There are also discussions about dividing the Chinese Empire and reforming the House of Lords.",
+          "image": null,
+          "url": "https://www.nytimes.com/1884/09/28/archives/news-of-the-old-world-grave-and-gay-facts-and-gossip-from-london.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/1884grays.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/1884_World_Series",
+        "title": "1884 World Series"
+      },
+      "blurb": "Bismarck's actions were scrutinized amidst reports of Chinese duplicity and French treachery. Gladstone faced criticism while in Scotland, and Emperor William's health was failing. European politics were marked by tension and scandal.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.0
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1941,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "50 BILLION A YEAR IS SET BY PRESIDENT AS OUR WAR OUTLAY; Half of National Income in Next Fiscal Year Will Go to Arms Production, He States HE OVERHAULS ALL PLANS Stepped Up From Present 20% of Income -- He Hints Arms for Kamchatka, Near Tokyo PRESIDENT TO ASK 50 BILLIONS A YEAR",
+          "summary": "The President has set a war budget of $50 billion per year, which is half of the national income, and plans to overhaul all existing plans to increase arms production. This budget will be used to produce arms, with some possibly being sent to areas near Tokyo.",
+          "image": null,
+          "url": "https://www.nytimes.com/1941/12/31/archives/50-billion-a-year-is-set-by-president-as-our-war-outlay-half-of.html"
+        },
+        {
+          "headline": "GUAM BOMBED; ARMY SHIP IS SUNK; U.S. Fliers Head North From Manila -- Battleship Oklahoma Set Afire by Torpedo Planes at Honolulu 104 SOLDIERS KILLED AT FIELD IN HAWAII President Fears 'Very Heavy Losses' on Oahu -- Churchill Notifies Japan That a State of War Exists Japan Starts War on U.S.; Hawaii and Guam Bombed",
+          "summary": "The US has entered a war with Japan, and as a result, Guam and Hawaii have been bombed, with many soldiers killed and a battleship set on fire. The US has also started censoring radio and cable messages.",
+          "image": null,
+          "url": "https://www.nytimes.com/1941/12/08/archives/guam-bombed-army-ship-is-sunk-us-fliers-head-north-from-manila.html"
+        },
+        {
+          "headline": "A.F.L. ASKS PEACE WITH C.I.0. IN WAR, FORBIDS ANY STRIKE; 100 Unions' Heads Say on Eve of Labor Policy Parley That Defense Demands Unity URGES A WAR LABOR BOARD And Principles of 1918, Bar- ring Use of Agency by Either Side to Strengthen Hand A.F.L. ASKS PEACE WITH C.I.0. IN WAR",
+          "summary": "Leaders of the American Federation of Labor are calling for unity with the Congress of Industrial Organizations during the war and are forbidding any strikes to support the war effort.",
+          "image": null,
+          "url": "https://www.nytimes.com/1941/12/17/archives/afl-asks-peace-with-ci0-in-war-forbids-any-strike-100-unions-heads.html"
+        },
+        {
+          "headline": "EMPLOYER UPHELD IN SPEECH ON UNION; Supreme Court, 7 to 0, Backs Right to Voice Labor Views if There Is No Coercion EMPLOYER UPHELD IN SPEECH ON UNION",
+          "summary": "The US Supreme Court has ruled in favor of an employer's right to express their views on labor, as long as they are not coercive, in a case involving the Virginia Electric and Power Company.",
+          "image": null,
+          "url": "https://www.nytimes.com/1941/12/23/archives/employer-upheld-in-speech-on-union-supreme-court-7-to-0-backs-right.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Singapore_Naval_Base_June_1953.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Singapore_Naval_Base",
+        "title": "Singapore Naval Base"
+      },
+      "blurb": "The United States entered a war with Japan, as Guam and Hawaii were bombed, resulting in significant losses. President Roosevelt set a war budget of $50 billion per year to increase arms production. Labor unions called for unity and forbade strikes to support the war effort.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.635
+      }
+    }
+  ]
+}
