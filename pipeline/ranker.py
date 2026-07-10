@@ -81,8 +81,47 @@ def pick_image(doc):
     return url if url.startswith("http") else STATIC_PREFIX + url.lstrip("/")
 
 
-def _story(doc, page, topic=None, cluster_size=1):
-    headline = (doc.get("headline") or {}).get("main") or "(no headline)"
+LABEL_MIN = 6  # a short all-caps kicker seen this many times = a standing column
+
+
+def _kicker(headline):
+    """The leading label of a headline (text before the first ';'), uppercased."""
+    if not headline:
+        return ""
+    seg = headline.split(";", 1)[0] if ";" in headline else headline
+    return seg.strip().rstrip(".").strip().upper()
+
+
+def _subhead(headline):
+    """The descriptive text after the leading label, if any."""
+    return headline.split(";", 1)[1].strip() if ";" in (headline or "") else ""
+
+
+def label_kickers(docs):
+    """Recurring short ALL-CAPS kickers that head standing columns rather than
+    stories (e.g. "FROM WASHINGTON", "MARINE INTELLIGENCE", "TELEGRAMS")."""
+    freq = Counter()
+    for d in docs:
+        h = (d.get("headline") or {}).get("main") or ""
+        seg = (h.split(";", 1)[0] if ";" in h else h).strip().rstrip(".").strip()
+        if (seg and len(seg.split()) <= 4 and seg.upper() == seg
+                and any(c.isalpha() for c in seg)):
+            freq[seg.upper()] += 1
+    return {k for k, c in freq.items() if c >= LABEL_MIN}
+
+
+def clean_label_headline(raw, labels):
+    """If a headline leads with a recurring department label, drop it in favor
+    of the descriptive subhead so the displayed headline is a real story."""
+    if raw and _kicker(raw) in labels:
+        sub = _subhead(raw)
+        if len(sub) >= 12:
+            return sub
+    return raw
+
+
+def _story(doc, page, topic=None, cluster_size=1, headline=None):
+    headline = headline or (doc.get("headline") or {}).get("main") or "(no headline)"
     return {
         "headline": headline,
         "summary": doc.get("abstract") or doc.get("snippet") or "",
@@ -102,6 +141,9 @@ def _candidate_docs(docs):
             continue
         if (d.get("type_of_material") or "").lower() in SKIP_MATERIAL:
             continue
+        headline = ((d.get("headline") or {}).get("main") or "").strip()
+        if not headline or "NO TITLE" in headline.upper():  # untitled filler
+            continue
         yield d
 
 
@@ -117,17 +159,18 @@ def rank_month(docs):
             if k.get("value"):
                 kw_freq[k["value"]] += 1
     kw_ratio = sum(1 for d in docs if d.get("keywords")) / n
+    labels = label_kickers(docs)  # standing-column headers to demote/clean
 
     if kw_ratio < KEYWORD_DESERT_THRESHOLD:
-        stories = _rank_by_headline(docs)
+        stories = _rank_by_headline(docs, labels)
         mode = "headline-richness"
     else:
-        stories = _rank_by_clusters(docs, kw_freq, n)
+        stories = _rank_by_clusters(docs, kw_freq, n, labels)
         mode = "topic-clusters"
     return stories, {"mode": mode, "keyword_coverage": round(kw_ratio, 3)}
 
 
-def _rank_by_clusters(docs, kw_freq, n):
+def _rank_by_clusters(docs, kw_freq, n, labels):
     # Front-page frequency per keyword — the clearest importance signal, since
     # editors put the month's biggest stories on page 1.
     fp_freq = Counter()
@@ -157,28 +200,46 @@ def _rank_by_clusters(docs, kw_freq, n):
         key = topic or f"_solo:{(d.get('headline') or {}).get('main')}"
         clusters.setdefault(key, {"docs": [], "topic": topic})["docs"].append((d, page))
 
+    def raw_of(dp):
+        return (dp[0].get("headline") or {}).get("main") or ""
+
     reps = []
     for c in clusters.values():
-        doc, page = max(c["docs"],
-                        key=lambda dp: (front_weight(dp[1]),
-                                        len((dp[0].get("headline") or {}).get("main") or "")))
+        # Representative: front page, then a real story over a standing-column
+        # label, then richer headline.
+        doc, page = max(c["docs"], key=lambda dp: (
+            front_weight(dp[1]),
+            0 if _kicker(raw_of(dp)) in labels else 1,
+            len(raw_of(dp))))
+        raw = (doc.get("headline") or {}).get("main") or ""
+        rep_is_label = _kicker(raw) in labels
         topic = c["topic"]
         fp = fp_freq[topic] if topic else (1 if page == 1 else 0)
         cov = kw_freq[topic] if topic else 0
-        story = _story(doc, page, topic, len(c["docs"]))
-        # Rank by front-page presence, then coverage, then front weight, then
-        # headline richness (helps sparse old months with few keywords).
-        reps.append(((fp, cov, front_weight(page), story["_richness"]), story))
+        story = _story(doc, page, topic, len(c["docs"]),
+                       headline=clean_label_headline(raw, labels))
+        # Rank by front-page presence, then real-story-over-label, then coverage,
+        # then front weight, then headline richness (helps sparse old months).
+        reps.append(((fp, 0 if rep_is_label else 1, cov,
+                      front_weight(page), story["_richness"]), story))
 
     reps.sort(key=lambda r: r[0], reverse=True)
     return [r[1] for r in reps[:4]]
 
 
-def _rank_by_headline(docs):
-    ranked = sorted((_story(d, as_int(d.get("print_page"))) for d in _candidate_docs(docs)),
-                    key=lambda s: s["_richness"], reverse=True)
+def _rank_by_headline(docs, labels):
+    stories = []
+    for d in _candidate_docs(docs):
+        raw = (d.get("headline") or {}).get("main") or ""
+        s = _story(d, as_int(d.get("print_page")),
+                   headline=clean_label_headline(raw, labels))
+        s["_is_label"] = _kicker(raw) in labels
+        stories.append(s)
+    # Real stories before standing-column labels, then by headline richness.
+    stories.sort(key=lambda s: (0 if s["_is_label"] else 1, s["_richness"]),
+                 reverse=True)
     chosen = []
-    for s in ranked:
+    for s in stories:
         if _too_similar(s["headline"], chosen):
             continue
         chosen.append(s)

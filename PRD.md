@@ -284,6 +284,7 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 - Richer share image card.
 - **Reveal-image matching refinement** (§6.7) — fall back from topic-keyword to headline-deck query when Wikimedia returns a weak match; optionally validate relevance. *(Wikimedia reveal images themselves are built.)*
 - ~~Ranking: front-page weighting~~ — **done**. Topics are ranked by front-page presence and high-frequency keywords that dominate page 1 are kept, so the real lead wins (fixed Nov 2016 → Trump transition over a Twilight book; 1894 → real news over a Pusey book review; 1969 → Apollo leads). *Remaining nit:* some soft/celebrity secondaries can still surface in busy modern months.
+- ~~Ranking: demote standing-column labels (old-era)~~ — **done**. Recurring short ALL-CAPS kickers ("FROM WASHINGTON", "TELEGRAMS", "MARINE INTELLIGENCE") that head standing columns are demoted below real stories, and their descriptive subhead is used as the headline; untitled "NO TITLE" filler is skipped. Fixed e.g. April 1870 (now leads with the Fenian Invasion of Canada, not "TELEGRAMS"). *Honest limit:* the sparse mid-1800s (e.g. Jan 1860) genuinely lacked a single dominant front-page story — mixed-case correspondent roundups still surface there; that's a source-material floor, not a code bug.
 - ~~Display-headline cleanup~~ — **done**. Front-end collapses multi-deck run-ons: all-caps deck stacks reduce to the first deck, trailing all-caps decks are dropped, modern title-case headlines untouched.
 
 ---
