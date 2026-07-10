@@ -233,10 +233,12 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 
 > Decision: **solo + shareable, no accounts.** A minimal backend exists *only* to compute the daily distribution.
 
-### 7.1 Percentile + histogram
-- On game completion, the client **POSTs the total score** (anonymous, with the puzzle date) to a backend.
-- Backend keeps a **per-day score distribution** (e.g. a histogram of buckets) and returns the player's percentile + the bucket counts to render the chart.
-- No identity, no persistence beyond the daily aggregate. *(OPEN — anti-cheat: someone could spam scores. For v1, accept it; it only skews an anonymous stat.)*
+### 7.1 Percentile + histogram *(BUILT — `api/score.js`)*
+- On completion the client **POSTs `{date, score}`** to **`/api/score`** (Vercel serverless function).
+- The function stores a **per-day count + 10-bucket histogram in Upstash Redis** (REST API, zero deps), computes the player's **real top-X% placement**, and returns `{count, topPct, dist}`. The client renders the real distribution + "top X% of N players today," falling back to a local synthetic estimate if the endpoint is unreachable. Submitted once per device/day (persisted alongside play state).
+- **Also serves as the daily play-count metric** (`count:<date>`), and pushes an **ntfy notification on every completion** (owner-configurable via `NTFY_TOPIC`).
+- No identity, no persistence beyond the daily aggregate (keys expire in 60 days). *Anti-cheat: someone could spam scores; accepted for v1 (only skews an anonymous stat). Real integrity arrives with accounts.*
+- **Setup (owner):** provision Upstash Redis (Vercel integration → auto env vars), set `NTFY_TOPIC`, enable Vercel Web Analytics. See `SETUP.md`.
 
 ### 7.2 Share card
 - Wordle-style, **spoiler-free**: shows the 3 rounds as a compact visual (e.g. emoji/blocks encoding how close each guess was), the total score, and the date — **never the answers**.

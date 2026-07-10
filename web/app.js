@@ -17,7 +17,10 @@
   const roundPill = document.getElementById("round-pill");
   const scoreTotalEl = document.getElementById("score-total");
 
-  const state = { puzzle: null, round: 0, results: [], total: 0, completed: false };
+  const state = {
+    puzzle: null, round: 0, results: [], total: 0,
+    completed: false, submitted: false, daily: null,
+  };
 
   // One game per day, no accounts: persist progress in localStorage keyed by
   // the puzzle date (Wordle-style). Per-device, clearable — fine for MVP.
@@ -28,6 +31,7 @@
       localStorage.setItem(storageKey(), JSON.stringify({
         round: state.round, results: state.results,
         total: state.total, completed: state.completed,
+        submitted: state.submitted, daily: state.daily,
       }));
     } catch (_) { /* storage blocked (private mode); progress just won't persist */ }
   }
@@ -232,34 +236,56 @@
   }
 
   // ---- results screen ----
-  // NOTE: percentile/distribution is STUBBED locally pending the backend
-  // score-distribution service (PRD §7.1).
-  function syntheticDistribution() {
-    // 10 buckets across 0..maxTotal, a plausible bell-ish shape.
-    return [2, 5, 9, 14, 18, 19, 15, 10, 6, 2];
+  // Real placement comes from /api/score. Until it responds (or if the backend
+  // isn't reachable), we show a local estimate so the screen is instant.
+  const SYNTH_DIST = [2, 5, 9, 14, 18, 19, 15, 10, 6, 2];
+  const scoreBucket = (total) => Math.min(9, Math.floor(total / (Scoring.maxTotal / 10)));
+
+  function estimate(total) {
+    const sum = SYNTH_DIST.reduce((a, b) => a + b, 0);
+    let below = 0;
+    for (let i = 0; i < scoreBucket(total); i++) below += SYNTH_DIST[i];
+    return { topPct: Math.max(1, 100 - Math.round(below / sum * 100)), dist: SYNTH_DIST, count: null };
   }
 
-  function percentileTop(total) {
-    const dist = syntheticDistribution();
-    const sum = dist.reduce((a, b) => a + b, 0);
-    const bucket = Math.min(9, Math.floor(total / (Scoring.maxTotal / 10)));
-    let below = 0;
-    for (let i = 0; i < bucket; i++) below += dist[i];
-    const pct = Math.round((below / sum) * 100);
-    return { topPct: Math.max(1, 100 - pct), bucket, dist };
+  let submitting = false;
+  async function submitScore() {
+    if (state.submitted || submitting) return;
+    submitting = true;
+    try {
+      const res = await fetch("/api/score", {
+        method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ date: state.puzzle.date, score: state.total }),
+      });
+      if (res.ok) {
+        const j = await res.json();
+        if (j && j.topPct != null && Array.isArray(j.dist)) {
+          state.submitted = true;
+          state.daily = { topPct: j.topPct, count: j.count, dist: j.dist };
+          saveProgress();
+          renderResults(); // re-render with the real numbers
+        }
+      }
+    } catch (_) { /* keep the estimate */ } finally { submitting = false; }
+  }
+
+  function placementLine(d) {
+    if (d.count == null) return `You placed in the <strong>top ${d.topPct}%</strong> today`;
+    if (d.count <= 1) return `You&rsquo;re the <strong>first</strong> to finish today!`;
+    return `Top <strong>${d.topPct}%</strong> of <strong>${d.count.toLocaleString()}</strong> players today`;
   }
 
   function renderResults() {
     scoreboard.hidden = true;
     state.completed = true;
     saveProgress();
-    const { topPct, bucket, dist } = percentileTop(state.total);
-    const max = Math.max(...dist);
+    const data = state.daily || estimate(state.total);
+    const bucket = scoreBucket(state.total);
+    const max = Math.max(...data.dist, 1);
 
-    const bars = dist.map((c, i) => `
+    const bars = data.dist.map((c, i) => `
       <div class="bar ${i === bucket ? "you" : ""}"
-           style="height:${Math.round((c / max) * 100)}%"
-           title="${i === bucket ? "You" : ""}"></div>`).join("");
+           style="height:${Math.max(3, Math.round((c / max) * 100))}%"></div>`).join("");
 
     const recap = state.puzzle.rounds.map((round, i) => {
       const r = state.results[i];
@@ -276,7 +302,7 @@
         <h2>That&rsquo;s the edition.</h2>
         <p class="final-score"><strong id="ftotal">0</strong>
           <span>/ ${Scoring.maxTotal.toLocaleString()}</span></p>
-        <p class="percentile">You were in the <strong>top ${topPct}%</strong> of players today</p>
+        <p class="percentile">${placementLine(data)}</p>
         <div class="histogram">${bars}</div>
         <h3>Today&rsquo;s New York Times history&hellip;</h3>
         <ul class="recap">${recap}</ul>
@@ -290,6 +316,7 @@
     countUp(document.getElementById("ftotal"), state.total, "", 850);
     document.getElementById("home").addEventListener("click", renderHome);
     document.getElementById("share").addEventListener("click", share);
+    if (!state.submitted) submitScore();
   }
 
   // Adapts to whatever domain the game is served from (vercel.app or custom).
@@ -334,6 +361,8 @@
       state.total = saved.total || 0;
       state.completed = !!saved.completed ||
         saved.results.length >= state.puzzle.rounds.length;
+      state.submitted = !!saved.submitted;
+      state.daily = saved.daily || null;
       state.round = state.completed
         ? state.puzzle.rounds.length - 1
         : saved.results.length;
