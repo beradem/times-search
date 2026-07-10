@@ -20,8 +20,9 @@ export default async function handler(req, res) {
   }
   const bucket = Math.min(BUCKETS - 1, Math.floor(score / (MAX / BUCKETS)));
 
-  const url = process.env.UPSTASH_REDIS_REST_URL;
-  const token = process.env.UPSTASH_REDIS_REST_TOKEN;
+  // Vercel's Upstash/KV integrations use different env var names — accept both.
+  const url = process.env.UPSTASH_REDIS_REST_URL || process.env.KV_REST_API_URL;
+  const token = process.env.UPSTASH_REDIS_REST_TOKEN || process.env.KV_REST_API_TOKEN;
   if (!url || !token) {
     return res.status(200).json({ count: null, topPct: null, dist: null });
   }
