@@ -245,29 +245,33 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
   .col:last-child { padding-right: 0; }
 }
 
-/* ---- guess form ---- */
-.guess { margin-top: 1.25rem; border-top: 2px solid var(--ink); padding-top: 1rem; }
-.guess-legend {
-  font-family: var(--sans);
-  font-weight: 600;
-  font-size: 0.82rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin: 0 0 0.7rem;
-  text-align: center;
+/* ---- guess form: floating bar pinned to the bottom of the screen ---- */
+.play { padding-bottom: 12rem; } /* clear the fixed guess bar */
+.guess {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 20;
+  margin: 0;
+  background: rgba(244, 239, 226, 0.97);
+  backdrop-filter: blur(8px);
+  border-top: 2px solid var(--ink);
+  box-shadow: 0 -4px 18px rgba(40, 33, 20, 0.14);
+  padding: 0.7rem 1rem calc(0.7rem + env(safe-area-inset-bottom, 0px));
 }
-.guess-fields { display: flex; gap: 0.75rem; flex-wrap: wrap; }
-.guess-fields label {
-  flex: 1 1 140px;
+.guess-inner { max-width: 680px; margin: 0 auto; }
+.guess-row { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: end; }
+.gf {
+  flex: 1 1 40%;
   display: flex;
   flex-direction: column;
   font-family: var(--sans);
-  font-size: 0.74rem;
+  font-size: 0.66rem;
   text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--ink-soft);
-  gap: 0.35rem;
+  gap: 0.25rem;
 }
+.guess-submit { flex: 1 1 100%; width: auto; margin-top: 0.1rem; }
 select, input[type="number"] {
   font-family: var(--display);
   font-size: 1.15rem;
@@ -278,7 +282,7 @@ select, input[type="number"] {
   border-radius: 2px;
 }
 select:focus, input[type="number"]:focus { outline: 2px solid var(--stamp); outline-offset: 1px; }
-.error { color: var(--stamp); font-family: var(--sans); font-size: 0.85rem; margin: 0.6rem 0 0; }
+.error { color: var(--stamp); font-family: var(--sans); font-size: 0.85rem; margin: 0 0 0.5rem; }
 
 /* ---- buttons (ink-stamp feel) ---- */
 button {
@@ -346,6 +350,40 @@ button:active { transform: translateY(2px); }
 .verdict-main { font-weight: 700; font-size: 1.1rem; font-family: var(--display); }
 .verdict-tone { color: var(--ink-soft); }
 .verdict-points { margin-left: auto; font-weight: 900; font-family: var(--display); color: var(--good); }
+.verdict-icon { font-size: 1.5rem; line-height: 1; }
+
+/* "How far off" timeline */
+.timeline { margin: 0 0 1.2rem; }
+.tl-track {
+  position: relative;
+  height: 4px;
+  background: var(--rule);
+  border-radius: 2px;
+  margin: 1.6rem 0 0.4rem;
+}
+.tl-gap { position: absolute; top: 0; height: 4px; background: var(--stamp); opacity: 0.3; }
+.tl-dot {
+  position: absolute;
+  top: 50%;
+  width: 15px; height: 15px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid var(--paper-bright);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+.tl-dot.guess { background: var(--ink); }
+.tl-dot.actual { background: var(--stamp); }
+.tl-ends, .tl-key { font-family: var(--sans); }
+.tl-ends {
+  display: flex; justify-content: space-between;
+  font-size: 0.66rem; color: var(--ink-soft);
+  text-transform: uppercase; letter-spacing: 0.08em;
+}
+.tl-key { display: flex; gap: 1.2rem; justify-content: center; font-size: 0.74rem; margin-top: 0.35rem; }
+.tl-key .k::before { content: "\25CF"; margin-right: 0.3rem; }
+.tl-key .k.guess::before { color: var(--ink); }
+.tl-key .k.actual::before { color: var(--stamp); }
+
 .blurb { font-size: 1.08rem; margin: 0 0 1rem; }
 .reveal-figure { margin: 0 0 1rem; }
 .reveal-image {
@@ -407,8 +445,25 @@ button:active { transform: translateY(2px); }
 .recap-square { font-size: 1.1rem; }
 .recap-date { font-weight: 700; min-width: 7.5rem; font-family: var(--display); }
 .recap-link { color: var(--ink-soft); }
-.actions { display: flex; gap: 0.75rem; }
-.actions button { flex: 1; margin-top: 0; }
+.results-actions { margin-top: 0.5rem; }
+.big-share {
+  width: 100%;
+  margin-top: 0;
+  font-size: 1.1rem;
+  padding: 1rem 1.2rem;
+}
+.home-link {
+  display: block;
+  width: 100%;
+  margin: 0.7rem auto 0;
+  background: none;
+  border: none;
+  color: var(--ink-soft);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-size: 0.88rem;
+  padding: 0.4rem;
+}
 .toast {
   font-family: var(--sans);
   font-size: 0.9rem;

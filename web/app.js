@@ -151,20 +151,21 @@
         <p class="prompt">Read the front page. When did it run?</p>
         ${newspaper}
         <form class="guess" id="guess-form" novalidate>
-          <p class="guess-legend">When was this?</p>
-          <div class="guess-fields">
-            <label>Month
-              <select id="month" required>
-                <option value="" selected disabled>—</option>${monthOpts}
-              </select>
-            </label>
-            <label>Year
-              <input id="year" type="number" inputmode="numeric"
-                     min="1851" max="2019" placeholder="1851–2019" required />
-            </label>
+          <div class="guess-inner">
+            <p class="error" id="guess-error" hidden></p>
+            <div class="guess-row">
+              <label class="gf">Month
+                <select id="month" required>
+                  <option value="" selected disabled>—</option>${monthOpts}
+                </select>
+              </label>
+              <label class="gf">Year
+                <input id="year" type="number" inputmode="numeric"
+                       min="1851" max="2019" placeholder="1851–2019" required />
+              </label>
+              <button type="submit" class="primary guess-submit">Go to Press</button>
+            </div>
           </div>
-          <p class="error" id="guess-error" hidden></p>
-          <button type="submit" class="primary">Go to Press</button>
         </form>
       </section>`;
 
@@ -202,6 +203,25 @@
       `<li><a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">
         ${escapeHtml(displayHeadline(s.headline))}</a></li>`).join("");
 
+    // "How far off" timeline: your guess vs the real year on an 1851–2019 line.
+    const MINY = 1851, MAXY = 2019;
+    const pos = (y) => Math.max(0, Math.min(100, ((y - MINY) / (MAXY - MINY)) * 100));
+    const gp = pos(r.guess.year), ap = pos(round.answer.year);
+    const lo = Math.min(gp, ap), hi = Math.max(gp, ap);
+    const timeline = `
+      <div class="timeline">
+        <div class="tl-track">
+          <div class="tl-gap" style="left:${lo}%;width:${hi - lo}%"></div>
+          <div class="tl-dot guess" style="left:${gp}%"></div>
+          <div class="tl-dot actual" style="left:${ap}%"></div>
+        </div>
+        <div class="tl-ends"><span>1851</span><span>${MAXY}</span></div>
+        <div class="tl-key">
+          <span class="k guess">Your guess (${r.guess.year})</span>
+          <span class="k actual">Actual (${round.answer.year})</span>
+        </div>
+      </div>`;
+
     // Reveal-screen image: NYT photo (recent era) or Wikimedia (older era).
     const ri = round.reveal_image;
     const imageBlock = ri && ri.url ? `
@@ -216,10 +236,12 @@
         <p class="reveal-eyebrow">These stories ran in&hellip;</p>
         <p class="reveal-date stamp">${MONTHS[round.answer.month]} ${round.answer.year}</p>
         <p class="reveal-verdict">
+          <span class="verdict-icon">${Scoring.eraIcon(r.err)}</span>
           <span class="verdict-main">${Scoring.errorLabel(r.err)}</span>
           <span class="verdict-tone">${Scoring.toneMessage(r.err)}</span>
           <span class="verdict-points" id="vpoints">+0</span>
         </p>
+        ${timeline}
         ${round.blurb ? `<p class="blurb">${escapeHtml(round.blurb)}</p>` : ""}
         ${imageBlock}
         <details class="sources" open>
@@ -304,11 +326,11 @@
           <span>/ ${Scoring.maxTotal.toLocaleString()}</span></p>
         <p class="percentile">${placementLine(data)}</p>
         <div class="histogram">${bars}</div>
-        <h3>Today&rsquo;s New York Times history&hellip;</h3>
+        <h3>Today&rsquo;s front pages, revealed</h3>
         <ul class="recap">${recap}</ul>
-        <div class="actions">
-          <button id="home" class="secondary">Home</button>
-          <button id="share" class="primary">Share</button>
+        <div class="results-actions">
+          <button id="share" class="primary big-share">Share your score</button>
+          <button id="home" class="home-link">&larr; Home</button>
         </div>
         <p class="toast" id="toast" hidden></p>
       </section>`;

@@ -39,6 +39,16 @@
     return years + (years === 1 ? " year off" : " years off");
   }
 
+  // Escalating "how far off" icon for the reveal screen — a dinosaur when
+  // you're off by a lot. err is in months.
+  function eraIcon(err) {
+    if (err <= 6) return "🎯";
+    if (err <= 24) return "🗓️";
+    if (err <= 120) return "🕰️";
+    if (err <= 360) return "🏛️";
+    return "🦕";
+  }
+
   // Spoiler-free share square per round (never reveals the date).
   function shareSquare(err) {
     if (err === 0) return "🟩";
@@ -50,7 +60,7 @@
 
   const Scoring = {
     MAX_POINTS, HALF_LIFE, ROUNDS,
-    monthIndex, errorMonths, roundPoints, toneMessage, errorLabel, shareSquare,
+    monthIndex, errorMonths, roundPoints, toneMessage, errorLabel, eraIcon, shareSquare,
     maxTotal: MAX_POINTS * ROUNDS,
   };
 
