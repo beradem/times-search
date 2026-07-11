@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T06:23:30.576891+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1886,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "A DAY'S EVENTS IN LONDON; LORD SALISBURY TO VISIT THE QUEEN TO-MORROW. CHARGES OF CORRUPTION IN THE ORDNANCE DEPARTMENT IGNORED BY THE WAR SECRETARY. MRS. CRAWFORD'S SHAME. SIR CHARLES DILKE EXCITED OVER THE SUMMING UP. JUDGE J.F. DALY'S AFFLICTION. CURRENT FOREIGN TOPICS.",
+          "summary": "Lord Salisbury is scheduled to meet with the Queen and his cabinet colleagues after arriving in London. He will then travel to Osborne on Saturday.",
+          "image": null,
+          "url": "https://www.nytimes.com/1886/07/23/archives/a-days-events-in-london-lord-salisbury-to-visit-the-queen-tomorrow.html"
+        },
+        {
+          "headline": "KNIGHTS OF LABOR CAUGHT; CONFESSING THEY WRECKED A FREIGHT TRAIN. FIVE OF THEM ARRESTED ON A CHARGE OF MURDERING A MISSOURI PACIFIC FIREMAN AND BRAKEMAN.",
+          "summary": "Five members of the Knights of Labor were arrested and confessed to wrecking a freight train and murdering a fireman and brakeman during a strike.",
+          "image": null,
+          "url": "https://www.nytimes.com/1886/07/20/archives/knights-of-labor-caught-confessing-they-wrecked-a-freight-train.html"
+        },
+        {
+          "headline": "UNREST AGAIN IN FRANCE; THOUGHTFUL MEN ANXIOUS FOR THE REPUBLIC. BLUNDERS IT HAS MADE--ENTHUSIASM OVER THE FETE WANTING--BOULANGER'S POPULARITY, AND GREAT EVENTS THAT MAY BE NEAR AT HAND.",
+          "summary": "There is unrest in France, with princes being expelled and concerns about the stability of the republic, as well as the popularity of a figure named Boulanger.",
+          "image": null,
+          "url": "https://www.nytimes.com/1886/07/18/archives/unrest-again-in-france-thoughtful-men-anxious-for-the-republic.html"
+        },
+        {
+          "headline": "THE HATED CASTLEREAGH; LORD SALISBURY'S STUPID BLUNDER AT THE OUTSET. LONDONDERRY'S APPOINTMENT AS LORD LIEUTENANT OF IRELAND--LORD RANDOLPH CHURCHILL'S HAND IN THE NEW POLITICAL GAME.",
+          "summary": "The Marquis of Londonderry has been appointed as the Lord Lieutenant of Ireland, a move that is seen as part of a new political strategy.",
+          "image": null,
+          "url": "https://www.nytimes.com/1886/07/30/archives/the-hated-castlereagh-lord-salisburys-stupid-blunder-at-the-outset.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/1886_Australia_national_cricket_team.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Australian_cricket_team_in_England_in_1886",
+        "title": "Australian cricket team in England in 1886"
+      },
+      "blurb": "Lord Salisbury met with the Queen and his cabinet colleagues in London. The Knights of Labor were arrested for wrecking a freight train and murdering a fireman and brakeman. Unrest occurred in France, with concerns about the republic's stability.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.116
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2009,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "In New Jersey, Dreams of a Better Life Dashed by Foreclosure Crisis",
+          "summary": "Many people in New Jersey are losing their homes due to mortgage defaults, especially in areas where subprime loans were common. This is causing a foreclosure crisis in the state.",
+          "image": "https://static01.nyt.com/images/2009/05/17/nyregion/17mortnj.span.jpg",
+          "url": "https://www.nytimes.com/2009/05/17/nyregion/new-jersey/17mortnj.html"
+        },
+        {
+          "headline": "At Notre Dame, Obama Calls for Civil Tone in Abortion Debate",
+          "summary": "President Obama gave a speech at Notre Dame about abortion, calling for a more civil discussion, but was met with protests from anti-abortion leaders.",
+          "image": "https://static01.nyt.com/images/2009/05/14/us/18obama4_600.JPG",
+          "url": "https://www.nytimes.com/2009/05/18/us/politics/18obama.html"
+        },
+        {
+          "headline": "A Dose of Diesel Medicine Without the Nasty Aftertaste",
+          "summary": "BMW has created a new high-performance diesel vehicle for the American market, but it is expensive.",
+          "image": "https://static01.nyt.com/images/2009/05/10/automobiles/600-diesel-span.jpg",
+          "url": "https://www.nytimes.com/2009/05/10/automobiles/autoreviews/10bmw.html"
+        },
+        {
+          "headline": "As Dollars Pile Up, Uneasy Traders Lower the Currency’s Value",
+          "summary": "The value of the dollar has decreased due to concerns that economic stimulus efforts may lead to inflation, making traders nervous.",
+          "image": null,
+          "url": "https://www.nytimes.com/2009/05/23/business/economy/23dollar.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2009/05/17/nyregion/17mortnj.span.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "The foreclosure crisis worsened, causing many New Jersey residents to lose their homes. President Obama called for a civil tone in the abortion debate during a speech at Notre Dame. The dollar's value decreased due to inflation concerns.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.368
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1983,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "Summary; BUSINESS DIGEST; TUESDAY, JANUARY 25, 1983; International",
+          "summary": "An OPEC meeting in Geneva ended without an agreement on production quotas, which could lead to lower oil prices. Oil company stocks fell sharply as a result.",
+          "image": null,
+          "url": "https://www.nytimes.com/1983/01/25/business/summary-business-digest-tuesday-january-25-1983-international.html"
+        },
+        {
+          "headline": "DEFICIT IN THE $185 BILLION RANGE EXPECTED IN 1984 REAGAN BUDGET",
+          "summary": "The upcoming budget is expected to have a deficit of around $185 billion, which is higher than the previously set target of $155 billion due to a lengthening recession.",
+          "image": null,
+          "url": "https://www.nytimes.com/1983/01/18/us/deficit-in-the-185-billion-range-expected-in-1984-reagan-budget.html"
+        },
+        {
+          "headline": "GROWTH FOR INDUSTRIAL ECONOMIES URGED BY U.S. TO EASE DEBT CRISIS",
+          "summary": "A US policymaker warned that the international debt crisis will worsen unless Western nations and Japan boost their economies to stimulate growth and increase trade.",
+          "image": null,
+          "url": "https://www.nytimes.com/1983/01/17/business/growth-for-industrial-economies-urged-by-us-to-ease-debt-crisis.html"
+        },
+        {
+          "headline": "JUDGE TELLS YANKEES TO PLAY 1983 OPENER IN BRONX, NOT DENVER",
+          "summary": "A judge ruled that the New York Yankees cannot play their first three home games in Denver, ordering them to play in Yankee Stadium instead.",
+          "image": null,
+          "url": "https://www.nytimes.com/1983/01/11/nyregion/judge-tells-yankees-to-play-1983-opener-in-bronx-not-denver.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Hang_Seng_Index",
+        "title": "Hang Seng Index"
+      },
+      "blurb": "The OPEC meeting in Geneva ended without an agreement on production quotas, potentially leading to lower oil prices. Oil company stocks fell sharply as a result, amidst concerns over the US budget deficit and international debt crisis. The US urged Western nations to boost their economies.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    }
+  ]
+}
