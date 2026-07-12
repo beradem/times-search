@@ -353,12 +353,16 @@
 
   async function share() {
     const text = shareText();
+    const fullText = `${text}\n${SHARE_URL}`;
     try {
       if (navigator.share) {
-        await navigator.share({ title: "Times Search", text, url: SHARE_URL });
+        // Pass the URL as part of `text` rather than as a separate `url` field:
+        // macOS Safari's share sheet (Mail, Messages, Notes) drops `text` and
+        // shows only the URL when both fields are given, unlike iOS Safari.
+        await navigator.share({ title: "Times Search", text: fullText });
         return;
       }
-      await navigator.clipboard.writeText(`${text}\n${SHARE_URL}`);
+      await navigator.clipboard.writeText(fullText);
       toast("Copied — score and link on your clipboard!");
     } catch (_) { toast("Couldn't share — here it is:\n" + text + "\n" + SHARE_URL); }
   }
