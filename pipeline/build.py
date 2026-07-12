@@ -10,6 +10,7 @@ import argparse
 import datetime as dt
 import json
 import os
+import re
 import sys
 from zoneinfo import ZoneInfo
 
@@ -23,18 +24,36 @@ def _clean_story(s):
     return {k: s.get(k) for k in PUBLIC_STORY_KEYS}
 
 
+def _sig_words(text):
+    cleaned = re.sub(r"[^a-z0-9 ]", " ", (text or "").lower())
+    return {w for w in cleaned.split()
+            if len(w) > 3 and any(c.isalpha() for c in w)}
+
+
+def _relevant(query, title):
+    """Keep a Wikimedia image only if its page title shares a real word with the
+    search query — a wrong image is worse than no image."""
+    return bool(_sig_words(query) & _sig_words(title))
+
+
 def card_image(story, year, with_wikimedia=True):
     """Best image for a story card: its NYT photo (recent era) if present, else a
-    Wikimedia image of the topic/event (older eras). Rendered as a newsprint
-    halftone on the client, so era/style never leaks. Returns (url, source)."""
+    Wikimedia image found via the LLM-written image query (older eras), only if
+    it passes a relevance check. Rendered as a newsprint halftone on the client,
+    so era/style never leaks. Returns (url, source)."""
     nyt = story.get("image")  # from ranker.pick_image (NYT), may be None
     if nyt:
         return nyt, "The New York Times"
     if not with_wikimedia:
         return None, None
-    term = story.get("topic") or story["headline"].split(";")[0].strip()
-    img = wikimedia.find_image(f"{term} {year}")
-    return (img["url"], img["source"]) if img else (None, None)
+    query = (story.get("_image_query") or story.get("topic")
+             or story["headline"].split(";")[0].strip())
+    if not query:
+        return None, None
+    img = wikimedia.find_image(query)
+    if img and _relevant(query, img.get("title")):
+        return img["url"], img["source"]
+    return None, None  # no confident match -> text-only card
 
 
 def build_round(index, year, month, with_blurb=True):
@@ -43,9 +62,10 @@ def build_round(index, year, month, with_blurb=True):
     if not stories:
         raise ValueError(f"{year}-{month:02d} produced no rankable stories")
     if with_blurb:
-        # Clarify the cryptic abstracts into plain-English play-screen summaries.
-        for s, clear in zip(stories, summaries.clarify(year, month, stories)):
-            s["summary"] = clear
+        # Clarify summaries and get a targeted image query per story.
+        for s, e in zip(stories, summaries.clarify(year, month, stories)):
+            s["summary"] = e["summary"]
+            s["_image_query"] = e["image_query"]
     text = blurb.generate(year, month, stories) if with_blurb else None
     # One image per story card (halftone-treated on the client).
     for s in stories:
