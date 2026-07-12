@@ -31,29 +31,41 @@ def _sig_words(text):
 
 
 def _relevant(query, title):
-    """Keep a Wikimedia image only if its page title shares a real word with the
-    search query — a wrong image is worse than no image."""
-    return bool(_sig_words(query) & _sig_words(title))
+    """Does the page title share a real word with the query? Prefix-matches so
+    plurals/variants count (election/elections, riot/riots)."""
+    qs, ts = _sig_words(query), _sig_words(title)
+    for a in qs:
+        for b in ts:
+            if a == b or (len(a) >= 4 and len(b) >= 4
+                          and (a.startswith(b) or b.startswith(a))):
+                return True
+    return False
 
 
 def card_image(story, year, with_wikimedia=True):
-    """Best image for a story card: its NYT photo (recent era) if present, else a
-    Wikimedia image found via the LLM-written image query (older eras), only if
-    it passes a relevance check. Rendered as a newsprint halftone on the client,
-    so era/style never leaks. Returns (url, source)."""
+    """Best image for a story card, cascading so every card gets a topical
+    picture: NYT photo (recent) -> specific event image (if relevant) -> broad
+    theme image (guaranteed-photographable) -> best specific result. Rendered as
+    a newsprint halftone client-side, so era/style never leaks."""
     nyt = story.get("image")  # from ranker.pick_image (NYT), may be None
     if nyt:
         return nyt, "The New York Times"
     if not with_wikimedia:
         return None, None
-    query = (story.get("_image_query") or story.get("topic")
-             or story["headline"].split(";")[0].strip())
-    if not query:
-        return None, None
-    img = wikimedia.find_image(query)
-    if img and _relevant(query, img.get("title")):
+    specific = (story.get("_image_query") or story.get("topic")
+                or story["headline"].split(";")[0].strip())
+    broad = story.get("_image_query_broad") or story.get("topic") or ""
+
+    img = wikimedia.find_image(specific) if specific else None
+    if img and _relevant(specific, img.get("title")):        # best: on-topic event
         return img["url"], img["source"]
-    return None, None  # no confident match -> text-only card
+    if broad and broad.lower() != (specific or "").lower():   # broad theme fallback
+        b = wikimedia.find_image(broad)
+        if b:
+            return b["url"], b["source"]
+    if img:                                                   # last resort
+        return img["url"], img["source"]
+    return None, None
 
 
 def build_round(index, year, month, with_blurb=True):
@@ -62,10 +74,11 @@ def build_round(index, year, month, with_blurb=True):
     if not stories:
         raise ValueError(f"{year}-{month:02d} produced no rankable stories")
     if with_blurb:
-        # Clarify summaries and get a targeted image query per story.
+        # Clarify summaries and get targeted + broad image queries per story.
         for s, e in zip(stories, summaries.clarify(year, month, stories)):
             s["summary"] = e["summary"]
             s["_image_query"] = e["image_query"]
+            s["_image_query_broad"] = e.get("image_query_broad", "")
     text = blurb.generate(year, month, stories) if with_blurb else None
     # One image per story card (halftone-treated on the client).
     for s in stories:

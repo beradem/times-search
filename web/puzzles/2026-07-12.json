@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T22:12:29.241594+00:00",
+  "generated_at": "2026-07-12T22:18:22.353828+00:00",
   "rounds": [
     {
       "round": 1,
@@ -11,35 +11,38 @@
       "stories": [
         {
           "headline": "REFORM IN THE BALLOT; CONNECTICUT'S EFFORT TO SECURE IT. HEARING BEFORE THE JUDICIARY COMMITTEE YESTERDAY--THE LONG CONTEST BE FOUGHT OVER.",
-          "summary": "A hearing was held for the Secret-Ballot bill, with supporters and opponents presenting their arguments. The bill aims to reform the voting system.",
-          "image": null,
-          "image_source": null,
+          "summary": "A hearing was held for the Secret-Ballot bill, with supporters and opponents presenting their arguments. The bill aims to reform the voting process.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%22The_Georgetown_Election_-_The_Negro_at_the_Ballot_Box%22_by_Thomas_Nast_-_Harper%27s_Weekly_-_March_16%2C_1867.jpg/1280px-%22The_Georgetown_Election_-_The_Negro_at_the_Ballot_Box%22_by_Thomas_Nast_-_Harper%27s_Weekly_-_March_16%2C_1867.jpg",
+          "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1889/06/19/archives/reform-in-the-ballot-connecticuts-effort-to-secure-it-hearing.html"
         },
         {
           "headline": "FORAKER WINS THE PRIZE; OHIO REPUBLICANS OFFER HIM A THIRD TERM. WORK OF THE CONVENTION DONE WITHOUT CREATING ANY BITTER ANTAGONISMS--THE TICKET NAMED. THE DEMOCRATIC OUTLOOK.",
-          "summary": "J. B. Foraker has been nominated for a third term as Governor by Ohio Republicans. The convention completed its work without major conflicts.",
+          "summary": "The Republican convention in Ohio has nominated J. B. Foraker for Governor, offering him a third term. The Democratic outlook is also discussed.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/RP1896.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1889/06/27/archives/foraker-wins-the-prize-ohio-republicans-offer-him-a-third-term-work.html"
         },
         {
           "headline": "BODIES ARE EVERYWHERE; PESTILENCE THREATENED IN CONEMAUGH VALLEY. FULLY 10,000 PERSONS MUST HAVE PERISHED. DRAGGING THE CHARRED BODIES FROM THE BURNING WRECK--CORPSES FOUND IN THE MUD AND SAND--THE RESPONSIBILITY FOR THE DAM WHICH GAVE WAY--THE WHOLE COUNTRY RISING TO AID THE SUFFERERS.",
-          "summary": "A devastating flood has occurred in the Conemaugh Valley, resulting in a massive loss of life, with over 10,000 people feared dead. The disaster has left a trail of destruction and raised concerns about the risk of disease.",
+          "summary": "A devastating flood in the Conemaugh Valley has resulted in approximately 10,000 deaths, with bodies found in the mud and sand. The country is coming together to aid the survivors.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Johnstown_Tree_in_House.jpg/1280px-Johnstown_Tree_in_House.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1889/06/04/archives/bodies-are-everywhere-pestilence-threatened-in-conemaugh-valley.html"
         },
         {
           "headline": "BURYING ITS MANY DEAD; JOHNSTOWN NOW A CITY OF MORGUES. UNKNOWN BODIES HURRIED TO UNNAMED GRAVES. THE DEATH LIST CERTAINLY 10,000-- STRINGENT MEASURES AND HARD WORK NECESSARY TO PREVENT A PESTILENCE--DISTRIBUTING THE GREAT STORES OF FOOD AND CLOTHING--THE STORY OF THE FATAL FLOOD RETOLD--THE GREAT DAMAGE BELOW THE AFFLICTED CITY. A CROWDED MORGUE. A TERRIBLE DEATH MILL.",
-          "summary": "The city of Johnstown is struggling to cope with the aftermath of a catastrophic flood, with thousands of dead being buried in unnamed graves. Efforts are underway to prevent the spread of disease and provide aid to the affected areas.",
+          "summary": "The city of Johnstown is struggling to cope with the aftermath of a massive flood, with thousands of dead being buried in unnamed graves. Efforts are being made to prevent a pestilence and distribute food and clothing.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Johnstown_Tree_in_House.jpg/1280px-Johnstown_Tree_in_House.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1889/06/06/archives/burying-its-many-dead-johnstown-now-a-city-of-morgues-unknown.html"
         }
       ],
-      "reveal_image": null,
-      "blurb": "The Johnstown flood devastated the Conemaugh Valley, killing over 10,000 people. The disaster left a trail of destruction and raised concerns about disease. Relief efforts were underway to aid the affected areas.",
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%22The_Georgetown_Election_-_The_Negro_at_the_Ballot_Box%22_by_Thomas_Nast_-_Harper%27s_Weekly_-_March_16%2C_1867.jpg/1280px-%22The_Georgetown_Election_-_The_Negro_at_the_Ballot_Box%22_by_Thomas_Nast_-_Harper%27s_Weekly_-_March_16%2C_1867.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Johnstown flood devastated the Conemaugh Valley, resulting in approximately 10,000 deaths. Bodies were found in the mud and sand, and the country came together to aid survivors. The city struggled to cope with the aftermath, burying thousands of dead in unnamed graves.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.18
@@ -54,29 +57,29 @@
       "stories": [
         {
           "headline": "NORMANDIE FLOATS AT 49-DEGREE LIST; GREAT HULL SOUND; Liner Barely Free of Hudson River Mud at High Tide After Hours of Pumping THOUSANDS WATCH WORK Vessel is Expected to Reach 45-Degree Angle Today -- Big Task Still Left Three Stages in the Herculean Task of Salvaging the Capsized Normandie Normandie Floats at High Tide With List Reduced to 49 Degrees",
-          "summary": "The capsized Normandie liner has been partially righted, floating with a 49-degree list after hours of pumping. Thousands of people watched as the vessel was freed from Hudson River mud at high tide.",
+          "summary": "The capsized Normandie liner has been partially salvaged, floating with a 49-degree list after hours of pumping. Thousands of people watched as the vessel was freed from Hudson River mud at high tide.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/SS_Normandie_at_sea_view.JPG",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1943/08/09/archives/normandie-floats-at-49degree-list-great-hull-sound-liner-barely.html"
         },
         {
           "headline": "HARLEM IS ORDERLY WITH HEAVY GUARD READY FOR TROUBLE; Rioting of Sunday Night Tapers -Off -- 8,000 State Troops Are Held in Their Armories PARTIAL CURFEW ORDERED Liquor Sales Barred, Crowds Dispersed -- Police and Army Investigate Sabotage Tip HARLEM AFTER A NIGHT OF RIOTING: IT BROUGHT DEATH, DESTRUCTION AND LOOTING HARLEM IS ORDERLY WITH HEAVY GUARD",
-          "summary": "Rioting in Harlem has subsided with a heavy guard in place, and a partial curfew has been ordered to maintain order. The area is being patrolled by police and state troops after a night of violence and looting.",
+          "summary": "Rioting in Harlem has subsided with a heavy guard in place, and a partial curfew has been ordered. The area is being patrolled by police and army personnel, with 8,000 state troops on standby.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Demonstrators-Harlem-1964.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1943/08/03/archives/harlem-is-orderly-with-heavy-guard-ready-for-trouble-rioting-of.html"
         },
         {
           "headline": "GANGSTER BACKED AURELIO FOR BENCH, PROSECUTOR AVERS; LEADERS 'SCHOCKED' District Attorney Says Magistrate Phoned Thanks to Costello REPUDIATION IS PLANNED Chiefs of Two Parties Will Confer Today on Possible Steps to Find Remedy RACKETEER AIDED AURELIO, IT IS SAID ACCUSED BY HOGAN",
-          "summary": "A prosecutor has accused a gangster of backing a magistrate's nomination to the Supreme Court, and party leaders plan to confer on possible steps to address the issue. The nomination is expected to be repudiated if the charges are sustained.",
-          "image": null,
-          "image_source": null,
+          "summary": "A prosecutor has accused a gangster of backing a magistrate's nomination to the Supreme Court, and party leaders are planning to confer on possible steps to address the issue. The nomination is expected to be repudiated if the charges are sustained.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_the_Mayor_of_New_York_City.svg/1280px-Flag_of_the_Mayor_of_New_York_City.svg.png",
+          "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1943/08/29/archives/gangster-backed-aurelio-for-bench-prosecutor-avers-leaders-schocked.html"
         },
         {
           "headline": "GASOLINE RATIONS OF MIDWEST CUT; EAST TO GAIN LATER; Driving Ban on Seaboard May End Sept. 1 if It Is Not Violated Until Then, OPA Says RELIEF FOR BUSES, TRUCKS Local Boards in East Will Be Allowed to Ease Curbs on Autoists Driving to Work Gasoline Rations of Midwest Cut; Gains for East Are Expected Soon",
-          "summary": "Gasoline rations have been cut in the Midwest, but the East is expected to see increased rations soon. A driving ban on the Seaboard may be lifted if it is not violated, and local boards in the East will be allowed to ease restrictions on driving to work.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Romanian_ration-card_for_bread%2C_1989.jpg",
+          "summary": "Gasoline rations have been cut in the Midwest, but the East is expected to see increased rations soon. A driving ban on the seaboard may be lifted if it is not violated until a certain date.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/U.S._gas_rationing_stamps_1974.jpg/1280px-U.S._gas_rationing_stamps_1974.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1943/08/14/archives/gasoline-rations-of-midwest-cut-east-to-gain-later-driving-ban-on.html"
         }
@@ -85,7 +88,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/SS_Normandie_at_sea_view.JPG",
         "source": "Wikimedia Commons"
       },
-      "blurb": "The Normandie liner was partially righted, floating with a 49-degree list after hours of pumping. Rioting in Harlem subsided with a heavy guard in place. Gasoline rations were cut in the Midwest, with expected gains for the East soon.",
+      "blurb": "The Normandie liner was partially salvaged, floating with a 49-degree list after hours of pumping. Rioting in Harlem subsided with a heavy guard in place. Gasoline rations were cut in the Midwest, with expected gains for the East.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.653
@@ -100,35 +103,38 @@
       "stories": [
         {
           "headline": "Paris Yellow Book Charges Hitler Gave Czech President '3d Degree'; French Envoy Relates Injections Kept Hacha Conscious Till He Accepted Protectorate Under Threat of Destruction of Prague FRENCH SAY HACHA GOT 'THIRD DEGREE' Grueling Scene Depicted Kept Conscious by Injections French Envoy Tells of Plea Reich-Soviet Accord Forecast Hitler's Irritation Depicted Reich Assumed a Free Hand Onus Laid Upon Britain Hitter's Last Gesture Recited",
-          "summary": "The French government claims that Hitler used coercive tactics to force the Czech President to accept a protectorate, and that this was part of a larger pattern of German aggression. The French also believe that a German-Soviet pact was foreseeable and that Hitler is irritated with Britain.",
-          "image": null,
-          "image_source": null,
+          "summary": "The French government has released a report detailing the events leading up to the war, including the treatment of the Czech President by Hitler. The report reveals that Hitler used coercive methods to force the Czech President to accept a protectorate under threat of destruction.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+          "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1939/12/22/archives/paris-yellow-book-charges-hitler-gave-czech-president-3d-degree.html"
         },
         {
           "headline": "COMMUNIST PARTY DROPS ITS BOYCOTT OF GERMAN GOODS; Foster Declares Workers Have No Interest in Aiding Either Side in 'Imperialist War' DRIVE ON JAPAN CONTINUES Reds' Withdrawal Welcomed by Jewish Group Opposing Purchases From Nazis Japanese Boycott Approved Campaign Will Go On COMMUNISTS DROP BOYCOTT OF NAZIS Row in Dress Union Explained",
-          "summary": "The Communist Party has ended its boycott of German goods, stating that workers should not support either side in the war. The party will continue its campaign against Japanese goods.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kke.svg/1280px-Kke.svg.png",
+          "summary": "The Communist Party has dropped its boycott of German goods, stating that workers have no interest in aiding either side in the war. The party will continue its campaign against Japan.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kommunistische_Partei_%C3%96sterreichs_Logo.svg/1280px-Kommunistische_Partei_%C3%96sterreichs_Logo.svg.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1939/12/16/archives/communist-party-drops-its-boycott-of-german-goods-foster-declares.html"
         },
         {
           "headline": "DEMOCRATIC HEADS TO ASK ROOSEVELT FOR NLRA REVISION; They Will Offer Amendments in the Hope of Shelving the Wagner Act as '40 Issue WHITE HOUSE TALKS DUE Plan to Make Law Similar to the Railway Act and to Curb Board Powers Weighed Smith Proposal a Big Factor Several Issues Come to the Fore DEMOCRATIC HEADS SEEK NLRA CHANGE Court Upsets NLRB Ruling",
-          "summary": "Democratic leaders plan to ask President Roosevelt to revise the National Labor Relations Act, hoping to make it a non-issue in the upcoming election. They propose amendments to curb the power of the National Labor Relations Board.",
+          "summary": "Democratic leaders plan to ask President Roosevelt to revise the National Labor Relations Act, hoping to shelve the Wagner Act as an issue in the upcoming election.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/1280px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1939/12/29/archives/democratic-heads-to-ask-roosevelt-for-nlra-revision-they-will-offer.html"
         },
         {
           "headline": "DIES INVESTIGATOR SAYS REDS UTILIZE CONSUMER GROUPS; Report by Matthews States Communists Try to Stir Discontent Among ShoppersTO SABOTAGE ADVERTISINGAsserts Radicals Strike at Thisas Vital to Capitalism--Names Alleged 'Agitators' Says Discontent Is Exploited Investigation of Magazine Cited SAYS REDS UTILIZE CONSUMER GROUPS 'Transmission Belts' Listed Leaders in Groups Named",
-          "summary": "An investigator claims that communists are using consumer groups to stir up discontent among shoppers and sabotage advertising, which they see as vital to capitalism.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chairman_Dies_of_House_Committee_investigating_Un-American_activities.jpg/1280px-Chairman_Dies_of_House_Committee_investigating_Un-American_activities.jpg",
+          "summary": "An investigator claims that Communists are using consumer groups to stir up discontent among shoppers and sabotage advertising, which is seen as vital to capitalism.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_the_Soviet_Union_%281956%E2%80%931991%29.svg/1280px-Coat_of_arms_of_the_Soviet_Union_%281956%E2%80%931991%29.svg.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1939/12/11/archives/dies-investigator-says-reds-utilize-consumer-groups-report-by.html"
         }
       ],
-      "reveal_image": null,
-      "blurb": "Hitler coerced Czech President Hacha into accepting a protectorate under threat of destruction. The French government revealed Hitler's coercive tactics, including injections to keep Hacha conscious. German aggression and the Reich's relations with other nations were also scrutinized.",
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Hitler coerced the Czech President into accepting a protectorate under threat of destruction. The Communist Party dropped its boycott of German goods, focusing instead on its campaign against Japan. Democratic leaders sought revisions to the National Labor Relations Act.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.574
