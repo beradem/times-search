@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T06:44:00.181165+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1889,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "REFORM IN THE BALLOT; CONNECTICUT'S EFFORT TO SECURE IT. HEARING BEFORE THE JUDICIARY COMMITTEE YESTERDAY--THE LONG CONTEST BE FOUGHT OVER.",
+          "summary": "A large crowd attended a hearing about a secret-ballot bill in Connecticut, where supporters and opponents, including several local officials, presented their arguments. The bill aims to reform the voting process in the state.",
+          "image": null,
+          "url": "https://www.nytimes.com/1889/06/19/archives/reform-in-the-ballot-connecticuts-effort-to-secure-it-hearing.html"
+        },
+        {
+          "headline": "FORAKER WINS THE PRIZE; OHIO REPUBLICANS OFFER HIM A THIRD TERM. WORK OF THE CONVENTION DONE WITHOUT CREATING ANY BITTER ANTAGONISMS--THE TICKET NAMED. THE DEMOCRATIC OUTLOOK.",
+          "summary": "Ohio Republicans have nominated J. B. Foraker for a third term as governor, and the party has finalized its ticket without major conflicts.",
+          "image": null,
+          "url": "https://www.nytimes.com/1889/06/27/archives/foraker-wins-the-prize-ohio-republicans-offer-him-a-third-term-work.html"
+        },
+        {
+          "headline": "BODIES ARE EVERYWHERE; PESTILENCE THREATENED IN CONEMAUGH VALLEY. FULLY 10,000 PERSONS MUST HAVE PERISHED. DRAGGING THE CHARRED BODIES FROM THE BURNING WRECK--CORPSES FOUND IN THE MUD AND SAND--THE RESPONSIBILITY FOR THE DAM WHICH GAVE WAY--THE WHOLE COUNTRY RISING TO AID THE SUFFERERS.",
+          "summary": "A devastating flood in the Conemaugh Valley has resulted in the deaths of approximately 10,000 people, with bodies found in the wreckage and in mud and sand, prompting a massive relief effort.",
+          "image": null,
+          "url": "https://www.nytimes.com/1889/06/04/archives/bodies-are-everywhere-pestilence-threatened-in-conemaugh-valley.html"
+        },
+        {
+          "headline": "BURYING ITS MANY DEAD; JOHNSTOWN NOW A CITY OF MORGUES. UNKNOWN BODIES HURRIED TO UNNAMED GRAVES. THE DEATH LIST CERTAINLY 10,000-- STRINGENT MEASURES AND HARD WORK NECESSARY TO PREVENT A PESTILENCE--DISTRIBUTING THE GREAT STORES OF FOOD AND CLOTHING--THE STORY OF THE FATAL FLOOD RETOLD--THE GREAT DAMAGE BELOW THE AFFLICTED CITY. A CROWDED MORGUE. A TERRIBLE DEATH MILL.",
+          "summary": "The city of Johnstown is struggling to cope with the aftermath of a catastrophic flood that has killed around 10,000 people, with efforts underway to bury the dead and distribute food and clothing to survivors.",
+          "image": null,
+          "url": "https://www.nytimes.com/1889/06/06/archives/burying-its-many-dead-johnstown-now-a-city-of-morgues-unknown.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Connecticut_Yankee4_new.jpg/1280px-Connecticut_Yankee4_new.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/A_Connecticut_Yankee_in_King_Arthur%27s_Court",
+        "title": "A Connecticut Yankee in King Arthur's Court"
+      },
+      "blurb": "The Johnstown flood devastated the Conemaugh Valley, killing approximately 10,000 people. Bodies were found in wreckage and mud, prompting a massive relief effort. The city struggled to bury its dead and distribute aid to survivors.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.18
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1943,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "NORMANDIE FLOATS AT 49-DEGREE LIST; GREAT HULL SOUND; Liner Barely Free of Hudson River Mud at High Tide After Hours of Pumping THOUSANDS WATCH WORK Vessel is Expected to Reach 45-Degree Angle Today -- Big Task Still Left Three Stages in the Herculean Task of Salvaging the Capsized Normandie Normandie Floats at High Tide With List Reduced to 49 Degrees",
+          "summary": "The Normandie ship is floating with a 49-degree list after hours of pumping, and thousands of people are watching the salvage efforts. The vessel is expected to reach a 45-degree angle soon, but there is still a lot of work to be done to fully salvage it.",
+          "image": null,
+          "url": "https://www.nytimes.com/1943/08/09/archives/normandie-floats-at-49degree-list-great-hull-sound-liner-barely.html"
+        },
+        {
+          "headline": "HARLEM IS ORDERLY WITH HEAVY GUARD READY FOR TROUBLE; Rioting of Sunday Night Tapers -Off -- 8,000 State Troops Are Held in Their Armories PARTIAL CURFEW ORDERED Liquor Sales Barred, Crowds Dispersed -- Police and Army Investigate Sabotage Tip HARLEM AFTER A NIGHT OF RIOTING: IT BROUGHT DEATH, DESTRUCTION AND LOOTING HARLEM IS ORDERLY WITH HEAVY GUARD",
+          "summary": "The Harlem area is being heavily guarded by police and state troops after a night of rioting, and a partial curfew has been ordered to maintain order. The authorities are also investigating a tip about sabotage.",
+          "image": null,
+          "url": "https://www.nytimes.com/1943/08/03/archives/harlem-is-orderly-with-heavy-guard-ready-for-trouble-rioting-of.html"
+        },
+        {
+          "headline": "GANGSTER BACKED AURELIO FOR BENCH, PROSECUTOR AVERS; LEADERS 'SCHOCKED' District Attorney Says Magistrate Phoned Thanks to Costello REPUDIATION IS PLANNED Chiefs of Two Parties Will Confer Today on Possible Steps to Find Remedy RACKETEER AIDED AURELIO, IT IS SAID ACCUSED BY HOGAN",
+          "summary": "A prosecutor has accused a gangster of backing a magistrate's nomination to the Supreme Court, and party leaders are planning to meet to discuss possible steps to address the situation. The nomination is likely to be repudiated if the charges are proven.",
+          "image": null,
+          "url": "https://www.nytimes.com/1943/08/29/archives/gangster-backed-aurelio-for-bench-prosecutor-avers-leaders-schocked.html"
+        },
+        {
+          "headline": "GASOLINE RATIONS OF MIDWEST CUT; EAST TO GAIN LATER; Driving Ban on Seaboard May End Sept. 1 if It Is Not Violated Until Then, OPA Says RELIEF FOR BUSES, TRUCKS Local Boards in East Will Be Allowed to Ease Curbs on Autoists Driving to Work Gasoline Rations of Midwest Cut; Gains for East Are Expected Soon",
+          "summary": "Gasoline rations have been cut in the Midwest, but the East can expect increased rations soon, and a driving ban on the East Coast may be lifted if it is not violated. Local boards in the East will also be allowed to ease restrictions on people driving to work.",
+          "image": null,
+          "url": "https://www.nytimes.com/1943/08/14/archives/gasoline-rations-of-midwest-cut-east-to-gain-later-driving-ban-on.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Timeline_of_World_War_II_1943_collage.jpg/1280px-Timeline_of_World_War_II_1943_collage.jpg",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Timeline_of_World_War_II_(1943)",
+        "title": "Timeline of World War II (1943)"
+      },
+      "blurb": "The Normandie floated with a 49-degree list after salvage efforts. Thousands watched as the vessel was pumped free of Hudson River mud. Gasoline rations were cut in the Midwest, while the East expected gains.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.653
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1939,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "Paris Yellow Book Charges Hitler Gave Czech President '3d Degree'; French Envoy Relates Injections Kept Hacha Conscious Till He Accepted Protectorate Under Threat of Destruction of Prague FRENCH SAY HACHA GOT 'THIRD DEGREE' Grueling Scene Depicted Kept Conscious by Injections French Envoy Tells of Plea Reich-Soviet Accord Forecast Hitler's Irritation Depicted Reich Assumed a Free Hand Onus Laid Upon Britain Hitter's Last Gesture Recited",
+          "summary": "The French government has released a report detailing the events leading up to the war, including the treatment of Czech President Hacha by Hitler. Hacha was allegedly kept conscious with injections and forced to accept a protectorate under the threat of destroying Prague.",
+          "image": null,
+          "url": "https://www.nytimes.com/1939/12/22/archives/paris-yellow-book-charges-hitler-gave-czech-president-3d-degree.html"
+        },
+        {
+          "headline": "COMMUNIST PARTY DROPS ITS BOYCOTT OF GERMAN GOODS; Foster Declares Workers Have No Interest in Aiding Either Side in 'Imperialist War' DRIVE ON JAPAN CONTINUES Reds' Withdrawal Welcomed by Jewish Group Opposing Purchases From Nazis Japanese Boycott Approved Campaign Will Go On COMMUNISTS DROP BOYCOTT OF NAZIS Row in Dress Union Explained",
+          "summary": "The Communist Party has dropped its boycott of German goods, with a leader stating that workers should not aid either side in the 'imperialist war'. However, the party continues to support a boycott of Japanese goods.",
+          "image": null,
+          "url": "https://www.nytimes.com/1939/12/16/archives/communist-party-drops-its-boycott-of-german-goods-foster-declares.html"
+        },
+        {
+          "headline": "DEMOCRATIC HEADS TO ASK ROOSEVELT FOR NLRA REVISION; They Will Offer Amendments in the Hope of Shelving the Wagner Act as '40 Issue WHITE HOUSE TALKS DUE Plan to Make Law Similar to the Railway Act and to Curb Board Powers Weighed Smith Proposal a Big Factor Several Issues Come to the Fore DEMOCRATIC HEADS SEEK NLRA CHANGE Court Upsets NLRB Ruling",
+          "summary": "Democratic leaders plan to ask the President to revise a labor law in an effort to make it a less contentious issue. A recent court ruling has also overturned an order related to a labor dispute.",
+          "image": null,
+          "url": "https://www.nytimes.com/1939/12/29/archives/democratic-heads-to-ask-roosevelt-for-nlra-revision-they-will-offer.html"
+        },
+        {
+          "headline": "DIES INVESTIGATOR SAYS REDS UTILIZE CONSUMER GROUPS; Report by Matthews States Communists Try to Stir Discontent Among ShoppersTO SABOTAGE ADVERTISINGAsserts Radicals Strike at Thisas Vital to Capitalism--Names Alleged 'Agitators' Says Discontent Is Exploited Investigation of Magazine Cited SAYS REDS UTILIZE CONSUMER GROUPS 'Transmission Belts' Listed Leaders in Groups Named",
+          "summary": "An investigator claims that communists are using consumer groups to spread discontent and sabotage advertising, which is seen as crucial to capitalism. The investigator has identified specific individuals and groups allegedly involved in these efforts.",
+          "image": null,
+          "url": "https://www.nytimes.com/1939/12/11/archives/dies-investigator-says-reds-utilize-consumer-groups-report-by.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Battle_of_Poland.png",
+        "source": "Wikimedia Commons",
+        "page": "https://en.wikipedia.org/wiki/Invasion_of_Poland",
+        "title": "Invasion of Poland"
+      },
+      "blurb": "The French government released a report detailing Czech President Hacha's alleged mistreatment by Hitler. Hacha was kept conscious with injections and forced to accept a protectorate under threat of destroying Prague. Communist Party leaders dropped their boycott of German goods, citing workers' lack of interest in aiding either side.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.574
+      }
+    }
+  ]
+}
