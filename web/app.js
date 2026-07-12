@@ -98,20 +98,19 @@
           <p class="home-subtitle">a daily history game</p>
           <div class="home-rule"></div>
         </div>
-        <p class="home-tagline">Four real front-page stories from a single month, somewhere since 1851. Name it.</p>
         <ol class="howto">
           <li><span class="howto-n">1</span><span>Read the front page — four real New York Times stories, all from one month.</span></li>
           <li><span class="howto-n">2</span><span>Guess the <strong>month and year</strong> they ran.</span></li>
           <li><span class="howto-n">3</span><span>The closer you are, the higher your score. Three editions a day.</span></li>
         </ol>
-        <div class="editors-note">
-          <h2>Editor&rsquo;s Note</h2>
+        <button id="play" class="primary">${cta.label}</button>
+        <details class="editors-note">
+          <summary>Editor&rsquo;s Note</summary>
           <p>Every front page is a fingerprint of its moment. A country at war doesn&rsquo;t
           read like a country at peace. We give you four stories and want you to think:
           <em>when?</em> What is the feeling? Read and process to show your touch and
           understanding of history, and the lens we see it through.</p>
-        </div>
-        <button id="play" class="primary">${cta.label}</button>
+        </details>
       </section>`;
     document.getElementById("play").addEventListener("click", cta.action);
   }

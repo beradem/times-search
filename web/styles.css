@@ -130,22 +130,29 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
 .editors-note {
   text-align: left;
   max-width: 32rem;
-  margin: 0 auto 1.8rem;
+  margin: 1.2rem auto 0;
   background: var(--paper-bright);
   background-image: var(--paper-grain);
   border: 1px solid var(--rule);
   border-left: 3px solid var(--ink);
-  padding: 1.1rem 1.25rem;
 }
-.editors-note h2 {
+.editors-note summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   font-family: var(--sans);
   text-transform: uppercase;
   letter-spacing: 0.14em;
   font-size: 0.74rem;
   color: var(--ink-soft);
-  margin: 0 0 0.6rem;
+  padding: 0.9rem 1.2rem;
 }
-.editors-note p { margin: 0; font-size: 1rem; }
+.editors-note summary::-webkit-details-marker { display: none; }
+.editors-note summary::after { content: "+"; font-size: 1.15rem; line-height: 1; }
+.editors-note[open] summary::after { content: "\2013"; }
+.editors-note p { margin: 0; padding: 0 1.2rem 1.1rem; font-size: 1rem; }
 .editors-note .signoff { font-style: italic; font-family: var(--display); }
 .home .primary { max-width: 32rem; margin-inline: auto; }
 
