@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-28T17:19:15.032274+00:00",
+  "generated_at": "2026-07-12T20:00:53.675881+00:00",
   "rounds": [
     {
       "round": 1,
@@ -10,35 +10,39 @@
       },
       "stories": [
         {
-          "headline": "Microsoft Employees Protest Work With ICE, as Tech Industry Mobilizes Over Immigration",
-          "summary": "Microsoft employees protested the company's work with immigration authorities due to disagreements with the current immigration policy. The protest is part of a larger wave of outrage in the tech industry over immigration issues.",
-          "image": "https://static01.nyt.com/images/2018/06/20/business/20MICROSOFT-2/merlin_126685346_b6ea8d03-ebea-409b-890a-55fd21b1bfe0-superJumbo.jpg",
-          "url": "https://www.nytimes.com/2018/06/19/technology/tech-companies-immigration-border.html"
+          "headline": "Trump Calls for Depriving Immigrants Who Illegally Cross Border of Due Process Rights",
+          "summary": "The president wants to immediately send back immigrants who cross the border illegally without letting them see a judge.",
+          "image": "https://static01.nyt.com/images/2018/06/25/us/politics/25trump2_dc/25trump2_dc-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2018/06/24/us/politics/trump-immigration-judges-due-process.html"
         },
         {
-          "headline": "Amazon Studios’ New Boss Is Reshaping Its Strategy. Step One: Lure New Talent.",
-          "summary": "Amazon Studios' new head is working to attract new talent to the company by making it a welcoming place for creative people to work.",
-          "image": "https://static01.nyt.com/images/2018/06/12/business/12amazon1/12amazon1-superJumbo.jpg",
-          "url": "https://www.nytimes.com/2018/06/11/business/media/amazon-studios-jennifer-salke.html"
+          "headline": "Alexandria Ocasio-Cortez Defeats Joseph Crowley in Major Democratic House Upset",
+          "summary": "A 28-year-old former organizer for Bernie Sanders won a major Democratic House election, defeating a man who had not been challenged in over a decade.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/2018/06/26/nyregion/joseph-crowley-ocasio-cortez-democratic-primary.html"
         },
         {
-          "headline": "Behind Trump’s Plan to Overhaul the Government: Scaling Back the Safety Net",
-          "summary": "A group of conservatives is working on plans to reduce the social welfare system, including a proposal to reorganize the government.",
-          "image": "https://static01.nyt.com/images/2018/06/22/us/22poverty2_dc/22poverty2_dc-superJumbo-v2.jpg",
-          "url": "https://www.nytimes.com/2018/06/21/us/politics/trump-government-overhaul-safety-net.html"
+          "headline": "An Oil Giant Is Taking Big Steps. Saudi Arabia Can’t Afford for It to Slip.",
+          "summary": "Saudi Aramco, a major oil company, is taking big steps, but its planned public listing poses a risk to the company and the country.",
+          "image": "https://static01.nyt.com/images/2018/06/14/business/00aramco-1/merlin_132449939_2067ba62-cd0e-4871-8daf-e65298722a08-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2018/06/16/business/energy-environment/saudi-arabia-aramco.html"
         },
         {
-          "headline": "Spain and Portugal Play a Draw for the Ages, Starring a Player for All Time",
-          "summary": "Portugal and Spain played a tied soccer game, with Cristiano Ronaldo scoring three goals for Portugal, including one near the end of the match.",
-          "image": "https://static01.nyt.com/images/2018/06/16/sports/16spain-portugal4/merlin_139641699_8c75e11f-f4c9-4a52-b7ad-6980b741a731-superJumbo.jpg",
-          "url": "https://www.nytimes.com/2018/06/15/sports/spain-portugal-world-cup.html"
+          "headline": "Bernie Sanders Is Winning Converts. But Primary Victories Remain Elusive.",
+          "summary": "Senator Sanders' ideas, such as a higher minimum wage and universal healthcare, are gaining popularity, but he and his allies are having trouble winning elections.",
+          "image": "https://static01.nyt.com/images/2018/06/25/business/25Sanders-1/merlin_139861683_a5971c79-6d10-4a47-8882-703af3c75e9b-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2018/06/24/us/politics/bernie-sanders-midterm-elections.html"
         }
       ],
       "reveal_image": {
-        "url": "https://static01.nyt.com/images/2018/06/20/business/20MICROSOFT-2/merlin_126685346_b6ea8d03-ebea-409b-890a-55fd21b1bfe0-superJumbo.jpg",
+        "url": "https://static01.nyt.com/images/2018/06/25/us/politics/25trump2_dc/25trump2_dc-superJumbo.jpg",
         "source": "The New York Times"
       },
-      "blurb": "Microsoft employees protested the company's work with immigration authorities, sparking a larger tech industry outcry over immigration policy. The Trump administration was planning to overhaul the government, including scaling back the safety net. Cristiano Ronaldo scored three goals in a historic Portugal-Spain soccer match.",
+      "blurb": "President Trump called for depriving immigrants of due process rights. Alexandria Ocasio-Cortez defeated Joseph Crowley in a Democratic House election. Bernie Sanders' ideas gained popularity, influencing the political landscape.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.936
@@ -47,85 +51,93 @@
     {
       "round": 2,
       "answer": {
-        "year": 2016,
-        "month": 11
+        "year": 1912,
+        "month": 4
       },
       "stories": [
         {
-          "headline": "Sorry, ‘Twilight’ Fans, Stephenie Meyer’s Latest Is a Twisted Spy Thriller",
-          "summary": "Stephenie Meyer has written a new book that is a spy thriller, a departure from her previous vampire novels. She said she gets bored with repeating herself, which led to the change in genre.",
-          "image": "https://static01.nyt.com/images/2016/11/09/arts/10MEYER/10MEYER-superJumbo.jpg",
-          "url": "https://www.nytimes.com/2016/11/10/books/sorry-twilight-fans-stephenie-meyers-latest-is-a-twisted-spy-thriller.html"
+          "headline": "WEST VIRGINIA ALSO WON BY ROOSEVELT; Colonel Carries 24 Counties, Which Gives Him a Majority of State Convention Delegates.",
+          "summary": "Roosevelt won in West Virginia, taking 24 counties and gaining a majority of state convention delegates. This was based on primary results from those counties.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ElectoralCollege1912.svg/1280px-ElectoralCollege1912.svg.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/21/archives/west-virginia-also-won-by-roosevelt-colonel-carries-24-counties.html"
         },
         {
-          "headline": "FilmStruck Streaming Service Places a Big Bet on Cinephiles",
-          "summary": "A new streaming service called FilmStruck has been launched, targeting film enthusiasts who want more than what other services offer.",
-          "image": "https://static01.nyt.com/images/2016/11/02/arts/02TCM2/02TCM2-superJumbo-v3.jpg",
-          "url": "https://www.nytimes.com/2016/11/02/arts/television/filmstruck-streaming-service-places-a-big-bet-on-cinephiles.html"
+          "headline": "THRILLING STORY BY TITANIC'S SURVIVING WIRELESS MAN; Bride Tells How He and Phillips Worked and How He Finished a Stoker Who Tried to Steal Phillips's Life Belt -- Ship Sank to Tune of \"Autumn\"",
+          "summary": "The Titanic sank while its band played the song 'Autumn', resulting in the deaths of 1,595 people, with 745 survivors rescued by the Carpathia. The ship's surviving wireless operator shared his account of the disaster, including the sending of distress messages.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LISWA_009553d_Koolama.jpg/1280px-LISWA_009553d_Koolama.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/19/archives/thrilling-story-by-titanics-surviving-wireless-man-bride-tells-how.html"
         },
         {
-          "headline": "What Would You Serve With Gin and Juice? At the Table With Martha Stewart and Snoop Dogg",
-          "summary": "Martha Stewart and Snoop Dogg have a new TV show where they share cooking advice and witty banter.",
-          "image": "https://static01.nyt.com/images/2016/11/06/fashion/06MARTHASNOOP04/06MARTHASNOOP04-superJumbo.jpg",
-          "url": "https://www.nytimes.com/2016/11/06/fashion/martha-stewart-snoop-dogg-dinner.html"
+          "headline": "SAIONJI'S REPLY ENDS MAGDALENA BUGABOO; Japanese Premier's Message to The Time, Washington Agrees, Closes the \"Incident.\"",
+          "summary": "Japanese Premier Saionji's message has resolved an incident, with Washington considering the matter closed and preparing a response to a related resolution.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/1912_United_States_House_Map.png/1280px-1912_United_States_House_Map.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/07/archives/saionjis-reply-ends-magdalena-bugaboo-japanese-premiers-message-to.html"
         },
         {
-          "headline": "Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally",
-          "summary": "Beyoncé made a significant statement by performing with the Dixie Chicks at the Country Music Association Awards, which was seen as a powerful and subtle move.",
-          "image": "https://static01.nyt.com/images/2016/11/06/arts/07BEYONCEJP2/06BEYONCE1-superJumbo.jpg",
-          "url": "https://www.nytimes.com/2016/11/06/arts/music/beyonce-political-hillary-clinton-dixie-chicks.html"
+          "headline": "$100,000,000 PRICE ON RAILWAY MERGER; New Haven Must Spend This on Improvements, Says Foss, to Take Over Boston & Maine.",
+          "summary": "To take over the Boston & Maine railway, the New Haven railway must spend $100 million on improvements in and around Boston, according to Governor Foss.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ex-San_Jose_Railroad_car_124_on_Kelley_Park_streetcar_line_next_to_Senter_Rd_%282012%29.jpg/1280px-Ex-San_Jose_Railroad_car_124_on_Kelley_Park_streetcar_line_next_to_Senter_Rd_%282012%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/11/archives/100000000-price-on-railway-merger-new-haven-must-spend-this-on.html"
         }
       ],
       "reveal_image": {
-        "url": "https://static01.nyt.com/images/2016/11/09/arts/10MEYER/10MEYER-superJumbo.jpg",
-        "source": "The New York Times"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ElectoralCollege1912.svg/1280px-ElectoralCollege1912.svg.png",
+        "source": "Wikimedia Commons"
       },
-      "blurb": "Stephenie Meyer released a spy thriller, departing from her vampire novels. FilmStruck launched, targeting film enthusiasts with unique offerings. Beyoncé made a subtle statement by performing with the Dixie Chicks at the Country Music Association Awards.",
+      "blurb": "The Titanic sank, resulting in 1,595 deaths and 745 survivors. The ship's band played \"Autumn\" as it went down. Roosevelt won West Virginia's primary, gaining a majority of state convention delegates.",
       "ranking": {
         "mode": "topic-clusters",
-        "keyword_coverage": 0.915
+        "keyword_coverage": 0.4
       }
     },
     {
       "round": 3,
       "answer": {
-        "year": 2008,
-        "month": 11
+        "year": 1945,
+        "month": 8
       },
       "stories": [
         {
-          "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
-          "summary": "Barack Obama is preparing to choose a White House chief of staff as he starts to build his transition team after being elected president. This is one of his first steps towards taking office.",
-          "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
-          "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
+          "headline": "POTSDAM TERMS ACCEPTED, DOMEI SAYS; An Imperial Message Is Forthcoming Soon,' Official News Agency Reports in Broadcast at 1:49 A.M. DISCLOSES LONG SESSION BY CABINET FCC Monitors Hear Code Dispatch Being Sent by Japanese to Switzerland--Washington Began to Suspect 'Stalling' Message to Switzerland Heard Cheering Greets Report in Guam Capital Awaited Reply All Day DOMEI ANNOUNCES FOE'S SURRENDER Japanese End Vigil Swiss Blame Japanese",
+          "summary": "Japan has accepted the terms of surrender, according to the official news agency, and an imperial message is expected soon. The announcement was made after a long cabinet session.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Collage_of_1945_World_War_II_images_for_timeline.jpg/1280px-Collage_of_1945_World_War_II_images_for_timeline.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/14/archives/potsdam-terms-accepted-domei-says-an-imperial-message-is.html"
         },
         {
-          "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
-          "summary": "The election of Senator Barack Obama has ended, and now news media outlets are wondering what will happen next for them.",
-          "image": null,
-          "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
+          "headline": "ARMED ESCORT SET; 350 Planes Will Carry Troops to an Airfield Southwest of Tokyo JAPAN REPORTS TYPHOON Says Storm in Kanto District Has Delayed Preparations for Entry of Allies Ships to Begin Disarmament Asks for Data on Newsmen Five Exceptions Requested 7,500 SKY TROOPS TO LAND IN JAPAN JAPAN WARNED ON CLASHES Home Ministry Issues Instructions to People During Occupation",
+          "summary": "Japan is preparing for the arrival of 7,500 Allied troops, who will be escorted by 350 planes, and has warned its citizens to avoid clashes with the occupying forces.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RIAN_archive_834147_Hoisting_the_banner_in_Port-Artur._WWII_%281941-1945%29.jpg/1280px-RIAN_archive_834147_Hoisting_the_banner_in_Port-Artur._WWII_%281941-1945%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/24/archives/armed-escort-set-350-planes-will-carry-troops-to-an-airfield.html"
         },
         {
-          "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
-          "summary": "China's economy, which had been growing very quickly, is now slowing down faster than expected.",
-          "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
-          "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
+          "headline": "FRENCH ASK LOANS OF BILLION HERE; Paris Officials Reveal Request as de Gaulle and Party Return by Plane TOP PRIORITY ALSO SOUGHT France Wants Credits Given in Three Parts, as Well as Aid in Reconstruction Believe Air Is Cleared No Pledge on Third Loan",
+          "summary": "France has requested a loan of $1 billion from the US, as well as aid in reconstruction, but is reportedly disappointed with the US plan to distribute captured gold among liberated countries.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Oder-neisse.gif",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/31/archives/french-ask-loans-of-billion-here-paris-officials-reveal-request-as.html"
         },
         {
-          "headline": "Booksellers and Publishers Nervous as Holiday Season Approaches",
-          "summary": "The publishing industry is experiencing financial difficulties, making booksellers and publishers anxious as the holiday season approaches.",
-          "image": null,
-          "url": "https://www.nytimes.com/2008/11/11/books/11book.html"
+          "headline": "NEW DEPARTMENTS IN CABINET SOUGHT TO MERGE BUREAUS; Public Works, Veteran-Affairs, Public Enterprises Urged With Welfare as Entities FOR WIDE CONSOLIDATIONS Efficiency and Economy Would Result, Sponsors Say, Looking for Truman Backing Quicker Check-ups Expected Byrd Discussions Cited NEW DEPARTMENTS IN CABINET SOUGHT Exemptions Asked in Past",
+          "summary": "There is a proposal to create new departments in the US cabinet to merge and consolidate various government bureaus, with the goal of increasing efficiency and economy.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Harry_S_Truman%2C_bw_half-length_photo_portrait%2C_facing_front%2C_1945_%283x4_tilted_cropped%29_%28b%29.jpg/1280px-Harry_S_Truman%2C_bw_half-length_photo_portrait%2C_facing_front%2C_1945_%283x4_tilted_cropped%29_%28b%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/23/archives/new-departments-in-cabinet-sought-to-merge-bureaus-public-works.html"
         }
       ],
       "reveal_image": {
-        "url": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
-        "source": "The New York Times"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Collage_of_1945_World_War_II_images_for_timeline.jpg/1280px-Collage_of_1945_World_War_II_images_for_timeline.jpg",
+        "source": "Wikimedia Commons"
       },
-      "blurb": "Barack Obama began building his transition team, selecting a White House chief of staff. His election marked a significant shift, while China's economy slowed down rapidly. The publishing industry faced financial difficulties.",
+      "blurb": "Japan accepted the terms of surrender, and an imperial message was forthcoming. Allied troops prepared to land in Japan, escorted by 350 planes. France requested a $1 billion loan from the US for reconstruction aid.",
       "ranking": {
         "mode": "topic-clusters",
-        "keyword_coverage": 0.507
+        "keyword_coverage": 0.697
       }
     }
   ]

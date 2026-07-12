@@ -121,35 +121,36 @@
     const round = state.puzzle.rounds[state.round];
     setScoreboard();
 
-    // The "picture" is the newspaper itself: a styled front page that works in
-    // any era and never leaks the date (dateline is redacted). PRD §6.7.
-    const [lead, ...rest] = round.stories;
-    const story = (s, tag) => `
-      <article class="${tag}">
-        <h2>${escapeHtml(displayHeadline(s.headline))}</h2>
-        ${s.summary ? `<p>${escapeHtml(s.summary)}</p>` : ""}
+    // Swipeable cards, one story each. Images are era-neutral halftones so they
+    // never leak the date; the redacted dateline stays. PRD §6.7.
+    const n = round.stories.length;
+    const card = (s, i) => `
+      <article class="card">
+        ${s.image ? `<div class="card-media"><img class="halftone" src="${escapeHtml(s.image)}" alt="" loading="lazy" /></div>` : ""}
+        <div class="card-body">
+          <span class="card-index">${i + 1} / ${n}</span>
+          <h2>${escapeHtml(displayHeadline(s.headline))}</h2>
+          ${s.summary ? `<p>${escapeHtml(s.summary)}</p>` : ""}
+        </div>
       </article>`;
 
-    const newspaper = `
-      <div class="newspaper">
-        <div class="paper-masthead">
-          <span class="paper-name">Times Search</span>
-          <div class="paper-dateline">
-            <span class="redacted">██████ ██, ████</span>
-            <span class="redacted">No. ██,███</span>
-          </div>
+    const paper = `
+      <div class="paper-masthead standalone">
+        <span class="paper-name">Times Search</span>
+        <div class="paper-dateline">
+          <span class="redacted">██████ ██, ████</span>
+          <span class="redacted">No. ██,███</span>
         </div>
-        ${story(lead, "lead")}
-        <div class="paper-columns">${rest.map((s) => story(s, "col")).join("")}</div>
-      </div>`;
+      </div>
+      <p class="prompt">Swipe through all four. When did they run?</p>
+      <div class="carousel">${round.stories.map(card).join("")}</div>`;
 
     const monthOpts = MONTHS.slice(1).map((m, i) =>
       `<option value="${i + 1}">${m}</option>`).join("");
 
     app.innerHTML = `
       <section class="screen play">
-        <p class="prompt">Read the front page. When did it run?</p>
-        ${newspaper}
+        ${paper}
         <form class="guess" id="guess-form" novalidate>
           <div class="guess-inner">
             <p class="error" id="guess-error" hidden></p>

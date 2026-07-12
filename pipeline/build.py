@@ -16,26 +16,25 @@ from zoneinfo import ZoneInfo
 from . import blurb, config, nyt, selection, summaries, wikimedia
 from .ranker import rank_month
 
-PUBLIC_STORY_KEYS = ("headline", "summary", "image", "url")
+PUBLIC_STORY_KEYS = ("headline", "summary", "image", "image_source", "url")
 
 
 def _clean_story(s):
     return {k: s.get(k) for k in PUBLIC_STORY_KEYS}
 
 
-def reveal_image(stories, year, with_wikimedia=True):
-    """Pick the reveal-screen image: the lead story's NYT photo if it has one
-    (recent era), otherwise a Wikimedia image of the lead event (older eras).
-    Returns {url, source, page?, title?} or None."""
-    nyt_url = next((s["image"] for s in stories if s.get("image")), None)
-    if nyt_url:
-        return {"url": nyt_url, "source": "The New York Times"}
+def card_image(story, year, with_wikimedia=True):
+    """Best image for a story card: its NYT photo (recent era) if present, else a
+    Wikimedia image of the topic/event (older eras). Rendered as a newsprint
+    halftone on the client, so era/style never leaks. Returns (url, source)."""
+    nyt = story.get("image")  # from ranker.pick_image (NYT), may be None
+    if nyt:
+        return nyt, "The New York Times"
     if not with_wikimedia:
-        return None
-    lead = stories[0]
-    # Entity-like topic keyword is the best query; else the headline's lead deck.
-    term = lead.get("topic") or lead["headline"].split(";")[0].strip()
-    return wikimedia.find_image(f"{term} {year}")
+        return None, None
+    term = story.get("topic") or story["headline"].split(";")[0].strip()
+    img = wikimedia.find_image(f"{term} {year}")
+    return (img["url"], img["source"]) if img else (None, None)
 
 
 def build_round(index, year, month, with_blurb=True):
@@ -48,15 +47,21 @@ def build_round(index, year, month, with_blurb=True):
         for s, clear in zip(stories, summaries.clarify(year, month, stories)):
             s["summary"] = clear
     text = blurb.generate(year, month, stories) if with_blurb else None
-    image = reveal_image(stories, year, with_wikimedia=with_blurb)
+    # One image per story card (halftone-treated on the client).
+    for s in stories:
+        s["image"], s["image_source"] = card_image(s, year, with_wikimedia=with_blurb)
+    lead = stories[0]
+    reveal = ({"url": lead["image"], "source": lead["image_source"]}
+              if lead.get("image") else None)
+    imgs = sum(1 for s in stories if s.get("image"))
     print(f"  round {index}: {year}-{month:02d}  [{meta['mode']}, "
-          f"kw={meta['keyword_coverage']:.0%}]  -> {stories[0]['headline'][:55]}"
-          f"  | img: {image['source'] if image else 'none'}", file=sys.stderr)
+          f"kw={meta['keyword_coverage']:.0%}]  -> {stories[0]['headline'][:50]}"
+          f"  | imgs {imgs}/{len(stories)}", file=sys.stderr)
     return {
         "round": index,
         "answer": {"year": year, "month": month},
         "stories": [_clean_story(s) for s in stories],
-        "reveal_image": image,
+        "reveal_image": reveal,
         "blurb": text,
         "ranking": meta,
     }
