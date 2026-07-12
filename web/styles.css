@@ -249,16 +249,21 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
 .play { padding-bottom: 12rem; } /* clear the fixed guess bar */
 .guess {
   position: fixed;
-  left: 0; right: 0; bottom: 0;
+  left: 50%;
+  bottom: calc(0.9rem + env(safe-area-inset-bottom, 0px));
+  transform: translateX(-50%);
+  width: calc(100% - 2rem);
+  max-width: 460px;
   z-index: 20;
   margin: 0;
   background: rgba(244, 239, 226, 0.97);
-  backdrop-filter: blur(8px);
-  border-top: 2px solid var(--ink);
-  box-shadow: 0 -4px 18px rgba(40, 33, 20, 0.14);
-  padding: 0.7rem 1rem calc(0.7rem + env(safe-area-inset-bottom, 0px));
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--ink);
+  border-radius: 18px;
+  box-shadow: 0 8px 28px rgba(40, 33, 20, 0.24);
+  padding: 0.7rem 0.85rem;
 }
-.guess-inner { max-width: 680px; margin: 0 auto; }
+.guess-inner { margin: 0 auto; }
 .guess-row { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: end; }
 .gf {
   flex: 1 1 40%;
