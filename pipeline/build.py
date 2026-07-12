@@ -42,30 +42,52 @@ def _relevant(query, title):
     return False
 
 
-def card_image(story, year, with_wikimedia=True):
-    """Best image for a story card, cascading so every card gets a topical
-    picture: NYT photo (recent) -> specific event image (if relevant) -> broad
-    theme image (guaranteed-photographable) -> best specific result. Rendered as
-    a newsprint halftone client-side, so era/style never leaks."""
-    nyt = story.get("image")  # from ranker.pick_image (NYT), may be None
-    if nyt:
-        return nyt, "The New York Times"
-    if not with_wikimedia:
-        return None, None
+def _candidates(story):
+    """Ordered (url, source, relevant) image candidates for one story: specific
+    Wikipedia + Commons first, then the broad theme. Deduped by url."""
     specific = (story.get("_image_query") or story.get("topic")
                 or story["headline"].split(";")[0].strip())
     broad = story.get("_image_query_broad") or story.get("topic") or ""
+    out, seen = [], set()
 
-    img = wikimedia.find_image(specific) if specific else None
-    if img and _relevant(specific, img.get("title")):        # best: on-topic event
-        return img["url"], img["source"]
-    if broad and broad.lower() != (specific or "").lower():   # broad theme fallback
-        b = wikimedia.find_image(broad)
-        if b:
-            return b["url"], b["source"]
-    if img:                                                   # last resort
-        return img["url"], img["source"]
-    return None, None
+    def add(items, query, force_relevant=False):
+        for c in items:
+            u = c.get("url")
+            if not u or u in seen:
+                continue
+            seen.add(u)
+            out.append((u, c["source"], force_relevant or _relevant(query, c.get("title"))))
+
+    if specific:
+        add(wikimedia.find_images(specific), specific)
+        add(wikimedia.commons_images(specific), specific)  # variety for same-event dedup
+    if broad and broad.lower() != (specific or "").lower():
+        add(wikimedia.find_images(broad), broad, force_relevant=True)
+    return out
+
+
+def resolve_card_images(stories, year, with_wikimedia=True):
+    """Assign one image per story, de-duplicated within the round and kept
+    topical: NYT photo (recent) else the best relevant, unused candidate."""
+    used = set()
+    for s in stories:
+        nyt = s.get("image")  # from ranker.pick_image (NYT), may be None
+        if nyt:
+            s["image"], s["image_source"] = nyt, "The New York Times"
+            used.add(nyt)
+            continue
+        if not with_wikimedia:
+            s["image"], s["image_source"] = None, None
+            continue
+        cands = _candidates(s)
+        chosen = (next(((u, src) for u, src, rel in cands if rel and u not in used), None)
+                  or next(((u, src) for u, src, rel in cands if u not in used), None)
+                  or next(((u, src) for u, src, rel in cands if rel), None))
+        if chosen:
+            s["image"], s["image_source"] = chosen
+            used.add(chosen[0])
+        else:
+            s["image"], s["image_source"] = None, None
 
 
 def build_round(index, year, month, with_blurb=True):
@@ -80,9 +102,8 @@ def build_round(index, year, month, with_blurb=True):
             s["_image_query"] = e["image_query"]
             s["_image_query_broad"] = e.get("image_query_broad", "")
     text = blurb.generate(year, month, stories) if with_blurb else None
-    # One image per story card (halftone-treated on the client).
-    for s in stories:
-        s["image"], s["image_source"] = card_image(s, year, with_wikimedia=with_blurb)
+    # One image per story card, de-duplicated within the round.
+    resolve_card_images(stories, year, with_wikimedia=with_blurb)
     lead = stories[0]
     reveal = ({"url": lead["image"], "source": lead["image_source"]}
               if lead.get("image") else None)
