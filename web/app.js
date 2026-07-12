@@ -13,6 +13,7 @@
     "July", "August", "September", "October", "November", "December"];
 
   const app = document.getElementById("app");
+  const masthead = document.querySelector(".masthead");
   const scoreboard = document.getElementById("scoreboard");
   const roundPill = document.getElementById("round-pill");
   const scoreTotalEl = document.getElementById("score-total");
@@ -66,6 +67,7 @@
   }
 
   function setScoreboard() {
+    masthead.hidden = false;
     scoreboard.hidden = false;
     roundPill.textContent = `Round ${state.round + 1} / ${state.puzzle.rounds.length}`;
     scoreTotalEl.textContent = state.total.toLocaleString();
@@ -83,6 +85,7 @@
 
   // ---- home screen ----
   function renderHome() {
+    masthead.hidden = true;
     scoreboard.hidden = true;
     // CTA reflects whether you've already played today.
     const cta = state.completed
@@ -298,8 +301,8 @@
   }
 
   function renderResults() {
+    masthead.hidden = true;
     scoreboard.hidden = true;
-    state.completed = true;
     saveProgress();
     const data = state.daily || estimate(state.total);
     const bucket = scoreBucket(state.total);
