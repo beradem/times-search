@@ -128,31 +128,28 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
   text-align: center;
 }
 .editors-note {
-  text-align: left;
   max-width: 32rem;
-  margin: 1.2rem auto 0;
-  background: var(--paper-bright);
-  background-image: var(--paper-grain);
-  border: 1px solid var(--rule);
-  border-left: 3px solid var(--ink);
+  margin: 1.4rem auto 0;
+  text-align: center;
 }
 .editors-note summary {
   cursor: pointer;
   list-style: none;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  display: inline-block;
   font-family: var(--sans);
-  text-transform: uppercase;
-  letter-spacing: 0.14em;
-  font-size: 0.74rem;
+  font-size: 0.82rem;
   color: var(--ink-soft);
-  padding: 0.9rem 1.2rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  padding: 0.3rem 0.4rem;
 }
 .editors-note summary::-webkit-details-marker { display: none; }
-.editors-note summary::after { content: "+"; font-size: 1.15rem; line-height: 1; }
-.editors-note[open] summary::after { content: "\2013"; }
-.editors-note p { margin: 0; padding: 0 1.2rem 1.1rem; font-size: 1rem; }
+.editors-note p {
+  text-align: left;
+  margin: 0.6rem 0 0;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
 .editors-note .signoff { font-style: italic; font-family: var(--display); }
 .home .primary { max-width: 32rem; margin-inline: auto; }
 
