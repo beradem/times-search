@@ -376,7 +376,9 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
 
 /* ---- guess form: floating bar pinned to the bottom of the screen ---- */
 .play { padding-bottom: 12rem; } /* clear the fixed guess bar */
-.guess {
+/* Scope to the play form: a bare `.guess` also matched the reveal timeline's
+   `<span class="k guess">`, which then inherited position:fixed. */
+.play .guess {
   position: fixed;
   left: 50%;
   bottom: calc(0.9rem + env(safe-area-inset-bottom, 0px));
@@ -481,10 +483,31 @@ button:active { transform: translateY(2px); }
   padding: 0.65rem 0;
   margin: 0 0 1rem;
 }
-.verdict-main { font-weight: 700; font-size: 1.1rem; font-family: var(--display); }
+.verdict-line { flex: 1 1 12rem; }
+.verdict-guess { }
+.verdict-guess strong { font-family: var(--display); font-weight: 700; }
+.verdict-main { font-weight: 700; font-family: var(--display); }
 .verdict-tone { color: var(--ink-soft); }
-.verdict-points { margin-left: auto; font-weight: 900; font-family: var(--display); color: var(--good); }
+.verdict-points { margin-left: auto; font-weight: 900; font-family: var(--display); color: var(--good); align-self: flex-start; }
 .verdict-icon { font-size: 1.5rem; line-height: 1; }
+
+/* Floating progression button — always reachable while the reveal scrolls. */
+.reveal { padding-bottom: 5.5rem; }
+.next-float {
+  position: fixed;
+  left: 50%;
+  bottom: 1.25rem;
+  transform: translateX(-50%);
+  width: auto;
+  max-width: calc(100vw - 2rem);
+  margin: 0;
+  z-index: 20;
+  border-radius: 999px;
+  padding: 0.85rem 1.9rem;
+  box-shadow: 0 6px 20px rgba(26, 23, 18, 0.28);
+}
+.next-float:hover { box-shadow: 0 8px 24px rgba(26, 23, 18, 0.32); }
+.next-float:active { transform: translateX(-50%) translateY(2px); box-shadow: 0 4px 14px rgba(26, 23, 18, 0.28); }
 
 /* "How far off" timeline */
 .timeline { margin: 0 0 1.2rem; }

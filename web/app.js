@@ -232,8 +232,8 @@
         </div>
         <div class="tl-ends"><span>1851</span><span>${MAXY}</span></div>
         <div class="tl-key">
-          <span class="k guess">Your guess (${r.guess.year})</span>
-          <span class="k actual">Actual (${round.answer.year})</span>
+          <span class="k guess">Your guess</span>
+          <span class="k actual">Actual</span>
         </div>
       </div>`;
 
@@ -246,14 +246,21 @@
           ri.title ? ` — ${escapeHtml(ri.title)}` : ""}</figcaption>
       </figure>` : "";
 
+    // Verdict now reads as one line: guess year, how far off, and the tone.
+    // errorLabel may already end in "!", so only add a period when it doesn't.
+    const mainLabel = Scoring.errorLabel(r.err);
+    const mainPunct = /[.!?]$/.test(mainLabel) ? mainLabel : mainLabel + ".";
     app.innerHTML = `
       <section class="screen reveal">
         <p class="reveal-eyebrow">These stories ran in&hellip;</p>
         <p class="reveal-date stamp">${MONTHS[round.answer.month]} ${round.answer.year}</p>
         <p class="reveal-verdict">
           <span class="verdict-icon">${Scoring.eraIcon(r.err)}</span>
-          <span class="verdict-main">${Scoring.errorLabel(r.err)}</span>
-          <span class="verdict-tone">${Scoring.toneMessage(r.err)}</span>
+          <span class="verdict-line">
+            <span class="verdict-guess">Your guess: <strong>${r.guess.year}</strong>.</span>
+            <span class="verdict-main">${mainPunct}</span>
+            <span class="verdict-tone">${Scoring.toneMessage(r.err)}</span>
+          </span>
           <span class="verdict-points" id="vpoints">+0</span>
         </p>
         ${timeline}
@@ -263,7 +270,7 @@
           <summary>The stories</summary>
           <ul class="links">${links}</ul>
         </details>
-        <button id="next" class="primary">${last ? "The Final Word" : "Next Edition"}</button>
+        <button id="next" class="primary next-float">${last ? "The Final Word" : "Next Edition"} &rarr;</button>
       </section>`;
 
     countUp(document.getElementById("vpoints"), r.points, "+");
