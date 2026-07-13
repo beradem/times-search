@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T07:34:05.005175+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2017,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "The Holocaust Museum Sought Lessons on Syria. What It Got Was a Political Backlash.",
+          "summary": "A museum's research on Syria sparked a political backlash. The museum had to withdraw its research after finding itself in the middle of a debate over a past administration's legacy in Syria.",
+          "image": "https://static01.nyt.com/images/2017/09/18/arts/18holocaust-museum/07genocide-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/09/17/arts/holocaust-museum-study-syria.html"
+        },
+        {
+          "headline": "Russian Election Hacking Efforts, Wider Than Previously Known, Draw Little Scrutiny",
+          "summary": "Russian hacking efforts were more extensive than previously known, but received little scrutiny from state and federal agencies.",
+          "image": "https://static01.nyt.com/images/2018/06/16/us/16northcarolina-print/01voting-alpha-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/09/01/us/politics/russia-election-hacking.html"
+        },
+        {
+          "headline": "Bridgewater’s Ray Dalio Dives Deeper Into the ‘Principles’ of Tough Love",
+          "summary": "A businessman released a book about his approach to workplace culture, which emphasizes transparency.",
+          "image": "https://static01.nyt.com/images/2017/09/05/business/05DB-SORKIN-3/05DB-SORKIN-3-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/09/04/business/ray-dalio-book-bridgewater.html"
+        },
+        {
+          "headline": "At Florida Nursing Home, Many Calls for Help, but None That Made a Difference",
+          "summary": "A nursing home lost power to its air conditioning, leading to the deaths of 11 residents in a preventable tragedy.",
+          "image": "https://static01.nyt.com/images/2017/09/23/us/23nursing/23nursing-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/09/23/us/nursing-home-deaths.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2017/09/18/arts/18holocaust-museum/07genocide-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "The Holocaust Museum's research on Syria sparked a political backlash, forcing it to withdraw its findings. Russian election hacking efforts were found to be more extensive than previously known. A Florida nursing home tragedy occurred, resulting in 11 deaths due to a preventable power outage.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.918
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1927,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "SHARP BRITISH NOTE CALLS ON THE SOVIET TO STOP PROPAGANDA; Chamberlain Threatens to End Trade Compact and Even to Sever All Relations. LINKS OFFICIALS TO PLOTS 'Credulity' and 'Hostility' of Tchitcherin and Other Leaders Assailed in Severe Terms. THEIR SPEECHES QUOTED British Public Opinion Has Been Roused by Russian Attacks in Coal Strike and Chinese Crisis. SHARP BRITISH NOTE SENT TO THE SOVIET",
+          "summary": "Britain sends a sharp note to the Soviet Union, protesting anti-British propaganda and threatening to end trade agreements and diplomatic relations. The note cites speeches by Soviet leaders and warns of severe consequences.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/United_Kingdom_Russia_Locator.png/1280px-United_Kingdom_Russia_Locator.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/02/24/archives/sharp-british-note-calls-on-the-soviet-to-stop-propaganda.html"
+        },
+        {
+          "headline": "MOST OF OUR LIQUOR POISON, 741 DEATHS IN CITY IN 1926, NORRIS REPORTS TO WALKER; FINDS ALCOHOL A MENACE Almost No Pure Whisky Available, Even for Doctors, He Says. MANY DEATHS UNREPORTED Actually No Prohibition Here, He Asserts -- Fears Spread of Chronic Poisoning. SOLUTION IN ENFORCEMENT But Thinks It Will Fail Unless Millions Miraculously Change Habits and Customs. Dr. Norris Reports to the Mayor on Deaths Due to Bad Liquor",
+          "summary": "A report finds that most liquor in the city is poisonous, resulting in many deaths, and argues that prohibition is not being effectively enforced. The report suggests that stricter enforcement is needed to address the issue.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2025_Borough_Map_Mayor%27s_Race_NYC.svg/1280px-2025_Borough_Map_Mayor%27s_Race_NYC.svg.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/02/06/archives/most-of-our-liquor-poison-741-deaths-in-city-in-1926-norris-reports.html"
+        },
+        {
+          "headline": "SENATE PASSES FARM BILL, 47 TO 39, AS PARTIES SPLIT; COOLIDGE VETO EXPECTED; SUBSTITUTE BILL BEATEN Curtis-Crisp Proposal, Backed by President, Lost by 54 to 32. MAJORITY IN EACH PARTY 24 Republicans, 22 Democrats Favor Bill -- 22 Republicans, 17 Democrats Oppose It. EQUALIZATION FEE STANDS Foes Say Veto Cannot Be Overridden -- Talk of House Accepting the Senate Measure. FARM RELIEF BILL PASSED BY SENATE",
+          "summary": "The Senate passes a farm relief bill, despite expected veto from the President, with a majority of both parties supporting the measure. The bill's fate is uncertain, with some predicting a veto override attempt.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/McNary-Haugen_1929.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/02/12/archives/senate-passes-farm-bill-47-to-39-as-parties-split-coolidge-veto.html"
+        },
+        {
+          "headline": "SHIPSTEAD PROPOSES UNION IN CARIBBEAN; Senator Tells Foreign Policy Group of Federation Plan for Five Republics. WANTS PRESIDENT TO ACT For Washington Conference to Unify Central America -- Would Give Up Canal Rights. OUR SPHERE IN NICARAGUA G.T. Weitzel, Ex-Minister, Defends \"Intervention,\" Saying We Were Asked to Give Aid. Foreign Policy Association Hears Various Views on Central American Relations",
+          "summary": "A senator proposes a union of five Caribbean republics, suggesting that the President take action to unify the region through a Washington conference. The plan would involve giving up certain rights, such as canal rights.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_the_West_Indies_Federation_%281958%E2%80%931962%29.svg/1280px-Flag_of_the_West_Indies_Federation_%281958%E2%80%931962%29.svg.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/02/06/archives/shipstead-proposes-union-in-caribbean-senator-tells-foreign-policy.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/United_Kingdom_Russia_Locator.png/1280px-United_Kingdom_Russia_Locator.png",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The British government sent a sharp note to the Soviet Union, protesting anti-British propaganda. The note threatened to end trade agreements and diplomatic relations, citing speeches by Soviet leaders. Trade and diplomatic tensions rose between the two nations.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1995,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "Starting Today For TV Viewers in the City",
+          "summary": "The New York Times's Television section now includes channel numbers for New York City cable systems, making it easier for viewers to find their desired programs. The section also offers expanded movie listings and more detailed information about prime-time programming.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Time_Warner_Center_May_2010.JPG/1280px-Time_Warner_Center_May_2010.JPG",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/07/09/nyregion/starting-today-for-tv-viewers-in-the-city.html"
+        },
+        {
+          "headline": "Camden Aquarium Changes Lures; Forget the Local Color, Brighter Fish May Attract Visitors",
+          "summary": "The Camden Aquarium is changing its approach after years of low attendance, moving away from featuring local fish and towards more attractive species. The aquarium's previous focus on local fish did not draw the expected crowds.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Adventure_Aquarium_%2853572702368%29.jpg/1280px-Adventure_Aquarium_%2853572702368%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/07/05/nyregion/camden-aquarium-changes-lures-forget-local-color-brighter-fish-may-attract.html"
+        },
+        {
+          "headline": "Clinton and the Economy; Even if Growth Rebounds, the President May Not Win Comparable Political Gains",
+          "summary": "The economy's growth is expected to be low, but economists believe a rebound is underway. The White House was previously concerned about the economic growth figure, but now expects it to be the worst of the year.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Historic_world_GDP_per_capita.svg/1280px-Historic_world_GDP_per_capita.svg.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/07/28/us/clinton-economy-even-if-growth-rebounds-president-may-not-win-comparable.html"
+        },
+        {
+          "headline": "Being of Two Cultures and Belonging to Neither; After an Acclaimed Novel, a Korean-American Writer Searches for His Roots",
+          "summary": "A Korean-American writer is searching for his roots after writing an acclaimed novel. As a child, he struggled to balance his Korean heritage with his American surroundings.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Korean_architecture_roof_detail_2.jpg/1280px-Korean_architecture_roof_detail_2.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/07/10/nyregion/being-two-cultures-belonging-neither-after-acclaimed-novel-korean-american.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Time_Warner_Center_May_2010.JPG/1280px-Time_Warner_Center_May_2010.JPG",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The economy's growth rebounded, easing White House concerns. Clinton's administration expected low growth, but economists believed a rebound was underway. The president's political gains remained uncertain.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
