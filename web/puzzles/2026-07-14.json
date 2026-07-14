@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T06:23:03.695687+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1874,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "THE SOUTHERN STATES.; GOOD FAITH OF LOUISIANA DEMOCRATS DOUBTED. EXCITEMENT AND DISQUIET PREVALENT-- THE MOB ELEMENT READY TO BURST OUT AGAIN-- WEAKNESS OF THE LEADERS--THE PROPOSED CHATTANOOGA CONVENTION. THE WHITE LEAGUERS' RIFLES. RETURN OF A SHIPMENT FROM BALTIMORE TO AVOID SEIZURE--ORDERS FOR MORE COUNTERMANDED. CARRYING OUT THE LOUISIANA COMPACT. REMOVAL OF ELECTION OFFICERS BY GOV. KELLOGG ON THE RECOMMENDATION OF THE ADVISORY BOARD.",
+          "summary": "There is doubt about the good faith of Democrats in Louisiana, with excitement and disquiet prevalent and a potential for violence. The governor has removed election officers on the recommendation of the advisory board.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Worse_than_Slavery_%281874%29%2C_by_Thomas_Nast.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1874/10/03/archives/the-southern-states-good-faith-of-louisiana-democrats-doubted.html"
+        },
+        {
+          "headline": "THE CIVIL WAR IN SPAIN.; OBSERVATIONS IN BAYONNE. THE REPORT OF THE WOUNDING OF DON CARLOS LANDING MUNITIONS FOR THE CARLISTS THE FRENCH SOLDIERY MISCELLANEOUS NOTES.",
+          "summary": "The civil war in Spain continues, with reports of the wounding of Don Carlos and the landing of munitions for the Carlists. French soldiery is also involved.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_11_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0_%D0%B2_%D0%B1%D0%BE%D1%8E_%D0%BF%D0%BE%D0%B4_%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B8%D1%82%D0%B5._1937-edit.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1874/10/25/archives/the-civil-war-in-spain-observations-in-bayonne-the-report-of-the.html"
+        },
+        {
+          "headline": "NOTES FROM ENGLAND.; THE GREAT EXPLOSION THE PRINCE OF WALES. AN ALARMING EVENT DESTRUCTION OF ART TREASURES THE QUEEN'S PARSIMONY THE DUKE OF EDINBURGH.",
+          "summary": "There has been a disorder in Birmingham, and the Prince of Wales has made a visit. An explosion has also occurred, causing destruction of art treasures.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lickey_bank.png/1280px-Lickey_bank.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1874/10/16/archives/notes-from-england-the-great-explosion-the-prince-of-wales-an.html"
+        },
+        {
+          "headline": "OPPOSITION TO TAMMANY; MASS-MEETING OF INDEPENDENT DEMOCRATS. A LARGE ASSEMBLAGE AT COOPER INSTITUTE OSWALD OTTENDORFER NOMINATED FOR MAYOR, PATRICK H. JONES FOR REGISTER, BENJAMIN F. BEEKMAN, I. B. WALLACE, JOSEPH BLUMENTHAL, AND ROBERT BEATTY FOR ALDERMEN.",
+          "summary": "A mass meeting of independent Democrats has been held at Cooper Institute, where several candidates were nominated for office, including Oswald Ottendorfer for mayor.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Peter_Cooper_Photograph.jpg/1280px-Peter_Cooper_Photograph.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1874/10/21/archives/opposition-to-tammany-massmeeting-of-independent-democrats-a-large.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Worse_than_Slavery_%281874%29%2C_by_Thomas_Nast.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The civil war in Spain continued, with reports of the wounding of Don Carlos and munitions landing for the Carlists. Doubts about the good faith of Louisiana Democrats prevailed, amid excitement and disquiet. The governor removed election officers to maintain order.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.23
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1885,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "LONDON TAKING WARNING; STRONG GUARDS AROUND THE PUBLIC BUILDINGS. NO CESSATION OF THE FEAR OF MORE DYNAMITE EXPLOSIONS--THE DAMAGE NOT SO EXTENSIVE AS AT FIRST BELIEVED.",
+          "summary": "London is on high alert with strong guards around public buildings due to fear of dynamite explosions. The damage from recent explosions is not as extensive as initially believed.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inserting_dynamite_into_hole.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1885/01/28/archives/london-taking-warning-strong-guards-around-the-public-buildings-no.html"
+        },
+        {
+          "headline": "BISMARCKS VAST SCHEMES; HIS USE OF RUSSIA AND FRANCE TO INJURE ENGLAND. COMPENSATION THEY ARE TO RECEIVE-- THE EMPEROR'S ILLNESS AND THE INFLUENCE OF THE CROWN PRINCESS--CONGO RAILWAY AFFAIRS.",
+          "summary": "Bismarck is using Russia and France to harm England, with compensation promised to them, amidst the Emperor's illness and the Crown Princess's influence.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1885/01/25/archives/bismarcks-vast-schemes-his-use-of-russia-and-france-to-injure.html"
+        },
+        {
+          "headline": "THE CONGO CONFERENCE; A DISPUTE REGARDING FRANCE'S RIGHTS. THE LEFT BANK OF THE CONGO CLAIMED BY PREMIER FERRY--CONSIDERING THE SLAVE AND WHISKY TRAFFIC.",
+          "summary": "A dispute has arisen at the Congo Conference regarding France's rights, particularly over the left bank of the Congo, and the issues of slave and whisky trafficking.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kongokonferenz.jpg/1280px-Kongokonferenz.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1885/01/06/archives/the-congo-conference-a-dispute-regarding-frances-rights-the-left.html"
+        },
+        {
+          "headline": "LABOR RIOTS IN PROGRESS.; STRIKERS QUELLED BY THE MILITARY--THE HOCKING VALLEY TROUBLES.",
+          "summary": "Labor riots are ongoing, with strikers being quelled by the military, specifically at the Oliver Chilled Plow Works in South Bend, Indiana.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/West_Shore_Magazine_on_the_Seattle_anti-Chinese_riot_02.jpg/1280px-West_Shore_Magazine_on_the_Seattle_anti-Chinese_riot_02.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1885/01/14/archives/labor-riots-in-progress-strikers-quelled-by-the-militarythe-hocking.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inserting_dynamite_into_hole.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Dynamite explosions prompted London to deploy strong guards around public buildings. Bismarck's schemes to harm England using Russia and France were unfolding. Labor riots were quelled by the military in the United States.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.15
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2007,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "A Pair of Early Upsets Bring a Bit of ‘Hoosiers’ Into Marist’s Season",
+          "summary": "Marist, a 13th seed, has made it into the final 16 in the women's tournament, a rare achievement. The team has been to the tournament three times in the past four years.",
+          "image": "https://static01.nyt.com/images/2007/03/22/sports/22marist.1.600.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2007/03/22/sports/ncaabasketball/22marist.html"
+        },
+        {
+          "headline": "For G.O.P., First Stop on ’08 Trail Is Hotbed of Immigration Politics",
+          "summary": "The Republican party is dealing with the issue of illegal immigrants, causing complications for Senator John McCain. This issue is a key part of the party's politics.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_the_United_States_Immigration_and_Customs_Enforcement.svg/1280px-Flag_of_the_United_States_Immigration_and_Customs_Enforcement.svg.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2007/03/20/us/politics/20immig.html"
+        },
+        {
+          "headline": "L.S.U. Gets No. 3 Seed but Doesn’t Feel Like Celebrating",
+          "summary": "L.S.U. received a No. 3 seed, but the team is not celebrating due to the recent resignation of Coach Pokey Chatman. The resignation has fueled speculation and rumors.",
+          "image": "https://static01.nyt.com/images/2007/03/13/sports/75-lsu.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2007/03/13/sports/ncaabasketball/13lsu.html"
+        },
+        {
+          "headline": "Hot but Virtuous Is an Unlikely Match for an Online Dating Service",
+          "summary": "True.com, an online dating service, has become popular and controversial due to its provocative ads. The site's approach to online dating is unusual.",
+          "image": "https://static01.nyt.com/images/2007/03/19/business/19true.600.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2007/03/19/technology/19true.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2007/03/22/sports/22marist.1.600.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Marist's women's basketball team achieved a rare upset in the tournament. The Republican party navigated immigration politics, complicating Senator John McCain's campaign. L.S.U. received a No. 3 seed amidst controversy surrounding their coach's resignation.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.625
+      }
+    }
+  ]
+}
