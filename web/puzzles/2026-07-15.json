@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T06:26:31.164342+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1878,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "POLITICS EAST AND WEST.; THE OHIO SENATORSHIP. AN EXCITED POLITICAL CONTEST THE FIGHT BETWEEN PENDLETON AND EWING FINANCIAL RECORDS OF BOTH STANLEY MATTHEWS KILLED. THE NEW-HAMPSHIRE REPUBLICANS GOV. PRESCOTT'S RENOMINATION PROBABLE THE QUESTION OF APPROVING THE PRESIDENT'S POLICY LIKELY TO FORCE A CONTEST EFFECT OF MR. CHANDLER'S LETTER. PENNSYLVANIA LEGISLATURE. A DEAD-LOCK IN BOTH HOUSES UNABLE TO AGREE ON THE ORDER OF BUSINESS PAYMENT OF THE STATE TROOPS. CONNECTICUT LEGISLATURE. BOTH HOUSES TO CONVENE AT HARTFORD TO-DAY A GOOD WORKING MAJORITY NOMINATIONS FOR OFFICE. THE KENTUCKY SENATORSHIP. BUSINESS EMBARRASMENTS. FAILURES IN CHICAGO YESTERDAY HEAVY FAILURE IN MONTREAL OTHER EMBARRASSMENTS. LOSSES BY FIRE. CONVENTON OF DAIRYMEN. A MISSING OPERA MANAGER.",
+          "summary": "A political contest is underway for the Ohio senatorship, with financial records of the candidates being scrutinized. The New Hampshire Republicans are also holding a convention.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1878senatemap.svg/1280px-1878senatemap.svg.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1878/01/09/archives/politics-east-and-west-the-ohio-senatorship-an-excited-political.html"
+        },
+        {
+          "headline": "THE PENSION AGENCY AT NEW-YORK.; ACTIVITY OF APPLICANTS FOR THE SUCCESSION TO COL. FRANK E. HOWE MR. STEPHEN B. FRENCH'S CLAIMS TO RECOGNITION PETITIONS IN CIRCULATION IN NEW-YORK IN FAVOR OF OTHER CANDIDATES FOR THE POST.",
+          "summary": "There is a competition for a position at the pension agency in New York, with several candidates vying for the role.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/NYC_DOE_Logo.png/1280px-NYC_DOE_Logo.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1878/01/14/archives/the-pension-agency-at-newyork-activity-of-applicants-for-the.html"
+        },
+        {
+          "headline": "SOUTHERN REPUDIATION.; WHAT SOUTH CAROLINA HAS DONE. VALUE OF HAMPTON'S PROTESTATION OF THE NON-EXISTENCE OF A REPUDIATION PARTY IN THAT STATE DEFAULT ON THE JULY AND JANUARY INTEREST THE BOND INVESTIGATION COMMITTEE EFFORTS TO CREATE A PUBLIC SENTIMENT IN FAVOR OF HONESTY UP-HILL WORK.",
+          "summary": "South Carolina has defaulted on interest payments, prompting efforts to promote honesty and create a public sentiment in favor of responsible debt management.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/SouthCarolinaRR_RoadMap1880.jpg/1280px-SouthCarolinaRR_RoadMap1880.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1878/01/14/archives/southern-repudiation-what-south-carolina-has-done-value-of-hamptons.html"
+        },
+        {
+          "headline": "DEPARTMENT REPORTS.; THE STATE BANKS AND SAVINGS BANKS THE ADJUTANT-GENERAL'S REPORT THE CANAL AUDITOR'S, CONTROLLER'S, AND STATE PRISONS REPORTS.",
+          "summary": "Reports have been released on the state of banks, savings banks, and other financial institutions, including the Trades Savings Bank and its connections to certain individuals.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bank_of_Montreal_1_db.jpg/1280px-Bank_of_Montreal_1_db.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1878/01/01/archives/department-reports-the-state-banks-and-savings-banks-the.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1878senatemap.svg/1280px-1878senatemap.svg.png",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Ohio senatorship contest intensified, with candidates' financial records under scrutiny. South Carolina defaulted on interest payments, prompting efforts to promote responsible debt management. Financial institutions also released reports on their state.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.199
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1897,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "LARGE FIRE IN YONKERS; Half a Million Dollars in Property Destroyed -- Six Hundred Men and Girls Narrowly Escape. HEROIC ACT OF WORKMAN He Swings Himself to Outer Side of Fire Escape, Descends Three Stories, and Lowers Ladder into Position with One Hand.",
+          "summary": "A large fire in Yonkers destroyed half a million dollars in property, but 600 workers narrowly escaped thanks to heroic actions. A workman saved others by descending a fire escape and lowering a ladder with one hand.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alfred_Dreyfus_in_captivity_on_Devil%27s_Island_1898.jpg/1280px-Alfred_Dreyfus_in_captivity_on_Devil%27s_Island_1898.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1897/07/28/archives/large-fire-in-yonkers-half-a-million-dollars-in-property-destroyed.html"
+        },
+        {
+          "headline": "COAL OPERATORS' SESSION; The Uniformity Agreement Adopted, Section by Section, by the Pittsburg Conference. COL. REND MAY SANCTION IT. 95 Per Cent, of the Operators Required to Sing Before January 1, 1898 -- Terms of the Agreement -- Miners' Leaders Shut Out.",
+          "summary": "Coal operators adopted a uniformity agreement that requires most operators to participate by January 1, but miners' leaders were excluded from the decision-making process.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/British.coalfields.19th.century.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1897/07/29/archives/coal-operators-session-the-uniformity-agreement-adopted-section-by.html"
+        },
+        {
+          "headline": "KENTUCKY LUNATICS STARVED.; Gov. Bradley Asked to Remove His Brother-in-Law from Charge of a State Asylum.",
+          "summary": "Patients at an insane asylum in Kentucky were starved, prompting calls for the governor to remove his brother-in-law from charge of the facility.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Francisco_de_Goya_-_La_casa_de_locos_-_Google_Art_Project.jpg/1280px-Francisco_de_Goya_-_La_casa_de_locos_-_Google_Art_Project.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1897/07/25/archives/kentucky-lunatics-starved-gov-bradley-asked-to-remove-his.html"
+        },
+        {
+          "headline": "FEATHERS ON WOMAN'S DRESS.; Massachusetts Law Against Wearing Birds' Plumage Likely to be Enforced, Says Commissioner Martin.",
+          "summary": "A law against wearing birds' feathers on clothing may be enforced in Massachusetts, according to the commissioner.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1897/07/09/archives/feathers-on-womans-dress-massachusetts-law-against-wearing-birds.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alfred_Dreyfus_in_captivity_on_Devil%27s_Island_1898.jpg/1280px-Alfred_Dreyfus_in_captivity_on_Devil%27s_Island_1898.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "A large fire in Yonkers destroyed half a million dollars in property. Heroic actions by a workman saved 600 workers from the blaze. Coal operators also adopted a uniformity agreement, while scandals emerged at a Kentucky insane asylum and a Massachusetts law targeted women's clothing.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.139
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1972,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "PARTY RULINGS ENHANCE M’GOVERN'S CANDIDACY; CONVENTION OPENS TODAY",
+          "summary": "Senator McGovern's presidential nomination bid gains strength from parliamentary rulings, despite opposition from other candidates. The Democratic convention is about to begin, with a long and heated struggle expected over delegate seating.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/DP1972Color.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/07/10/archives/party-rulings-enhance-mgoverns-candidacy-convention-opens-today.html"
+        },
+        {
+          "headline": "Dug‐In North Vietnamese Slash at the Lifeline Connecting Hue and Quangtri City",
+          "summary": "North Vietnamese troops are blocking the supply route between Hue and Quangtri City, trying to isolate the South Vietnamese force. The road is virtually blocked, with few military vehicles able to get through.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/B-52D%28061127-F-1234S-017%29.jpg/1280px-B-52D%28061127-F-1234S-017%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/07/23/archives/dugin-north-vietnamese-slash-at-the-lifeline-connecting-hue-and.html"
+        },
+        {
+          "headline": "Accord on Union Dispute Averts Hospital Walkout Set for Today",
+          "summary": "A hospital strike by the Drug and Hospital Union has been averted after an agreement was reached on union jurisdictional issues, guaranteeing wages and benefits for workers. The strike would have affected 42,000 workers in 66 hospitals.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Mount_Sinai_Hospital.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/07/06/archives/accord-on-union-dispute-averts-hospital-walkout-set-for-today.html"
+        },
+        {
+          "headline": "CON ED SHUTS OFF POWER TO 200,000 IN BROOKLYN AFTER FEEDER LINES FAIL",
+          "summary": "A power blackout has affected 200,000 people in Brooklyn after feeder lines failed, with Con Ed shutting off power to avoid permanent damage. The blackout has caused sporadic looting and disruptions, but subways are largely unaffected.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg/1280px-Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/07/18/archives/con-ed-shuts-off-power-to-200000-in-brooklyn-after-feeder-lines.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/DP1972Color.png",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Senator McGovern's presidential nomination bid gained strength from parliamentary rulings. North Vietnamese troops blocked the supply route between Hue and Quangtri City. A hospital strike was averted after an agreement was reached on union jurisdictional issues.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.773
+      }
+    }
+  ]
+}
