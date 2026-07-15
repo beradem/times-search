@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T14:06:13.975727+00:00",
+  "generated_at": "2026-07-15T14:18:01.664293+00:00",
   "rounds": [
     {
       "round": 1,
@@ -11,38 +11,38 @@
       "stories": [
         {
           "headline": "POLITICS EAST AND WEST.; THE OHIO SENATORSHIP. AN EXCITED POLITICAL CONTEST THE FIGHT BETWEEN PENDLETON AND EWING FINANCIAL RECORDS OF BOTH STANLEY MATTHEWS KILLED. THE NEW-HAMPSHIRE REPUBLICANS GOV. PRESCOTT'S RENOMINATION PROBABLE THE QUESTION OF APPROVING THE PRESIDENT'S POLICY LIKELY TO FORCE A CONTEST EFFECT OF MR. CHANDLER'S LETTER. PENNSYLVANIA LEGISLATURE. A DEAD-LOCK IN BOTH HOUSES UNABLE TO AGREE ON THE ORDER OF BUSINESS PAYMENT OF THE STATE TROOPS. CONNECTICUT LEGISLATURE. BOTH HOUSES TO CONVENE AT HARTFORD TO-DAY A GOOD WORKING MAJORITY NOMINATIONS FOR OFFICE. THE KENTUCKY SENATORSHIP. BUSINESS EMBARRASMENTS. FAILURES IN CHICAGO YESTERDAY HEAVY FAILURE IN MONTREAL OTHER EMBARRASSMENTS. LOSSES BY FIRE. CONVENTON OF DAIRYMEN. A MISSING OPERA MANAGER.",
-          "summary": "A political contest is underway in Ohio for the senatorship, with Pendleton and Ewing as candidates, during the Reconstruction era. Stanley Matthews was killed in the process.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1878senatemap.svg/1280px-1878senatemap.svg.png",
+          "summary": "A political contest is underway in Ohio for the senatorship, with candidates Pendleton and Ewing, amidst financial records scrutiny and other state legislature news, during Reconstruction",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Michigan_State_Capitol_2024.jpg/1280px-Michigan_State_Capitol_2024.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1878/01/09/archives/politics-east-and-west-the-ohio-senatorship-an-excited-political.html"
         },
         {
           "headline": "THE PENSION AGENCY AT NEW-YORK.; ACTIVITY OF APPLICANTS FOR THE SUCCESSION TO COL. FRANK E. HOWE MR. STEPHEN B. FRENCH'S CLAIMS TO RECOGNITION PETITIONS IN CIRCULATION IN NEW-YORK IN FAVOR OF OTHER CANDIDATES FOR THE POST.",
-          "summary": "Stephen B. French is attempting to succeed Col. Frank E. Howe at the New York pension agency, with other candidates also vying for the position. Petitions are circulating in support of various candidates.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/NYC_DOE_Logo.png/1280px-NYC_DOE_Logo.png",
+          "summary": "Stephen B. French is attempting to succeed Col. Frank E. Howe at the New York pension agency, with petitions circulating in support of other candidates",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/NYC_Subway_R1_100.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1878/01/14/archives/the-pension-agency-at-newyork-activity-of-applicants-for-the.html"
         },
         {
           "headline": "SOUTHERN REPUDIATION.; WHAT SOUTH CAROLINA HAS DONE. VALUE OF HAMPTON'S PROTESTATION OF THE NON-EXISTENCE OF A REPUDIATION PARTY IN THAT STATE DEFAULT ON THE JULY AND JANUARY INTEREST THE BOND INVESTIGATION COMMITTEE EFFORTS TO CREATE A PUBLIC SENTIMENT IN FAVOR OF HONESTY UP-HILL WORK.",
-          "summary": "South Carolina has defaulted on interest payments, prompting Governor Hampton to protest the existence of a repudiation party in the state, as the state struggles with debt during Reconstruction.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Arms_of_the_South_Sea_Company.svg/1280px-Arms_of_the_South_Sea_Company.svg.png",
+          "summary": "South Carolina has defaulted on interest payments, prompting Governor Hampton to protest the existence of a repudiation party, as the legislature and local press debate the issue, in the aftermath of the Civil War",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/South_Carolina_State_House.JPG/1280px-South_Carolina_State_House.JPG",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1878/01/14/archives/southern-repudiation-what-south-carolina-has-done-value-of-hamptons.html"
         },
         {
           "headline": "DEPARTMENT REPORTS.; THE STATE BANKS AND SAVINGS BANKS THE ADJUTANT-GENERAL'S REPORT THE CANAL AUDITOR'S, CONTROLLER'S, AND STATE PRISONS REPORTS.",
-          "summary": "Reports have been released on the state of banks, savings banks, and other financial institutions, including the Trades Savings Bank, with D. A. Hawkins involved as trustee and counsel.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bank_of_Montreal_1_db.jpg/1280px-Bank_of_Montreal_1_db.jpg",
+          "summary": "Department reports have been released, including those from the State Banks, Savings Banks, and Adjutant-General, with details on the Trades Savings Bank and its connections",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Second_Bank_of_the_United_States%2C_Philadelphia.jpg/1280px-Second_Bank_of_the_United_States%2C_Philadelphia.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1878/01/01/archives/department-reports-the-state-banks-and-savings-banks-the.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1878senatemap.svg/1280px-1878senatemap.svg.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Michigan_State_Capitol_2024.jpg/1280px-Michigan_State_Capitol_2024.jpg",
         "source": "Wikimedia Commons"
       },
-      "blurb": "The Ohio senatorship contest unfolded, pitting Pendleton against Ewing. Stanley Matthews was killed amidst the excitement. South Carolina defaulted on interest payments, prompting Governor Hampton's protest.",
+      "blurb": "The Ohio senatorship contest intensified between Pendleton and Ewing. Financial records scrutiny and state legislature news dominated the headlines. South Carolina defaulted on interest payments, prompting Governor Hampton's protest.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.199
@@ -57,35 +57,35 @@
       "stories": [
         {
           "headline": "LARGE FIRE IN YONKERS; Half a Million Dollars in Property Destroyed -- Six Hundred Men and Girls Narrowly Escape. HEROIC ACT OF WORKMAN He Swings Himself to Outer Side of Fire Escape, Descends Three Stories, and Lowers Ladder into Position with One Hand.",
-          "summary": "A large fire destroyed half a million dollars in property at Reed & Co.'s factory in Yonkers, but a heroic workman helped six hundred people escape",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Txcitydisasterboat.jpg/1280px-Txcitydisasterboat.jpg",
+          "summary": "A large fire destroyed half a million dollars in property at Reed & Co.'s factory in Yonkers, but 600 workers narrowly escaped thanks to a heroic act by one workman",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg/1280px-View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1897/07/28/archives/large-fire-in-yonkers-half-a-million-dollars-in-property-destroyed.html"
         },
         {
           "headline": "COAL OPERATORS' SESSION; The Uniformity Agreement Adopted, Section by Section, by the Pittsburg Conference. COL. REND MAY SANCTION IT. 95 Per Cent, of the Operators Required to Sing Before January 1, 1898 -- Terms of the Agreement -- Miners' Leaders Shut Out.",
-          "summary": "Coal operators adopted a uniformity agreement at a conference in Pittsburg, which may be sanctioned by Col. Rend, requiring 95 percent of operators to sign before January 1,",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/British.coalfields.19th.century.jpg",
+          "summary": "Coal operators adopted a uniformity agreement at a conference in Pittsburg, which may be sanctioned by Col. Rend, requiring 95 percent of operators to sign by January 1,",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Henry_G._Davis_-_Brady-Handy.jpg/1280px-Henry_G._Davis_-_Brady-Handy.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1897/07/29/archives/coal-operators-session-the-uniformity-agreement-adopted-section-by.html"
         },
         {
           "headline": "KENTUCKY LUNATICS STARVED.; Gov. Bradley Asked to Remove His Brother-in-Law from Charge of a State Asylum.",
           "summary": "Patients at an insane asylum in Lexington, Kentucky were starved, prompting a call for Governor Bradley to remove his brother-in-law from charge",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Age_of_consent_-_United_States.svg/1280px-Age_of_consent_-_United_States.svg.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Francisco_de_Goya_-_La_casa_de_locos_-_Google_Art_Project.jpg/1280px-Francisco_de_Goya_-_La_casa_de_locos_-_Google_Art_Project.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1897/07/25/archives/kentucky-lunatics-starved-gov-bradley-asked-to-remove-his.html"
         },
         {
           "headline": "FEATHERS ON WOMAN'S DRESS.; Massachusetts Law Against Wearing Birds' Plumage Likely to be Enforced, Says Commissioner Martin.",
-          "summary": "A Massachusetts law against wearing birds' plumage may be enforced, according to Commissioner Martin, affecting women's fashion",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bird-lore_Vol_01.djvu/page1-1280px-Bird-lore_Vol_01.djvu.jpg",
+          "summary": "A Massachusetts law against wearing birds' plumage on dresses may be enforced, according to Commissioner Martin",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dress_MET_DT447.jpg/1280px-Dress_MET_DT447.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1897/07/09/archives/feathers-on-womans-dress-massachusetts-law-against-wearing-birds.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Txcitydisasterboat.jpg/1280px-Txcitydisasterboat.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg/1280px-View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg",
         "source": "Wikimedia Commons"
       },
       "blurb": "A large fire destroyed half a million dollars in property at Reed & Co.'s factory in Yonkers. Coal operators adopted a uniformity agreement in Pittsburg, requiring most operators to sign by January 1, 1898. Patients at a Kentucky asylum were starved, prompting calls for reform.",
@@ -110,8 +110,8 @@
         },
         {
           "headline": "Dug‐In North Vietnamese Slash at the Lifeline Connecting Hue and Quangtri City",
-          "summary": "North Vietnamese troops attack the supply line between Hue and Quangtri City, trying to isolate the South Vietnamese force, with US air missions supporting the South Vietnamese troops",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg",
+          "summary": "North Vietnamese troops attack the supply line between Hue and Quangtri City, trying to isolate the South Vietnamese force, as US air missions focus on the northern front",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/B-52D%28061127-F-1234S-017%29.jpg/1280px-B-52D%28061127-F-1234S-017%29.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1972/07/23/archives/dugin-north-vietnamese-slash-at-the-lifeline-connecting-hue-and.html"
         },
@@ -124,8 +124,8 @@
         },
         {
           "headline": "CON ED SHUTS OFF POWER TO 200,000 IN BROOKLYN AFTER FEEDER LINES FAIL",
-          "summary": "A power blackout affects 200,000 people in Brooklyn after feeder lines fail, with Con Ed citing heavy air conditioner use and potential damage from heat and weather as factors, and police reporting sporadic looting",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg/1280px-Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg",
+          "summary": "A power outage affects 200,000 people in Brooklyn after feeder lines fail, with Con Ed citing heavy air conditioner use and potential damage from heat and weather as factors, and police reporting sporadic looting",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/New_York_power_grid.webp/1280px-New_York_power_grid.webp.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1972/07/18/archives/con-ed-shuts-off-power-to-200000-in-brooklyn-after-feeder-lines.html"
         }
@@ -134,7 +134,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/DP1972Color.png",
         "source": "Wikimedia Commons"
       },
-      "blurb": "Senator McGovern's presidential nomination bid gained strength from parliamentary rulings. The North Vietnamese attacked a key supply line, while a hospital strike was averted in New York City. A power blackout affected 200,000 people in Brooklyn due to feeder line failures.",
+      "blurb": "Senator McGovern's presidential nomination bid gained strength from parliamentary rulings. The Democratic convention opened amidst opposition from other candidates. North Vietnamese troops attacked a key supply line in South Vietnam.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.773

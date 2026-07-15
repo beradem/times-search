@@ -42,6 +42,20 @@ def _relevant(query, title):
     return False
 
 
+# Non-photo images that shouldn't front a story card: maps, flags, emblems,
+# data charts, and document/page scans.
+_NON_PHOTO = ("map", "flag", "coat_of_arms", "coat of arms", "locator", "seal",
+              "logo", "emblem", "diagram", "chart", "graph", "orthographic",
+              "coalfield", "location", "topographic", "blank_", "outline",
+              "production", "statistics", "census", ".djvu", ".pdf", ".svg",
+              "titlepage", "title_page", "sheet_music", "postage")
+
+
+def _maplike(cand):
+    s = ((cand.get("title") or "") + " " + (cand.get("url") or "")).lower()
+    return any(k in s for k in _NON_PHOTO)
+
+
 def _candidates(story):
     """Ordered (url, source, relevant) image candidates for one story: specific
     Wikipedia + Commons first, then the broad theme. Deduped by url."""
@@ -53,7 +67,7 @@ def _candidates(story):
     def add(items, query, force_relevant=False):
         for c in items:
             u = c.get("url")
-            if not u or u in seen:
+            if not u or u in seen or _maplike(c):   # skip maps/flags/diagrams
                 continue
             seen.add(u)
             out.append((u, c["source"], force_relevant or _relevant(query, c.get("title"))))

@@ -88,8 +88,11 @@ SYSTEM = (
     "no comparison years. Clues are named people and light era context only.\n"
     '- "image_query": a short, specific phrase (3-6 words) to find a '
     "REPRESENTATIVE historical PHOTO of this exact event on Wikipedia (used "
-    "privately; may include the year). E.g. '1943 Harlem riot', 'Apollo 11 "
-    "moon landing'.\n"
+    "privately; may include the year). Make it specific to the story's COUNTRY "
+    "and place (e.g. 'United States coal miners 1890s', NOT just 'coal mining' "
+    "which returns a British map), and pick a PHOTOGRAPHABLE subject — people, "
+    "an event, a place — never an abstract concept, agreement, law, or map. "
+    "E.g. '1943 Harlem riot', 'Apollo 11 moon landing'.\n"
     '- "image_query_broad": a BROADER subject guaranteed to have photos on '
     "Wikipedia (general theme, place, or era). NEVER empty. E.g. 'United States "
     "Congress 1870s', 'World War II home front'.\n"
