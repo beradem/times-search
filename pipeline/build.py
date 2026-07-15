@@ -15,7 +15,8 @@ import sys
 from zoneinfo import ZoneInfo
 
 from . import blurb, config, nyt, selection, summaries, wikimedia
-from .ranker import rank_month
+from .notable_months import EVENT_KEYWORDS
+from .ranker import find_event_story, label_kickers, rank_month
 
 PUBLIC_STORY_KEYS = ("headline", "summary", "image", "image_source", "url")
 
@@ -104,11 +105,31 @@ def resolve_card_images(stories, year, with_wikimedia=True):
             s["image"], s["image_source"] = None, None
 
 
-def build_round(index, year, month, with_blurb=True):
+def _force_flagship(stories, docs, keyword_hook):
+    """Ensure the curated event's recognizable story leads the round. Pulls the
+    best headline match into position 0 (so it fronts the card, reveal image and
+    clue); no-op when nothing matches. Keeps the round at 4 stories."""
+    flagship = find_event_story(docs, keyword_hook, labels=label_kickers(docs))
+    if not flagship:
+        return stories
+    # Drop any existing copy (same url, else same headline) before promoting it.
+    rest = [s for s in stories
+            if not ((flagship.get("url") and s.get("url") == flagship["url"])
+                    or s.get("headline") == flagship["headline"])]
+    return [flagship, *rest][:4]
+
+
+def build_round(index, year, month, with_blurb=True, event_keywords=None):
     docs = nyt.fetch_month(year, month)
     stories, meta = rank_month(docs)
     if not stories:
         raise ValueError(f"{year}-{month:02d} produced no rankable stories")
+    if event_keywords:
+        before = stories[0]["headline"]
+        stories = _force_flagship(stories, docs, event_keywords)
+        if stories[0]["headline"] != before:
+            print(f"  round {index}: flagship -> {stories[0]['headline'][:50]}",
+                  file=sys.stderr)
     if with_blurb:
         # Clarify summaries and get targeted + broad image queries per story.
         for s, e in zip(stories, summaries.clarify(year, month, stories)):
@@ -159,7 +180,8 @@ def main():
     print(f"Building puzzle for {date_str}: "
           f"{', '.join(f'{y}-{m:02d}' for y, m in pairs)}", file=sys.stderr)
 
-    rounds = [build_round(i, y, m, with_blurb=not args.no_blurb)
+    rounds = [build_round(i, y, m, with_blurb=not args.no_blurb,
+                          event_keywords=EVENT_KEYWORDS.get((y, m)))
               for i, (y, m) in enumerate(pairs, 1)]
     puzzle = {
         "date": date_str,

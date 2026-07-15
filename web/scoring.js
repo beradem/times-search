@@ -4,7 +4,9 @@
   "use strict";
 
   const MAX_POINTS = 1000;
-  const HALF_LIFE = 18; // months; the main "feel" dial (PRD §5.2)
+  // Months; the main difficulty dial. 36 = partial knowledge pays: 1 year off
+  // ≈ 79%, 2 years ≈ 63%, 5 years ≈ 31%, a decade ≈ 10%.
+  const HALF_LIFE = 36;
   const ROUNDS = 3;
 
   function monthIndex(year, month) {

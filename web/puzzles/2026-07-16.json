@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-15T23:26:35.820569+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1890,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "A FIGHT WITH THE HOSTILES; BIG FOOT'S TREACHERY PRECIPITATES A BATTLE. CAPT. WALLACE OF THE SEVENTH CAVALRY KILLED, WITH MANY INDIANS AND SOLDIERS -- LIEUT. GARLINGTON SERIOUSLY WOUNDED.",
+          "summary": "Captain Wallace of the Seventh Cavalry was killed in a battle with Native American hostiles, with many Indians and soldiers also killed or wounded, including Lieutenant Garlington, during a time of heightened tensions between the US government and Native American tribes",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Soldiers_at_a_burial_for_the_dead_at_Wounded_Knee%2C_South_Dakota%2C_c._1891.jpg/1280px-Soldiers_at_a_burial_for_the_dead_at_Wounded_Knee%2C_South_Dakota%2C_c._1891.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1890/12/30/archives/a-fight-with-the-hostiles-big-foots-treachery-precipitates-a-battle.html"
+        },
+        {
+          "headline": "PARNELL SPLITS HIS PARTY; THE MAJORITY DRIVEN FROM HIM BY HIS SELFISHNESS. JUSTIN M'CARTHY ELECTED LEADER OF HIS OPPONENTS -- THE OLD LEADER LEFT WITH A FEW ADHERENTS AND THE CONTROL OF THE MONEY. BY THE COMMERCIAL CABLE FROM OUR OWN CORRESPONDENT.",
+          "summary": "Charles Parnell's leadership was challenged by Justin McCarthy, who was elected to lead the opposing faction, amid a split in the party and questions about Parnell's character",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Monk_Eastman_mugshot_1903.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1890/12/07/archives/parnell-splits-his-party-the-majority-driven-from-him-by-his.html"
+        },
+        {
+          "headline": "BIG STRIKE IN SCOTLAND; RAILROAD TRAFFIC STOPPED AND BUSINESS CHECKED. NINE THOUSAND MEN STOP WORK -- VERY FEW TRAINS RUNNING -- FUEL SCARCE AND THE SUPPLY OF GAS THREATENED.",
+          "summary": "A large strike by railroad workers in Glasgow, Scotland, brought railroad traffic to a halt and threatened the supply of fuel and gas, as 9,000 men stopped work",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Glasgow_Green%2C_Nelson_Monument.jpg/1280px-Glasgow_Green%2C_Nelson_Monument.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1890/12/25/archives/big-strike-in-scotland-railroad-traffic-stopped-and-business.html"
+        },
+        {
+          "headline": "FOUR BLOCKS LAID WASTE; LONDON LOSES AT LEAST TWO MILLIONS BY FIRE. A LARGE NUMBER OF WAREHOUSES DESTROYED -- A BIG LOSS IN SEALSKINS ALONE -- THE USELESSNESS OF HAND ENGINES SHOWN.",
+          "summary": "A massive fire in London's Queen Victoria Street destroyed a large number of warehouses, including those storing valuable seal skins, and caused significant financial losses",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Coronation_portrait_of_Queen_Victoria_1838.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1890/12/31/archives/four-blocks-laid-waste-london-loses-at-least-two-millions-by-fire-a.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Soldiers_at_a_burial_for_the_dead_at_Wounded_Knee%2C_South_Dakota%2C_c._1891.jpg/1280px-Soldiers_at_a_burial_for_the_dead_at_Wounded_Knee%2C_South_Dakota%2C_c._1891.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Captain Wallace's death occurred during a battle with Native American hostiles. The Seventh Cavalry clashed with Big Foot's tribe, resulting in many casualties. Tensions between the US government and Native American tribes escalated.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.207
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1892,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "LANDED ON ELLIS ISLAND; NEW IMMIGRATION BUILDINGS OPENED YESTERDAY. A ROSY-CHEEKED IRISH GIRL THE FIRST REGISTERED -- ROOM ENOUGH FOR ALL ARRIVALS -- ONLY RAILROAD PEOPLE FIND FAULT.",
+          "summary": "A new immigration building on Ellis Island has opened, with a young Irish girl being the first to register, during a time of high immigration to the United States. The facility is expected to handle all arrivals efficiently.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/1280px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/02/archives/landed-on-ellis-island2-new-immigration-buildings-opened-yesterday.html"
+        },
+        {
+          "headline": "ENGLAND'S NOBLE DEAD; MANNING'S FUNERAL TO FOLLOW THE YOUNG DUKE'S. TO BE MADE VERY IMPRESSIVE -- RUMORS OF PEACE IN ITALY BETWEEN CHURCH AND STATE -- ONE OF BISMARCK'S FRIENDS IN TROUBLE -- BULGARIA THE ALLIED POWERS.",
+          "summary": "The funeral of a young duke is to be held in England, and will be a grand affair, as the country mourns the loss of its noble dead. Meanwhile, rumors of peace between the church and state in Italy are emerging.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Queen_Victoria_-_Winterhalter_1859.jpg/1280px-Queen_Victoria_-_Winterhalter_1859.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/17/archives/englands-noble-dead-mannings-funeral-to-follow-the-young-dukes-to.html"
+        },
+        {
+          "headline": "SHERMAN MEN ARE VICTORS; A SHARP FIGHT. BUT THEY NOMINATE LAYLIN AS SPEAKER. THE FORAKER FACTION SURPRISED AND DOWNCAST -- SHERMAN'S ELECTION TO THE UNITED STATES SENATE PRACTICALLY ASSURED.",
+          "summary": "John Sherman's supporters have won a significant victory, nominating Laylin as speaker and practically assuring Sherman's election to the United States Senate, in a contest against Foraker's faction.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Decanter_MET_DT188.jpg/1280px-Decanter_MET_DT188.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/03/archives/sherman-men-are-victors-a-sharp-fight-but-they-nominate-laylin-as.html"
+        },
+        {
+          "headline": "EUROPE'S EYE ON GERMANY; THE EMPEROR FACE TO FACE WITH LIBERAL OPPOSITION. A SITUATION THAT WAS TO BE YORE- SEEN -- FRENCH DEVOTION TO GER- MAN PEER -- AS TO POPE LEO'S HEALTH -- DUKE CONSTANTINE'S DEATH -- THE GRIP STILL IN FORCE.",
+          "summary": "The German Emperor is facing opposition from liberal forces, in a situation that has been brewing for some time, and is being closely watched by European powers, as the Emperor's luck in politics seems to be running out.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kaiser_Wilhelm_PW.jpg/1280px-Kaiser_Wilhelm_PW.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/31/archives/europes-eye-on-germany-the-emperor-face-to-face-with-liberal.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/1280px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Ellis Island immigration building opened, efficiently handling arrivals with a young Irish girl as its first registrant. The funeral of a young English duke was held with great pomp. John Sherman's supporters secured a significant victory, nominating Laylin as speaker.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.187
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1970,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "CREW OF CRIPPLED APOLLO 13 STARTS BACK AFTER ROUNDING MOON AND FIRING ROCKET; MEN APPEAR CALM DESPITE LOW RESERVES",
+          "summary": "The crew of Apollo 13 is heading back to Earth after successfully rounding the moon and firing a rocket, despite low reserves, as the United States continues to push the boundaries of space exploration during the Cold War era. The astronauts appear calm and in control of the situation.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Apollo_13-insignia.png/1280px-Apollo_13-insignia.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/15/archives/crew-of-crippled-apollo-13-starts-back-target-is-pacific-chance-of.html"
+        },
+        {
+          "headline": "NIXON TO PULL OUT 150,000 FROM VIETNAM IN A YEAR; SAYS HANOI BLOCKS PEACE",
+          "summary": "President Richard Nixon announced plans to withdraw 150,000 troops from Vietnam over the next year, citing Hanoi as an obstacle to peace, in a televised address to the nation from his San Clemente home. The move is seen as a significant step towards ending the conflict.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/President_Richard_Nixon_greets_a_U.S._Army_1st_Infantry_Division_Soldier.jpg/1280px-President_Richard_Nixon_greets_a_U.S._Army_1st_Infantry_Division_Soldier.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/21/archives/nixon-to-pull-out-150000-from-vietnam-in-a-year-says-hanoi-blocks.html"
+        },
+        {
+          "headline": "DEMOCRATS PICK GOLDBERG BUT HE ‘WAIVES’ SELECTION; PLANS A RACE BY PETITION;",
+          "summary": "Democrats selected a candidate, but he declined the nomination and instead plans to run through a petition process, adding a new layer to the election. The candidate, Goldberg, is moving forward with his campaign despite the initial selection.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/1970_Georgia_Democratic_Gubernatorial_Primary.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/02/archives/democrats-pick-goldberg-but-he-waives-selection-plans-a-race-by.html"
+        },
+        {
+          "headline": "Judge Blackmun of Minnesota Is Named To Supreme Court Seat by the President",
+          "summary": "Judge Blackmun from Minnesota has been appointed to the Supreme Court by the President, marking a new addition to the nation's highest court. The appointment is a significant move, shaping the judicial landscape.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/John_Marshall_%28NPG%29.jpg/1280px-John_Marshall_%28NPG%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/15/archives/judge-blackmun-of-minnesota-is-named-to-supreme-court-seat-by-the.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Apollo_13-insignia.png/1280px-Apollo_13-insignia.png",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Apollo 13's crew successfully rounded the moon and fired a rocket, heading back to Earth despite low reserves. President Nixon announced plans to withdraw 150,000 troops from Vietnam. Judge Blackmun was appointed to the Supreme Court by the President.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.636
+      }
+    }
+  ]
+}

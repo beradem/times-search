@@ -12,6 +12,7 @@ import os
 import random
 
 from . import config
+from .notable_months import NOTABLE
 
 WINDOW_DAYS = 13          # 13 prior days + today = 2-calendar-week no-repeat
 ROUNDS_PER_DAY = 3
@@ -56,6 +57,18 @@ def select_pairs(date_str, ledger=None):
     rng = random.Random(_seed(date_str))
     excluded = _recent_pairs(ledger, date_str)
     chosen = []
+
+    # Draw from the curated notable-month pool so every edition has a real,
+    # recognizable event to date. Deterministic: seeded shuffle per date.
+    pool = [p for p in NOTABLE if p >= config.ARCHIVE_START]
+    rng.shuffle(pool)
+    for pair in pool:
+        if pair not in excluded and pair not in chosen:
+            chosen.append(pair)
+            if len(chosen) == ROUNDS_PER_DAY:
+                return chosen
+
+    # Safety net (pool exhausted by the no-repeat window): fill with random.
     while len(chosen) < ROUNDS_PER_DAY:
         pair = (rng.randint(config.ARCHIVE_MIN_YEAR, config.ARCHIVE_MAX_YEAR),
                 rng.randint(1, 12))

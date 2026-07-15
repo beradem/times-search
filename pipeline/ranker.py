@@ -5,6 +5,7 @@ Ported from the validated prototype/rank.py. Two modes:
   * headline richness  (pre-~1930 "keyword desert" fallback)
 See PRD section 6.2 / 6.3.
 """
+import re
 from collections import Counter
 
 # Material types that aren't "what happened this month" — drop, keep the rest.
@@ -120,8 +121,15 @@ def clean_label_headline(raw, labels):
     return raw
 
 
+# "(2)"/"(3)" the NYT archive appends to disambiguate duplicate headlines — an
+# artifact, not part of the headline. It rides on the kicker, so it can sit
+# mid-headline ("ELLIS ISLAND(2); NEW...") as well as at the very end.
+_DUP_MARK = re.compile(r"\(\d+\)(?=\s*(?:[;.]|$))")
+
+
 def _story(doc, page, topic=None, cluster_size=1, headline=None):
     headline = headline or (doc.get("headline") or {}).get("main") or "(no headline)"
+    headline = _DUP_MARK.sub("", headline)
     return {
         "headline": headline,
         "summary": doc.get("abstract") or doc.get("snippet") or "",
@@ -225,6 +233,39 @@ def _rank_by_clusters(docs, kw_freq, n, labels):
 
     reps.sort(key=lambda r: r[0], reverse=True)
     return [r[1] for r in reps[:4]]
+
+
+def find_event_story(docs, keyword_hook, labels=None):
+    """Find the month's flagship story for a curated event by matching its
+    headline against a "|"-separated keyword hook. Returns a story dict (same
+    shape as rank_month's) or None if nothing recognizable matched.
+
+    Prefers the most front-page, richest matching headline so a page-1 lead wins
+    over a buried mention. Skips editorials/reviews/filler via _candidate_docs.
+    """
+    terms = [t.strip().lower() for t in (keyword_hook or "").split("|") if t.strip()]
+    if not terms:
+        return None
+    if labels is None:
+        labels = label_kickers(docs)
+
+    best, best_key = None, None
+    for d in _candidate_docs(docs):
+        raw = (d.get("headline") or {}).get("main") or ""
+        low = raw.lower()
+        if not any(t in low for t in terms):
+            continue
+        page = as_int(d.get("print_page"))
+        # A real story over a standing-column label, then front-page, then richer.
+        key = (0 if _kicker(raw) in labels else 1,
+               front_weight(page), headline_richness(raw, page), len(raw))
+        if best_key is None or key > best_key:
+            best, best_key = d, key
+    if best is None:
+        return None
+    raw = (best.get("headline") or {}).get("main") or ""
+    return _story(best, as_int(best.get("print_page")),
+                  headline=clean_label_headline(raw, labels))
 
 
 def _rank_by_headline(docs, labels):
