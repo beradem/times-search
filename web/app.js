@@ -93,27 +93,15 @@
       : state.results.length
         ? { label: "Resume Today’s Edition", action: renderPlay }
         : { label: "Play Today’s Edition", action: startGame };
-    // Live folio: real weekday + date for this edition, so the home page reads
-    // like today's paper rather than a static splash. Parse the Y-M-D parts by
-    // hand to avoid the UTC-midnight-shifts-a-day trap.
-    const [ey, em, ed] = (state.puzzle ? state.puzzle.date : DATE).split("-").map(Number);
-    const editionDate = new Date(ey, em - 1, ed);
-    const weekday = editionDate.toLocaleDateString("en-US", { weekday: "long" });
-    const dateLine = `${weekday}, ${MONTHS[em]} ${ed}, ${ey}`;
     app.innerHTML = `
       <section class="screen home">
         <div class="home-nameplate">
           <div class="home-rule"></div>
           <h1 class="home-title">Times Search</h1>
-          <div class="fp-folio">
-            <span class="fp-folio-side">Late Edition</span>
-            <span class="fp-folio-mid">A Daily History Game</span>
-            <span class="fp-folio-side fp-folio-date">${dateLine}</span>
-          </div>
-          <div class="home-rule home-rule--double"></div>
+          <p class="home-subtitle">a daily history game</p>
+          <div class="home-rule"></div>
         </div>
-        <h2 class="fp-headline">Four Front Pages, One Month in History &mdash; Can You Date the News?</h2>
-        <ol class="howto fp-story">
+        <ol class="howto">
           <li><span class="howto-n">1</span><span>Read the front page — four real New York Times stories, all from one month.</span></li>
           <li><span class="howto-n">2</span><span>Guess the <strong>month and year</strong> they ran.</span></li>
           <li><span class="howto-n">3</span><span>The closer you are, the higher your score. Three editions a day.</span></li>
