@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T06:26:31.164342+00:00",
+  "generated_at": "2026-07-15T13:50:05.783159+00:00",
   "rounds": [
     {
       "round": 1,
@@ -11,38 +11,38 @@
       "stories": [
         {
           "headline": "POLITICS EAST AND WEST.; THE OHIO SENATORSHIP. AN EXCITED POLITICAL CONTEST THE FIGHT BETWEEN PENDLETON AND EWING FINANCIAL RECORDS OF BOTH STANLEY MATTHEWS KILLED. THE NEW-HAMPSHIRE REPUBLICANS GOV. PRESCOTT'S RENOMINATION PROBABLE THE QUESTION OF APPROVING THE PRESIDENT'S POLICY LIKELY TO FORCE A CONTEST EFFECT OF MR. CHANDLER'S LETTER. PENNSYLVANIA LEGISLATURE. A DEAD-LOCK IN BOTH HOUSES UNABLE TO AGREE ON THE ORDER OF BUSINESS PAYMENT OF THE STATE TROOPS. CONNECTICUT LEGISLATURE. BOTH HOUSES TO CONVENE AT HARTFORD TO-DAY A GOOD WORKING MAJORITY NOMINATIONS FOR OFFICE. THE KENTUCKY SENATORSHIP. BUSINESS EMBARRASMENTS. FAILURES IN CHICAGO YESTERDAY HEAVY FAILURE IN MONTREAL OTHER EMBARRASSMENTS. LOSSES BY FIRE. CONVENTON OF DAIRYMEN. A MISSING OPERA MANAGER.",
-          "summary": "A political contest is underway for the Ohio senatorship, with financial records of the candidates being scrutinized. The New Hampshire Republicans are also holding a convention.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1878senatemap.svg/1280px-1878senatemap.svg.png",
+          "summary": "As President Rutherford B. Hayes navigates the complexities of Reconstruction, a heated political contest is unfolding in Ohio, with key figures like Pendleton and Ewing vying for the senatorship, while financial struggles and business embarrassments plague cities like Chicago and Montreal. The Republican State Convention is also convening, with nominations for office and discussions on approving the president's policy.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/ReconstructionEraColl.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1878/01/09/archives/politics-east-and-west-the-ohio-senatorship-an-excited-political.html"
         },
         {
           "headline": "THE PENSION AGENCY AT NEW-YORK.; ACTIVITY OF APPLICANTS FOR THE SUCCESSION TO COL. FRANK E. HOWE MR. STEPHEN B. FRENCH'S CLAIMS TO RECOGNITION PETITIONS IN CIRCULATION IN NEW-YORK IN FAVOR OF OTHER CANDIDATES FOR THE POST.",
-          "summary": "There is a competition for a position at the pension agency in New York, with several candidates vying for the role.",
+          "summary": "During the presidency of Rutherford B. Hayes, a prominent position at the New York pension agency is up for grabs, with Stephen B. French and other candidates vying for the post, as applicants and petitioners actively seek to influence the decision, reflecting the era's focus on veterans' affairs and government appointments.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/NYC_DOE_Logo.png/1280px-NYC_DOE_Logo.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1878/01/14/archives/the-pension-agency-at-newyork-activity-of-applicants-for-the.html"
         },
         {
           "headline": "SOUTHERN REPUDIATION.; WHAT SOUTH CAROLINA HAS DONE. VALUE OF HAMPTON'S PROTESTATION OF THE NON-EXISTENCE OF A REPUDIATION PARTY IN THAT STATE DEFAULT ON THE JULY AND JANUARY INTEREST THE BOND INVESTIGATION COMMITTEE EFFORTS TO CREATE A PUBLIC SENTIMENT IN FAVOR OF HONESTY UP-HILL WORK.",
-          "summary": "South Carolina has defaulted on interest payments, prompting efforts to promote honesty and create a public sentiment in favor of responsible debt management.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/SouthCarolinaRR_RoadMap1880.jpg/1280px-SouthCarolinaRR_RoadMap1880.jpg",
+          "summary": "As the nation grapples with the aftermath of the Civil War, South Carolina is dealing with its own financial struggles, including a default on interest payments, with Governor Hampton's administration facing challenges in addressing the state's debt and promoting a culture of honesty, amidst the broader context of Reconstruction and regional economic recovery.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Arms_of_the_South_Sea_Company.svg/1280px-Arms_of_the_South_Sea_Company.svg.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1878/01/14/archives/southern-repudiation-what-south-carolina-has-done-value-of-hamptons.html"
         },
         {
           "headline": "DEPARTMENT REPORTS.; THE STATE BANKS AND SAVINGS BANKS THE ADJUTANT-GENERAL'S REPORT THE CANAL AUDITOR'S, CONTROLLER'S, AND STATE PRISONS REPORTS.",
-          "summary": "Reports have been released on the state of banks, savings banks, and other financial institutions, including the Trades Savings Bank and its connections to certain individuals.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bank_of_Montreal_1_db.jpg/1280px-Bank_of_Montreal_1_db.jpg",
+          "summary": "Under President Rutherford B. Hayes, various government departments are releasing reports on the state of banking, savings, and public institutions, including the adjutant-general's report and the state prisons report, highlighting the administration's focus on transparency and accountability in the post-Civil War era.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bulletins_of_the_Public_Health_cover.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1878/01/01/archives/department-reports-the-state-banks-and-savings-banks-the.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1878senatemap.svg/1280px-1878senatemap.svg.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/ReconstructionEraColl.png",
         "source": "Wikimedia Commons"
       },
-      "blurb": "The Ohio senatorship contest intensified, with candidates' financial records under scrutiny. South Carolina defaulted on interest payments, prompting efforts to promote responsible debt management. Financial institutions also released reports on their state.",
+      "blurb": "The Ohio senatorship contest heated up between Pendleton and Ewing. Financial struggles plagued cities like Chicago and Montreal, with business embarrassments and losses by fire. President Rutherford B. Hayes navigated these complexities amidst Reconstruction.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.199
@@ -57,38 +57,38 @@
       "stories": [
         {
           "headline": "LARGE FIRE IN YONKERS; Half a Million Dollars in Property Destroyed -- Six Hundred Men and Girls Narrowly Escape. HEROIC ACT OF WORKMAN He Swings Himself to Outer Side of Fire Escape, Descends Three Stories, and Lowers Ladder into Position with One Hand.",
-          "summary": "A large fire in Yonkers destroyed half a million dollars in property, but 600 workers narrowly escaped thanks to heroic actions. A workman saved others by descending a fire escape and lowering a ladder with one hand.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alfred_Dreyfus_in_captivity_on_Devil%27s_Island_1898.jpg/1280px-Alfred_Dreyfus_in_captivity_on_Devil%27s_Island_1898.jpg",
+          "summary": "During the presidency of William McKinley, a massive fire broke out at Reed & Co.'s factory in Yonkers, destroying half a million dollars in property and putting the lives of 600 workers at risk, but a heroic act by a workman helped many escape. This incident occurred in an era of rapid industrialization in the United States.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dress_MET_DT447.jpg/1280px-Dress_MET_DT447.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1897/07/28/archives/large-fire-in-yonkers-half-a-million-dollars-in-property-destroyed.html"
         },
         {
           "headline": "COAL OPERATORS' SESSION; The Uniformity Agreement Adopted, Section by Section, by the Pittsburg Conference. COL. REND MAY SANCTION IT. 95 Per Cent, of the Operators Required to Sing Before January 1, 1898 -- Terms of the Agreement -- Miners' Leaders Shut Out.",
-          "summary": "Coal operators adopted a uniformity agreement that requires most operators to participate by January 1, but miners' leaders were excluded from the decision-making process.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/British.coalfields.19th.century.jpg",
+          "summary": "As the United States experienced growth and labor movements under President William McKinley, coal operators gathered in Pittsburg to discuss and adopt a uniformity agreement, which required a significant percentage of operators to sign on before the start of the next year, while miners' leaders were excluded from the negotiations. This development reflected the ongoing tensions between labor and management during this period.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/El_Cerrito%2C_San_Miguel_County%2C_New_Mexico._The_WPA_road_gangs_employ_men_from_all_the_villages._In_._._._-_NARA_-_521236.jpg/1280px-El_Cerrito%2C_San_Miguel_County%2C_New_Mexico._The_WPA_road_gangs_employ_men_from_all_the_villages._In_._._._-_NARA_-_521236.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1897/07/29/archives/coal-operators-session-the-uniformity-agreement-adopted-section-by.html"
         },
         {
           "headline": "KENTUCKY LUNATICS STARVED.; Gov. Bradley Asked to Remove His Brother-in-Law from Charge of a State Asylum.",
-          "summary": "Patients at an insane asylum in Kentucky were starved, prompting calls for the governor to remove his brother-in-law from charge of the facility.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Francisco_de_Goya_-_La_casa_de_locos_-_Google_Art_Project.jpg/1280px-Francisco_de_Goya_-_La_casa_de_locos_-_Google_Art_Project.jpg",
+          "summary": "In an era marked by social reform and government oversight, allegations of patient mistreatment and starvation at a Kentucky insane asylum led to calls for Governor Bradley to intervene and remove his brother-in-law from charge, highlighting concerns about the welfare of vulnerable populations during President William McKinley's administration.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg/1280px-View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1897/07/25/archives/kentucky-lunatics-starved-gov-bradley-asked-to-remove-his.html"
         },
         {
           "headline": "FEATHERS ON WOMAN'S DRESS.; Massachusetts Law Against Wearing Birds' Plumage Likely to be Enforced, Says Commissioner Martin.",
-          "summary": "A law against wearing birds' feathers on clothing may be enforced in Massachusetts, according to the commissioner.",
+          "summary": "As conservation efforts began to gain traction during the presidency of William McKinley, a Massachusetts law prohibiting the wearing of birds' plumage on clothing was likely to be enforced, according to Commissioner Martin, reflecting growing concerns about wildlife protection and the fashion practices of the time.",
           "image": null,
           "image_source": null,
           "url": "https://www.nytimes.com/1897/07/09/archives/feathers-on-womans-dress-massachusetts-law-against-wearing-birds.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alfred_Dreyfus_in_captivity_on_Devil%27s_Island_1898.jpg/1280px-Alfred_Dreyfus_in_captivity_on_Devil%27s_Island_1898.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dress_MET_DT447.jpg/1280px-Dress_MET_DT447.jpg",
         "source": "Wikimedia Commons"
       },
-      "blurb": "A large fire in Yonkers destroyed half a million dollars in property. Heroic actions by a workman saved 600 workers from the blaze. Coal operators also adopted a uniformity agreement, while scandals emerged at a Kentucky insane asylum and a Massachusetts law targeted women's clothing.",
+      "blurb": "A massive fire broke out at Reed & Co.'s factory in Yonkers, destroying half a million dollars in property. Coal operators adopted a uniformity agreement in Pittsburg, excluding miners' leaders. Labor tensions and social concerns persisted during President McKinley's administration.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.139
@@ -103,29 +103,29 @@
       "stories": [
         {
           "headline": "PARTY RULINGS ENHANCE M’GOVERN'S CANDIDACY; CONVENTION OPENS TODAY",
-          "summary": "Senator McGovern's presidential nomination bid gains strength from parliamentary rulings, despite opposition from other candidates. The Democratic convention is about to begin, with a long and heated struggle expected over delegate seating.",
+          "summary": "As President Richard Nixon's administration continues, the Democratic convention is underway, with Senator McGovern's presidential nomination bid gaining strength from recent parliamentary rulings, despite opposition from other candidates like Senators Muskie and Humphrey, amidst the tumultuous political landscape of the time. The stop-McGovern effort is becoming increasingly difficult, with McGovern benefiting from the lack of cohesion among his opponents.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/DP1972Color.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1972/07/10/archives/party-rulings-enhance-mgoverns-candidacy-convention-opens-today.html"
         },
         {
           "headline": "Dug‐In North Vietnamese Slash at the Lifeline Connecting Hue and Quangtri City",
-          "summary": "North Vietnamese troops are blocking the supply route between Hue and Quangtri City, trying to isolate the South Vietnamese force. The road is virtually blocked, with few military vehicles able to get through.",
+          "summary": "During the Vietnam War, with President Richard Nixon in office, North Vietnamese troops are dug in along a key supply route, attempting to isolate South Vietnamese forces and block their recapture of a strategic city, as US air missions focus on supporting the South Vietnamese military efforts in the region. The intense fighting and shelling continue, with little change reported in the conflict.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/B-52D%28061127-F-1234S-017%29.jpg/1280px-B-52D%28061127-F-1234S-017%29.jpg",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1972/07/23/archives/dugin-north-vietnamese-slash-at-the-lifeline-connecting-hue-and.html"
         },
         {
           "headline": "Accord on Union Dispute Averts Hospital Walkout Set for Today",
-          "summary": "A hospital strike by the Drug and Hospital Union has been averted after an agreement was reached on union jurisdictional issues, guaranteeing wages and benefits for workers. The strike would have affected 42,000 workers in 66 hospitals.",
+          "summary": "In a time of social and economic change, with President Richard Nixon leading the country, a potential hospital strike by union workers in New York City has been averted through an agreement between city officials, hospital administrators, and the union, ensuring that workers' wages and benefits are maintained, and avoiding a walkout that could have affected thousands of patients and employees. The settlement comes after negotiations and mediation efforts.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Mount_Sinai_Hospital.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1972/07/06/archives/accord-on-union-dispute-averts-hospital-walkout-set-for-today.html"
         },
         {
           "headline": "CON ED SHUTS OFF POWER TO 200,000 IN BROOKLYN AFTER FEEDER LINES FAIL",
-          "summary": "A power blackout has affected 200,000 people in Brooklyn after feeder lines failed, with Con Ed shutting off power to avoid permanent damage. The blackout has caused sporadic looting and disruptions, but subways are largely unaffected.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg/1280px-Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg",
+          "summary": "As the United States experiences a period of growth and urbanization under President Richard Nixon, a major power outage affects a significant portion of Brooklyn, leaving hundreds of thousands without electricity, due to the failure of feeder lines, with the utility company working to restore service, and emergency measures being taken to mitigate the impact on hospitals and other critical infrastructure.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/New_York_power_grid.webp/1280px-New_York_power_grid.webp.png",
           "image_source": "Wikimedia Commons",
           "url": "https://www.nytimes.com/1972/07/18/archives/con-ed-shuts-off-power-to-200000-in-brooklyn-after-feeder-lines.html"
         }
@@ -134,7 +134,7 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/DP1972Color.png",
         "source": "Wikimedia Commons"
       },
-      "blurb": "Senator McGovern's presidential nomination bid gained strength from parliamentary rulings. North Vietnamese troops blocked the supply route between Hue and Quangtri City. A hospital strike was averted after an agreement was reached on union jurisdictional issues.",
+      "blurb": "Senator McGovern's presidential nomination bid gained strength from parliamentary rulings. North Vietnamese troops clashed with South Vietnamese forces along a key supply route. A hospital strike in New York City was averted through an agreement between city officials and union workers.",
       "ranking": {
         "mode": "topic-clusters",
         "keyword_coverage": 0.773
