@@ -124,27 +124,41 @@
     })();
   }
 
-  async function loadPlayersToday() {
-    const el = document.getElementById("players");
-    if (!el || !state.puzzle) return;
-    try {
-      const r = await fetch(`/api/score?date=${state.puzzle.date}`, { cache: "no-store" });
-      const j = await r.json();
-      if (j && j.count != null) {
-        el.textContent = `${j.count.toLocaleString()} player${j.count === 1 ? "" : "s"} today`;
-      }
-    } catch (_) { /* leave blank */ }
+  // Contextual primary action, shared by home and the how-to screen.
+  function homeCta() {
+    return state.completed ? { label: "See Your Results", action: renderResults }
+      : state.results.length ? { label: "Resume Today’s Edition", action: renderPlay }
+        : { label: "Play Today’s Edition", action: startGame };
+  }
+
+  // ---- how-to-play screen ----
+  function renderHowTo() {
+    masthead.hidden = true;
+    scoreboard.hidden = true;
+    const cta = homeCta();
+    app.innerHTML = `
+      <section class="screen howto-page">
+        <h1 class="howto-title">How to Play</h1>
+        <ol class="howto">
+          <li><span class="howto-n">1</span><span>Each round is a real <strong>New York Times front page</strong> — four stories, all from one month somewhere between 1851 and today.</span></li>
+          <li><span class="howto-n">2</span><span>Read them and guess the <strong>month and year</strong> they ran. It&rsquo;s not trivia — read the room: the names in the air, the worries, what&rsquo;s taken for granted.</span></li>
+          <li><span class="howto-n">3</span><span>The closer your guess, the more points. Three rounds make one daily edition, and there&rsquo;s a fresh one every day.</span></li>
+        </ol>
+        <p class="howto-note">One game a day. Come back tomorrow for a new edition.</p>
+        <div class="howto-actions">
+          <button class="primary" id="howto-play">${cta.label}</button>
+          <button class="home-link" id="howto-back">&larr; Back</button>
+        </div>
+      </section>`;
+    document.getElementById("howto-play").addEventListener("click", cta.action);
+    document.getElementById("howto-back").addEventListener("click", renderHome);
   }
 
   // ---- home screen ----
   function renderHome() {
     masthead.hidden = true;   // poster wall has its own top bar
     scoreboard.hidden = true;
-    const cta = state.completed
-      ? { label: "See Your Results", action: renderResults }
-      : state.results.length
-        ? { label: "Resume Today’s Edition", action: renderPlay }
-        : { label: "Play Today’s Edition", action: startGame };
+    const cta = homeCta();
 
     const fronts = FRONTS.map((f) => `
       <img class="front" data-depth="${f.d}" data-rot="${f.r}" src="${f.src}" alt=""
@@ -155,7 +169,7 @@
         <div class="fronts" aria-hidden="true">${fronts}</div>
         <div class="poster-topbar">
           <a class="poster-logo" href="./" aria-label="Times Search"><img src="icon-512.png" alt="" /></a>
-          <span class="poster-players" id="players"></span>
+          <button class="how-to-link" id="howto">How to play</button>
         </div>
         <div class="poster-hero">
           <h1 class="home-title">Times Search</h1>
@@ -163,8 +177,8 @@
         </div>
       </section>`;
     document.getElementById("play").addEventListener("click", cta.action);
+    document.getElementById("howto").addEventListener("click", renderHowTo);
     setupParallax();
-    loadPlayersToday();
   }
 
   // ---- play screen ----

@@ -290,6 +290,27 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
   font-size: 1.05rem;
   padding: 0.9rem 1.9rem;
 }
+.how-to-link {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  background: none;
+  border: none;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+  padding: 0.3rem;
+}
+
+/* ---- how-to-play screen ---- */
+.howto-page { max-width: 34rem; margin: 0 auto; padding-top: 1.5rem; text-align: center; }
+.howto-title { font-family: var(--display); font-weight: 900; font-size: 2rem; margin: 0 0 1.3rem; }
+.howto-page .howto { margin-bottom: 1.3rem; }
+.howto-note { font-family: var(--display); font-style: italic; color: var(--ink-soft); margin: 0 0 1.6rem; }
+.howto-actions { display: flex; flex-direction: column; align-items: center; gap: 0.5rem; }
+.howto-actions .primary { width: 100%; max-width: 22rem; margin: 0; }
 
 /* ======================================================================
    PLAY SCREEN — the newspaper front page IS the visual
