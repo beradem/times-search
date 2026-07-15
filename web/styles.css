@@ -283,12 +283,6 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
 .poster .home-title {
   font-size: clamp(2.6rem, 11vw, 5rem);
   margin: 0;
-  background: rgba(247, 243, 233, 0.72);
-  backdrop-filter: blur(2px);
-  border: 1px solid var(--rule);
-  border-radius: 14px;
-  padding: 0.35rem 1.3rem 0.5rem;
-  box-shadow: 0 10px 34px rgba(30, 25, 15, 0.14);
 }
 .poster .primary {
   width: auto;
