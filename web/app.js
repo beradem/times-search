@@ -105,16 +105,42 @@
     const fronts = Array.from(document.querySelectorAll(".front"));
     if (!fronts.length) return;
     const cur = fronts.map(() => ({ x: 0, y: 0 }));
-    let mx = 0, my = 0;
+    let mx = 0, my = 0;   // -0.5..0.5 target, from cursor OR device tilt
+
+    // Desktop: cursor.
     const onMove = (e) => {
-      mx = e.clientX / window.innerWidth - 0.5;   // -0.5..0.5
+      mx = e.clientX / window.innerWidth - 0.5;
       my = e.clientY / window.innerHeight - 0.5;
     };
     window.addEventListener("mousemove", onMove, { passive: true });
+
+    // Mobile: tilt. Calibrate to the angle you're holding the phone at, then
+    // glide the pages as you tilt away from it.
+    let base = null;
+    const onTilt = (e) => {
+      if (e.gamma == null || e.beta == null) return;
+      if (!base) base = { g: e.gamma, b: e.beta };
+      const clamp = (v) => Math.max(-0.5, Math.min(0.5, v));
+      mx = clamp((e.gamma - base.g) / 45);   // left-right tilt
+      my = clamp((e.beta - base.b) / 45);    // front-back tilt
+    };
+    const enableTilt = () => window.addEventListener("deviceorientation", onTilt, { passive: true });
+    const DOE = window.DeviceOrientationEvent;
+    if (DOE && typeof DOE.requestPermission === "function") {
+      // iOS 13+: motion access needs a user gesture. Ask on the first tap.
+      const ask = () => {
+        DOE.requestPermission().then((r) => { if (r === "granted") enableTilt(); }).catch(() => {});
+      };
+      window.addEventListener("touchend", ask, { once: true, passive: true });
+    } else if (DOE) {
+      enableTilt();  // Android & others: no permission needed
+    }
+
     parallaxOn = true;
     (function tick() {
       if (!document.body.contains(fronts[0])) {   // home left the DOM — stop
         window.removeEventListener("mousemove", onMove);
+        window.removeEventListener("deviceorientation", onTilt);
         parallaxOn = false;
         return;
       }
