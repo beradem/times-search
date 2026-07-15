@@ -281,14 +281,14 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
   pointer-events: none;
 }
 .poster .home-title {
-  font-size: clamp(2.6rem, 11vw, 5rem);
+  font-size: clamp(3rem, 12.65vw, 5.75rem);
   margin: 0;
 }
 .poster .primary {
   width: auto;
   margin: 0;
-  font-size: 1.05rem;
-  padding: 0.9rem 1.9rem;
+  font-size: 1.2rem;
+  padding: 1.04rem 2.18rem;
 }
 .how-to-link {
   font-family: var(--sans);
