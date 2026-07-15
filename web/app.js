@@ -86,15 +86,17 @@
   // Iconic front pages that float behind the home hero. x/y are % positions of
   // the image's top-left; w is width in vw (clamped); r rotation; d parallax depth.
   const FRONTS = [
-    { src: "fronts/kennedy.jpg", x: 3, y: 14, w: 14, r: -4, d: 0.5 },
-    { src: "fronts/moon.gif", x: 7, y: 54, w: 14, r: 3, d: 0.9 },
-    { src: "fronts/nixon.jpg", x: 20, y: 82, w: 12, r: -2, d: 0.4 },
-    { src: "fronts/titanic.jpg", x: 36, y: 2, w: 13, r: 2, d: 0.5 },
-    { src: "fronts/binladen.jpg", x: 43, y: 80, w: 12, r: -3, d: 0.7 },
-    { src: "fronts/obama.gif", x: 79, y: 8, w: 14, r: 4, d: 0.55 },
-    { src: "fronts/trump.jpg", x: 90, y: 34, w: 12, r: 3, d: 0.85 },
-    { src: "fronts/pearl.webp", x: 82, y: 55, w: 15, r: -3, d: 0.95 },
+    { src: "fronts/kennedy.jpg", x: 1, y: 12, w: 14, r: -4, d: 0.5 },
+    { src: "fronts/moon.gif", x: 4, y: 52, w: 14, r: 3, d: 0.9 },
+    { src: "fronts/nixon.jpg", x: 17, y: 82, w: 12, r: -2, d: 0.4 },
+    { src: "fronts/atom.gif", x: 1, y: 80, w: 12, r: 4, d: 0.6 },
+    { src: "fronts/titanic.jpg", x: 35, y: 1, w: 13, r: 2, d: 0.5 },
+    { src: "fronts/mamdani.jpg", x: 52, y: 1, w: 13, r: -2, d: 0.7 },
+    { src: "fronts/binladen.jpg", x: 42, y: 82, w: 12, r: -3, d: 0.75 },
     { src: "fronts/sept11.jpg", x: 62, y: 80, w: 13, r: 2, d: 0.6 },
+    { src: "fronts/obama.gif", x: 82, y: 6, w: 14, r: 4, d: 0.55 },
+    { src: "fronts/trump.jpg", x: 90, y: 38, w: 12, r: 3, d: 0.85 },
+    { src: "fronts/pearl.webp", x: 84, y: 74, w: 14, r: -3, d: 0.95 },
   ];
 
   let parallaxOn = false;
@@ -165,7 +167,7 @@
 
     const fronts = FRONTS.map((f) => `
       <img class="front" data-depth="${f.d}" data-rot="${f.r}" src="${f.src}" alt=""
-           style="left:${f.x}%;top:${f.y}%;width:clamp(84px, ${f.w}vw, 240px);--rot:${f.r}deg" />`).join("");
+           style="left:${f.x}%;top:${f.y}%;width:clamp(132px, ${(f.w * 1.5).toFixed(1)}vw, 340px);--rot:${f.r}deg" />`).join("");
 
     app.innerHTML = `
       <section class="screen home poster">
