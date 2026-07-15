@@ -140,8 +140,8 @@
       <section class="screen howto-page">
         <h1 class="howto-title">How to Play</h1>
         <ol class="howto">
-          <li><span class="howto-n">1</span><span>Each round is a real <strong>New York Times front page</strong> — four stories, all from one month somewhere between 1851 and today.</span></li>
-          <li><span class="howto-n">2</span><span>Read them and guess the <strong>month and year</strong> they ran. It&rsquo;s not trivia — read the room: the names in the air, the worries, what&rsquo;s taken for granted.</span></li>
+          <li><span class="howto-n">1</span><span>Each round is a real <strong>New York Times front page</strong>: four stories, all from one month somewhere between 1851 and today.</span></li>
+          <li><span class="howto-n">2</span><span>Read them and guess the <strong>month and year</strong> they ran. It&rsquo;s not trivia. Read the room: the names in the air, the worries, what&rsquo;s taken for granted.</span></li>
           <li><span class="howto-n">3</span><span>The closer your guess, the more points. Three rounds make one daily edition, and there&rsquo;s a fresh one every day.</span></li>
         </ol>
         <p class="howto-note">One game a day. Come back tomorrow for a new edition.</p>
