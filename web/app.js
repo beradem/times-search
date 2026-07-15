@@ -112,7 +112,6 @@
           </div>
           <div class="home-rule home-rule--double"></div>
         </div>
-        <h2 class="fp-headline">Four Front Pages, One Month in History &mdash; Can You Date the News?</h2>
         <ol class="howto fp-story">
           <li><span class="howto-n">1</span><span>Read the front page — four real New York Times stories, all from one month.</span></li>
           <li><span class="howto-n">2</span><span>Guess the <strong>month and year</strong> they ran.</span></li>
