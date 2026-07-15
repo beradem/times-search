@@ -126,14 +126,10 @@
     };
     const enableTilt = () => window.addEventListener("deviceorientation", onTilt, { passive: true });
     const DOE = window.DeviceOrientationEvent;
-    if (DOE && typeof DOE.requestPermission === "function") {
-      // iOS 13+: motion access needs a user gesture. Ask on the first tap.
-      const ask = () => {
-        DOE.requestPermission().then((r) => { if (r === "granted") enableTilt(); }).catch(() => {});
-      };
-      window.addEventListener("touchend", ask, { once: true, passive: true });
-    } else if (DOE) {
-      enableTilt();  // Android & others: no permission needed
+    // Tilt only where it needs no permission (Android & others). iOS 13+ requires
+    // an awkward permission dialog on tap, so we skip tilt there entirely.
+    if (DOE && typeof DOE.requestPermission !== "function") {
+      enableTilt();
     }
 
     parallaxOn = true;
