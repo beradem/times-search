@@ -83,50 +83,88 @@
     })(start);
   }
 
+  // Iconic front pages that float behind the home hero. x/y are % positions of
+  // the image's top-left; w is width in vw (clamped); r rotation; d parallax depth.
+  const FRONTS = [
+    { src: "fronts/kennedy.jpg", x: 4, y: 12, w: 15, r: -4, d: 0.5 },
+    { src: "fronts/moon.gif", x: 8, y: 52, w: 15, r: 3, d: 0.9 },
+    { src: "fronts/nixon.jpg", x: 22, y: 80, w: 13, r: -2, d: 0.4 },
+    { src: "fronts/obama.gif", x: 80, y: 10, w: 15, r: 4, d: 0.55 },
+    { src: "fronts/pearl.webp", x: 82, y: 50, w: 16, r: -3, d: 0.95 },
+    { src: "fronts/sept11.jpg", x: 63, y: 78, w: 14, r: 2, d: 0.6 },
+  ];
+
+  let parallaxOn = false;
+  function setupParallax() {
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const fronts = Array.from(document.querySelectorAll(".front"));
+    if (!fronts.length) return;
+    const cur = fronts.map(() => ({ x: 0, y: 0 }));
+    let mx = 0, my = 0;
+    const onMove = (e) => {
+      mx = e.clientX / window.innerWidth - 0.5;   // -0.5..0.5
+      my = e.clientY / window.innerHeight - 0.5;
+    };
+    window.addEventListener("mousemove", onMove, { passive: true });
+    parallaxOn = true;
+    (function tick() {
+      if (!document.body.contains(fronts[0])) {   // home left the DOM — stop
+        window.removeEventListener("mousemove", onMove);
+        parallaxOn = false;
+        return;
+      }
+      fronts.forEach((el, i) => {
+        const d = parseFloat(el.dataset.depth) || 0.5;
+        const c = cur[i];
+        c.x += (mx * d * 42 - c.x) * 0.08;
+        c.y += (my * d * 42 - c.y) * 0.08;
+        el.style.transform = `translate(${c.x.toFixed(2)}px, ${c.y.toFixed(2)}px) rotate(${el.dataset.rot}deg)`;
+      });
+      requestAnimationFrame(tick);
+    })();
+  }
+
+  async function loadPlayersToday() {
+    const el = document.getElementById("players");
+    if (!el || !state.puzzle) return;
+    try {
+      const r = await fetch(`/api/score?date=${state.puzzle.date}`, { cache: "no-store" });
+      const j = await r.json();
+      if (j && j.count != null) {
+        el.textContent = `${j.count.toLocaleString()} player${j.count === 1 ? "" : "s"} today`;
+      }
+    } catch (_) { /* leave blank */ }
+  }
+
   // ---- home screen ----
   function renderHome() {
-    masthead.hidden = true;
+    masthead.hidden = true;   // poster wall has its own top bar
     scoreboard.hidden = true;
-    // CTA reflects whether you've already played today.
     const cta = state.completed
       ? { label: "See Your Results", action: renderResults }
       : state.results.length
         ? { label: "Resume Today’s Edition", action: renderPlay }
         : { label: "Play Today’s Edition", action: startGame };
-    // Live folio: real weekday + date for this edition, so the home page reads
-    // like today's paper rather than a static splash. Parse the Y-M-D parts by
-    // hand to avoid the UTC-midnight-shifts-a-day trap.
-    const [ey, em, ed] = (state.puzzle ? state.puzzle.date : DATE).split("-").map(Number);
-    const editionDate = new Date(ey, em - 1, ed);
-    const weekday = editionDate.toLocaleDateString("en-US", { weekday: "long" });
-    const dateLine = `${weekday}, ${MONTHS[em]} ${ed}, ${ey}`;
+
+    const fronts = FRONTS.map((f) => `
+      <img class="front" data-depth="${f.d}" data-rot="${f.r}" src="${f.src}" alt=""
+           style="left:${f.x}%;top:${f.y}%;width:clamp(84px, ${f.w}vw, 240px);--rot:${f.r}deg" />`).join("");
+
     app.innerHTML = `
-      <section class="screen home">
-        <div class="home-nameplate">
-          <div class="home-rule"></div>
-          <h1 class="home-title">Times Search</h1>
-          <div class="fp-folio">
-            <span class="fp-folio-side">Late Edition</span>
-            <span class="fp-folio-mid">A Daily History Game</span>
-            <span class="fp-folio-side fp-folio-date">${dateLine}</span>
-          </div>
-          <div class="home-rule home-rule--double"></div>
+      <section class="screen home poster">
+        <div class="fronts" aria-hidden="true">${fronts}</div>
+        <div class="poster-topbar">
+          <a class="poster-logo" href="./" aria-label="Times Search"><img src="icon-512.png" alt="" /></a>
+          <span class="poster-players" id="players"></span>
         </div>
-        <ol class="howto fp-story">
-          <li><span class="howto-n">1</span><span>Read the front page — four real New York Times stories, all from one month.</span></li>
-          <li><span class="howto-n">2</span><span>Guess the <strong>month and year</strong> they ran.</span></li>
-          <li><span class="howto-n">3</span><span>The closer you are, the higher your score. Three editions a day.</span></li>
-        </ol>
-        <button id="play" class="primary">${cta.label}</button>
-        <details class="editors-note">
-          <summary>Editor&rsquo;s Note</summary>
-          <p>Every front page is a fingerprint of its moment. A country at war doesn&rsquo;t
-          read like a country at peace. We give you four stories and want you to think:
-          <em>when?</em> What is the feeling? Read and process to show your touch and
-          understanding of history, and the lens we see it through.</p>
-        </details>
+        <div class="poster-hero">
+          <h1 class="home-title">Times Search</h1>
+          <button id="play" class="primary">${cta.label}</button>
+        </div>
       </section>`;
     document.getElementById("play").addEventListener("click", cta.action);
+    setupParallax();
+    loadPlayersToday();
   }
 
   // ---- play screen ----

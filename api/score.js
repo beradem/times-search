@@ -9,6 +9,25 @@ const TTL = "5184000"; // keep daily keys 60 days
 
 export default async function handler(req, res) {
   res.setHeader("Cache-Control", "no-store");
+
+  const kvUrl = process.env.UPSTASH_REDIS_REST_URL || process.env.KV_REST_API_URL;
+  const kvToken = process.env.UPSTASH_REDIS_REST_TOKEN || process.env.KV_REST_API_TOKEN;
+
+  // GET ?date=YYYY-MM-DD -> today's completion count (read-only, no notify).
+  if (req.method === "GET") {
+    const date = String((req.query && req.query.date) || "");
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return res.status(400).json({ error: "bad date" });
+    if (!kvUrl || !kvToken) return res.status(200).json({ count: null });
+    try {
+      const r = await fetch(`${kvUrl}/get/${encodeURIComponent("count:" + date)}`,
+        { headers: { Authorization: `Bearer ${kvToken}` } });
+      const j = await r.json();
+      return res.status(200).json({ count: j && j.result != null ? Number(j.result) : 0 });
+    } catch (_) {
+      return res.status(200).json({ count: null });
+    }
+  }
+
   if (req.method !== "POST") return res.status(405).json({ error: "POST only" });
 
   const body = typeof req.body === "string" ? safeParse(req.body) : (req.body || {});
