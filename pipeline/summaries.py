@@ -21,6 +21,18 @@ def _scrub_years(text):
     text = re.sub(r"\s+([,.;:])", r"\1", text)
     return text.strip()
 
+
+def _extract_json(text):
+    """Pull the first {...} object out of a model reply and parse it, tolerating
+    markdown fences or stray prose around it."""
+    m = re.search(r"\{.*\}", text or "", re.S)
+    if not m:
+        return None
+    try:
+        return json.loads(m.group())
+    except ValueError:
+        return None
+
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
           "August", "September", "October", "November", "December"]
 
@@ -62,19 +74,18 @@ SYSTEM = (
     "stories for a history-guessing game. The player must guess the month and "
     "year, so each description should help them place the ERA — but must NEVER "
     "reveal the date. For every story return an object with:\n"
-    '- "summary": 1-2 clear sentences in plain modern English explaining WHAT '
-    "HAPPENED, written to help someone date the era. Name the key people "
-    "involved; weave in the sitting U.S. president (given below) and the broad "
-    "era or ongoing events when it helps (e.g. 'during Reconstruction', 'in the "
-    "aftermath of the Civil War', 'as the Cold War intensified'). Base the core "
-    "facts on the headline and abstract; you may add well-known, accurate "
-    "historical context, but invent nothing you are unsure of.\n"
-    "  HARD RULES: never state or imply the specific year or month; no 'in "
-    "1878', 'this year', or a decade like 'the 1870s'. Never name an event, "
-    "act, panic, or election that embeds a year (no 'Panic of 1873', 'Crash of "
-    "1929', 'Election of 1876'). Never mention ANY year at all, not even the "
-    "year of an earlier event referenced for comparison. Keep clues to named "
-    "people and era-level context only.\n"
+    '- "summary": ONE or TWO tight sentences in plain modern English explaining '
+    "WHAT HAPPENED. Be concise — cut tangential side-details (do not list every "
+    "city, sub-issue, or minor figure). Name the key people who are actually in "
+    "the story, since they help date it. You MAY add a SHORT era-context phrase "
+    "only if it fits naturally (e.g. 'during Reconstruction', 'in the aftermath "
+    "of the Civil War', 'as the Cold War intensified'); never force it. Mention "
+    "the sitting president ONLY if he is genuinely part of the story — do not "
+    "tack him onto unrelated stories. Base facts on the headline and abstract; "
+    "add only accurate, well-known context, and invent nothing.\n"
+    "  HARD RULES: never state or imply the year, month, or decade ('the "
+    "1870s'); no year-embedding events ('Panic of 1873', 'Election of 1876'); "
+    "no comparison years. Clues are named people and light era context only.\n"
     '- "image_query": a short, specific phrase (3-6 words) to find a '
     "REPRESENTATIVE historical PHOTO of this exact event on Wikipedia (used "
     "privately; may include the year). E.g. '1943 Harlem riot', 'Apollo 11 "
@@ -96,15 +107,21 @@ def clarify(year, month, stories):
     )
     pres = president_for(year, month)
     user = (f"These stories are from {MONTHS[month]} {year}. "
-            f"The U.S. president at the time was {pres}. Use the president and "
-            f"era as clues in the summary, and the year only in image_query — "
-            f"NEVER state the year or month in the summary.\nStories:\n{listing}")
+            f"The U.S. president at the time was {pres} — use this to pick the "
+            f"right era, but only NAME him in a summary if he is actually part "
+            f"of that story. Use the year only in image_query, never in the "
+            f"summary.\nRespond with ONLY the JSON object, nothing else.\n"
+            f"Stories:\n{listing}")
     try:
+        # Non-strict mode + tolerant parse: Groq's strict json_object mode
+        # rejects the model's occasional malformed output with a 400; parsing
+        # the JSON ourselves is more reliable.
         out = groq_client.chat(
             [{"role": "system", "content": SYSTEM},
              {"role": "user", "content": user}],
-            temperature=0.2, max_tokens=800, json_mode=True)
-        arr = json.loads(out).get("stories", [])
+            temperature=0.2, max_tokens=900)
+        obj = _extract_json(out)
+        arr = obj.get("stories", []) if obj else []
         if isinstance(arr, list) and len(arr) == len(stories):
             result = []
             for x, s in zip(arr, stories):
