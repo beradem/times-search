@@ -284,6 +284,14 @@ main { max-width: 680px; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
   font-size: clamp(3rem, 12.65vw, 5.75rem);
   margin: 0;
 }
+/* Rendered wordmark logo — guarantees the blackletter even if the web font
+   fails to load. Scales like the text title it replaces. */
+.home-logo {
+  display: block;
+  width: min(82vw, 520px);
+  height: auto;
+  margin: 0 auto;
+}
 .poster .primary {
   width: auto;
   margin: 0;

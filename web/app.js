@@ -199,7 +199,7 @@
           <button class="how-to-link" id="howto">How to play</button>
         </div>
         <div class="poster-hero">
-          <h1 class="home-title">Paper Guessr</h1>
+          <h1 class="home-title"><img class="home-logo" src="logo.png" width="1837" height="332" alt="Paper Guessr" /></h1>
           <button id="play" class="primary">${cta.label}</button>
         </div>
       </section>`;
