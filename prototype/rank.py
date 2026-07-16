@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Times Search — iconicness ranker prototype.
+"""Paper Guessr — iconicness ranker prototype.
 
 Fetches one month of the NYT Archive API and ranks articles to surface the
 ~4 most "iconic" stories of that month, per PRD section 6.2.

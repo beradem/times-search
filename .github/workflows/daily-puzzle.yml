@@ -69,7 +69,7 @@ jobs:
             exit 0
           fi
           DATE=$(TZ=America/New_York date +%F)
-          git config user.name "times-search-bot"
+          git config user.name "paper-guessr-bot"
           git config user.email "actions@users.noreply.github.com"
           git add web/puzzles data
           git commit -m "Daily edition: $DATE"

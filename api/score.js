@@ -88,7 +88,7 @@ async function notify(score, count) {
   try {
     await fetch(`https://ntfy.sh/${encodeURIComponent(topic)}`, {
       method: "POST",
-      headers: { Title: "Times Search", Tags: "newspaper" },
+      headers: { Title: "Paper Guessr", Tags: "newspaper" },
       body: `Someone finished today's puzzle — ${score.toLocaleString()}/${MAX}. ` +
             `That makes ${count} completed so far today.`,
     });

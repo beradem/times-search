@@ -1,4 +1,4 @@
-# Times Search — Product Requirements Document
+# Paper Guessr — Product Requirements Document
 
 **Status:** Draft v0.1 (working draft — sections marked `OPEN` are unresolved and meant to be decided together)
 **Last updated:** 2026-06-27
@@ -8,9 +8,9 @@
 
 ## 1. Summary
 
-**Times Search** is a daily web game in the spirit of Wordle. Each day, a player is shown three rounds of historical New York Times front-page stories — four major headlines per round, drawn from a single real month somewhere between 1851 and 2019 — and must guess the **month and year** the stories are from. The closer the guess, the higher the score. After three rounds, the player gets a total score, sees how they ranked against everyone who played that day, and can share a spoiler-free result card.
+**Paper Guessr** is a daily web game in the spirit of Wordle. Each day, a player is shown three rounds of historical New York Times front-page stories — four major headlines per round, drawn from a single real month somewhere between 1851 and 2019 — and must guess the **month and year** the stories are from. The closer the guess, the higher the score. After three rounds, the player gets a total score, sees how they ranked against everyone who played that day, and can share a spoiler-free result card.
 
-The hook: the NYT archive is a 170-year record of "what the world was paying attention to." Times Search turns that into a daily test of historical intuition.
+The hook: the NYT archive is a 170-year record of "what the world was paying attention to." Paper Guessr turns that into a daily test of historical intuition.
 
 ### One-liner
 > Guess the month and year four real NYT headlines are from. Three rounds a day.
@@ -255,7 +255,7 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 - **Puzzle store/CDN:** serves the day's puzzle to clients as small JSON — headlines, abstracts, image URLs, links, the blurb, **and the answers**. *(DECIDED: **client-side answers**, Wordle-style. Cheating only fools yourself; the shared "top XX%" stat is already spam-gameable with no accounts. Revisit if the future iOS app adds accounts/competitive leaderboards. See §10.)*
 - **Score-distribution service:** tiny endpoint storing daily anonymous scores + returning percentile/histogram.
 - **Client:** responsive web app implementing the 4 screens.
-- **Play-state persistence — DECIDED & built (no auth):** the client stores today's progress in **`localStorage`**, keyed by the puzzle date (`times-search:v1:<date>`), Wordle-style. On load: **completed → results**, **in-progress → resume**, **fresh → home**; the home CTA is contextual (Play / Resume / See Your Results) and there is **no replay** once the day is done. *Trade-offs (acceptable for MVP):* it is **per-device + per-browser**, resets on clearing storage / private mode, and is **not tamper-proof** (a user can clear it to replay — only affects their own run and the already-gameable anonymous distribution). **Real cross-device identity + integrity is a later concern, arriving with accounts / the native iOS app.**
+- **Play-state persistence — DECIDED & built (no auth):** the client stores today's progress in **`localStorage`**, keyed by the puzzle date (`paper-guessr:v1:<date>`), Wordle-style. On load: **completed → results**, **in-progress → resume**, **fresh → home**; the home CTA is contextual (Play / Resume / See Your Results) and there is **no replay** once the day is done. *Trade-offs (acceptable for MVP):* it is **per-device + per-browser**, resets on clearing storage / private mode, and is **not tamper-proof** (a user can clear it to replay — only affects their own run and the already-gameable anonymous distribution). **Real cross-device identity + integrity is a later concern, arriving with accounts / the native iOS app.**
 
 *(OPEN — concrete stack TBD: static site + serverless functions is likely enough.)*
 

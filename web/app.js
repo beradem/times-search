@@ -1,4 +1,4 @@
-// Times Search — game controller. Plain JS, no framework.
+// Paper Guessr — game controller. Plain JS, no framework.
 (function () {
   "use strict";
 
@@ -26,7 +26,7 @@
   // One game per day, no accounts: persist progress in localStorage keyed by
   // the puzzle date (Wordle-style). Per-device, clearable — fine for MVP.
   // Key by the actually-loaded puzzle date (may differ from DATE if we fell back).
-  const storageKey = () => `times-search:v1:${state.puzzle ? state.puzzle.date : DATE}`;
+  const storageKey = () => `paper-guessr:v1:${state.puzzle ? state.puzzle.date : DATE}`;
   function saveProgress() {
     try {
       localStorage.setItem(storageKey(), JSON.stringify({
@@ -195,11 +195,11 @@
       <section class="screen home poster">
         <div class="fronts" aria-hidden="true">${fronts}</div>
         <div class="poster-topbar">
-          <a class="poster-logo" href="./" aria-label="Times Search"><img src="icon-512.png" alt="" /></a>
+          <a class="poster-logo" href="./" aria-label="Paper Guessr"><img src="icon-512.png" alt="" /></a>
           <button class="how-to-link" id="howto">How to play</button>
         </div>
         <div class="poster-hero">
-          <h1 class="home-title">Times Search</h1>
+          <h1 class="home-title">Paper Guessr</h1>
           <button id="play" class="primary">${cta.label}</button>
         </div>
       </section>`;
@@ -228,7 +228,7 @@
 
     const paper = `
       <div class="paper-masthead standalone">
-        <span class="paper-name">Times Search</span>
+        <span class="paper-name">Paper Guessr</span>
         <div class="paper-dateline">
           <span class="redacted">██████ ██, ████</span>
           <span class="redacted">No. ██,███</span>
@@ -439,7 +439,7 @@
 
   function shareText() {
     const squares = state.results.map((r) => Scoring.shareSquare(r.err)).join("");
-    return `Times Search — ${state.puzzle.date}\n${squares}  ` +
+    return `Paper Guessr — ${state.puzzle.date}\n${squares}  ` +
       `${state.total.toLocaleString()}/${Scoring.maxTotal.toLocaleString()}`;
   }
 
@@ -451,7 +451,7 @@
         // Pass the URL as part of `text` rather than as a separate `url` field:
         // macOS Safari's share sheet (Mail, Messages, Notes) drops `text` and
         // shows only the URL when both fields are given, unlike iOS Safari.
-        await navigator.share({ title: "Times Search", text: fullText });
+        await navigator.share({ title: "Paper Guessr", text: fullText });
         return;
       }
       await navigator.clipboard.writeText(fullText);

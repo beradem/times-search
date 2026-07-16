@@ -1,4 +1,4 @@
-// Times Search — scoring (portable core; no DOM, reusable by a native client).
+// Paper Guessr — scoring (portable core; no DOM, reusable by a native client).
 // Months-off with decaying points. See PRD section 5.
 (function (global) {
   "use strict";

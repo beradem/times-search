@@ -1,4 +1,4 @@
-# Times Search — backend setup
+# Paper Guessr — backend setup
 
 The game runs fully static on Vercel. Two optional pieces add live stats and
 notifications. The **code is already in the repo**; these are the one-time
@@ -15,7 +15,7 @@ The endpoint is `api/score.js`. It needs a Redis store and (optionally) an
 ntfy topic.
 
 ### a) Provision Upstash Redis (free tier)
-1. Vercel dashboard → your **times-search** project → **Storage** →
+1. Vercel dashboard → your **paper-guessr** project → **Storage** →
    **Create Database** → **Upstash Redis** (Marketplace) → connect it to the
    project.
 2. This automatically adds the env vars **`UPSTASH_REDIS_REST_URL`** and
@@ -24,7 +24,7 @@ ntfy topic.
 ### b) Set up ntfy push notifications (free, no account)
 1. Pick a **private, hard-to-guess topic name** — ntfy topics are public to
    anyone who knows the name, so treat it like a password, e.g.
-   `times-search-bera-7Kq93fX`.
+   `paper-guessr-bera-7Kq93fX`.
 2. Vercel → project → **Settings → Environment Variables** → add
    **`NTFY_TOPIC`** = that topic string.
 3. On your phone, install the **ntfy** app (iOS/Android) → **Subscribe to

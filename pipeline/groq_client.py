@@ -32,7 +32,7 @@ def chat(messages, temperature=0.2, max_tokens=200, json_mode=False, retries=4):
             headers={"Authorization": f"Bearer {key}",
                      "Content-Type": "application/json",
                      # Cloudflare blocks the default Python-urllib UA (error 1010).
-                     "User-Agent": "times-search/0.1"},
+                     "User-Agent": "paper-guessr/0.1"},
         )
         try:
             with urllib.request.urlopen(req, timeout=60) as r:

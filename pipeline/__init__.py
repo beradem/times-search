@@ -1,1 +1,1 @@
-"""Times Search puzzle-generation pipeline."""
+"""Paper Guessr puzzle-generation pipeline."""

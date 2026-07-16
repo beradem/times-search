@@ -18,7 +18,7 @@ _last = [0.0]
 
 WIKI = "https://en.wikipedia.org/w/api.php"
 COMMONS = "https://commons.wikimedia.org/w/api.php"
-UA = "times-search/0.1 (non-commercial educational history game)"
+UA = "paper-guessr/0.1 (non-commercial educational history game)"
 CACHE_PATH = os.path.join(config.CACHE_DIR, "wikimedia.json")
 
 
