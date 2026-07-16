@@ -1,143 +1,143 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T14:18:01.664293+00:00",
+  "generated_at": "2026-07-16T02:48:08.931259+00:00",
   "rounds": [
     {
       "round": 1,
       "answer": {
-        "year": 1878,
-        "month": 1
+        "year": 2004,
+        "month": 12
       },
       "stories": [
         {
-          "headline": "POLITICS EAST AND WEST.; THE OHIO SENATORSHIP. AN EXCITED POLITICAL CONTEST THE FIGHT BETWEEN PENDLETON AND EWING FINANCIAL RECORDS OF BOTH STANLEY MATTHEWS KILLED. THE NEW-HAMPSHIRE REPUBLICANS GOV. PRESCOTT'S RENOMINATION PROBABLE THE QUESTION OF APPROVING THE PRESIDENT'S POLICY LIKELY TO FORCE A CONTEST EFFECT OF MR. CHANDLER'S LETTER. PENNSYLVANIA LEGISLATURE. A DEAD-LOCK IN BOTH HOUSES UNABLE TO AGREE ON THE ORDER OF BUSINESS PAYMENT OF THE STATE TROOPS. CONNECTICUT LEGISLATURE. BOTH HOUSES TO CONVENE AT HARTFORD TO-DAY A GOOD WORKING MAJORITY NOMINATIONS FOR OFFICE. THE KENTUCKY SENATORSHIP. BUSINESS EMBARRASMENTS. FAILURES IN CHICAGO YESTERDAY HEAVY FAILURE IN MONTREAL OTHER EMBARRASSMENTS. LOSSES BY FIRE. CONVENTON OF DAIRYMEN. A MISSING OPERA MANAGER.",
-          "summary": "A political contest is underway in Ohio for the senatorship, with candidates Pendleton and Ewing, amidst financial records scrutiny and other state legislature news, during Reconstruction",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Michigan_State_Capitol_2024.jpg/1280px-Michigan_State_Capitol_2024.jpg",
+          "headline": "At Warning Center, Alert for the Quake, None for a Tsunami",
+          "summary": "A massive earthquake struck off Indonesia, generating a devastating tsunami, but experts at the Pacific Tsunami Warning Center in Honolulu had no way to warn those in its path, highlighting the limits of modern science and communication, as the US was increasing its involvement in global disaster relief efforts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg/1280px-US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1878/01/09/archives/politics-east-and-west-the-ohio-senatorship-an-excited-political.html"
+          "url": "https://www.nytimes.com/2004/12/28/science/at-warning-center-alert-for-the-quake-none-for-a-tsunami.html"
         },
         {
-          "headline": "THE PENSION AGENCY AT NEW-YORK.; ACTIVITY OF APPLICANTS FOR THE SUCCESSION TO COL. FRANK E. HOWE MR. STEPHEN B. FRENCH'S CLAIMS TO RECOGNITION PETITIONS IN CIRCULATION IN NEW-YORK IN FAVOR OF OTHER CANDIDATES FOR THE POST.",
-          "summary": "Stephen B. French is attempting to succeed Col. Frank E. Howe at the New York pension agency, with petitions circulating in support of other candidates",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/NYC_Subway_R1_100.jpg",
+          "headline": "World Business Briefing | Middle East: Israel: Military Companies Trade Stakes",
+          "summary": "Israeli military companies are trading stakes, reflecting the country's growing private defense industry, during a time of increased global instability",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/IDF-Arsenal-10.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1878/01/14/archives/the-pension-agency-at-newyork-activity-of-applicants-for-the.html"
+          "url": "https://www.nytimes.com/2004/12/28/business/world-business-briefing-middle-east-israel-military-companies.html"
         },
         {
-          "headline": "SOUTHERN REPUDIATION.; WHAT SOUTH CAROLINA HAS DONE. VALUE OF HAMPTON'S PROTESTATION OF THE NON-EXISTENCE OF A REPUDIATION PARTY IN THAT STATE DEFAULT ON THE JULY AND JANUARY INTEREST THE BOND INVESTIGATION COMMITTEE EFFORTS TO CREATE A PUBLIC SENTIMENT IN FAVOR OF HONESTY UP-HILL WORK.",
-          "summary": "South Carolina has defaulted on interest payments, prompting Governor Hampton to protest the existence of a repudiation party, as the legislature and local press debate the issue, in the aftermath of the Civil War",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/South_Carolina_State_House.JPG/1280px-South_Carolina_State_House.JPG",
+          "headline": "World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal",
+          "summary": "Sony and Samsung signed a patent deal, marking a significant partnership between two major electronics companies, as global technology competition intensified",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/1280px-Samsung_headquarters.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1878/01/14/archives/southern-repudiation-what-south-carolina-has-done-value-of-hamptons.html"
+          "url": "https://www.nytimes.com/2004/12/15/business/technology/world-business-briefing-asia-japan-sony-and-samsung.html"
         },
         {
-          "headline": "DEPARTMENT REPORTS.; THE STATE BANKS AND SAVINGS BANKS THE ADJUTANT-GENERAL'S REPORT THE CANAL AUDITOR'S, CONTROLLER'S, AND STATE PRISONS REPORTS.",
-          "summary": "Department reports have been released, including those from the State Banks, Savings Banks, and Adjutant-General, with details on the Trades Savings Bank and its connections",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Second_Bank_of_the_United_States%2C_Philadelphia.jpg/1280px-Second_Bank_of_the_United_States%2C_Philadelphia.jpg",
+          "headline": "If Jets and Steelers Are Mirror Images, It's Time for One of Them to Crack",
+          "summary": "The New York Jets are preparing to face the Pittsburgh Steelers, with the two teams being compared as mirror images, as the NFL season heats up",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jets_uniforms12.png",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1878/01/01/archives/department-reports-the-state-banks-and-savings-banks-the.html"
+          "url": "https://www.nytimes.com/2004/12/12/sports/football/if-jets-and-steelers-are-mirror-images-its-time-for-one-of.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Michigan_State_Capitol_2024.jpg/1280px-Michigan_State_Capitol_2024.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg/1280px-US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg",
         "source": "Wikimedia Commons"
       },
-      "blurb": "The Ohio senatorship contest intensified between Pendleton and Ewing. Financial records scrutiny and state legislature news dominated the headlines. South Carolina defaulted on interest payments, prompting Governor Hampton's protest.",
+      "blurb": "A massive earthquake struck off Indonesia, generating a devastating tsunami. The disaster highlighted the limits of modern science and communication in global disaster relief efforts. Israeli military companies and electronics giants like Sony and Samsung made notable business moves.",
       "ranking": {
         "mode": "topic-clusters",
-        "keyword_coverage": 0.199
+        "keyword_coverage": 0.808
       }
     },
     {
       "round": 2,
       "answer": {
-        "year": 1897,
-        "month": 7
+        "year": 1920,
+        "month": 8
       },
       "stories": [
         {
-          "headline": "LARGE FIRE IN YONKERS; Half a Million Dollars in Property Destroyed -- Six Hundred Men and Girls Narrowly Escape. HEROIC ACT OF WORKMAN He Swings Himself to Outer Side of Fire Escape, Descends Three Stories, and Lowers Ladder into Position with One Hand.",
-          "summary": "A large fire destroyed half a million dollars in property at Reed & Co.'s factory in Yonkers, but 600 workers narrowly escaped thanks to a heroic act by one workman",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg/1280px-View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg",
+          "headline": "TENNESSEE COMPLETES SUFFRAGE VICTORY; MOVE TO RECONSIDER IS FEARED TODAY; PARTIES SPUR BATTLE FOR WOMEN'S VOTES; AMENDMENT WINS, 50 TO 46 \"Antis\" May Attempt to Force Fight for Rescinding it.TWO DAYS LEFT FOR ACTIONOpponents Prepare to AttackRatification on Constitutional Grounds.CONVERTED BY HIS MOTHERLegislator Whose Vote Turnedthe Scale Is Lionized bythe Suffragists.",
+          "summary": "The Tennessee Legislature voted to ratify the amendment granting equal suffrage to American women, making Tennessee the 36th state to approve it, as suffragists celebrated the milestone, during a time of growing women's rights movement",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mrs._Weller_158005v_%28cropped%29.jpg/1280px-Mrs._Weller_158005v_%28cropped%29.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1897/07/28/archives/large-fire-in-yonkers-half-a-million-dollars-in-property-destroyed.html"
+          "url": "https://www.nytimes.com/1920/08/19/archives/tennessee-completes-suffrage-victory-move-to-reconsider-is-feared.html"
         },
         {
-          "headline": "COAL OPERATORS' SESSION; The Uniformity Agreement Adopted, Section by Section, by the Pittsburg Conference. COL. REND MAY SANCTION IT. 95 Per Cent, of the Operators Required to Sing Before January 1, 1898 -- Terms of the Agreement -- Miners' Leaders Shut Out.",
-          "summary": "Coal operators adopted a uniformity agreement at a conference in Pittsburg, which may be sanctioned by Col. Rend, requiring 95 percent of operators to sign by January 1,",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Henry_G._Davis_-_Brady-Handy.jpg/1280px-Henry_G._Davis_-_Brady-Handy.jpg",
+          "headline": "RAILWAYS GET $1,500,000,000 MORE IN RATES; 40 PER CENT. FREUGHT INCREASE IN EAST; ALL PASSENGER FARES TO GO UP 20 PER CENT.; ROADS TO EARN 6 PER CENT. Investment Is Fixed by the Commission at $18,900,000,000. WESTERN ROADS DIVIDED \"Mountain Pacific Group\" Is Formed--South Gets 25% Increase and West 35%.SURCHARGE ON PULLMANSThis Goes to the Roads--MilkWill Pay 20% More, as WillExcess Baggage.",
+          "summary": "The Interstate Commerce Commission granted railroads a significant rate increase, allowing them to earn more revenue, as the rail industry sought to recover from financial struggles, during a period of post-war economic adjustment",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/69workmen.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1897/07/29/archives/coal-operators-session-the-uniformity-agreement-adopted-section-by.html"
+          "url": "https://www.nytimes.com/1920/08/01/archives/railways-get-1500000000-more-in-rates-40-per-cent-freught-increase.html"
         },
         {
-          "headline": "KENTUCKY LUNATICS STARVED.; Gov. Bradley Asked to Remove His Brother-in-Law from Charge of a State Asylum.",
-          "summary": "Patients at an insane asylum in Lexington, Kentucky were starved, prompting a call for Governor Bradley to remove his brother-in-law from charge",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Francisco_de_Goya_-_La_casa_de_locos_-_Google_Art_Project.jpg/1280px-Francisco_de_Goya_-_La_casa_de_locos_-_Google_Art_Project.jpg",
+          "headline": "REDS FLEE BEFORE POLES, ABANDON GUNS; 30,000 CUT OFF, BREST-LITOVSK CAPTURED; SOVIET PLEDGES POLISH INDEPENDENCE; SIX RED DIVISIONS TRAPPED Capture of 30,000 to 40,000 Prisoners Expected on East Front.SEVEN DIVISIONS CRUSHEDPilsudski Moving Troops to CutOff Russians' Main Lineof Retreat.BUDENNY HELD AT LEMBERG Soviet Cavalry Leader Only 9 Miles from That City--Polish Peasants Fight with Scythes.",
+          "summary": "Polish forces defeated the Soviet Red Army, capturing key cities and territory, as the Polish-Soviet War intensified, with the Soviets fleeing and abandoning guns",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Polish-soviet_war_montage.jpg/1280px-Polish-soviet_war_montage.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1897/07/25/archives/kentucky-lunatics-starved-gov-bradley-asked-to-remove-his.html"
+          "url": "https://www.nytimes.com/1920/08/21/archives/reds-flee-before-poles-abandon-guns-30000-cut-off-brestlitovsk.html"
         },
         {
-          "headline": "FEATHERS ON WOMAN'S DRESS.; Massachusetts Law Against Wearing Birds' Plumage Likely to be Enforced, Says Commissioner Martin.",
-          "summary": "A Massachusetts law against wearing birds' plumage on dresses may be enforced, according to Commissioner Martin",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dress_MET_DT447.jpg/1280px-Dress_MET_DT447.jpg",
+          "headline": "REDS IN DESPERATE RALLY TO SAVE ARMY; POLES, WARNED BY WILSON, WON'T INVADE; PREMIERS BAR DEMAND TO DISARM POLAND; TRAPS ARE CLOSED ON REDS Northwest Troops Must Cut Through, Yield, or Flee Into Prussia. ESTIMATE 75,000 PRISONERS Bialystok Taken as Two Armies Under Haller and Pilsudski Strike Russian Centre. LEMBERG SAVED FROM FOE Budenny's Cavalry Retreats Toward Southeast--7,000 Reds Interned in Prussia.",
+          "summary": "As the Polish-Soviet War raged on, President Woodrow Wilson warned Poland against invading, while Polish forces trapped and prepared to capture or disarm the Soviet Red Army, with the Soviets launching a desperate rally to save their army",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soldiers_of_the_Lithuanian_Army_in_Vilnius%2C_Lithuania%2C_1920.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1897/07/09/archives/feathers-on-womans-dress-massachusetts-law-against-wearing-birds.html"
+          "url": "https://www.nytimes.com/1920/08/24/archives/reds-in-desperate-rally-to-save-army-poles-warned-by-wilson-wont-in.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg/1280px-View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mrs._Weller_158005v_%28cropped%29.jpg/1280px-Mrs._Weller_158005v_%28cropped%29.jpg",
         "source": "Wikimedia Commons"
       },
-      "blurb": "A large fire destroyed half a million dollars in property at Reed & Co.'s factory in Yonkers. Coal operators adopted a uniformity agreement in Pittsburg, requiring most operators to sign by January 1, 1898. Patients at a Kentucky asylum were starved, prompting calls for reform.",
+      "blurb": "Tennessee's legislature ratified the amendment granting equal suffrage to American women. The ratification marked a significant milestone in the growing women's rights movement. Railway rates also increased significantly during this time.",
       "ranking": {
-        "mode": "topic-clusters",
-        "keyword_coverage": 0.139
+        "mode": "headline-richness",
+        "keyword_coverage": 0.001
       }
     },
     {
       "round": 3,
       "answer": {
-        "year": 1972,
-        "month": 7
+        "year": 1968,
+        "month": 6
       },
       "stories": [
         {
-          "headline": "PARTY RULINGS ENHANCE M’GOVERN'S CANDIDACY; CONVENTION OPENS TODAY",
-          "summary": "Senator McGovern's presidential nomination bid gains strength from parliamentary rulings by Democratic leaders, despite opposition from other candidates like Senators Muskie and Humphrey, as the Democratic convention opens",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/DP1972Color.png",
+          "headline": "100,000 FILE PAST KENNEDY'S BIER; FINAL RITES IN ARLINGTON TODAY; A MILE-LONG LINE Rich, Poor, Young, Old Stand for Hours -- Heat Feels 100 100,000 File Quietly Past Kennedy's Bier in Line Extending More Than a Mile ARLINGTON RITES THIS AFTERNOON 21-Car Funeral Train Will Leave for Capital After Requiem Mass Here",
+          "summary": "Over 100,000 people from diverse backgrounds filed past Robert Kennedy's bier in St. Patrick's Cathedral, with his family and friends in attendance, as the nation mourned his death during a tumultuous time in American politics. The coffin was guarded by a rotating group of men and boys from all walks of life.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/1968_ROBERT_FRANCIS_KENNEDY_MEMORIAL_FUNERAL_CARD_%281%29.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1972/07/10/archives/party-rulings-enhance-mgoverns-candidacy-convention-opens-today.html"
+          "url": "https://www.nytimes.com/1968/06/08/archives/100000-file-past-kennedys-bier-final-rites-in-arlington-today-a.html"
         },
         {
-          "headline": "Dug‐In North Vietnamese Slash at the Lifeline Connecting Hue and Quangtri City",
-          "summary": "North Vietnamese troops attack the supply line between Hue and Quangtri City, trying to isolate the South Vietnamese force, as US air missions focus on the northern front",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/B-52D%28061127-F-1234S-017%29.jpg/1280px-B-52D%28061127-F-1234S-017%29.jpg",
+          "headline": "M'CARTHY FORCES SEEK TO CONTROL STATE DELEGATION; Call on Democratic Party to Give Them at Least Half of the At-Large Seats MAJOR VICTORY CLAIMED Minnesota Senator Urges Also That Platform Reflect Peace and Poor Issues McCarthy Forces, Buoyed by 'Majority' Victory, Move to Control State Delegation MINNESOTAN ASKS SAY ON PLATFORM Asserts Democratic Party's Position Should Reflect Peace and Poor Issues",
+          "summary": "Senator Eugene J. McCarthy's campaign team, buoyed by his primary victory, sought to control the state delegation and influence the Democratic Party's platform to reflect issues of peace and poverty. McCarthy urged the party to give his supporters at least half of the at-large seats.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eugene_McCarthy_Campaign_Seattle_2.jpg/1280px-Eugene_McCarthy_Campaign_Seattle_2.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1972/07/23/archives/dugin-north-vietnamese-slash-at-the-lifeline-connecting-hue-and.html"
+          "url": "https://www.nytimes.com/1968/06/20/archives/mcarthy-forces-seek-to-control-state-delegation-call-on-democratic.html"
         },
         {
-          "headline": "Accord on Union Dispute Averts Hospital Walkout Set for Today",
-          "summary": "A hospital strike in New York City is averted after Mayor Lindsay announces an agreement between the city, hospital administrators, and the union, resolving jurisdictional issues and guaranteeing wages and benefits for workers",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Mount_Sinai_Hospital.png",
+          "headline": "O'DWYER BEATS NICKERSON; A SENATE UPSET Organization Is Dealt Setback -- Resnick Concedes Early O'Dwyer Upsets Nickerson in Contest for Democratic Nomination for Senate RESNICK CONCEDES IN EARLY MORNING Ellenville Man Asserts He Is 'Finished' in Politics -- Upstate Tally Slow",
+          "summary": "Peace candidate Paul O'Dwyer, supported by Senator Eugene J. McCarthy, won the Democratic nomination for the US Senate from New York State, with his victory attributed to the peace vote. O'Dwyer's win was seen as an upset against the organization's candidate.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Albert_Shanker_NYWTS_crop.jpg/1280px-Albert_Shanker_NYWTS_crop.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1972/07/06/archives/accord-on-union-dispute-averts-hospital-walkout-set-for-today.html"
+          "url": "https://www.nytimes.com/1968/06/19/archives/odwyer-beats-nickerson-a-senate-upset-organization-is-dealt-setback.html"
         },
         {
-          "headline": "CON ED SHUTS OFF POWER TO 200,000 IN BROOKLYN AFTER FEEDER LINES FAIL",
-          "summary": "A power outage affects 200,000 people in Brooklyn after feeder lines fail, with Con Ed citing heavy air conditioner use and potential damage from heat and weather as factors, and police reporting sporadic looting",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/New_York_power_grid.webp/1280px-New_York_power_grid.webp.png",
+          "headline": "DE GAULLE SHAKES UP HIS CABINET; LABOR CHIEFS SEEK TO END STRIKE; TANKS AT PARIS AFTER MANEUVERS; ELECTIONS JUNE 23 Tensions Are Eased as Opposition Accepts Challenge at Polls De Gaulle Shakes Up His Cabinet as Labor Union Chiefs Seek to End General Strike TANKS NEAR PARIS AFTER WAR GAMES Election Is Set for June 23 -- Opposition Parties Start to Prepare for Campaign",
+          "summary": "French President Charles de Gaulle reshuffled his cabinet as labor union chiefs attempted to end a general strike, with elections set for June 23. The opposition parties accepted de Gaulle's proposal for elections, easing tensions and paving the way for a campaign.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/3evague.jpg",
           "image_source": "Wikimedia Commons",
-          "url": "https://www.nytimes.com/1972/07/18/archives/con-ed-shuts-off-power-to-200000-in-brooklyn-after-feeder-lines.html"
+          "url": "https://www.nytimes.com/1968/06/01/archives/de-gaulle-shakes-up-his-cabinet-labor-chiefs-seek-to-end-strike.html"
         }
       ],
       "reveal_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/DP1972Color.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/1968_ROBERT_FRANCIS_KENNEDY_MEMORIAL_FUNERAL_CARD_%281%29.jpg",
         "source": "Wikimedia Commons"
       },
-      "blurb": "Senator McGovern's presidential nomination bid gained strength from parliamentary rulings. The Democratic convention opened amidst opposition from other candidates. North Vietnamese troops attacked a key supply line in South Vietnam.",
+      "blurb": "Robert Kennedy's funeral procession drew 100,000 mourners. Senator Eugene McCarthy's campaign gained momentum with a primary victory. Labor unrest eased in France as President Charles de Gaulle reshuffled his cabinet.",
       "ranking": {
         "mode": "topic-clusters",
-        "keyword_coverage": 0.773
+        "keyword_coverage": 0.599
       }
     }
   ]
