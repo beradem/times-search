@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T06:26:05.210773+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1973,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "VIETNAM PEACE PACTS SIGNED; AMERICA'S LONGEST WAR HALTS",
+          "summary": "The United States signed a peace pact to end its longest war, but the stock and bond markets remained depressed due to economic concerns, as the country was in the midst of a new economic program",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vietnam_Peace_Treaty_1973.jpg/1280px-Vietnam_Peace_Treaty_1973.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/28/archives/vietnam-peace-pacts-signed-americas-longest-war-halts-built-on.html"
+        },
+        {
+          "headline": "KISSINGER ENDS ‘USEFUL’ SESSIONS WITH THO AND RETURNS TO REPORT; SAYS NIXON WILL DECIDE NEXT STEP",
+          "summary": "Henry Kissinger met with Le Duc Tho in private peace talks in Paris, discussing issues that President Richard Nixon deemed crucial for a peaceful resolution, including truce acceptance by South Vietnamese President Nguyen Van Thieu",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/1280px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/14/archives/kissinger-ends-useful-sessions-with-the-and-returns-to-report-says.html"
+        },
+        {
+          "headline": "NIXON' ECONOMIC REPORT PREDICTS SLOWER GROWTH AND SAYS IT IS DESIRABLE",
+          "summary": "The economic report predicted slower growth, which was deemed desirable, as the country was navigating economic challenges",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lower_Manhattan_from_Governors_Island_August_2017_panorama.jpg/1280px-Lower_Manhattan_from_Governors_Island_August_2017_panorama.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/31/archives/nixons-economic-report-predicts-slower-growth-and-says-it-is.html"
+        },
+        {
+          "headline": "MANDATORY WAGE‐PRICE CONTROLS ENDED EXCEPT IN FOOD, HEALTH, BUILDING FIELDS; NIXON CALLS FOR VOLUNTARY COMPLIANCE",
+          "summary": "President Richard Nixon ended mandatory wage-price controls, except in certain fields like healthcare and food, and called for voluntary compliance, with surveillance focused on wage trends",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%22Prices_charged_in_this_store_will_not_exceed_those_indicated_in_the_most_recent_list_of_Fair_Prices_applicable_to_this_-_NARA_-_512556.jpg/1280px-%22Prices_charged_in_this_store_will_not_exceed_those_indicated_in_the_most_recent_list_of_Fair_Prices_applicable_to_this_-_NARA_-_512556.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/12/archives/mandatory-wageprice-controls-ended-except-in-food-health-building.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vietnam_Peace_Treaty_1973.jpg/1280px-Vietnam_Peace_Treaty_1973.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Vietnam peace pact was signed, ending America's longest war. Economic concerns persisted, with slower growth predicted and wage-price controls lifted. The US navigated challenges, seeking voluntary compliance.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.705
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1917,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "ARMY CALL READY FOR 500,000 MEN; War Department Has Universal Service Plan Worked Out and Waits on Congress. BACKED BY GENERAL STAFF Selective Conscription Scheme to be Submitted When War Resolution Passes. ARMY CALL READY FOR 500,000 MEN Careful Selection at First. Want 20,000 Skilled Men.",
+          "summary": "The US War Department has a plan for universal service and is waiting for Congress to pass a war resolution to implement it, with a goal of recruiting 500,000 men. The plan includes selective conscription and careful selection of skilled men.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/US_Navy_recruitment_advert_in_Popular_Mechanics_1908.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/05/archives/army-call-ready-for-500000-men-war-department-has-universal-service.html"
+        },
+        {
+          "headline": "DEBATE LASTED 16 1/2 HOURS; One Hundred Speeches Were Made;-Miss Rankin, Sobbing, Votes No. ALL AMENDMENTS BEATEN Resolution Will Take Effect This Afternoon with the President's Signature. KITCHIN WITH PACIFISTS Accession of the Floor Leader Added Others to the Anti-War Faction. Miss Rankin Votes \"No.\" The Early Morning Scenes. A Feast of Speeches. Levity Amid the Solemnity. Flood Opens the Discussion. Kitchin's Stand Surprises Leaders. Alabamians in a Rumpus. Why Wilson Must Sign Resolution. EBB AND FLOW OF DEBATE. Pacifists' Pleas, with Interruptions, Provide Chief Interest. Denounces Talk of Expediency. Cooper First to Oppose. Sensation Over Zimmermann Note. Rush to Hear Kitchin Talk. Cites Course Toward Britain. Why Not Forego Violation of Rights? Non-Partisan Plea by Cannon. Intimates Kitchin Should Resign. Only One Course, Says Mann. War for Human Rights, Gardner Says. Calls for \"Vote\" Futile.",
+          "summary": "After a 16-hour debate, Congress passed a war resolution, which will take effect after President Woodrow Wilson signs it, with many speeches and amendments considered during the debate. The resolution was passed amidst a rush for naval, military, and industrial preparedness.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/U.S._Congress_Joint_Resolution_to_Declare_War_on_Germany%2C_1917.png/1280px-U.S._Congress_Joint_Resolution_to_Declare_War_on_Germany%2C_1917.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/06/archives/debate-lasted-16-12-hours-one-hundred-speeches-were-mademiss-rankin.html"
+        },
+        {
+          "headline": "SEEKS BOYS' ARMY FOR STATE FARMS; Agricultural Society Starts a School Census to Discover the Number Available. EXPECTS 5,000 FROM HERE Plans Laid to Make Work Congenial and to Give Credits as for Classroom Tasks. REDFIELD ISSUES APPEAL. Asks Commercial Bodies to Help Increase Crops. REDFIELD APPEALS FOR FOOD SUPPLY CALL FOR SEED STATISTICS. Pennsylvania Takes Steps to Organize Agricultural Army. GAINS IN FOOD PRICES. Commissioner Hartigan, However, Says the Supply Here Is Adequate. ROCKEFELLER LAND FOR FOOD Others Will Join Westchester Movement for National Defense. QUICK ACTION IN NORTHWEST. Minnesota, Dakotas, and Montana Increasing Farm Operations. GERMAN-AMERICANS BALK. Ohio Leader Holds Food Increase Would Help England. CORNER FOR JERSEY POTATOES If Present Efforts Succeed They May Retail at $20 a Barrel.",
+          "summary": "The New York State Agricultural Society is starting a movement to recruit a boys' army for state farms by taking a school census, with the goal of increasing food production, and Commissioner Redfield is appealing to commercial bodies to help.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Herbert_Paus_Women%27s_Land_Army_poster.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/15/archives/seeks-boys-army-for-state-farms-agricultural-society-starts-a.html"
+        },
+        {
+          "headline": "CONGRESS VOTES ON DRAFT BILL TODAY; BIG MAJORITIES FOR IT ARE CLAIMED; HOUSE REJECTS ROOSEVELT ARMY PLAN; HOUSE OPPOSITION WEAKENS Kahn Leads Final Rally For Measure and Is Joined by Mann. 170 TO 106 AGAINST COLONEL Miss Rankin and Mr. Longworth Among Advocates of His Volunteer Force. AGE LIMIT STILL IN DOUBT Senate Favors 19 to 26, and the House 21 to 40;-Other Details to be Adjusted. Miss Runkin for Roosevelt. No Stigma, Mr. Mann Says. Lincoln's Letter Read. Duty to the Republic. SENATORS ADVOCATE DRAFT. Tide of Debate Turns in Favor of Administration Bill. Would Conscript Big Incomes. Attacks Volunteer System. Wants Submarine Board.",
+          "summary": "Congress is voting on a draft bill, with big majorities claimed, and the House has rejected Theodore Roosevelt's army plan, while advocates for the volunteer force, including Miss Rankin and Mr. Longworth, are speaking out.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cody-Buffalo-Bill-LOC.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/28/archives/congress-votes-on-draft-bill-today-big-majorities-for-it-are.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/US_Navy_recruitment_advert_in_Popular_Mechanics_1908.png",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The US Congress passed a war resolution, which President Woodrow Wilson signed, amidst a rush for naval and military preparedness. The War Department had a plan for universal service, including selective conscription, to recruit 500,000 men. A draft bill was also voted on, with big majorities claimed.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.561
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1991,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "GORBACHEV, LAST SOVIET LEADER, RESIGNS; U.S. RECOGNIZES REPUBLICS' INDEPENDENCE",
+          "summary": "Mikhail Gorbachev, the last Soviet leader, resigns as President, marking the end of the Soviet Union's 70-year communist rule. This event occurs as the Cold War is coming to a close.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg/1280px-RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/12/26/world/end-soviet-union-gorbachev-last-soviet-leader-resigns-us-recognizes-republics.html"
+        },
+        {
+          "headline": "For Needy Children, Caring Hearts",
+          "summary": "The New York Times Neediest Cases Fund helps needy children throughout the year, providing various forms of assistance, during a time when many are focusing on holiday giving.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Yankee_Stadium_upper_deck_2010.jpg/1280px-Yankee_Stadium_upper_deck_2010.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/12/15/nyregion/a-christmas-appeal-the-neediest-cases-for-needy-children-caring-hearts.html"
+        },
+        {
+          "headline": "AFTER THE SOVIET UNION: Capitalism's New Frontier - A special report; Hunting for Riches in Ex-Soviet Lands",
+          "summary": "American companies, including Fortune 500 companies, are exploring business opportunities in the former Soviet Union, seeking to capitalize on the region's economic upheaval, with Robert S. Strauss, the US Ambassador to Moscow, commenting on the potential risks and rewards.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/JStalin_Secretary_general_CCCP_1942.jpg/1280px-JStalin_Secretary_general_CCCP_1942.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/12/27/world/after-soviet-union-capitalism-s-new-frontier-special-report-hunting-for-riches.html"
+        },
+        {
+          "headline": "Recalling Pearl Harbor, Bush Urges an End to Rancor; 50 Years After Attack, Survivors Are Told to Forget Animosity",
+          "summary": "President George H. W. Bush, a former Navy pilot, urges survivors of the Pearl Harbor attack to put aside their animosity towards Japan, 50 years after the attack, as the US and Japan have moved past their wartime differences.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/1280px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/12/08/us/pearl-harbor-remembered-recalling-pearl-harbor-bush-urges-end-rancor-50-years.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg/1280px-RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Mikhail Gorbachev resigned as Soviet leader, marking the end of the Soviet Union's communist rule. The collapse sparked American companies to explore business opportunities in the former Soviet Union. President George H. W. Bush urged Pearl Harbor survivors to forget past animosity towards Japan.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    }
+  ]
+}
