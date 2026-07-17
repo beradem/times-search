@@ -1,7 +1,7 @@
 # Paper Guessr — Product Requirements Document
 
 **Status:** Draft v0.1 (working draft — sections marked `OPEN` are unresolved and meant to be decided together)
-**Last updated:** 2026-06-27
+**Last updated:** 2026-07-17
 **Author:** Bera Demirbilek (with Claude)
 
 ---
@@ -288,6 +288,7 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 - ~~Ranking: front-page weighting~~ — **done**. Topics are ranked by front-page presence and high-frequency keywords that dominate page 1 are kept, so the real lead wins (fixed Nov 2016 → Trump transition over a Twilight book; 1894 → real news over a Pusey book review; 1969 → Apollo leads). *Remaining nit:* some soft/celebrity secondaries can still surface in busy modern months.
 - ~~Ranking: demote standing-column labels (old-era)~~ — **done**. Recurring short ALL-CAPS kickers ("FROM WASHINGTON", "TELEGRAMS", "MARINE INTELLIGENCE") that head standing columns are demoted below real stories, and their descriptive subhead is used as the headline; untitled "NO TITLE" filler is skipped. Fixed e.g. April 1870 (now leads with the Fenian Invasion of Canada, not "TELEGRAMS"). *Honest limit:* the sparse mid-1800s (e.g. Jan 1860) genuinely lacked a single dominant front-page story — mixed-case correspondent roundups still surface there; that's a source-material floor, not a code bug.
 - ~~Display-headline cleanup~~ — **done**. Front-end collapses multi-deck run-ons: all-caps deck stacks reduce to the first deck, trailing all-caps decks are dropped, modern title-case headlines untouched.
+- **Headline truncation looks disjointed on old, long headlines.** After deck-collapsing (above), a headline that's still over the length cap gets a hard character-slice + trailing "…" (`displayHeadline()`, `web/app.js:65`: `h.slice(0, 90)... + "…"`). For long pre-1930s run-on headlines this can cut mid-word/mid-clause and read as broken rather than a clean crop, and on a page with 4 headlines the repeated "…"s compound and look noisy. Not yet built — **needs more thought before implementation**: options include a smarter break point (nearest word/clause boundary vs. fixed char count), raising the cap and using CSS line-clamp/fade instead of a hard cut, shortening via the existing LLM clarification pass (§6.5) rather than truncating, or showing the full headline on tap/hover. Revisit once we've looked at real examples of the worst offenders.
 
 ---
 
@@ -302,6 +303,7 @@ The reveal-screen blurb is **LLM-generated via Groq**, model **`llama-3.3-70b-ve
 7. ~~Platform~~ — **resolved**: responsive web v1; native iOS App Store app is the longer-term goal. (§2)
 8. ~~Success metrics~~ — **resolved (proposed)**: D7 retention primary, share rate secondary; instrument all four, set a target post-launch. (§2)
 9. **Scoring constants** — tune `HALF_LIFE` once we have playtest data (the only remaining substantive open item). (§5.2)
+10. **Headline truncation** — the hard char-slice + "…" fallback in `displayHeadline()` looks disjointed on long/old headlines; needs design thought (break point, cap, or LLM-shortening vs. CSS treatment) before we touch code. (§9)
 
 ---
 
