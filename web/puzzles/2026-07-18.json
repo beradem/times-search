@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T06:16:33.097875+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1986,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "THE SHUTTLE EXPLODES: 6 IN CREW AND HIGH-SCHOOL TEACHER ARE KILLED 74 SECONDS AFTER LIFTOFF",
+          "summary": "The space shuttle Challenger exploded just after liftoff, killing all seven astronauts on board, in the worst accident in the history of the American space program, as thousands of spectators watched in horror, during a time of intense space exploration",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/1280px-Challenger_explosion.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/01/29/us/shuttle-explodes-6-crew-high-school-teacher-are-killed-74-seconds-after-liftoff.html"
+        },
+        {
+          "headline": "ALLEGHENY POWER INCALLEGHENY & WESTERN ENERGY CORP reports earnings for Qtr to Dec 31",
+          "summary": "Allegheny Power Inc reported its earnings for the quarter ending December 31, as companies continued to navigate the economic landscape",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/K_Street_NW_at_19th_Street.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/01/28/business/allegheny-power-incallegheny-western-energy-corp-reports-earnings-for-qtr-dec-31.html"
+        },
+        {
+          "headline": "U.S. WEIGHS ASSIGNING WARSHIPS TO ESCORT DUTY IN THE PERSIAN GULF",
+          "summary": "The US is considering assigning warships to escort American merchant vessels in the Persian Gulf, to prevent Iranian interference, as tensions in the region continued to rise",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Strait_of_hormuz.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/01/15/world/us-weighs-assigning-warships-to-escort-duty-in-the-persian-gulf.html"
+        },
+        {
+          "headline": "EDITORS' NOTE",
+          "summary": "A Porsche owner, Donald Schupak, protested outside Porsche-Audi Manhattan Inc, claiming the company did not honor its repair warranties, highlighting consumer concerns during a period of growing automotive sales",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg/1280px-Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/01/22/nyregion/editors-note-255186.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/1280px-Challenger_explosion.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The space shuttle Challenger exploded, killing seven astronauts, in the worst accident in the American space program's history. The US considered assigning warships to escort duty in the Persian Gulf. Economic and consumer issues also emerged, with companies reporting earnings and a consumer protesting against Porsche.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1992,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "NO EVIDENCE FOUND OF PATRIOT SALES BY ISRAEL TO CHINA",
+          "summary": "The State Department found no evidence that Israel transferred Patriot missiles or technology to China, closing the investigation to ease tensions in US-Israel relations. The case had caused turmoil in relations between the two countries.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/1280px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/03/world/no-evidence-found-of-patriot-sales-by-israel-to-china.html"
+        },
+        {
+          "headline": "Data Bank/April 12, 1992",
+          "summary": "No information is available about this story.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/1992_House_Elections_in_the_United_States.png/1280px-1992_House_Elections_in_the_United_States.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/12/business/data-bank-april-12-1992.html"
+        },
+        {
+          "headline": "THE 1992 CAMPAIGN: Clinton; Players in Familiar Roles as Vote Nears Clinton Faces Questions About His Past and Spars With Rival",
+          "summary": "Governor Bill Clinton is working to persuade New York voters that he can defeat President Bush in the presidential election, while facing questions about his past. Clinton wants to focus on issues like healthcare and economic revival.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bill_Clinton_%28cropped_4%29.jpg/1280px-Bill_Clinton_%28cropped_4%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/06/us/1992-campaign-clinton-players-familiar-roles-vote-nears-clinton-faces-questions.html"
+        },
+        {
+          "headline": "Caterpillar's Trump Card; Threat of Permanently Replacing Strikers Gave Company Advantage Against Union",
+          "summary": "Caterpillar Inc. ended a five-month strike by threatening to permanently replace strikers, showing that management can bring a powerful union to its knees. This approach is reminiscent of old American management styles, unlike the more worker-friendly approach led by Walter Reuther.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1992/04/16/us/caterpillar-s-trump-card-threat-permanently-replacing-strikers-gave-company.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/1280px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The State Department closed its investigation into alleged Patriot missile sales by Israel to China, finding no evidence. This eased tensions in US-Israel relations, which had been strained by the case. Governor Bill Clinton faced questions about his past during his presidential campaign.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1986,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "U.S. APPROVAL NEAR FOR RADIATION USE ON FRESH FOODS",
+          "summary": "The FDA is set to approve the use of irradiation to preserve fresh fruits and vegetables, despite opposition from consumer and health organizations, as described by FDA Commissioner Dr. Frank E. Young. The process involves exposing food to low doses of gamma or X-rays to kill bacteria and other contaminants.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/HD.6B.452_%2811984638133%29.jpg/1280px-HD.6B.452_%2811984638133%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/09/garden/us-approval-near-for-radiation-use-on-fresh-foods.html"
+        },
+        {
+          "headline": "REAGAN WARNS OF NEW ATTACKS IF NEEDED; ONE PLANE MISSING IN RAIDS ON 5 TARGETS",
+          "summary": "President Reagan announced that the US conducted air strikes against Libya, targeting what the White House called 'terrorist centers' and military bases, in retaliation for Col. Muammar el-Qaddafi's 'reign of terror' against the US. One US plane is missing after the raids.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/USF-111_Libya1986.JPG/1280px-USF-111_Libya1986.JPG",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/15/world/us-jets-hit-terrorist-centers-libya-reagan-warns-new-attacks-if-needed-one-plane.html"
+        },
+        {
+          "headline": "BRITAIN MOVES TO EXPEL 21 LIBYANS IT CALLS 'REVOLUTIONARY' ACTIVISTS",
+          "summary": "Britain is expelling 21 Libyan students suspected of being 'revolutionary' activists, including a pilot trainee who offered to form suicide squads to bomb US military targets, as announced by Home Secretary Douglas Hurd. The move is seen as a response to Col. Muammar el-Qaddafi's government.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/1980s_replacement_montage02.PNG",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/23/world/britain-moves-to-expel-21-libyans-it-calls-revolutionary-activists.html"
+        },
+        {
+          "headline": "HIS CONDITION IS SERIOUS; KHARTOUM SECURITY REVIEWED",
+          "summary": "An American communications specialist at the US Embassy in Sudan was shot in the head by an unknown assailant while driving, and is in serious condition at a Khartoum hospital. The incident has prompted a review of security measures.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/JFK_with_Ambassadors_March1961.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/16/world/american-aide-embassy-shot-sudan-his-condition-serious-khartoum-security.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/HD.6B.452_%2811984638133%29.jpg/1280px-HD.6B.452_%2811984638133%29.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The US conducted air strikes against Libya, targeting terrorist centers and military bases. President Reagan warned of new attacks if needed, following the raids on five targets. The US and Britain took actions against Libya, expelling Libyan students and reviewing security measures.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
