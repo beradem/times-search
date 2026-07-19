@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T06:42:05.395451+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1995,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; RAIN STALLS SEARCH OF RUBBLE",
+          "summary": "The FBI is searching for a second suspect in the Oklahoma City bombing and investigating possible links to far-right groups, as a nationwide manhunt continues for Timothy James McVeigh, a 26-year-old Army veteran already in custody",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Oklahomacitybombing-DF-ST-98-01356.jpg/1280px-Oklahomacitybombing-DF-ST-98-01356.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/23/us/terror-oklahoma-overview-fbi-hunts-2d-bombing-suspect-seeks-links-far-right-rain.html"
+        },
+        {
+          "headline": "March 26-April 1; E-Mail",
+          "summary": "The New York Times is providing an email address for readers to contact the Week in Review",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nurses_in_a_nurses%27_station%2C_USA_1987.jpg/1280px-Nurses_in_a_nurses%27_station%2C_USA_1987.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/02/weekinreview/march-26-april-1-e-mail.html"
+        },
+        {
+          "headline": "Rethinking Welfare: Deterring New Births -- A special report.; State Aid Is Capped, but to What Effect?",
+          "summary": "A 17-year-old mother, Naikeya Haley, is struggling to provide for her family on limited welfare benefits, despite a state law intended to deter new births by capping aid",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Phone_for_EBT_benefits.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/11/us/rethinking-welfare-deterring-new-births-special-report-state-aid-capped-but-what.html"
+        },
+        {
+          "headline": "AT LEAST 31 ARE DEAD, SCORES ARE MISSING AFTER CAR BOMB ATTACK IN OKLAHOMA CITY WRECKS 9-STORY FEDERAL OFFICE BUILDING",
+          "summary": "A car bomb attack on a federal office building in Oklahoma City has killed at least 31 people and President Clinton has vowed to hunt down those responsible, calling them 'evil cowards'",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oklahoma_city_downtown.JPG/1280px-Oklahoma_city_downtown.JPG",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/20/us/terror-oklahoma-city-investigation-least-31-are-dead-scores-are-missing-after.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Oklahomacitybombing-DF-ST-98-01356.jpg/1280px-Oklahomacitybombing-DF-ST-98-01356.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Oklahoma City bombing occurred, killing at least 31 people. The FBI investigated and searched for suspects, including Timothy James McVeigh. A nationwide manhunt and investigation into far-right groups ensued.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1976,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "New York Still Giddy With the Bicentennial",
+          "summary": "New York City is still celebrating America's birthday with a big party, as the Bicentennial spirit continues to transform the city",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Endicott-Johnson_Store%2C_1976_Bicentennial_Cake%2C_Milford%2C_Massachusetts.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/07/archives/new-york-still-giddy-with-the-bicentennial.html"
+        },
+        {
+          "headline": "Carter and Mondale Approach Issues Differently but Arrive at Similar Conclusions",
+          "summary": "Jimmy Carter and Walter Mondale are discussing campaign strategies, showing they have similar conclusions despite different approaches",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/1280px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/26/archives/carter-and-mondale-approach-issues-differently-but-arrive-at.html"
+        },
+        {
+          "headline": "3 Women in Carter's Life Show He'll Have to Share the Spotlight",
+          "summary": "The women in Jimmy Carter's life, including his wife, mother, and daughter, are sharing the spotlight with him as he campaigns",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jimmy_Carter_lay-in_state_at_U.S._Capitol.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/14/archives/3-women-in-carters-life-show-hell-have-to-share-the-spotlight.html"
+        },
+        {
+          "headline": "Queen Begins a Whirlwind of Activities in Washington",
+          "summary": "The Queen has arrived in Washington, D.C. for a Bicentennial visit, where she was greeted by President and Mrs. Ford, and will attend various events including a State Dinner at the White House",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/President_Gerald_R._Ford_and_First_Lady_Betty_Ford_Standing_With_Queen_Elizabeth_II_and_Prince_Philip_of_Great_Britain_on_the_South_Portico_of_the_White_House_Prior_to_a_State_Dinner_Honoring_Her_Majesty_and_Prin%28...%29_-_NARA_-_12004852.jpg/1280px-thumbnail.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/08/archives/queen-begins-a-whirlwind-of-activities-in-washington-elizabeth.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Endicott-Johnson_Store%2C_1976_Bicentennial_Cake%2C_Milford%2C_Massachusetts.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Bicentennial celebration transformed New York City with festivities. Jimmy Carter and Walter Mondale discussed campaign strategies, approaching issues differently. The Queen visited Washington, attending a State Dinner at the White House.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.626
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1993,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "EXPLOSION AT THE TWIN TOWERS: The Overview; BLAST HITS TRADE CENTER, BOMB SUSPECTED; 5 KILLED, THOUSANDS FLEE SMOKE IN TOWERS",
+          "summary": "A car bomb exploded in an underground garage at the World Trade Center in lower Manhattan, killing at least five people and injuring over 650 others, causing widespread smoke and chaos. The blast had the force of a small earthquake, collapsing walls and floors and igniting fires.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1993/02/27/nyregion/explosion-twin-towers-overview-blast-hits-trade-center-bomb-suspected-5-killed.html"
+        },
+        {
+          "headline": "Woman in the News: CLINTON PICKS MIAMI WOMAN, VETERAN STATE PROSECUTOR, TO BE HIS ATTORNEY GENERAL; Tough 'Front-Line Warrior' Janet Reno",
+          "summary": "President Clinton has nominated Janet Reno, a veteran state prosecutor from Miami, to be his Attorney General, after two previous attempts to nominate a woman for the position failed. Reno has experience dealing with crime waves, drug cartels, and police brutality.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Janet_Reno-us-Portrait.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/12/us/woman-clinton-picks-miami-woman-veteran-state-prosecutor-be-his-attorney-general.html"
+        },
+        {
+          "headline": "Data Bank/February 14, 1993",
+          "summary": "No event summary available.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Council_of_Economic_Advisers.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/14/business/data-bank-february-14-1993.html"
+        },
+        {
+          "headline": "National Recovery Fattening Tax Revenue in Many States",
+          "summary": "The nation's economic expansion is having a positive effect on state finances, with tax collections rising nearly 6 percent in the fourth quarter compared to the previous year. This increase is the largest since the recent recession began.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sales_tax_by_county.webp/1280px-Sales_tax_by_county.webp.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/17/us/national-recovery-fattening-tax-revenue-in-many-states.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "The World Trade Center bombing occurred, killing five people and injuring over 650 others. President Clinton nominated Janet Reno as Attorney General, a veteran state prosecutor. The national economy was recovering, with state tax revenues increasing nearly 6 percent.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
