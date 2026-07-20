@@ -24,20 +24,16 @@
   }
 
   // Tone copy shown on the reveal screen (PRD §5.3). Voiced, magnitude-based.
-  // guess/actual are optional {year, month}; when present we judge "decade"
-  // from the actual calendar decades, so a same-decade miss (1870 vs 1876) is
-  // never called "wrong decade". Falls back to magnitude if they're omitted.
-  function toneMessage(err, guess, actual) {
-    if (err === 0) return "Bullseye — stop the presses.";
-    if (err <= 3) return "Practically the same edition.";
-    if (err <= 12) return "Right era, wrong season.";
-    if (err <= 36) return "A few years adrift.";
-    if (guess && actual &&
-        Math.floor(guess.year / 10) === Math.floor(actual.year / 10)) {
-      return "Right decade, wrong year.";
-    }
-    if (err <= 120) return "Wrong decade, friend.";
-    return "Off by a generation.";
+  // Magnitude ladder (err is months). Thresholds: exact, within a year (<=12mo),
+  // within 3 years, within 10 years, within 20 years, beyond. A 10-20yr gap
+  // always crosses a decade boundary, so "Wrong decade" is accurate there.
+  function toneMessage(err) {
+    if (err === 0) return "Bullseye!";
+    if (err <= 12) return "Within the year!";
+    if (err <= 36) return "Close, friend.";
+    if (err <= 120) return "Almost there.";
+    if (err <= 240) return "Wrong decade.";
+    return "In a different universe.";
   }
 
   // "X months off" -> human string ("Exact!", "3 months off", "2 years off").

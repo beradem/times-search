@@ -331,7 +331,7 @@
         <p class="reveal-verdict">
           <span class="verdict-icon">${Scoring.eraIcon(r.err)}</span>
           <span class="verdict-main">${Scoring.errorLabel(r.err)}</span>
-          <span class="verdict-tone">${Scoring.toneMessage(r.err, r.guess, round.answer)}</span>
+          <span class="verdict-tone">${Scoring.toneMessage(r.err)}</span>
           <span class="verdict-points" id="vpoints">+0</span>
         </p>
         ${timeline}
