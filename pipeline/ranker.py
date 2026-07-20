@@ -24,6 +24,30 @@ STOP_KEYWORDS = {
 GENERIC_DF = 0.05            # keyword on >5% of docs => boilerplate
 KEYWORD_DESERT_THRESHOLD = 0.10  # below this keyword coverage => headline mode
 
+# A headline that carries an explicit calendar date is either a standing data
+# column ("Data Bank/February 14, 1993") or otherwise spoils the answer outright.
+# Reject such stories entirely — this both removes the junk and stops the leak.
+_MONTH = (r"jan(?:uary)?|feb(?:ruary)?|mar(?:ch)?|apr(?:il)?|may|jun(?:e)?|"
+          r"jul(?:y)?|aug(?:ust)?|sep(?:t(?:ember)?)?|oct(?:ober)?|"
+          r"nov(?:ember)?|dec(?:ember)?")
+_DATE_RE = re.compile(
+    r"\b(?:18\d\d|19\d\d|20[01]\d)\b"                       # a 4-digit archive year
+    r"|\b(?:" + _MONTH + r")\.?\s+\d{1,2}(?:st|nd|rd|th)?\b",  # Month + day
+    re.I)
+
+
+def has_date(text):
+    """True if the text names a year or an explicit Month-Day — a spoiler."""
+    return bool(_DATE_RE.search(text or ""))
+
+
+def scrub_dates(text):
+    """Strip explicit dates (years and Month-Day) as a display-time safety net."""
+    text = _DATE_RE.sub("", text or "")
+    text = re.sub(r"\s{2,}", " ", text)
+    text = re.sub(r"\s+([,.;:])", r"\1", text)
+    return text.strip(" ,;:/-").strip()
+
 STATIC_PREFIX = "https://static01.nyt.com/"
 PREFERRED_CROPS = ("superJumbo", "articleLarge", "threeByTwoSmallAt2X", "popup")
 
@@ -151,6 +175,8 @@ def _candidate_docs(docs):
             continue
         headline = ((d.get("headline") or {}).get("main") or "").strip()
         if not headline or "NO TITLE" in headline.upper():  # untitled filler
+            continue
+        if has_date(headline):   # date-stamped column / answer leak — drop it
             continue
         yield d
 

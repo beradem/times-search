@@ -24,11 +24,18 @@
   }
 
   // Tone copy shown on the reveal screen (PRD §5.3). Voiced, magnitude-based.
-  function toneMessage(err) {
+  // guess/actual are optional {year, month}; when present we judge "decade"
+  // from the actual calendar decades, so a same-decade miss (1870 vs 1876) is
+  // never called "wrong decade". Falls back to magnitude if they're omitted.
+  function toneMessage(err, guess, actual) {
     if (err === 0) return "Bullseye — stop the presses.";
     if (err <= 3) return "Practically the same edition.";
     if (err <= 12) return "Right era, wrong season.";
     if (err <= 36) return "A few years adrift.";
+    if (guess && actual &&
+        Math.floor(guess.year / 10) === Math.floor(actual.year / 10)) {
+      return "Right decade, wrong year.";
+    }
     if (err <= 120) return "Wrong decade, friend.";
     return "Off by a generation.";
   }

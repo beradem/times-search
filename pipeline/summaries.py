@@ -11,15 +11,7 @@ import sys
 import urllib.error
 
 from . import groq_client
-
-
-def _scrub_years(text):
-    """Safety net: strip any explicit 4-digit year from a summary, even a
-    comparison year the model slipped in ('since the 1965 blackout')."""
-    text = re.sub(r"\b(1[89]\d\d|20[0-2]\d)\b", "", text or "")
-    text = re.sub(r"\s{2,}", " ", text)
-    text = re.sub(r"\s+([,.;:])", r"\1", text)
-    return text.strip()
+from .ranker import scrub_dates
 
 
 def _extract_json(text):
@@ -84,8 +76,9 @@ SYSTEM = (
     "tack him onto unrelated stories. Base facts on the headline and abstract; "
     "add only accurate, well-known context, and invent nothing.\n"
     "  HARD RULES: never state or imply the year, month, or decade ('the "
-    "1870s'); no year-embedding events ('Panic of 1873', 'Election of 1876'); "
-    "no comparison years. Clues are named people and light era context only.\n"
+    "1870s'); no specific calendar dates ('February 14', 'the 14th'); no "
+    "year-embedding events ('Panic of 1873', 'Election of 1876'); no comparison "
+    "years. Clues are named people and light era context only.\n"
     '- "image_query": a short, specific phrase (3-6 words) to find a '
     "REPRESENTATIVE historical PHOTO of this exact event on Wikipedia (used "
     "privately; may include the year). Make it specific to the story's COUNTRY "
@@ -128,7 +121,8 @@ def clarify(year, month, stories):
         if isinstance(arr, list) and len(arr) == len(stories):
             result = []
             for x, s in zip(arr, stories):
-                summary = _scrub_years(str(x.get("summary", "")).strip()) or s["summary"]
+                summary = (scrub_dates(str(x.get("summary", "")).strip())
+                           or scrub_dates(s["summary"]))
                 result.append({
                     "summary": summary,
                     "image_query": str(x.get("image_query", "")).strip(),
@@ -139,5 +133,6 @@ def clarify(year, month, stories):
               "using raw abstracts.", file=sys.stderr)
     except (urllib.error.URLError, KeyError, ValueError) as e:
         print(f"  ! Groq summaries failed ({e}); using raw abstracts.", file=sys.stderr)
-    return [{"summary": s["summary"], "image_query": "", "image_query_broad": ""}
+    return [{"summary": scrub_dates(s["summary"]), "image_query": "",
+             "image_query_broad": ""}
             for s in stories]
