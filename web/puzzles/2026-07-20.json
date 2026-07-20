@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T07:25:06.627782+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1876,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "A SPIRITED FIGHT WITH INDIANS.; GEN. CROOK'S COMMAND ENGAGED WITH SIOUX WARRIORS SEVERAL KILLED AND A NUMBER WOUNDED ON BOTH SIDES MARKED GALLANTRY OF THE TROOPS.",
+          "summary": "Gen. Crook's command engaged in a fierce battle with Sioux warriors, resulting in casualties on both sides, during a time of heightened tensions with Native American tribes in the Western United States",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sioux_charging_at_Battle_of_Rosebud.jpg/1280px-Sioux_charging_at_Battle_of_Rosebud.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1876/06/24/archives/a-spirited-fight-with-indians-gen-crooks-command-engaged-with-sioux.html"
+        },
+        {
+          "headline": "MR. BLAINE'S DESPERATION.; CONFRONTED BY HIS OWN WRITING. A MEMORABLE INTERVIEW WITH THE WITNESS MULLIGAN LETTERS SECURES BY SUBTERFUGE WHICH THE COMMITTEE ORDER BLAINE TO SURRENDER HISPRIVATE MEMORANDUM BOOK OF THE DISTRIBUTION OF FORT SMITH STOCK.",
+          "summary": "Mr. Blaine was confronted with his own writing and ordered to surrender his private memorandum book regarding the distribution of Fort Smith stock, amid a controversy involving letters obtained by subterfuge",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/James_G._Blaine_-_Brady-Handy.jpg/1280px-James_G._Blaine_-_Brady-Handy.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1876/06/02/archives/mr-blaines-desperation-confronted-by-his-own-writing-a-memorable.html"
+        },
+        {
+          "headline": "A FINE DAY'S RACING.; SOME FAST HORSES AT JEROME PARK. THE THREE-QUARTER DASH WON BY MADGE BRILLIANT VICTORY OF LIZZIE R. BELMONT'S FIDDLESTICK CAPTURES THE WITHERS STAKE ORE KNOB WINS THE MILE-AND-A-HALF DASH THE MILE-AND A-QUARTER RACE WON BY SPINDRIFT.",
+          "summary": "The Jerome Park Spring Meeting featured a successful day of horse racing, with several fast horses competing in various stakes and dashes",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jerome_Park_Racetrack_1868.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1876/06/04/archives/a-fine-days-racing-some-fast-horses-at-jerome-park-the-threequarter.html"
+        },
+        {
+          "headline": "DELEGATES TO CINCINNATI.; THE WASHINGTON DEVELOPMENTS. ALABAMA 20 VOTES. CONTESTING DELEGATION. ARKANSAS 12 VOTES. CALIFORNIA 12 VOTES. CONNECTICUT 12 VOTES. DELAWARE 6 VOTES. GEORGIA 22 VOTES. ILLINOIS 42 VOTES. INDIANA 30 VOTES. IOWA 22 VOTES. KANSAS 10 VOTES. KENTUCKY 24 VOTES. LOUISIANA 16 VOTES. MAINE 14 VOTES. MARYLAND 16 VOTES. MASSACHUSETTS 26 VOTES. MICHIGAN 22 VOTES. MINNESOTA 10 VOTES. MISSISSIPPI 16 VOTES. MISSOURI 30 VOTES. NEBRASKA 6 VOTES. NVADA 6 VOTES. NEW-HAMPSHIRE 10 VOTES. NEW-JERSEY 18 VOTES. NEW-YORK 70 VOTES. NORTH CAROLINS 20 VOTES. OHIO 44 VOTES. OREGON 6 VOTES. PENNSYLVANIA 58 VOTES. RHODE ISLAND 8 VOTES. SOUTH CAROLINA 14 VOTES. TENNESSEE 24 VOTES. TEXAS 16 VOTES. VERMONT 10 VOTES. VIRGINIA 22 VOTES. WEST VIRGINIA 10 VOTES. WISCONSIN 20 VOTES. ARIZONA 2 VOTES. COLORADO 2 VOTES. DAKOTA 2 VOTES. DISTRICT OF COLUMBIA 2 VOTES. IDAHO 2 VOTES. MONTANA 2 VOTES. NEW-MEXICO 2 VOTES. UTAH 2 VOTES. WASHINGTON 2 VOTES. WYOMING 2 VOTES. SUMMARY BY STATES.",
+          "summary": "Delegates from various states gathered for a convention in Cincinnati, with a complete list of delegates and their respective votes, as the country was in the midst of a presidential election season",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/RP1876.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1876/06/03/archives/delegates-to-cincinnati-the-washington-developments-alabama-20.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sioux_charging_at_Battle_of_Rosebud.jpg/1280px-Sioux_charging_at_Battle_of_Rosebud.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Gen. Crook's command engaged in a fierce battle with Sioux warriors, resulting in casualties on both sides. The country was also amidst a presidential election season, with delegates gathering in Cincinnati. Tensions with Native American tribes and political controversies continued.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.183
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1954,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "SCHOOL PLAN SET BY NEGRO PARLEY; Association to Petition Local Boards in South to Act at Once to End Segregation School Plan Set by Negro Parley; Fast Action at Local Level Sought",
+          "summary": "African American leaders are pushing for immediate action to end school segregation in the South, with plans to petition local school boards, as the civil rights movement gains momentum during the Cold War era. Key figures are working to bring about change.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/1957_Little_Rock_Nine_37c_USA_stamp.gif",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1954/05/24/archives/school-plan-set-by-negro-parley-association-to-petition-local.html"
+        },
+        {
+          "headline": "PARIS SENDS HEAD OF ARMY TO STUDY INDO-CHINA CRISIS; General Ely's Report Will Be Basis for New Talks With Washington on Help U. S. SCANS INTERVENTION Top-Level Officials Reweigh Possibilities in Light of Latest Developments French Generals Going to Indo-China PARIS SENDS HEAD OF FORCES TO ASIA",
+          "summary": "French generals, including General Ely, are traveling to Indo-China to assess the situation and report back to Paris, which will inform new talks with the US, including discussions with Secretary Dulles and President Eisenhower, about potential intervention. The US is considering its options for involvement.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/First_Indochina_War_COLLAGE.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1954/05/16/archives/paris-sends-head-of-army-to-study-indochina-crisis-general-elys.html"
+        },
+        {
+          "headline": "SERVICE TAX DIES; 5% ADMISSION LEVY INDICATED FOR CITY; Auto Use Impost Due to Stay -- Estimate Board Bars Water Rate Rise RESERVE FUNDS RETAINED Board Rejects State Proposal for Use of Realty and Tax Appropriation Moneys BOARD OF ESTIMATE KILLS SERVICE TAX",
+          "summary": "The Board of Estimate has rejected a proposed service tax, opting instead to maintain an auto use impost and retain reserve funds, after considering a proposal from McGovern. The decision affects the city's finances.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gracie_Mansion_snow_jeh.jpg/1280px-Gracie_Mansion_snow_jeh.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1954/05/21/archives/service-tax-dies-5-admission-levy-indicated-for-city-auto-use.html"
+        },
+        {
+          "headline": "MONITORED CALLS STIR NEW DISPUTE IN M'CARTHY CASE; Democrats Would Reveal All or None -- Republicans Try to Limit the Disclosures GILLETTE WARNS SENATE Says on the Floor That Panel Has Violated Men's Rights and Chamber Must Act Army's Monitored Phone Call Stir Dispute in McCarthy Case",
+          "summary": "A dispute has arisen in the McCarthy case over monitored phone calls, with Democrats pushing for full disclosure and Republicans trying to limit the information released, sparking warnings from Senator Gillette about violating individuals' rights. Senator Symington is also involved in the debate.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/McCarthy_Cohn.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1954/05/22/archives/monitored-calls-stir-new-dispute-in-mcarthy-case-democrats-would.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/1957_Little_Rock_Nine_37c_USA_stamp.gif",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "African American leaders pushed for immediate action to end school segregation in the South. The French sent General Ely to assess the Indo-China crisis, informing new talks with the US. The Board of Estimate rejected a proposed service tax, maintaining an auto use impost instead.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.604
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1886,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "RIOTING AND BLOODSHED IN THE STREETS OF CHICAGO.; POLICE MOWED DOWN WITH DYNAMITE. STRIKERS KILLED WITH VOLLEYS FROM REVOLVERS. THE SLAUGHTER FOLLOWING AN ANARCHIST MEETING--TWELVE POLICEMEN DEAD OR DYING--THE NUMBER OF KILLED OR INJURED CIVILIANS UNKNOWN BUT VERY LARGE--THE BRAVERY OF THE POLICE FORCE.",
+          "summary": "A riot in Chicago following an anarchist meeting turned violent, with dynamite and revolver volleys killing and injuring many, including twelve policemen, during a time of labor unrest in the United States. The bravery of the police force was noted amidst the chaos.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boston_Tea_Party_w.jpg/1280px-Boston_Tea_Party_w.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/05/archives/rioting-and-bloodshed-in-the-streets-of-chicago-police-mowed-down.html"
+        },
+        {
+          "headline": "THE DISPUTE WITH CANADA; CONGRESSMEN EXCITED BY THE SEIZURE OF THE ADAMS. MEASURES OFFERED IN BOTH HOUSES LOOKING TO PROMPT RETALIATION--SENATOR LOGAN'S PENSION HOBBY.",
+          "summary": "The US government is considering retaliation against Canada after a ship was seized for fishing in Canadian waters, with Congress members introducing measures for prompt action. Senator Logan is also pursuing his pension hobby.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_evolution_fast.gif",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/11/archives/the-dispute-with-canada-congressmen-excited-by-the-seizure-of-the.html"
+        },
+        {
+          "headline": "GREEK PORTS BLOCKADED; THE ENTIRE COAST HELD BY THE EUROPEAN FLEET. NO VESSELS ALLOWED TO DEPART--THE KING REFUSES THE CABINET'S RESIGNATION--ENTHUSIASM FOR WAR.",
+          "summary": "European fleets have blockaded Greek ports, holding the entire coast and not allowing any vessels to depart, as enthusiasm for war grows and the King refuses the cabinet's resignation.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Laureys_a_Castro_-_The_Battle_of_Lepanto.jpeg/1280px-Laureys_a_Castro_-_The_Battle_of_Lepanto.jpeg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/10/archives/greek-ports-blockaded-the-entire-coast-held-by-the-european-fleet.html"
+        },
+        {
+          "headline": "A GREAT LOSS OF LIFE; EFFECTS OF A VIOLENT STORM IN KANSAS CITY. THE COURT HOUSE AND OTHER BUILDING DEMOLISHED TWENTY LIVES KNOWN TO HAVE BEEN LOST AND SEVERAL PERSONS SERIOUSLY AND SOME FATALLY INJURED.",
+          "summary": "A violent storm in Kansas City caused a great loss of life, demolishing the court house and other buildings, with twenty lives known to have been lost and several persons seriously injured.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg/1280px-Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/12/archives/a-great-loss-of-life-effects-of-a-violent-storm-in-kansas-city-the.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boston_Tea_Party_w.jpg/1280px-Boston_Tea_Party_w.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Rioting in Chicago turned violent, killing twelve policemen and many civilians. Labor unrest fueled the chaos, while the US government considered retaliation against Canada. A violent storm also devastated Kansas City, demolishing buildings and claiming lives.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.125
+      }
+    }
+  ]
+}
