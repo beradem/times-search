@@ -33,7 +33,7 @@
     if (err <= 36) return "Close, friend.";
     if (err <= 120) return "Almost there.";
     if (err <= 240) return "Wrong decade.";
-    return "In a different universe.";
+    return "In a different eon.";
   }
 
   // "X months off" -> human string ("Exact!", "3 months off", "2 years off").
