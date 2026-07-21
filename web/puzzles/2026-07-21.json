@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T06:40:02.551721+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1898,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "CAPT. SIGSBEE'S NARRATIVE; The Maine's Commander Knew His Ship Was Gone as Soon as He Heard the Explosion. GOOD DISCIPLINE PREVAILED Survivors Gathered on the Poop and the Captain Directed the Work of Rescue -- The Ship Was Ready for Attack.",
+          "summary": "Captain Charles D. Sigsbee described the explosion on the USS Maine in detail, saying he knew the ship was gone as soon as he heard it, and directed rescue efforts afterwards",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/USS_Maine_%28ACR-1%29_starboard_bow_view%2C_1898_%2826510673494%29.jpg/1280px-USS_Maine_%28ACR-1%29_starboard_bow_view%2C_1898_%2826510673494%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/20/archives/capt-sigsbees-narrative-the-maines-commander-knew-his-ship-was-gone.html"
+        },
+        {
+          "headline": "THE MAINE BLOWN UP; Terrible Explosion on Board the United States Battleship in Havana Harbor. MANY PERSONS KILLED AND WOUNDED. All the Boats of the Spanish Cruiser Alfonso XII. Assisting in the Work of Relief. None of the Wounded Men Able to Give Any Explanation of the Cause of the Disaster.",
+          "summary": "The USS Maine battleship exploded in Havana Harbor, killing and wounding many, with Spanish ships assisting in relief efforts, but the cause of the disaster remains unknown",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Maine_Mast_Memorial.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/16/archives/the-maine-blown-up-terrible-explosion-on-board-the-united-states.html"
+        },
+        {
+          "headline": "MINISTER DE LOME IS OUT; His Resignation Promptly Accepted by the Spanish Cabinet, but the Press Is Embittered. METHODS OF CUBANS RESENTED The Incident Expected in Diplomatic Circles to Have an Important Bearing on Cuban Affairs -- Gen. Woodford Guarded.",
+          "summary": "Minister De Lome resigned after criticizing President William McKinley's Cuban policy in a letter, which is expected to impact Cuban affairs and has embittered the Spanish press",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Enrique_Dupuy_de_L%C3%B4me.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/11/archives/minister-de-lome-is-out-his-resignation-promptly-accepted-by-the.html"
+        },
+        {
+          "headline": "CUBAN AUTONOMIST REGIME; Jose Maria Galvez, President of the Cabinet, Discusses Its Programme. REPORT OF A CRISIS DENIED Peace Will Come, He Declares, by the Combined Action of Arms and Politics -- No Negotiations with the Insurgents.",
+          "summary": "Jose Maria Galvez, President of the Cuban Autonomist Cabinet, discussed the regime's program, denying a crisis and stating that peace will come through a combination of arms and politics",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Galvez_Ginachero.jpg/1280px-Galvez_Ginachero.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/07/archives/cuban-autonomist-regime-jose-maria-galvez-president-of-the-cabinet.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/USS_Maine_%28ACR-1%29_starboard_bow_view%2C_1898_%2826510673494%29.jpg/1280px-USS_Maine_%28ACR-1%29_starboard_bow_view%2C_1898_%2826510673494%29.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The USS Maine's explosion occurred in Havana Harbor, killing and wounding many. Captain Charles Sigsbee directed rescue efforts after the disaster. Minister De Lome resigned amidst tensions over Cuban affairs.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.158
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1898,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "OMINOUS SIGN IN MADRID; Heavy Decline on the Bourse Is Deemed Significant, But Other Indications Are Encouraging. POWERS MORE SYMPATHETIC Spain Urged, It Is Said, to Grant an Immediate Armistice -- The Papal Nuncio May Take a Hand -- War Preparations.",
+          "summary": "As tensions rise between the US and Spain, there are signs of encouragement amidst war preparations, with the US urging Spain to grant an immediate armistice, during a period of heightened imperialism",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Collage_infobox_for_Spanish-American_War.jpg/1280px-Collage_infobox_for_Spanish-American_War.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/04/03/archives/ominous-sign-in-madrid-heavy-decline-on-the-bourse-is-deemed.html"
+        },
+        {
+          "headline": "WAR TO BE DECLARED; Resolution Approved at a White House Sunday Conference to Go to Congress To-day. NO DELAY EXPECTED IN EITHER HOUSE. Sampson's Fleet Vigilant and Active Off the Cuban Coast Blockading Ports and Capturing Prizes. Flying Squadron Still at Fort Monroe -- Hongkong Ships Sailing for the Philippines -- No News of the Spanish Fleet.",
+          "summary": "The US is preparing to declare war on Spain, with President William McKinley involved in a White House conference, as the US fleet blockades Cuban ports and captures prizes, in the aftermath of the Cuban insurgency",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Manila646_1899.jpg/1280px-Manila646_1899.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/04/25/archives/war-to-be-declared-resolution-approved-at-a-white-house-sunday.html"
+        },
+        {
+          "headline": "FIRST WAR ORDERS; The Flying Squadron to Move Against the Spanish Flotilla and Fleet. WILL CAPTURE AND HOLD THE CANARIES. Capt. Sampson's Fleet Will Co-operate, Placing the Spaniards Between Two Fires. Blow to be Struck Within Forty-eight Hours -- The Coast of Spain Will Then Be Invested and Cuba Invaded.",
+          "summary": "The US Flying Squadron has been ordered to move against the Spanish flotilla, with Captain Sampson's fleet set to co-operate, as the US prepares to capture and hold the Canary Islands, during the lead-up to the Spanish-American War",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Combat_naval_devant_la_Chesapeake%2C_3_septembre_1781.jpg/1280px-Combat_naval_devant_la_Chesapeake%2C_3_septembre_1781.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/04/06/archives/first-war-orders-the-flying-squadron-to-move-against-the-spanish.html"
+        },
+        {
+          "headline": "FIVE VESSELS ALMOST READY.; Three Torpedo Boats, a Gunboat, and a Submarine Boat Almost Completed -- The Holland Boat.",
+          "summary": "The US is nearing completion of several naval vessels, including torpedo boats, a gunboat, and a submarine boat, as it prepares for war with Spain, during a time of rapid naval expansion",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Thomas_Birch_-_Engagement_between_the_%22United_States%22_and_the_%22Macedonian%22.jpg/1280px-Thomas_Birch_-_Engagement_between_the_%22United_States%22_and_the_%22Macedonian%22.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/04/27/archives/five-vessels-almost-ready-three-torpedo-boats-a-gunboat-and-a.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Collage_infobox_for_Spanish-American_War.jpg/1280px-Collage_infobox_for_Spanish-American_War.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The United States declared war on Spain, with President McKinley approving a resolution to go to Congress. War preparations escalated, including the blockade of Cuban ports and capture of prizes. The US fleet was ordered to move against the Spanish flotilla.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.132
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1989,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "EAST GERMANS FLOOD THE WEST, MOST TO REJOICE, THEN GO HOME; KOHL AND KRENZ AGREE TO MEET",
+          "summary": "A million East Germans visited West Berlin and West Germany, with most returning home, as East German leader Krenz and West German leader Kohl agreed to meet, during a time of significant change in Eastern Europe",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/12/world/clamor-east-open-frontier-east-germans-flood-west-most-rejoice-then-go-home-kohl.html"
+        },
+        {
+          "headline": "Western Europe Pledges Aid",
+          "summary": "Western European countries pledged aid to Eastern bloc nations transitioning to democracy, as the region underwent significant political shifts",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1989/11/19/world/western-europe-pledges-aid.html"
+        },
+        {
+          "headline": "WILDER SEEMS VIRGINIA WINNER, FLORIO IN; VOTERS, 5-4, APPROVE NEW YORK CHARTER; First Black Governor, If Recount Upholds Vote",
+          "summary": "L. Douglas Wilder appeared to win the Virginia governorship, which would make him the first black governor, in an election that reflected changing demographics and politics in the United States",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Douglas_Wilder_2003_NIH.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/08/us/dinkins-defeats-giuliani-close-race-wilder-seems-virginia-winner-florio-voters-5-037689.html"
+        },
+        {
+          "headline": "POSTINGS: Reverse Mortgages and Repairs; New Help for Older Homeowners",
+          "summary": "The US government introduced programs to help older homeowners with low incomes or housing problems, as President George H. W. Bush's administration addressed social issues",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/George_H._W._Bush_holds_up_a_bag_of_crack_cocaine_during_his_Address_to_the_Nation_on_National_Drug_Control_Strategy.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/12/realestate/postings-reverse-mortgages-and-repairs-new-help-for-older-homeowners.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The fall of the Berlin Wall allowed East Germans to flood West Berlin and West Germany, with most returning home. East German leader Krenz and West German leader Kohl agreed to meet amidst significant change in Eastern Europe. Western Europe pledged aid to support the region's transition to democracy.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    }
+  ]
+}
