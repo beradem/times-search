@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T06:40:45.565034+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2016,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "Trump Diversifies Cabinet; Picks Nikki Haley and Betsy DeVos",
+          "summary": "The president-elect has chosen Nikki Haley and Betsy DeVos, two women, for his cabinet, adding diversity to his initial picks of white men, as he prepares to take office during a time of political transition in the United States",
+          "image": "https://static01.nyt.com/images/2016/11/24/us/24devos/24devos-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/23/us/politics/donald-trump-president-elect.html"
+        },
+        {
+          "headline": "Donald Trump Picks Reince Priebus as Chief of Staff and Stephen Bannon as Strategist",
+          "summary": "Donald Trump has selected Reince Priebus as his chief of staff and Stephen Bannon as strategist, creating potential power struggles within his team",
+          "image": "https://static01.nyt.com/images/2016/11/13/us/00priebuschief/00priebuschief-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/14/us/politics/reince-priebus-chief-of-staff-donald-trump.html"
+        },
+        {
+          "headline": "Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally",
+          "summary": "Beyoncé made a significant statement by performing with the Dixie Chicks at the Country Music Association Awards, a move seen as a powerful and subtle commentary",
+          "image": "https://static01.nyt.com/images/2016/11/06/arts/07BEYONCEJP2/06BEYONCE1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/06/arts/music/beyonce-political-hillary-clinton-dixie-chicks.html"
+        },
+        {
+          "headline": "These Officials Help Write Ballot Questions. Companies Write Them Checks.",
+          "summary": "Secretaries of state, who oversee ballot measures, are being influenced by interest groups and industries with significant financial stakes in issues like gun control and minimum wage, during a time of heightened political awareness",
+          "image": "https://static01.nyt.com/images/2016/11/06/us/06secstate1/06secstate1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/05/us/politics/secretaries-of-state-elections-ballot-initiatives.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2016/11/24/us/24devos/24devos-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Donald Trump diversified his cabinet with Nikki Haley and Betsy DeVos. He also selected Reince Priebus as chief of staff and Stephen Bannon as strategist. Beyoncé made a subtle political statement by performing with the Dixie Chicks.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.915
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1945,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "GROUP TO RULE REICH CALLED; FIGHTING SPREADS IN SYRIA; U.S. FLAG IS HOISTED IN SHURI; PLAN FOR GERMANY 4-Power Board Meets in Few Days--Zhukoff Is Soviet Member COMMUNISM A QUESTION Differences with Russia Likely to Be Settled--Truman Speeds Davies Mission Differences May Be Cleared BODY TO RULE REICH IS CALLED TO MEET",
+          "summary": "As the Allies prepare to govern post-war Germany, a 4-power board is set to meet with representatives from the US, USSR, Britain, and France, with Marshal Zhukoff representing the Soviet Union and Eisenhower representing the US, amidst differences with Russia that may be settled by President Harry S. Truman's Davies mission. The Allied Control Commission is expected to play a key role in shaping Germany's future.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg/1280px-Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/05/31/archives/group-to-rule-reich-called-fighting-spreads-in-syria-us-flag-is.html"
+        },
+        {
+          "headline": "THREE U.S. COLUMNS ENVELOPING SHURI, STRONG POINT IN SOUTH OKINAWA LINE; ALLIES TAKE PRECAUTIONS ON TRIESTE; MARINES IN THRUST First Division Advances 800 Yards in Drive for Foe's Defense Hub 77TH WINS A STRONGHOLD Reaches Within 900 Yards of Shuri and 96th Takes Hill as Three Divisions Converge Bitter Fighting Continues Few Enemy Planes Appear THE BRAVE RETURN HOME TO THE LAND OF THE FREE OKINAWA COLUMNS CONVERGE ON SHURI Marines in Shuri's Outskirts Okinawa Held a Prize B-29 Base OKINAWA STRONG POINT CLOSELY MENACED",
+          "summary": "US forces are converging on Shuri, a key stronghold in southern Okinawa, with multiple divisions advancing and scoring local gains, as the battle for the island intensifies during World War II. The capture of Okinawa is seen as crucial for establishing a B-29 base.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ww2_158.jpg/1280px-Ww2_158.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/05/21/archives/three-us-columns-enveloping-shuri-strong-point-in-south-okinawa.html"
+        },
+        {
+          "headline": "TRUMAN DIRECTS SEIZURE OF FACTORY VITAL TO WAR TIRES; He Orders Army to Operate Strike-Bound Foundry in North Carolina CHICAGO TIE-UP MUST END WLB Chiefs Promise 'Drastic Action'--Army, Navy to Move Piled-Up Materials Today Army, Navy to Move Supplies Orders End of Chicago Strike TRUMAN ORDERS FOUNDRY SEIZURE Transit Strike Hits Scranton To Vote on Lockheed Strike Detroit Diesel Strike Continues",
+          "summary": "President Harry S. Truman has ordered the army to seize a strike-bound factory in North Carolina that is vital to the production of war tires, in an effort to end the strike and ensure the continued supply of essential war materials. The move is part of a broader effort to address labor disputes and keep war production on track.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/INF3-160_Fighting_Fit_in_the_Factory_Artist_A_R_Thomson.jpg/1280px-INF3-160_Fighting_Fit_in_the_Factory_Artist_A_R_Thomson.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/05/21/archives/truman-directs-seizure-of-factory-vital-to-war-tires-he-orders-army.html"
+        },
+        {
+          "headline": "SENATORS REJECT ALLOWANCE PLAN; HOUSE CAN KEEP IT; Vote Down, 43 to 9, Tax-Free Expenses of $2,500 a Year for Each Member 'LITTLE STEEL' IN DEBATE Wage Ceiling Figures as Proposal Is Hit as Pay Rise--Salvaging Amendments Fail Tax Deduction Ruled Out Technical killing Fails Senators Reject Allowance Plan; House Members Can Keep Theirs Bouquets Among Brickbats Procession of Rejections",
+          "summary": "The US Senate has rejected a plan to provide tax-free allowances to senators, with a vote of 43 to 9, while House members may still retain their allowances, highlighting the ongoing debate over congressional compensation and benefits during wartime. The decision reflects the complex and often contentious nature of legislative politics.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/John_Thune_117th_Congress_portrait_%28cropped%29.jpg/1280px-John_Thune_117th_Congress_portrait_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/05/29/archives/senators-reject-allowance-plan-house-can-keep-it-vote-down-43-to-9.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg/1280px-Attlee%2C_Truman_and_Stalin_at_Potsdam.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Germany's post-war governance was being established as a 4-power board prepared to meet. The Allies were making gains in Okinawa, converging on the key stronghold of Shuri. Labor disputes were being addressed by President Truman.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.69
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1944,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "FIFTH OF ELBA WON IN FRENCH INVASION; Allied Naval Force Covers Landings -- Germans Continue Headlong Retreat in Italy FIFTH OF ELBA WON IN FRENCH INVASION FRENCH LAND ON ELBA AS ALLIES SWEEP ON IN ITALY",
+          "summary": "Allied forces have landed on the French island of Elba and are making progress in Italy, with the Germans retreating",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Operazione_Brassard_-_Isola_d%27Elba_-_17_giugno_1944.jpg/1280px-Operazione_Brassard_-_Isola_d%27Elba_-_17_giugno_1944.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/18/archives/fifth-of-elba-won-in-french-invasion-allied-naval-force-covers-land.html"
+        },
+        {
+          "headline": "DEWEY BUILDS UP PARTY PLATFORM ON 2 MAJOR POINTS; Meeting Several Hundred News Reporters, He Backs Hull Reciprocal Trade Plan BUT AS REPUBLICAN POLICY International Police Force Is Opposed -- He Praises SEC, but Not Its Enforcement REPUBLICAN NOMINEES DISCUSS PLANS OVER BREAKFAST DEWEY BUILDS UP PARTY PLATFORM",
+          "summary": "Thomas Dewey is building the Republican party platform, supporting a reciprocal trade plan and discussing international policy as the party's potential nominee",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/RP1948.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/30/archives/dewey-builds-up-party-platform-on-2-major-points-meeting-several.html"
+        },
+        {
+          "headline": "DEWEY TO ACCEPT IF HE IS 'DRAFTED,' HIS ADVISERS ADMIT; All Doubt Ended as Sprague, Brownell and Jaeckle Leave for Chicago Ahead of Time STATEMENT IS DUE TODAY Trip of Closest Political Aides Comes After Week-End of Talks With the Governor DEWEY MEN ADMIT HE IS READY TO RUN",
+          "summary": "Thomas Dewey's advisers have revealed that he is willing to accept the Republican presidential nomination if he is drafted, with his closest aides traveling to Chicago",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thomas_Dewey_in_1944.jpg/1280px-Thomas_Dewey_in_1944.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/19/archives/dewey-to-accept-if-he-is-drafted-his-advisers-admit-all-doubt-ended.html"
+        },
+        {
+          "headline": "AIR ROUTES MAPPED FOR 140,000 MILES CIRCLING THE WORLD; Civil Aeronautics Board Shows 'Basic Draft' of Operations Proposed When War Ends 100 CARRIER APPLICANTS Chairman Stresses Point That Landing Rights Overseas Is State Department Problem AIR ROUTES MAPPED CIRCLE THE WORLD",
+          "summary": "The Civil Aeronautics Board has mapped out air routes circling the world, with over 100 airlines applying for international service, as the US prepares for post-war aviation",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1944/06/14/archives/air-routes-mapped-for-140000-miles-circling-the-world-civil.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Operazione_Brassard_-_Isola_d%27Elba_-_17_giugno_1944.jpg/1280px-Operazione_Brassard_-_Isola_d%27Elba_-_17_giugno_1944.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Allied forces landed on the French island of Elba and made progress in Italy. The Germans retreated headlong, while Thomas Dewey built the Republican party platform. Dewey's advisers revealed he was willing to accept the presidential nomination if drafted.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.667
+      }
+    }
+  ]
+}
