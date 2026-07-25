@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T06:28:11.629588+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1886,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "BARTHOLDI WELL PLEASED; VIEWING, WITH HIS FRIENDS, HIS COMPLETED WORK. THE FRENCH GUESTS IN THE CITY--A TRIP TO BEDLOW'S ISLAND--PREPARING FOR THE CELEBRATION.",
+          "summary": "French sculptor Frédéric Auguste Bartholdi inspects his completed work, likely the Statue of Liberty, with friends, as the city prepares for a celebration, during a time of increased cultural exchange between France and the United States",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/1280px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/26/archives/bartholdi-well-pleased-viewing-with-his-friends-his-completed-work.html"
+        },
+        {
+          "headline": "INDORSING MR. ROOSEVELT; AN ENTHUSIASTIC MEETING OF THE UNION LEAGUE. THE CLUB LISTENS TO RINGING SPEECHES AND PLEDGES ITS SUPPORT TO THE REPUBLICAN CANDIDATE.",
+          "summary": "The Union League holds an enthusiastic meeting to endorse Theodore Roosevelt, the Republican candidate for mayor, as the city's political landscape heats up",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Theodore_Roosevelt_IV_-_Annual_Meeting_of_the_New_Champions_2012.jpg/1280px-Theodore_Roosevelt_IV_-_Annual_Meeting_of_the_New_Champions_2012.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/22/archives/indorsing-mr-roosevelt-an-enthusiastic-meeting-of-the-union-league.html"
+        },
+        {
+          "headline": "CLOUD-CAPPED ST.ELIAS; PERILOUS WORK OF \"THE TIMES\" ALASKA EXPEDITIDN. CLIMBING THE ICE-LOCKED MOUNT. TOILING OVER THE GLACIERS TO THE BASE OF THE TOWERING MOUNTAIN --CREVASSES HIDDEN BY TREACHEROUS SNOW BRIDGES-THE PARTY TIED TO A ROPE TO SECURE SAFETY-AN ALTITUDE OF 7,200 FEET REACHED BEFORE NATURE'S IMPASSABLE BARRIER FORBADE FURTHER PROGRESS--THE HIGHEST CLIMB ABOVE THE SNOW LIMIT EVER MADE.",
+          "summary": "An expedition sponsored by The Times attempts to climb Mount St. Elias in Alaska, reaching an altitude of 7,200 feet before being stopped by natural barriers, in a time of growing interest in American exploration",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mount_Huxley_in_Alaska.jpg/1280px-Mount_Huxley_in_Alaska.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/07/archives/cloudcapped-stelias-perilous-work-of-the-times-alaska-expeditidn.html"
+        },
+        {
+          "headline": "BRITISH PIRATES AT WORK; BURNING EASTPORT INVADED AND PILLAGED. THIEVES FROM OVER THE BORDER BOLDLY SAIL TO THE DISTRESSED TOWN AND ROB RIGHT AND LEFT.",
+          "summary": "British pirates invade and pillage the town of Eastport, burning and robbing as they go, highlighting tensions along the US-Canada border during a period of increased maritime activity",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Water_Street%2C_Eastport%2C_Maine%2C_in_2012.jpg/1280px-Water_Street%2C_Eastport%2C_Maine%2C_in_2012.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/19/archives/british-pirates-at-work-burning-eastport-invaded-and-pillaged.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/1280px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Statue of Liberty's completion was celebrated as French sculptor Frédéric Auguste Bartholdi inspected his work. The city prepared for festivities amidst increased cultural exchange between France and the United States. Theodore Roosevelt's mayoral campaign gained momentum with the Union League's endorsement.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.135
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1925,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "SCOPES FAILS TO GET FEDERAL INJUNCTION; STATE TRIAL FRIDAY; Judge Gore Rules Tennessee Officers Are Acting in the Only Way They Are Authorized. TWO PETITIONS PRESENTED Teacher Charges Violation of Liberty -- Parent Asserts Right to Educate His Children. APPEAL TO BE TAKEN LATER Darrow Says He Fears the State Court May Limit the Case to Whether Law Was Violated. SCOPES FAILS TO GET FEDERAL INJUNCTION",
+          "summary": "Judge John T. Scopes' request for a federal injunction to stop his trial for teaching evolution is denied by a federal judge, who questions his own jurisdiction in the case, as lawyer Clarence Darrow prepares for the state trial. This is happening during a time of heightened debate over science and religion in schools.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tennessee_v._John_T._Scopes_Trial-_Outdoor_proceedings_on_July_20%2C_1925%2C_showing_William_Jennings_Bryan_and_Clarence_Darrow._%282_of_4_photos%29_%282898243103%29_crop.jpg/1280px-thumbnail.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1925/07/07/archives/scopes-fails-to-get-federal-injunction-state-trial-friday-judge.html"
+        },
+        {
+          "headline": "NICHOLSON SEEKS TO DELAY ENTERING HOME RULE DECREE; Plans Plea to Court to Maintain Status Quo Until Appeal Is Heard. CITY'S PETITION DELAYED Will Not Be Presented to Appellate Division Until Monday Counsel Announces. SYRACUSE OFFERS TO HELP Wallstein Says He Will Ask for an Order Immediately to Restrain Operation of Buses. NICHOLSON SEEKS TO DELAY DECREE ASK FOR SPECIAL SESSION. Community Councils Seek Legislation to Make Home Rule Legal.",
+          "summary": "A dispute over home rule is unfolding, with Corp Counsel Nicholson seeking to delay a decree and Community Councils pushing for legislation to make home rule legal, amidst comments from the Citizens' Union. This is taking place in a city with a growing need for self-governance.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1925/07/09/archives/nicholson-seeks-to-delay-entering-home-rule-decree-plans-plea-to.html"
+        },
+        {
+          "headline": "INDICTED JUDGE DIES IN PLUNGE OF AUTO; Judge Ross of Jackson, Tenn., Is Drowned in Creek After Injuries in Fall From Bridge. SOME THINK IT SUICIDE But Coroner, After Inquiry, Calls It an Accident -- No One Saw Tragedy.",
+          "summary": "Judge J.W. Ross of Jackson, Tennessee, has died in a car accident, with some speculating it may have been a suicide, although the coroner has ruled it an accident. This incident is occurring in the southern United States.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/J.W._Ross.JPG",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1925/07/10/archives/indicted-judge-dies-in-plunge-of-auto-judge-ross-of-jackson-tenn-is.html"
+        },
+        {
+          "headline": "COOLIDGE CONFIDENT HIS CHINESE POLICY WILL AVERT CRISIS; He Believes Acceptance of It Will Convince China of Powers' Good Faith. WOULD HASTEN CONFERENCE President Regards Agreement on the Country's Customs Revenues as of First Importance. KELLOGG PUSHING PROGRAM Secretary Promptly Begins Laying Plans to Carry Out the President's Purpose. COOLIDGE CONFIDENT OF HIS CHINESE POLICY",
+          "summary": "President Calvin Coolidge is confident that his policy on China will avert a crisis, believing it will demonstrate the good faith of Western powers and lead to an agreement on customs revenues, with Secretary Kellogg working to implement the plan. This is happening as the United States is engaging with China on trade and diplomacy.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mrs._Coolidge_LOC_%28crop2%29.jpg/1280px-Mrs._Coolidge_LOC_%28crop2%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1925/07/14/archives/coolidge-confident-his-chinese-policy-will-avert-crisis-he-believes.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tennessee_v._John_T._Scopes_Trial-_Outdoor_proceedings_on_July_20%2C_1925%2C_showing_William_Jennings_Bryan_and_Clarence_Darrow._%282_of_4_photos%29_%282898243103%29_crop.jpg/1280px-thumbnail.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Scopes trial proceeded after a federal judge denied John T. Scopes' request for an injunction. Clarence Darrow prepared for the state trial amidst debate over science and religion in schools. President Coolidge was confident his Chinese policy would avert a crisis.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.728
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1977,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "ELVIS PRESLEY DIES; ROCK SINGER WAS 42; Heart Failure Is Cited by Coroner—Acclaim Followed Early Scorn’",
+          "summary": "Elvis Presley, a famous rock singer, has died at 42 due to heart failure. He was known for his early scorn and later acclaim.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1977/08/17/archives/elvis-presley-dies-rock-singer-was-42-heart-failure-is-cited-by.html"
+        },
+        {
+          "headline": "3 Key Arab Countries Link Signing Of Israel Treaty to Overall Accord",
+          "summary": "Three key Arab countries have stated that they will only sign a treaty with Israel as part of an overall accord, amid Israel's plans to build new settlements and extend services to the West Bank.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Settlements2006.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1977/08/21/archives/3-key-arab-countries-link-signing-of-israel-treaty-to-overall.html"
+        },
+        {
+          "headline": "Carey and Beame Rated Adversely In a Poll of Party Members in City",
+          "summary": "A poll of registered Democratic voters in New York City has found that many disapprove of the performance of Mayor Beame and Governor Carey. The poll surveyed party members in the city.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/A_beame_in_1974.jpg/1280px-A_beame_in_1974.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1977/08/26/archives/carey-and-beame-rated-adversely-in-a-poll-of-party-members-in-city.html"
+        },
+        {
+          "headline": "REPORT ON LANCE FINDS NO GROUND FOR PROSECUTION, BUT IS CRITICAL; PRESIDENT BACKS HIS BUDGET CHIEF",
+          "summary": "An investigation into Budget Director Lance has found no grounds for prosecution, but has criticized his banking practices, prompting President Carter to publicly back him.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bert_Lance_%28businessman_and_Director_of_Office_of_Management_and_Budget_under_President_Jimmy_Carter%29.jpg/1280px-Bert_Lance_%28businessman_and_Director_of_Office_of_Management_and_Budget_under_President_Jimmy_Carter%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1977/08/19/archives/report-on-lance-finds-no-ground-for-prosecution-but-is-critical.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Elvis Presley died at 42 due to heart failure, ending a career marked by early scorn and later acclaim. The Middle East peace process stalled as Arab countries refused to sign a treaty with Israel without an overall accord. President Carter backed Budget Director Lance despite criticism of his banking practices.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.598
+      }
+    }
+  ]
+}
