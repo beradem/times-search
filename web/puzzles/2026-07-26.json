@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T06:47:05.482158+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1945,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "END COMES SUDDENLY AT WARM SPRINGS; Even His Family Unaware of Condition as Cerebral Stroke Brings Death to Nation's Leader at 63 ALL CABINET MEMBERS TO KEEP POSTS Funeral to Be at White House Tomorrow, With Burial at Hyde Park Home-- Impact of News Tremendous Funeral Tomorrow Afternoon ROOSEVELT IS DEAD; TRUMAN PRESIDENT News of Death Stuns Capital Personal Physician Surprised Flag at Capitol Lowered More Than Mere Words",
+          "summary": "Franklin D. Roosevelt, the nation's leader, has died suddenly at 63 due to a cerebral stroke, and Harry S. Truman has become the new president, with all cabinet members set to keep their posts. The funeral will be held at the White House and burial at Hyde Park.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brigadier_General_Elliot_Roosevelt.jpg/1280px-Brigadier_General_Elliot_Roosevelt.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/13/archives/end-comes-suddenly-at-warm-springs-even-his-family-unaware-of.html"
+        },
+        {
+          "headline": "TRUMAN FOR LAWS ROOSEVELT ASKED; He Tells Leaders He Favors Trade, Fund and Other Plans, Opposes Draft Changes Hannegan Among Callers TRUMAN FOR LAWS ROOSEVELT ASKED Foreign Ministers Received First Veto by the President Senate Aid Pledged Truman",
+          "summary": "President Harry S. Truman has expressed support for laws proposed by his predecessor, including trade and fund plans, and has met with leaders such as Hannegan to discuss these initiatives.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Harry_S._Truman_Presidential_Library_and_Museum_July_2007.jpg/1280px-Harry_S._Truman_Presidential_Library_and_Museum_July_2007.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/20/archives/truman-for-laws-roosevelt-asked-he-tells-leaders-he-favors-trade.html"
+        },
+        {
+          "headline": "CARRIER ROOSEVELT IS CHRISTENED HERE; Widow Speaks at Floating of $90,000,000 Ship--Forrestal Reveals Navy's Strength For Strong Naval Force U.S.S. ROOSEVELT CHRISTENED HERE To Carry Eighty Fast Planes Veteran Marines in Guard Forrestal Lauds Roosevelt Navy's Growth Revealed Prospective Skipper Present",
+          "summary": "The aircraft carrier Franklin D. Roosevelt has been christened, with the widow of the former president in attendance, as the US Navy showcases its growing strength and commitment to a strong naval force.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LONGWORTH%2C_NICHOLAS%2C_MRS._LCCN2016857348.jpg/1280px-LONGWORTH%2C_NICHOLAS%2C_MRS._LCCN2016857348.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/30/archives/carrier-roosevelt-is-christened-here-widow-speaks-at-floating-of.html"
+        },
+        {
+          "headline": "REPUBLICANS ASK PREVIEW OF HELP WE PLAN FOR WORLD; Vandenberg Says This Country Cannot Undertake to Be 'Permanent Almoner' CALLS FOR NINE LISTINGS Taft Submits Amendment to Assure End of Lend-Lease When War Needs End Taft Backs Vandenberg Points to Our Own Burdens REPUBLICANS ASK WORLD AID DATA",
+          "summary": "Senator Vandenberg has called for a preview of plans for world aid, arguing that the US cannot be a permanent provider of assistance, while Senator Taft has submitted an amendment to ensure the end of Lend-Lease when war needs end.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/John_Thune_117th_Congress_portrait_%28cropped%29.jpg/1280px-John_Thune_117th_Congress_portrait_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/10/archives/republicans-ask-preview-of-help-we-plan-for-world-vandenberg-says.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brigadier_General_Elliot_Roosevelt.jpg/1280px-Brigadier_General_Elliot_Roosevelt.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Franklin D. Roosevelt's death occurred suddenly due to a cerebral stroke. Harry S. Truman became the new president, supporting Roosevelt's proposed laws. The US Navy showcased its strength with the christening of the aircraft carrier Franklin D. Roosevelt.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.688
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1950,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "WAR IS DECLARED BY NORTH KOREANS; FIGHTING ON BORDER; Communist Regime Attacks South Republic, Uses Tanks --Broadcasts Hostilities FIRST DRIVE SEEN CURBED United States, Holding Soviet Responsible, Watches Event --Plea to U.N. Likely",
+          "summary": "North Korea, backed by the Communist regime, invades South Korea, declaring war and using tanks to seize key areas, prompting the United States to consider a plea to the U.N.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/1280px-Chosin.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/25/archives/war-is-declared-by-north-koreans-fighting-on-border-communist.html"
+        },
+        {
+          "headline": "ACHESON PICTURES COMMUNIST SURGE ISOLATING AMERICA; Warns Governors Divided U.S. Might Let Soviet Win Europe and Asia Without a Shot LAUDS STATE DEPARTMENT Secretary of State Discusses Policies With Executives and Is Received With Acclaim Calls Staff \"Clean, Loyal\" Acheson Wins Praise in Foreign Policy Discussion With Governors Point Four Plan Described Criticized 'Coming and Going' Pays Tribute to Peurifoy Discounts Britain's Stand",
+          "summary": "Secretary of State Dean Acheson warns that a divided U.S. might let the Soviet Union win in Europe and Asia without a shot, and discusses foreign policy with governors, praising his staff and the State Department",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/1280px-Gari-Melchers-War-Highsmith.jpeg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/21/archives/acheson-pictures-communist-surge-isolating-america-warns-governors.html"
+        },
+        {
+          "headline": "KOREA HAMPERED BY TRADING CURBS; Lack of 'Know How' on the Markets and 2 Money Rates Also Impair Development Regime Limits Mark-Ups 2 Export Money Rates",
+          "summary": "Trade development in Korea is hindered by a lack of market knowledge, two different money rates, and government limits on mark-ups, impairing the country's economic growth",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/1280px-Samsung_headquarters.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/04/archives/korea-hampered-by-trading-curbs-lack-of-know-how-on-the-markets-and.html"
+        },
+        {
+          "headline": "ATTLEE QUALIFIES PARTY'S REJECTION OF EUROPEAN UNITY; Disavows Manifesto as Policy of Government and Voices Readiness to Cooperate TALK CREATES CONFUSION Many Britons Remain Puzzled on Issue--Opposition Sees Duplicity, Maps Attack Faulty Liaison Seen Procedure Held Mysterious Attlee Qualifies Party Attitude Against European Unity Moves Technical Cause of Break Voices Desire to Help",
+          "summary": "British Prime Minister Clement Attlee qualifies his party's rejection of European unity, stating that the government is willing to cooperate and lead, while acknowledging confusion and criticism from the opposition",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Violet-Helen-ne-Millar-Countess-Attlee.jpg/1280px-Violet-Helen-ne-Millar-Countess-Attlee.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/14/archives/attlee-qualifies-partys-rejection-of-european-unity-disavows.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/1280px-Chosin.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "North Korea invaded South Korea, declaring war and using tanks to seize key areas. The United States considered a plea to the U.N. and held the Soviet responsible. Secretary of State Dean Acheson warned of a potential Soviet win in Europe and Asia.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.577
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1889,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "BURYING ITS MANY DEAD; JOHNSTOWN NOW A CITY OF MORGUES. UNKNOWN BODIES HURRIED TO UNNAMED GRAVES. THE DEATH LIST CERTAINLY 10,000-- STRINGENT MEASURES AND HARD WORK NECESSARY TO PREVENT A PESTILENCE--DISTRIBUTING THE GREAT STORES OF FOOD AND CLOTHING--THE STORY OF THE FATAL FLOOD RETOLD--THE GREAT DAMAGE BELOW THE AFFLICTED CITY. A CROWDED MORGUE. A TERRIBLE DEATH MILL.",
+          "summary": "A devastating flood in Johnstown has killed around 10,000 people, with many bodies still unaccounted for, and there are concerns about the risk of pestilence, during a time of growing urbanization and industrialization in the United States. The city is struggling to cope with the aftermath of the disaster.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/1880s_Montage_II.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/06/archives/burying-its-many-dead-johnstown-now-a-city-of-morgues-unknown.html"
+        },
+        {
+          "headline": "REFORM IN THE BALLOT; CONNECTICUT'S EFFORT TO SECURE IT. HEARING BEFORE THE JUDICIARY COMMITTEE YESTERDAY--THE LONG CONTEST BE FOUGHT OVER.",
+          "summary": "Connecticut is considering reforming its ballot system, with a hearing before the Judiciary Committee featuring supporters such as Henry C. Robinson and William A. Countryman, as the country moves towards more democratic voting practices. The proposed secret-ballot bill aims to improve the electoral process.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Farmington_Canal_Heritage_Trail%2C_Simsbury_CT.jpg/1280px-Farmington_Canal_Heritage_Trail%2C_Simsbury_CT.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/19/archives/reform-in-the-ballot-connecticuts-effort-to-secure-it-hearing.html"
+        },
+        {
+          "headline": "FORAKER WINS THE PRIZE; OHIO REPUBLICANS OFFER HIM A THIRD TERM. WORK OF THE CONVENTION DONE WITHOUT CREATING ANY BITTER ANTAGONISMS--THE TICKET NAMED. THE DEMOCRATIC OUTLOOK.",
+          "summary": "Ohio Republicans have nominated J. B. Foraker for a third term as governor, with the party convention completing its work without major conflicts, as the Republican party continues to shape state politics. The Democratic party's prospects are also being considered.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/1892_Republican_National_Convention_Admission_Ticket_%284359455349%29_%28crop1%29.jpg/1280px-1892_Republican_National_Convention_Admission_Ticket_%284359455349%29_%28crop1%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/27/archives/foraker-wins-the-prize-ohio-republicans-offer-him-a-third-term-work.html"
+        },
+        {
+          "headline": "BODIES ARE EVERYWHERE; PESTILENCE THREATENED IN CONEMAUGH VALLEY. FULLY 10,000 PERSONS MUST HAVE PERISHED. DRAGGING THE CHARRED BODIES FROM THE BURNING WRECK--CORPSES FOUND IN THE MUD AND SAND--THE RESPONSIBILITY FOR THE DAM WHICH GAVE WAY--THE WHOLE COUNTRY RISING TO AID THE SUFFERERS.",
+          "summary": "The aftermath of the Johnstown flood continues to unfold, with thousands of bodies still being recovered and concerns about the risk of pestilence, during a time of growing concern about public health in the United States. The whole country is coming together to aid the sufferers.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Johnstown_Tree_in_House.jpg/1280px-Johnstown_Tree_in_House.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/04/archives/bodies-are-everywhere-pestilence-threatened-in-conemaugh-valley.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/1880s_Montage_II.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Johnstown flood devastated the city, killing around 10,000 people. Bodies were hurried to unnamed graves, and stringent measures were necessary to prevent pestilence. The country rallied to aid the sufferers amidst growing concerns about public health.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.18
+      }
+    }
+  ]
+}
