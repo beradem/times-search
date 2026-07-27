@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T07:47:05.180926+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1964,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "PRESIDENT SIGNS CIVIL RIGHTS BILL; BIDS ALL BACK IT; Approves Sweeping Measure 5 Hours After Passage in House by 289‐126 Vote; ASKS END OF INJUSTICE; Johnson Urges Closing of ‘Springs of Racial Poison’—Maps Enforcement",
+          "summary": "President Lyndon B. Johnson signs a sweeping civil rights bill, urging an end to racial injustice and mapping out enforcement, after it passes in the House with a 289-126 vote. The bill bars discrimination in employment and union membership.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg/1280px-Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/03/archives/president-signs-civil-rights-bill-bids-all-back-it-approves.html"
+        },
+        {
+          "headline": "GOLDWATER JOINS JOHNSON IN A BAN ON INCITING RACES; 2 Agree at White House Talk in Saying ‘Tension Should Be Avoided’ in Campaign; CONFER FOR 16 MINUTES; But President Declares He Will Discuss Rights Issue During Election Drive",
+          "summary": "President Lyndon B. Johnson and Barry Goldwater agree to avoid inciting racial tension during the campaign after a meeting at the White House. Johnson plans to discuss the rights issue despite their agreement.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Senator_Goldwater_1960.jpg/1280px-Senator_Goldwater_1960.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/25/archives/goldwater-joins-johnson-in-a-ban-on-inciting-races-2-agree-at-white.html"
+        },
+        {
+          "headline": "The U. S. Under the Civil Rights Act: Despite Some Bitter Resistance, Compliance Is Generally Good; NEGROES IN SOUTH TEST RIGHTS ACT; RESISTANCE LIGHT; A Steak House in Virginia and a Pool in Georgia Are Integrated Peacefully; BIRMINGHAM IS OBEYING; Chamber of Commerce Asks Compliance in Jackson—Atlanta Cafe Defiant",
+          "summary": "African Americans test the new civil rights act in the South, encountering mostly light resistance, with some establishments integrating peacefully, while others, like an Atlanta cafe, defy the law. Birmingham's restaurants are quietly desegregated.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_of_the_march_posing_in_front_of_the_statue_of_Abraham_Lincoln..._-_NARA_-_542063_%28cropped%29.jpg/1280px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_of_the_march_posing_in_front_of_the_statue_of_Abraham_Lincoln..._-_NARA_-_542063_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/04/archives/the-u-s-under-the-civil-rights-act-despite-some-bitter-resistance.html"
+        },
+        {
+          "headline": "JOHNSON REJECTS DE GAULLE'S CALL FOR TALKS ON ASIA; Won't Put Indochina's Fate Up to a Neutrality Parley ‘Called to Ratify Terror’; TIES TO SAIGON PRAISED; President Seeks to Counter Reports of Disagreement Over Khanh's Militancy",
+          "summary": "President Lyndon B. Johnson rejects Charles de Gaulle's call for talks on Asia, stating the US will support South Vietnam's freedom and independence until the Communists honor peace accords, and praises the US's ties to Saigon.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Years_of_Lyndon_Johnson_The_Path_to_Power.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/25/archives/johnson-rejects-de-gaulles-call-for-talks-on-asia-wont-put.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg/1280px-Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "President Lyndon B. Johnson signed a sweeping civil rights bill, barring discrimination in employment and union membership. The bill's passage led to generally good compliance, with many Southern establishments integrating peacefully. Johnson also rejected Charles de Gaulle's call for Asian neutrality talks.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.566
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1945,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "FOE'S ENVOYS CONFER IN MANILA; ASK SWIFT DISARMING OF JAPAN; WAINWRIGHT FOUND WELL IN CAMP; STEPS OF DEFEAT: JAPANESE ENVOYS ARRIVING IN MANILA FOE'S EMISSARIES CONFER IN MANILA New Yorkers Among Guards U.S. Silent on Kuriles",
+          "summary": "Japanese envoys arrive in Manila to discuss surrender with General MacArthur's representatives, as the US remains silent on the Kuriles issue",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/USManilaChancery.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/20/archives/foes-envoys-confer-in-manila-ask-swift-disarming-of-japan.html"
+        },
+        {
+          "headline": "POTSDAM TERMS ACCEPTED, DOMEI SAYS; An Imperial Message Is Forthcoming Soon,' Official News Agency Reports in Broadcast at 1:49 A.M. DISCLOSES LONG SESSION BY CABINET FCC Monitors Hear Code Dispatch Being Sent by Japanese to Switzerland--Washington Began to Suspect 'Stalling' Message to Switzerland Heard Cheering Greets Report in Guam Capital Awaited Reply All Day DOMEI ANNOUNCES FOE'S SURRENDER Japanese End Vigil Swiss Blame Japanese",
+          "summary": "Japan accepts the Potsdam terms, with the official news agency Domei announcing the surrender, and the US awaiting an official reply",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg/1280px-Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/14/archives/potsdam-terms-accepted-domei-says-an-imperial-message-is.html"
+        },
+        {
+          "headline": "ARMED ESCORT SET; 350 Planes Will Carry Troops to an Airfield Southwest of Tokyo JAPAN REPORTS TYPHOON Says Storm in Kanto District Has Delayed Preparations for Entry of Allies Ships to Begin Disarmament Asks for Data on Newsmen Five Exceptions Requested 7,500 SKY TROOPS TO LAND IN JAPAN JAPAN WARNED ON CLASHES Home Ministry Issues Instructions to People During Occupation",
+          "summary": "Allied forces prepare to enter Japan, with 350 planes set to carry troops to an airfield southwest of Tokyo, as Japan warns against clashes during the occupation",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Occupied_Japan_1945-1952.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/24/archives/armed-escort-set-350-planes-will-carry-troops-to-an-airfield.html"
+        },
+        {
+          "headline": "FRENCH ASK LOANS OF BILLION HERE; Paris Officials Reveal Request as de Gaulle and Party Return by Plane TOP PRIORITY ALSO SOUGHT France Wants Credits Given in Three Parts, as Well as Aid in Reconstruction Believe Air Is Cleared No Pledge on Third Loan",
+          "summary": "France, led by Charles de Gaulle, requests a loan of $1 billion from the US, seeking credits and aid in reconstruction, but is disappointed by the US plan to distribute captured gold",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/De_Gaulle-OWI_%28cropped%29_%28c%29%282%29.jpg/1280px-De_Gaulle-OWI_%28cropped%29_%28c%29%282%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/31/archives/french-ask-loans-of-billion-here-paris-officials-reveal-request-as.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/USManilaChancery.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Japan accepted the Potsdam terms, announcing its surrender through the official news agency Domei. Allied forces prepared to enter Japan, with troops set to land at an airfield southwest of Tokyo. Japan warned its citizens against clashes during the occupation.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2000,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "GORE ASKS PUBLIC FOR PATIENCE; BUSH STARTS TRANSITION MOVES; ADMINISTRATION WITHHOLDS AID",
+          "summary": "Vice President Al Gore asks for patience as he contests the presidential election results in Florida, while Governor George W Bush begins transition plans with the help of Dick Cheney",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/2016_Presidential_Election_ballot.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/28/us/contesting-vote-overview-gore-asks-public-for-patience-bush-starts-transition.html"
+        },
+        {
+          "headline": "Ideas & Trends: Vacancy; Stunning Estate, 130-plus Rms., 18 Acres, Rose Garden. Available.",
+          "summary": "The presidential election clash between Democrats and Republicans remains unresolved, causing tension in the country",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Butterfly_Ballot%2C_Florida_2000_%28large%29.jpg/1280px-Butterfly_Ballot%2C_Florida_2000_%28large%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/12/weekinreview/ideas-trends-vacancy-stunning-estate-130-plus-rms-18-acres-rose-garden-available.html"
+        },
+        {
+          "headline": "Will Nasdaq's Fall Haunt the Democrats?",
+          "summary": "The falling Nasdaq stock prices may negatively impact Vice President Al Gore's presidential campaign, according to analysts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/1280px-Nasdaq_Tower_May_2026.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/05/business/market-watch-will-nasdaq-s-fall-haunt-the-democrats.html"
+        },
+        {
+          "headline": "Entering Last Act, Senate Rivals Stick to the Script; Mrs. Clinton Preaches to the Party Faithful",
+          "summary": "Hillary Rodham Clinton campaigns for the US Senate in New York, urging voters to support her and linking herself to her husband and Vice President Al Gore",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hillary_Rodham_Clinton.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/06/nyregion/entering-last-act-senate-rivals-stick-script-mrs-clinton-preaches-party-faithful.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/2016_Presidential_Election_ballot.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The presidential election dispute unfolded as Vice President Al Gore contested results in Florida. Governor George W Bush began transition plans with Dick Cheney's help. The unresolved election caused national tension.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.89
+      }
+    }
+  ]
+}
