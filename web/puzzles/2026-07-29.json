@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T06:43:07.756176+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2004,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "At Warning Center, Alert for the Quake, None for a Tsunami",
+          "summary": "A massive earthquake struck off Indonesia, generating a devastating tsunami, but experts at the Pacific Tsunami Warning Center in Honolulu had no way to warn those in its path, highlighting the limits of modern science and communication during a time of increased global awareness of natural disasters.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg/1280px-US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/science/at-warning-center-alert-for-the-quake-none-for-a-tsunami.html"
+        },
+        {
+          "headline": "World Business Briefing | Middle East: Israel: Military Companies Trade Stakes",
+          "summary": "Israeli military companies are trading stakes in a business deal, reflecting the country's growing private defense industry as the global war on terror intensifies.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/IDF-Arsenal-10.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/business/world-business-briefing-middle-east-israel-military-companies.html"
+        },
+        {
+          "headline": "World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal",
+          "summary": "Sony and Samsung have signed a patent deal, marking a significant partnership between two major electronics companies in the highly competitive tech industry.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/1280px-Samsung_headquarters.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/15/business/technology/world-business-briefing-asia-japan-sony-and-samsung.html"
+        },
+        {
+          "headline": "If Jets and Steelers Are Mirror Images, It's Time for One of Them to Crack",
+          "summary": "The New York Jets are preparing to face the Pittsburgh Steelers in a highly anticipated football game, with both teams having similar strengths and weaknesses, as the NFL season heats up.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jets_uniforms12.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/12/sports/football/if-jets-and-steelers-are-mirror-images-its-time-for-one-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg/1280px-US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "A massive earthquake struck off Indonesia, generating a devastating tsunami. The disaster highlighted the limits of modern science and communication. Israeli military companies and Sony and Samsung made notable business deals.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.808
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1883,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "MRS. ROEBLING'S SKILL.; HOW THE WIFE OF THE BROOKLYN BRIDGE ENGINEER HAS ASSISTED HER HUSBAND.",
+          "summary": "Emily Roebling, wife of Brooklyn Bridge engineer Washington Roebling, has been assisting her husband with his work, showcasing her skills during a time of significant infrastructure development in the United States. Her contributions have been notable in the absence of her husband's father, John A. Roebling.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Brooklyn_Museum_-_Portrait_of_Emily_Warren_Roebling_-_Charles-%C3%89mile-Auguste_Carolus-Duran.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1883/05/23/archives/mrs-roeblings-skill-how-the-wife-of-the-brooklyn-bridge-engineer.html"
+        },
+        {
+          "headline": "PROMISE OF THE WEST.; OHIO. THE WHEAT YIELD ESTIMATED AT FROM 80 TO 85 PER CENT. OF AN AVERAGE. INDIANA. MUCH WHEAT WINTER-KILLED BUT AN AVERAGE CORN CROP EXPECTED. ILLINOIS. A POOR WHEAT YIELD FEARED, BUT A GOOD CROP OF CORN EXPECTED. MICHIGAN. MUCH LESS WHEAT THAN LAST YEAR BUT MORE FRUIT. MINNESOTA. MORE CORN AND LESS WHEAT EXPECTED-- THE PRESENT CONDITIONS GOOD. IOWA. WHEAT PROSPECTS ABOUT AVERAGE, OATS VERY PROMISING, AND CORN POOR. KANSAS. EVERY INDICATION OF LARGER YIELDS OF WHEAT AND CORN. NEBRASKA. THE CORN ACREAGE LARGELY INCREASED AND LESS WHEAT. DAKOTA. THE GRAIN ACREAGE GREATLY INCREASED, WITH FINE PROSPECTS OF A BIG CROP. COLORADO. ANTICIPATING AN INCREASE OF TWENTY PER CENT. IN ALL CROPS. WYOMING. AS MANY CATTLE FOR MARKET AS LAST YEAR BUT LARGE LOSSES OF SHEEP. MISSOURI. CROP PROSPECTS ONLY FAIR, BUT HELPED MUCH BY LATE RAINS. ARKANSAS. GRAIN AND COTTON DOING WELL, WITH FAVORABLE PROSPECTS.",
+          "summary": "Farmers in the Western United States are expecting varying crop yields, with some states like Kansas and Colorado anticipating increased wheat and corn production, while others like Illinois and Iowa are expecting poorer wheat yields, as the country experiences the ups and downs of agricultural production during the late 19th century.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Claas_Tucano_430.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1883/05/21/archives/promise-of-the-west-ohio-the-wheat-yield-estimated-at-from-80-to-85.html"
+        },
+        {
+          "headline": "A FLOOD OF BILLS.; THE HARBOR-MASTERS BILL PASSED--A SOP TO WORKING MEN--THE SURROGATES BILL KILLED.",
+          "summary": "The New York State Legislature, dominated by the Democratic party, has passed and killed several bills, including the Harbor-Masters Bill, in its final hours of session, amidst factional clashes between the Tammany and Tilden groups, reflecting the political tensions of the time.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NYSCapitolPanorama.jpg/1280px-NYSCapitolPanorama.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1883/05/05/archives/a-flood-of-bills-the-harbormasters-bill-passeda-sop-to-working.html"
+        },
+        {
+          "headline": "INCIDENTS OF THE GREAT DAY.; ON THE RED STAIRCASE--AGAINST FURTHER CONQUEST--TOASTS AT THE BANQUET.",
+          "summary": "The Russian Emperor and Empress participated in a grand procession and ceremony in Moscow, featuring elaborate state carriages and a visit to the Cathedral of Michael the Archangel, as the Russian monarchy continues to exert its influence and power during this time.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/House_of_Romanov_family_tree_%281762-1917%29_by_shakko_%28RU%29.jpg/1280px-House_of_Romanov_family_tree_%281762-1917%29_by_shakko_%28RU%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1883/05/28/archives/incidents-of-the-great-day-on-the-red-staircaseagainst-further.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Brooklyn_Museum_-_Portrait_of_Emily_Warren_Roebling_-_Charles-%C3%89mile-Auguste_Carolus-Duran.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Emily Roebling assisted her husband with Brooklyn Bridge engineering, showcasing her skills during significant infrastructure development. The Western United States experienced varying crop yields, with Kansas and Colorado anticipating increased production. The New York State Legislature passed and killed several bills amidst factional clashes.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.0
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1942,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "4 CARRIERS SUNK; Nimitz Says 2 Japanese Heavy Cruisers Also Went to Bottom 3 DESTROYERS IN TOLL 275 Enemy Planes and Most of Their Crews Were Lost -- Other Casualties High 4 CARRIERS SUNK IN MIDWAY ACTION ",
+          "summary": "Admiral Chester W. Nimitz announced that four Japanese aircraft carriers were sunk in the Battle of Midway, with two Japanese heavy cruisers and 275 enemy planes also lost, as the US gained the upper hand in the Pacific during World War II",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USS_New_York_%28BB-34%29_bombarding_Japanese_defenses_on_Iwo_Jima%2C_16_February_1945_%2880-G-308952%29.jpg/1280px-USS_New_York_%28BB-34%29_bombarding_Japanese_defenses_on_Iwo_Jima%2C_16_February_1945_%2880-G-308952%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/29/archives/4-carriers-sunk-nimitz-says-2-japanese-heavy-cruisers-also-went-to.html"
+        },
+        {
+          "headline": "U.S. REFUGEES LAND, SILENCE PLEDGED; JAPANESE TO LEAVE; Gripsholm Brings 194 From Sweden -- All Signed Promise to Reveal Nothing ENEMIES GO TOMORROW 1,000 Bound for Tokyo Will Be Exchanged for Americans -- To Get Special Food SILENCE PLEDGED, U.S. REFUGEES LAND A GREETING FOR ONE OF THE GRIPSHOLM'S PASSENGERS",
+          "summary": "The SS Gripsholm brought 194 US refugees from Sweden to the US, where they were aided by organizations such as the American Red Cross, and were exchanged for Japanese citizens",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/INF3-160_Fighting_Fit_in_the_Factory_Artist_A_R_Thomson.jpg/1280px-INF3-160_Fighting_Fit_in_the_Factory_Artist_A_R_Thomson.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/10/archives/us-refugees-land-silence-pledged-japanese-to-leave-gripsholm-brings.html"
+        },
+        {
+          "headline": "SPY AIDES IN CITY CAPTURED BY FBI; MORE ARE HUNTED; Hoover Shields Identities of Those Accused of Helping Men Landed by U-Boats QUICK JUSTICE PROMISED Biddle Says That He Will Deal With the Invading Saboteurs 'Swiftly and Thoroughly' SPY AIDES IN CITY CAPTURED BY FBI NAZI SABOTEUR CRUISING IN U.S. WATERS THREE YEARS AGO",
+          "summary": "The FBI captured spy aides in the city, who were accused of helping Nazi saboteurs, with FBI Director Hoover promising to deal with them swiftly and thoroughly, as the US cracked down on enemy agents during World War II",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Skulptur_Schulze-Boysen-Str_12_%28Liber%29_Rote_Kapelle_Achim_K%C3%BChn_2010.jpg/1280px-Skulptur_Schulze-Boysen-Str_12_%28Liber%29_Rote_Kapelle_Achim_K%C3%BChn_2010.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/29/archives/spy-aides-in-city-captured-by-fbi-more-are-hunted-hoover-shields.html"
+        },
+        {
+          "headline": "NELSON IS MAPPING MORE SCRAP DRIVES TO GET WAR METAL; Truman Committee Is Told We Outstrip Axis Production, but Must Build Reserves TO TAKE CIVILIAN COPPER Progress Is Seen Against Steel Plate Shortage -- Dormitories Are Planned for Workers NELSON IS MAPPING MORE SCRAP DRIVES",
+          "summary": "Donald Nelson planned more scrap metal drives to support the war effort, as the US worked to outstrip Axis production and build reserves, with progress being made against steel plate shortages",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Peoria_Grandview_Drive_2008.JPG/1280px-Peoria_Grandview_Drive_2008.JPG",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/26/archives/nelson-is-mapping-more-scrap-drives-to-get-war-metal-truman.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USS_New_York_%28BB-34%29_bombarding_Japanese_defenses_on_Iwo_Jima%2C_16_February_1945_%2880-G-308952%29.jpg/1280px-USS_New_York_%28BB-34%29_bombarding_Japanese_defenses_on_Iwo_Jima%2C_16_February_1945_%2880-G-308952%29.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Battle of Midway resulted in four Japanese aircraft carriers being sunk. The US also exchanged refugees with Japan and captured spy aides in the city. The US continued to mobilize for war, with scrap metal drives and progress against steel plate shortages.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.63
+      }
+    }
+  ]
+}
