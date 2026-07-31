@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T06:54:07.526841+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1968,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "100,000 FILE PAST KENNEDY'S BIER; FINAL RITES IN ARLINGTON TODAY; A MILE-LONG LINE Rich, Poor, Young, Old Stand for Hours -- Heat Feels 100 100,000 File Quietly Past Kennedy's Bier in Line Extending More Than a Mile ARLINGTON RITES THIS AFTERNOON 21-Car Funeral Train Will Leave for Capital After Requiem Mass Here",
+          "summary": "Over 100,000 people filed past Robert Kennedy's bier in St. Patrick's Cathedral, with a diverse crowd waiting in a mile-long line, as his family and friends kept a vigil, during a time of great social change in the United States. The coffin was guarded by a group of men from all walks of life.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ethel_Kennedy_Smile_1968_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/06/08/archives/100000-file-past-kennedys-bier-final-rites-in-arlington-today-a.html"
+        },
+        {
+          "headline": "M'CARTHY FORCES SEEK TO CONTROL STATE DELEGATION; Call on Democratic Party to Give Them at Least Half of the At-Large Seats MAJOR VICTORY CLAIMED Minnesota Senator Urges Also That Platform Reflect Peace and Poor Issues McCarthy Forces, Buoyed by 'Majority' Victory, Move to Control State Delegation MINNESOTAN ASKS SAY ON PLATFORM Asserts Democratic Party's Position Should Reflect Peace and Poor Issues",
+          "summary": "Senator Eugene McCarthy's campaign team sought to control the state delegation after his primary victory, calling on the Democratic Party to give them at least half of the at-large seats, as the party's nomination process heated up. McCarthy urged the party to reflect peace and poverty issues in its platform.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/06/20/archives/mcarthy-forces-seek-to-control-state-delegation-call-on-democratic.html"
+        },
+        {
+          "headline": "O'DWYER BEATS NICKERSON; A SENATE UPSET Organization Is Dealt Setback -- Resnick Concedes Early O'Dwyer Upsets Nickerson in Contest for Democratic Nomination for Senate RESNICK CONCEDES IN EARLY MORNING Ellenville Man Asserts He Is 'Finished' in Politics -- Upstate Tally Slow",
+          "summary": "Peace candidate Paul O'Dwyer won the Democratic nomination for the US Senate from New York State, with his victory attributed to the peace vote, as anti-war sentiment grew in the country. O'Dwyer's win was seen as an upset against his opponent.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Paul_O%27Dwyer_1968_%285874062127%29.jpg/1280px-Paul_O%27Dwyer_1968_%285874062127%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/06/19/archives/odwyer-beats-nickerson-a-senate-upset-organization-is-dealt-setback.html"
+        },
+        {
+          "headline": "GAULLISTS AND ALLIES GAIN IN FIRST ROUND OF VOTING; COMMUNISTS LOSE GROUND; TOTAL ABOUT 46% Control of Assembly Appears Assured by an Upswing of 8'% GAULLISTS MAKE GAINS IN ELECTION Leader of Communist Party and Wife of the President Vote in France",
+          "summary": "Gaullists and their allies made significant gains in the first round of voting in France, with the Communist Party losing ground, as the country's political landscape shifted. The election saw a notable turnout, with prominent figures, including the President's wife, casting their votes.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Georges_Pompidou_1969_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/06/24/archives/gaullists-and-allies-gain-in-first-round-of-voting-communists-lose.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ethel_Kennedy_Smile_1968_%28cropped%29.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Robert Kennedy's funeral procession drew 100,000 mourners. Senator Eugene McCarthy's campaign sought to control state delegations after a primary victory. Gaullists gained in French elections, while Communists lost ground.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.599
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1991,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "WAR IN THE GULF: The Overview; IRAQIS FIRE MISSILES AT ISRAELI CITIES AFTER SECOND DAY OF ALLIED BOMBING; U.S. DISCOURAGES AN ISRAELI RESPONSE",
+          "summary": "Iraq fired missiles at Israeli cities after a day of allied bombing, prompting the US to discourage an Israeli response, as the Gulf War intensified",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg/1280px-Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/18/world/war-gulf-overview-iraqis-fire-missiles-israeli-cities-after-second-day-allied.html"
+        },
+        {
+          "headline": "Mideast Crisis Threatens Unlikely Victim: Junk Mail",
+          "summary": "The prospect of war in the Persian Gulf is causing direct marketing consultants to advise clients to postpone sending junk mail, citing a piece of folklore that originated after President Kennedy's assassination",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/PersianGulf_vue_satellite_du_golfe_persique.jpg/1280px-PersianGulf_vue_satellite_du_golfe_persique.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/09/business/mideast-crisis-threatens-unlikely-victim-junk-mail.html"
+        },
+        {
+          "headline": "Military Contractors Struggle as Rules of the Game Change",
+          "summary": "Military contractors are struggling due to declining budgets and harsh terms imposed by the Pentagon, as seen in the troubled A-12 warplane project with contractors like McDonnell Douglas and General Dynamics",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/F-16_1.jpg/1280px-F-16_1.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/06/us/military-contractors-struggle-as-rules-of-the-game-change.html"
+        },
+        {
+          "headline": "The Incessant Lure of Kuwait's Oil",
+          "summary": "The discovery and development of Kuwait's oil is a story that involves a mining engineer from New Zealand and a noodle vendor in Japan, and is now a key factor in the Persian Gulf crisis",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/KuwaitiOilFires-STS037-152-91-%282%29.jpg/1280px-KuwaitiOilFires-STS037-152-91-%282%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/13/business/forum-the-incessant-lure-of-kuwait-s-oil.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg/1280px-Flickr_-_Government_Press_Office_%28GPO%29_-_Patriot_missiles_being_launched_to_intercept_an_Iraqi_Scud_missile.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Iraq fired missiles at Israeli cities after allied bombing intensified the Gulf War. The conflict had far-reaching effects, impacting military contractors and even direct marketing efforts. The war was largely driven by the lure of Kuwait's oil reserves.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1871,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "ACCOUNTS BY MAIL.; The Story as Told by the Chicago Evening Post--Incidents, Narrow Escapes, Dangers, Privations, and Losses--The Brave Looking Forward--Proclamation by the Mayor. INCIDENTS. INCENDIARIES. THE NEED FOR RELIEF. PROCLAMATION BY THE MAYOR",
+          "summary": "A massive fire has destroyed much of Chicago, with widespread damage and loss of life, and relief efforts are underway",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Global_Multihazard_Mortality_Risks_and_Distribution_%285457923756%29.jpg/1280px-Global_Multihazard_Mortality_Risks_and_Distribution_%285457923756%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/13/archives/accounts-by-mail-the-story-as-told-by-the-chicago-evening.html"
+        },
+        {
+          "headline": "THE RUINED CITY.; The Fire Out at Last Extent of the Conflagration The Business Panic Abating. THE PRESS REVIVING. INSURANCE COMPANIES AND BANKS. THE DEAD AND MISSING. BRANDS FROM THE BURNING. THE AGGREGATE LOSS. Estimates of the Losses by a Chicago Merchant Interesting Subdivision of the Property Destroyed. A False Report of a Renewal of the Fire Execution of Incendiaries. The Fire Not Broken Out Again. Reorganizing the Government Officers in Chicago. Gen. Sheridan's Dispatches to the War Department. Rebuilding the City Begun. ACTION IN THIS CITY. Effect Upon Wall-Street Yesterday Deended Reaction in Stocks ConfidenceRestored in a Measure The Losses ofthe Insurance Companies. THE INSURANCE COMPANIES. THE INSURANCES. THE RUINED CITY. Contributions for the Relief of the Sufferers. CONTRIBUTIONS IN THE CHURCHES. THE RAILROAD, EXPRESS AND STEAM-BOAT MEN. CONTRIBUTIONS OF MERCHANTS OTHER CONTRIBUTIONS. Meeting of the Chamber of Commerce $110,000 Subscribed in Forty Minutes An English Gentleman Calls onHis Countrymen to Aid the D",
+          "summary": "The city of Chicago is rebuilding after a devastating fire, with contributions pouring in from across the country, and General Sheridan is involved in the relief efforts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chicago_in_Flames_by_Currier_%26_Ives%2C_1871_%28cropped%29.jpg/1280px-Chicago_in_Flames_by_Currier_%26_Ives%2C_1871_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/11/archives/the-ruined-city-the-fire-out-at-last-extent-of-the-conflagration.html"
+        },
+        {
+          "headline": "THE COLORED PEOPLE.; National Convention in Columbia, S. C. Addresses to the American People. A Man Murdered in Norwich, Conn. The Culprit Under Arrest.",
+          "summary": "A national convention of colored people is being held in Columbia, South Carolina, where addresses are being made to the American people, and a murder has taken place in Norwich, Connecticut",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NationalColoredUnionConventionHarpersWeekly1869.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/23/archives/the-colored-people-national-convention-in-columbia-s-c-addresses-to.html"
+        },
+        {
+          "headline": "RELIEF FOR CHICAGO.; Aid from the Strakosch Opera Troupe. Additional Contributions Received Yesterday Action of the BrooklynChurches and Other Bodies MoreAbout the Insurances. YESTERDAY'S CONTRIBUTIONS. GREGATIONS. The Insurances Suspension of the Manhattan Company. The Empire City Fire Insurance Company. Meeting of the National Reform Association at Nashville A Republican President Demanded. Threatened Conflict Between Two Branches of the Creek Indians. Arrival of President Grant in Boston.",
+          "summary": "President Grant has arrived in Boston, where he is receiving aid for Chicago's fire relief, and various organizations are contributing to the cause",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/15/archives/relief-for-chicago-aid-from-the-strakosch-opera-troupe-additional.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Global_Multihazard_Mortality_Risks_and_Distribution_%285457923756%29.jpg/1280px-Global_Multihazard_Mortality_Risks_and_Distribution_%285457923756%29.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Great Chicago Fire destroyed much of the city, causing widespread damage and loss of life. Relief efforts were underway, with contributions pouring in from across the country. General Sheridan was involved in the relief efforts, and rebuilding had begun.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.258
+      }
+    }
+  ]
+}
