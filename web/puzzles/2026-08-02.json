@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T06:44:05.663592+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2005,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "New Orleans Is Now Off Limits;Pentagon Joins in Relief Effort",
+          "summary": "Hurricane Katrina has devastated New Orleans, flooding the city and causing widespread destruction, with the Pentagon joining the relief effort and thousands of refugees being evacuated from the Superdome, as Governor Kathleen Blanco describes the situation as 'heartbreaking'",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Katrina_2005-08-28_1700Z.jpg/1280px-Katrina_2005-08-28_1700Z.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2005/08/31/us/nationalspecial/new-orleans-is-now-off-limitspentagon-joins-in-relief.html"
+        },
+        {
+          "headline": "Congress to Investigate Whether Palmeiro Committed Perjury at Hearing",
+          "summary": "Congress is investigating whether baseball player Rafael Palmeiro committed perjury during a hearing on steroid use, with Palmeiro agreeing to cooperate and provide records",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rafael_Palmeiro_2003.jpg/1280px-Rafael_Palmeiro_2003.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2005/08/04/sports/baseball/congress-to-investigate-whether-palmeiro-committed-perjury.html"
+        },
+        {
+          "headline": "Nielsen, Long a Gauge of Popularity, Fights to Preserve Its Own",
+          "summary": "Nielsen Media Research is trying to improve its image after controversy over its new ratings system, which has been accused of undercounting minority viewers, with the company spending millions on lobbying and outreach efforts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Digital_media_use.jpg/1280px-Digital_media_use.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2005/08/08/business/media/nielsen-long-a-gauge-of-popularity-fights-to-preserve-its.html"
+        },
+        {
+          "headline": "From Blog to Stage, a Pundit Examines the Power of Politics",
+          "summary": "A one-man show, The Rude Pundit, is examining the power of politics, with the performer, Lee Papa, using his blog as inspiration for the production, which is part of the New York International Fringe Festival",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Edinburgh_Fringe_037.jpg/1280px-Edinburgh_Fringe_037.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2005/08/16/theater/from-blog-to-stage-a-pundit-examines-the-power-of-politics.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Katrina_2005-08-28_1700Z.jpg/1280px-Katrina_2005-08-28_1700Z.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Hurricane Katrina devastated New Orleans, flooding the city and causing widespread destruction. The Pentagon joined the relief effort, evacuating thousands of refugees from the Superdome. Governor Kathleen Blanco described the situation as heartbreaking.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.561
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1975,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "REDS 3 MILES FROM PHNOM PENH; REFUGEES JAM MAIN ROAD TO CITY; SAIGON TROOPS HOLDING XUAN LOC",
+          "summary": "Communist insurgents are driving towards Phnom Penh, with refugees jamming the main road into the city, as the government air force bombs insurgent positions, and the US provides aid, during the final stages of the Vietnam War",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Aerial_reconnaissance_view_of_the_Monivong_Bridge%2C_Phnom_Penh_17_April_1975.jpg/1280px-Aerial_reconnaissance_view_of_the_Monivong_Bridge%2C_Phnom_Penh_17_April_1975.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1975/04/15/archives/reds-3-miles-from-phnom-penh-refugees-jam-main-road-to-city-saigon.html"
+        },
+        {
+          "headline": "SOUTH VIETNAMESE YIELD QUI NHON AND REPORTEDLY QUIT NHA TRANG; COMMUNISTS PUSH NEARER SAIGON",
+          "summary": "South Vietnamese troops are abandoning key cities, including Qui Nhon and possibly Nha Trang, to the North Vietnamese, as the Communists push nearer to Saigon, and the US begins an airlift of military equipment",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/35_Vietnamese_boat_people_2.JPEG/1280px-35_Vietnamese_boat_people_2.JPEG",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1975/04/02/archives/south-vietnamese-yiegd-qui-nhon-and-reportedly-quit-nha-trang.html"
+        },
+        {
+          "headline": "MILITARY TAKING OVER IN CAMBODIA AS LAST AMERICANS ARE EVACUATED; SIHANOUK SAYS U.S. WANTS HIM BACK",
+          "summary": "The military is taking over in Cambodia as the last Americans are evacuated, with Premier Long Boret forming a summit committee to run the government, and Prince Sihanouk being considered for a return from exile",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg/1280px-Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1975/04/13/archives/military-taking-over-in-cambodia-as-last-americans-are-evacuated.html"
+        },
+        {
+          "headline": "For Urges Congress and the People to Join in a Vow to Keep the Nation Strong",
+          "summary": "President Ford is urging Congress and the people to join in a vow to keep the nation strong, in a speech to the DAR at Constitution Hall",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1975/04/16/archives/ford-urges-congress-and-the-people-to-join-in-a-vow-to-keep-the.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Aerial_reconnaissance_view_of_the_Monivong_Bridge%2C_Phnom_Penh_17_April_1975.jpg/1280px-Aerial_reconnaissance_view_of_the_Monivong_Bridge%2C_Phnom_Penh_17_April_1975.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The fall of Saigon loomed as communist forces drove towards Phnom Penh and South Vietnamese troops abandoned key cities. The US provided aid and began an airlift of military equipment. Communist insurgents were nearing Saigon, prompting a US evacuation.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.701
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2011,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "Data Show Bin Laden Plots; C.I.A. Hid Near Raided House",
+          "summary": "US officials found that Al Qaeda considered attacking US railroads, and the CIA had Osama bin Laden's compound under surveillance, as the US intensified its fight against terrorism",
+          "image": "https://static01.nyt.com/images/2011/05/07/world/07pakistan2-span/07pakistan2-span-articleLarge-v2.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2011/05/06/world/asia/06intel.html"
+        },
+        {
+          "headline": "Malick’s Film Adds a Dose of Sincerity to the Festivities",
+          "summary": "Terrence Malick's film 'The Tree of Life' explores big questions in a sincere way, as part of a film festival",
+          "image": "https://static01.nyt.com/images/2011/05/17/arts/JPMALICK/JPMALICK-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2011/05/17/movies/terrence-malick-asks-big-questions-in-the-tree-of-life.html"
+        },
+        {
+          "headline": "For Obama, Big Rise in Poll Numbers After Bin Laden Raid",
+          "summary": "President Barack Obama's poll numbers rose significantly after the Bin Laden raid, with a majority approving of his job performance and foreign policy handling",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Osama_bin_Laden_compound1.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2011/05/05/us/politics/05poll.html"
+        },
+        {
+          "headline": "Next for ‘Survivor’ Producer: Bible-Based Scripted Drama",
+          "summary": "Mark Burnett, a reality TV producer, is developing a scripted drama series based on biblical stories for the History Channel",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Mark_Burnett_2025_%28cropped%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2011/05/24/arts/television/reality-tv-producer-mark-burnett-tackles-the-bible.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2011/05/07/world/07pakistan2-span/07pakistan2-span-articleLarge-v2.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Osama bin Laden's death led to increased scrutiny of Al Qaeda plots. The US intensified its fight against terrorism, uncovering potential attacks on railroads. President Obama's poll numbers rose significantly following the raid.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.866
+      }
+    }
+  ]
+}
