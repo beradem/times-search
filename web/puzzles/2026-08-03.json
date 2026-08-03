@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T07:41:04.194620+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1973,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "VIETNAM PEACE PACTS SIGNED; AMERICA'S LONGEST WAR HALTS",
+          "summary": "The United States signed a peace pact to end its longest war, but the stock and bond markets remained depressed due to economic concerns. The pact was signed as the country was dealing with economic problems",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vietnam_Peace_Treaty_1973.jpg/1280px-Vietnam_Peace_Treaty_1973.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/28/archives/vietnam-peace-pacts-signed-americas-longest-war-halts-built-on.html"
+        },
+        {
+          "headline": "KISSINGER ENDS ‘USEFUL’ SESSIONS WITH THO AND RETURNS TO REPORT; SAYS NIXON WILL DECIDE NEXT STEP",
+          "summary": "Henry Kissinger ended private peace talks with Le Duc Tho and will report back to President Nixon, who will decide the next step in the peace process, with issues including a 'peace of justice and conciliation' and truce acceptance by South Vietnamese President Nguyen Van Thieu",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/1280px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/14/archives/kissinger-ends-useful-sessions-with-the-and-returns-to-report-says.html"
+        },
+        {
+          "headline": "NIXON' ECONOMIC REPORT PREDICTS SLOWER GROWTH AND SAYS IT IS DESIRABLE",
+          "summary": "President Nixon's economic report predicts slower growth, which is considered desirable, as the country navigates economic challenges",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nixon_30-0316a.jpg/1280px-Nixon_30-0316a.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/31/archives/nixons-economic-report-predicts-slower-growth-and-says-it-is.html"
+        },
+        {
+          "headline": "MANDATORY WAGE‐PRICE CONTROLS ENDED EXCEPT IN FOOD, HEALTH, BUILDING FIELDS; NIXON CALLS FOR VOLUNTARY COMPLIANCE",
+          "summary": "President Nixon ended mandatory wage-price controls, except in the food, health, and building fields, and called for voluntary compliance, replacing the system with one relying on 'voluntary cooperation'",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%22Prices_charged_in_this_store_will_not_exceed_those_indicated_in_the_most_recent_list_of_Fair_Prices_applicable_to_this_-_NARA_-_512556.jpg/1280px-%22Prices_charged_in_this_store_will_not_exceed_those_indicated_in_the_most_recent_list_of_Fair_Prices_applicable_to_this_-_NARA_-_512556.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/12/archives/mandatory-wageprice-controls-ended-except-in-food-health-building.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vietnam_Peace_Treaty_1973.jpg/1280px-Vietnam_Peace_Treaty_1973.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Vietnam peace pact was signed, ending America's longest war. Economic concerns persisted, with slower growth predicted and wage-price controls largely ended. President Nixon's administration navigated these challenges.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.705
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1886,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "RIOTING AND BLOODSHED IN THE STREETS OF CHICAGO.; POLICE MOWED DOWN WITH DYNAMITE. STRIKERS KILLED WITH VOLLEYS FROM REVOLVERS. THE SLAUGHTER FOLLOWING AN ANARCHIST MEETING--TWELVE POLICEMEN DEAD OR DYING--THE NUMBER OF KILLED OR INJURED CIVILIANS UNKNOWN BUT VERY LARGE--THE BRAVERY OF THE POLICE FORCE.",
+          "summary": "A riot in Chicago following an anarchist meeting resulted in the deaths of twelve policemen and a large number of civilians, with many more injured, as police and strikers clashed in the streets. The incident occurred during a time of labor unrest in the United States.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/El_Cerrito%2C_San_Miguel_County%2C_New_Mexico._The_WPA_road_gangs_employ_men_from_all_the_villages._In_._._._-_NARA_-_521236.jpg/1280px-El_Cerrito%2C_San_Miguel_County%2C_New_Mexico._The_WPA_road_gangs_employ_men_from_all_the_villages._In_._._._-_NARA_-_521236.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/05/archives/rioting-and-bloodshed-in-the-streets-of-chicago-police-mowed-down.html"
+        },
+        {
+          "headline": "THE DISPUTE WITH CANADA; CONGRESSMEN EXCITED BY THE SEIZURE OF THE ADAMS. MEASURES OFFERED IN BOTH HOUSES LOOKING TO PROMPT RETALIATION--SENATOR LOGAN'S PENSION HOBBY.",
+          "summary": "The US government is considering retaliation against Canada after the seizure of an American ship for fishing in Canadian waters, with Congress members introducing measures to address the issue. Senator Logan is also mentioned in the context of his pension hobby.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_evolution_fast.gif",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/11/archives/the-dispute-with-canada-congressmen-excited-by-the-seizure-of-the.html"
+        },
+        {
+          "headline": "GREEK PORTS BLOCKADED; THE ENTIRE COAST HELD BY THE EUROPEAN FLEET. NO VESSELS ALLOWED TO DEPART--THE KING REFUSES THE CABINET'S RESIGNATION--ENTHUSIASM FOR WAR.",
+          "summary": "A European fleet has blockaded Greek ports, holding the entire coast and preventing any vessels from departing, amidst enthusiasm for war and the king's refusal to accept the cabinet's resignation. This development is part of the broader tensions in Europe during this time.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg/1280px-View_of_Whitehall_from_Trafalgar_Square_which_is_blurred_with_pedestrian_and_carriage_traffic%2C_London%2C_1839.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/10/archives/greek-ports-blockaded-the-entire-coast-held-by-the-european-fleet.html"
+        },
+        {
+          "headline": "A GREAT LOSS OF LIFE; EFFECTS OF A VIOLENT STORM IN KANSAS CITY. THE COURT HOUSE AND OTHER BUILDING DEMOLISHED TWENTY LIVES KNOWN TO HAVE BEEN LOST AND SEVERAL PERSONS SERIOUSLY AND SOME FATALLY INJURED.",
+          "summary": "A violent storm in Kansas City caused significant destruction, including the demolition of the court house, and resulted in the loss of twenty lives, with several people seriously and some fatally injured. The disaster occurred during a period of rapid growth and development in the American heartland.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg/1280px-Kansas_City_-_Downtown_-_panoramio_%2815%29.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/12/archives/a-great-loss-of-life-effects-of-a-violent-storm-in-kansas-city-the.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/El_Cerrito%2C_San_Miguel_County%2C_New_Mexico._The_WPA_road_gangs_employ_men_from_all_the_villages._In_._._._-_NARA_-_521236.jpg/1280px-El_Cerrito%2C_San_Miguel_County%2C_New_Mexico._The_WPA_road_gangs_employ_men_from_all_the_villages._In_._._._-_NARA_-_521236.jpg",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Rioting in Chicago resulted in the deaths of twelve policemen and many civilians. The incident occurred during a time of labor unrest in the United States. A European fleet also blockaded Greek ports, holding the entire coast.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.125
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1986,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "U.S. APPROVAL NEAR FOR RADIATION USE ON FRESH FOODS",
+          "summary": "The FDA is set to approve the use of irradiation to preserve fresh fruits and vegetables, despite opposition from consumer and health organizations, as the food industry contends it is safe and effective. FDA Commissioner Dr. Frank E. Young announced the upcoming approval at a Congressional hearing.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1986/04/09/garden/us-approval-near-for-radiation-use-on-fresh-foods.html"
+        },
+        {
+          "headline": "REAGAN WARNS OF NEW ATTACKS IF NEEDED; ONE PLANE MISSING IN RAIDS ON 5 TARGETS",
+          "summary": "The US conducted air strikes on Libya, targeting what the White House called 'terrorist centers' and military bases, in retaliation for Libya's 'reign of terror' against the US, according to President Reagan. One US plane is missing after the raids.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/USF-111_Libya1986.JPG/1280px-USF-111_Libya1986.JPG",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/15/world/us-jets-hit-terrorist-centers-libya-reagan-warns-new-attacks-if-needed-one-plane.html"
+        },
+        {
+          "headline": "BRITAIN MOVES TO EXPEL 21 LIBYANS IT CALLS 'REVOLUTIONARY' ACTIVISTS",
+          "summary": "Britain is expelling 21 Libyan students suspected of involvement in 'revolutionary activities', including a pilot trainee who offered to form suicide squads to bomb US military targets, as part of a crackdown on Libyan activists. Home Secretary Douglas Hurd ordered the expulsions.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/1280px-Muammar_al-Gaddafi_at_the_AU_summit.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/23/world/britain-moves-to-expel-21-libyans-it-calls-revolutionary-activists.html"
+        },
+        {
+          "headline": "HIS CONDITION IS SERIOUS; KHARTOUM SECURITY REVIEWED",
+          "summary": "An American communications specialist at the US Embassy in Sudan was shot in the head by an unknown assailant while driving, and is in serious condition at a hospital in Khartoum, prompting a review of security measures. The incident occurs amid heightened tensions with Libya.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Beirutembassy.jpg",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/16/world/american-aide-embassy-shot-sudan-his-condition-serious-khartoum-security.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "The US conducted air strikes on Libya, targeting terrorist centers and military bases. The FDA was set to approve irradiation to preserve fresh foods. Tensions with Libya also led to expulsions of Libyan students from Britain and heightened security concerns in Sudan.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
