@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T06:39:05.997755+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1906,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "SAN FRANCISCO'S PEOPLE FED; FEDERAL AUTHORITIES RULE; Food in Plenty Reaches the City; Order is Being Restored. CIVIL AND MILITARY CLASH AVERTED BY A CONFERENCE Fire Almost Out and the Ferry House Is Safe -- Forty Bodies Found In One House -- Meals Cooked In The Streets -- Houses and Vehicles Seized By the Authorities.",
+          "summary": "A massive earthquake hit San Francisco, leaving nearly half the city in ruins, over 500 dead, and 50,000 homeless, with federal troops and militia guarding the city, as the water supply fails and fires rage on",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/1280px-Post-and-Grant-Avenue-Look.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/22/archives/san-franciscos-people-fed-federal-authorities-rule-food-in-plenty.html"
+        },
+        {
+          "headline": "OVER 500 DEAD, $200,000,000 LOST IN SAN FRANCISCO EARTHQUAKE; Nearly Half the City Is in Ruins and 50,000 Are Homeless. WATER SUPPLY FAILS AND DYNAMITE IS USED IN VAIN Great Buildings Consumed Before Helpless Firemen -- Federal Troops and Militia Guard the City, With Orders to Shoot Down Thieves -- Citizens Roused in Early Morning by Great Convulsion and Hundreds Caught by Falling Walls.",
+          "summary": "Food has reached San Francisco, and federal authorities are ruling the city, as order is being restored after a devastating earthquake, with meals being cooked in the streets and houses and vehicles being seized by authorities",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cypress_structure.jpeg/1280px-Cypress_structure.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/19/archives/over-500-dead-200000000-lost-in-san-francisco-earthquake-nearly.html"
+        },
+        {
+          "headline": "THE MINERS PROPOSE A NEW ARBITRATION; Would Let Judge Gray and Conciliation Board Adjudicate. OPERATORS DELAY ANSWER Will Think It Over and Reply on Monday -- But They Issue an Unconciliatory Statement. THE MINERS PROPOSE A NEW ARBITRATION",
+          "summary": "Miners have proposed a new arbitration plan, led by Judge George Gray, to resolve the anthracite coal difficulties, but operators are delaying their response and appear to be in an unconciliatory mood",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Harry_Fain%2C_coal_loader._Inland_Steel_Company%2C_Wheelwright_%5E1_%26_2_Mines%2C_Wheelwright%2C_Floyd_County%2C_Kentucky._-_NARA_-_541452_-_cropped_and_restored.jpg/1280px-Harry_Fain%2C_coal_loader._Inland_Steel_Company%2C_Wheelwright_%5E1_%26_2_Mines%2C_Wheelwright%2C_Floyd_County%2C_Kentucky._-_NARA_-_541452_-_cropped_and_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/06/archives/the-miners-propose-a-new-arbitration-would-let-judge-gray-and.html"
+        },
+        {
+          "headline": "MATTEUCCI TELLS OF THE ERUPTION; Stone Blocks Rose to a Height of 2,500 Feet. GREAT ELECTRIC DISPLAY Scientist Thinks It the Feature of the Outbreak. AMERICAN SHARED PERIL Perret Remained at the Observatory -- Volcano Exploded While Matteucci Was Interviewed. MATTEUCCI'S STORY OF THE ERUPTION",
+          "summary": "Professor Matteucci shared his experience and observations of a volcanic eruption, describing a massive electric display and stone blocks rising to a height of 2,500 feet",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rinjani_mount.jpg/1280px-Rinjani_mount.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/15/archives/matteucci-tells-of-the-eruption-stone-blocks-rose-to-a-height-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/1280px-Post-and-Grant-Avenue-Look.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The San Francisco earthquake devastated the city, leaving nearly half in ruins and over 500 dead. Federal authorities ruled the city, restoring order and providing food. The disaster also sparked a massive relief effort.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.182
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1992,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "NO EVIDENCE FOUND OF PATRIOT SALES BY ISRAEL TO CHINA",
+          "summary": "The State Department found no evidence that Israel had transferred Patriot missiles or technology to China, closing the investigation to ease tensions in US-Israel relations. This decision came as the US was navigating complex international relationships during a period of significant global change.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/1280px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/03/world/no-evidence-found-of-patriot-sales-by-israel-to-china.html"
+        },
+        {
+          "headline": "Quotations of the Day",
+          "summary": "President F. W. de Klerk of South Africa was welcomed to Nigeria by President Ibrahim Babangida, marking a significant moment in the easing of apartheid-era tensions. The visit symbolized a new era of cooperation between the two nations.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/1280px-Nelson_Mandela_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/10/nyregion/quotations-of-the-day-428692.html"
+        },
+        {
+          "headline": "ON THE ROAD WITH: Jacques Barzaghi; What's That Glimmering Behind Jerry Brown?",
+          "summary": "Jerry Brown, in his campaign for the Democratic presidential nomination, is accompanied by his longtime adviser Jacques Barzaghi, who plays a crucial role behind the scenes. As the presidential campaign unfolds, Brown's idealistic yet unpredictable approach is balanced by Barzaghi's influence.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Governor_Jerry_Brown_DIG14394-011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/02/garden/on-the-road-with-jacques-barzaghi-what-s-that-glimmering-behind-jerry-brown.html"
+        },
+        {
+          "headline": "Caterpillar's Trump Card; Threat of Permanently Replacing Strikers Gave Company Advantage Against Union",
+          "summary": "The Caterpillar Inc. strike ended abruptly after the company threatened to permanently replace striking workers, demonstrating the shift in power dynamics between management and unions in the US. This outcome reflects the changing landscape of labor relations, as unions face increased challenges from management.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Caterpillarhq.JPG/1280px-Caterpillarhq.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/16/us/caterpillar-s-trump-card-threat-permanently-replacing-strikers-gave-company.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/1280px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The State Department's investigation into Israel's alleged transfer of Patriot missiles to China was closed after no evidence was found. This decision eased tensions in US-Israel relations during a complex period of global change. President F. W. de Klerk's visit to Nigeria also marked a significant easing of apartheid-era tensions.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1987,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "Market Turmoil; STOCKS FALL 156, LOSS OF 8%, AFTER BIG SELL OFFS ABROAD; JOINT TALKS ON DEFICIT BEGIN",
+          "summary": "A wave of pessimism hit Wall Street, prompting a big selloff in stocks after large sell-offs abroad",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/1280px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/27/business/market-turmoil-stocks-fall-156-loss-8-after-big-sell-offs-abroad-joint-talks.html"
+        },
+        {
+          "headline": "Perilous Economic Cures; Some Experts See Tax Increases and Cuts In Spending by U.S. as Spurs to Recession",
+          "summary": "President Reagan and Congressional leaders are working towards a compromise on reducing the Federal budget deficit, but some economists warn that tax increases and spending cuts could spur a recession",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/President_Ronald_Reagan_and_Vice_President_Bush_Speaking_to_The_Press_in_The_Rose_Garden_-_DPLA_-_f94e088942d7a3230aa209232b218606.jpg/1280px-President_Ronald_Reagan_and_Vice_President_Bush_Speaking_to_The_Press_in_The_Rose_Garden_-_DPLA_-_f94e088942d7a3230aa209232b218606.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/28/business/perilous-economic-cures-some-experts-see-tax-increases-cuts-spending-us-spurs.html"
+        },
+        {
+          "headline": "9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT",
+          "summary": "The Senate Judiciary Committee voted against Judge Robert H. Bork's nomination to the Supreme Court, with both sides predicting his rejection by the full Senate if President Reagan pushes for a vote",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/President_Ronald_Reagan_Announcement_to_The_Press_Regarding_The_Nomination_of_Robert_Bork_As_Associate_Justice_of_Supreme_Court_in_The_Press_Room_-_DPLA_-_7ef7927aac9fe0e98a1a6cb088af638f.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/07/us/9-5-panel-vote-against-bork-sends-nomination-senate-amid-predictions-defeat.html"
+        },
+        {
+          "headline": "Carnation Settles Shareholder Suit for $13 Million",
+          "summary": "Carnation agreed to pay $13 million to settle a lawsuit claiming company officials made false statements during its acquisition by Nestle in",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nokia_office_building_in_Hervanta_Tampere_1.jpg/1280px-Nokia_office_building_in_Hervanta_Tampere_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/10/business/carnation-settles-shareholder-suit-for-13-million.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/1280px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The stock market crash occurred, with stocks falling 156 points after large sell-offs abroad. Economists warned that efforts to reduce the federal budget deficit could spur a recession. The Senate Judiciary Committee voted against Judge Robert H. Bork's Supreme Court nomination.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.998
+      }
+    }
+  ]
+}
