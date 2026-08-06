@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T06:42:59.142543+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1959,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "REBELS DISSOLVE CUBAN CONGRESS; OFFICIALS OUSTED; Urrutia Drops Governors and Mayors -- Castro Due in Havana Tomorrow KEY POSTS ARE FILLED Regime Will Rule by Decree for at Least 18 Months -- Free Election Planned REBELS DISSOLVE CUBAN CONGRESS",
+          "summary": "Cuban rebels dissolve Congress and oust officials, with Fidel Castro set to arrive in Havana, as the new regime plans to rule by decree and abolish gambling. This is happening in the aftermath of a revolution that overthrew the previous government.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/07/archives/rebels-dissolve-cuban-congress-officials-ousted-urrutia-drops.html"
+        },
+        {
+          "headline": "PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; Says They Are 'on All Sides' of the Question -- Supports Estimate of Revenue INFLATION FIGHT URGED Eisenhower Tells Newsmen He Still 'Despises' Controls on Wages and Prices President Derides Fiscal Critics For 'Budgetary Schizophrenia'",
+          "summary": "President Eisenhower criticizes budget critics for having conflicting views, warning about the dangers of inflation and expressing his dislike for wage and price controls. He urges a fight against inflation to support economic growth.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/1280px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/22/archives/president-sees-schizophrenia-in-budget-critics-says-they-are-on-all.html"
+        },
+        {
+          "headline": "KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'; Premier Cites Mikoyan Talks in Plea for Relaxation of East-West Tension AVOWS A FEAR OF WAR 'Clock Ticks On' as Plants Turn Out Arms, He Says at Indian Reception Khrushchev Sees 'Thaw' Possible In Relations of East and West",
+          "summary": "Nikita Khrushchev suggests a 'thaw' in the Cold War is possible, citing talks between him and other leaders, and expresses fear of war as arms production continues. He calls for a relaxation of East-West tensions.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kekkonen_ja_Khrushchev.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/khrushchev-says-thaw-is-possible-in-the-cold-war-premier-cites.html"
+        },
+        {
+          "headline": "BONN AIDES WEIGH SOVIET UNITY PLAN; Study Confederation Idea in Mapping Policy for West's German Talks Bonn Aides Study Soviet Plans For Reunification of Germany",
+          "summary": "West German officials study a Soviet proposal for a confederation, seeking elements that could help reunify Germany, with Chancellor Adenauer planning informal talks with British leaders. This comes as the country is divided and reunification efforts are underway.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/65th_Lindau_Nobel_Laureate_Meeting_%282015%29.jpg/1280px-65th_Lindau_Nobel_Laureate_Meeting_%282015%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/bonn-aides-weigh-soviet-unity-plan-study-confederation-idea-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Cuban rebels dissolved Congress and ousted officials, with Fidel Castro set to arrive in Havana. President Eisenhower criticized budget critics for having conflicting views, warning about inflation. Nikita Khrushchev suggested a 'thaw' in the Cold War was possible, citing talks and expressing fear of war.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.555
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1901,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "LONDON TOPICS OF THE WEEK; No Lesson in the Conservative Victory in Northeast Lanarkshire. Liberals Still Divided -- High Honors for Soldiers Who Have Not Yet Received Their Pay. Czolgosz's Crime Reacts Upon Irish Agitators, Whose Intemperate Language Is Condemned -- Active Movement for a Redistribution of Seats -- Labor Problems.",
+          "summary": "A fishermen's strike and a miners' convention are underway, while Irish agitators face backlash for their language after Czolgosz's crime, during a time of labor problems and international tensions",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Prostitutas_inicios_siglo_XX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/29/archives/london-topics-of-the-week-no-lesson-in-the-conservative-victory-in.html"
+        },
+        {
+          "headline": "PRINCE CHUN GOING HOME; He Has Been Ordered to Return to China Immediately. UNABLE TO VISIT AMERICA Berlin Kreuz Zeitung Thinks the Prince Has Been Treated Too Well While in Germany.",
+          "summary": "Prince Chun has been ordered to return to China immediately, after being treated well in Germany",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/2ndPrinceChun1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/26/archives/prince-chun-going-home-he-has-been-ordered-to-return-to-china.html"
+        },
+        {
+          "headline": "FRANCE GREETS THE CZAR; He Lands at Dunkirk and Later Goes to Compiegne. OBJECT OF THE FESTIVITIES Behind All the Fetes and Decorations Is the Desire of France to Prove Her Military and Naval Power.",
+          "summary": "France is hosting the Czar, showcasing its military and naval power with festivities and decorations in Dunkirk and Compiegne",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Visit_of_the_Czar_to_France_by_Tom_Browne_%281870%E2%80%931910%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/19/archives/france-greets-the-czar-he-lands-at-dunkirk-and-later-goes-to.html"
+        },
+        {
+          "headline": "ORDERS TO PRINCE CHUN; He Was Told Not to Consent to a Humiliating Ceremony. HAS ARRIVED AT POTSDAM The Expiatory Mission He Heads Shorn of Its Original Significance -- Germans Blame Von Buelow.",
+          "summary": "Prince Chun was told not to consent to a humiliating ceremony, as the expiatory mission he heads has lost its original significance, with Germans blaming Von Buelow",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prinz_Tschun_%C3%BCberreicht_Wilhelm_II.%2C_am_4_September_1901%2C_den_S%C3%BChnebrief_im_Neuen_Palais_zu_Potsdam.tiff/lossy-page1-1280px-Prinz_Tschun_%C3%BCberreicht_Wilhelm_II.%2C_am_4_September_1901%2C_den_S%C3%BChnebrief_im_Neuen_Palais_zu_Potsdam.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/04/archives/orders-to-prince-chun-he-was-told-not-to-consent-to-a-humiliating.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Prostitutas_inicios_siglo_XX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "President McKinley's assassination shocked the nation. Labor problems and international tensions escalated, with a fishermen's strike and miners' convention underway. Prince Chun was ordered to return to China immediately.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.125
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2013,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "2nd Bombing Suspect Caught After Frenzied Hunt Paralyzes Boston",
+          "summary": "A teenage suspect in the Boston Marathon bombings, Dzhokhar A. Tsarnaev, was taken into custody after a search that left his brother dead and the Boston area virtually shut down. The search was a significant event in the United States during a time of heightened security concerns.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/2013/04/20/us/boston-marathon-bombings.html"
+        },
+        {
+          "headline": "From Wrinkles to Rap, a Rock Award’s Shifting Cast ",
+          "summary": "Randy Newman, Public Enemy, and Quincy Jones were honored at the Rock and Roll Hall of Fame’s induction ceremony. The event celebrated the diverse contributions of these artists to the music industry.",
+          "image": "https://static01.nyt.com/images/2013/04/20/arts/20INDUCTION/20INDUCTION-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2013/04/20/arts/music/rock-hall-of-fame-embraces-randy-newman-public-enemy-and-others.html"
+        },
+        {
+          "headline": "In Gun Bill Defeat, a President’s Distaste for Twisting Arms",
+          "summary": "President Obama struggled to pass a gun bill, revealing his challenges in working with Congress. The defeat highlighted the complexities of the president's relationship with lawmakers.",
+          "image": "https://static01.nyt.com/images/2013/04/23/us/jp23OBAMA1/jp23OBAMA1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2013/04/23/us/politics/in-gun-bill-defeat-a-president-who-hesitates-to-twist-arms.html"
+        },
+        {
+          "headline": "Same Story, Different Screens: A Video Game That’s Also a Series",
+          "summary": "The video game Defiance and a television series of the same title were created in a collaboration between the Syfy network and Trion Worlds, a gaming company. This partnership represented a new approach to storytelling in the digital age.",
+          "image": "https://static01.nyt.com/images/2013/04/09/arts/defiance1/defiance1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2013/04/09/arts/video-games/defiance-both-a-tv-series-and-a-video-game.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Dzhokhar A. Tsarnaev was captured after a massive manhunt in Boston. The Boston Marathon bombing suspect's arrest followed a frenzied search that paralyzed the city. President Obama also faced challenges in passing a gun bill during this time.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.893
+      }
+    }
+  ]
+}
