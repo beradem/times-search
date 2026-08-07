@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T05:49:05.616070+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1960,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "KENNEDY APPEARS TO LEAD IN STATE; RELIGION A FACTOR; Estimates of Margin Range Up to a Million -- Catholic Issue May Be Decisive KENNEDY APPEARS TO LEAD IN STATE",
+          "summary": "John F. Kennedy appears to be leading in the state, with his Catholicism potentially being a decisive factor, as Dwight D. Eisenhower's role in the campaign is reviewed",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/1960_Kennedy_for_President_Campaign_Bumper_Sticker.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/06/archives/kennedy-appears-to-lead-in-state-religion-a-factor-estimates-of.html"
+        },
+        {
+          "headline": "KENNEDY ASSURES 3 WESTERN ALLIES ON COMMON GOALS; He Answers Congratulatory Messages From de Gaulle, Macmillan and Adenauer PLEDGES COOPERATION President-Elect Starts His Vacation in Palm Beach -- Stops in Washington Kennedy Assures Allies of West Of Cooperation on Common Aims",
+          "summary": "President-Elect John F. Kennedy assures Western allies, including de Gaulle, Macmillan, and Adenauer, of his commitment to cooperation on common goals, such as disarmament",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/1280px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/12/archives/kennedy-assures-3-western-allies-on-common-goals-he-answers.html"
+        },
+        {
+          "headline": "U.S. REPORT MAPS HIGH GOALS IN 60'S; TAX RISES HINTED; President's Board Calls for Sacrifices -- Asks Doubling of Help for Education CUT IN JOBLESS SOUGHT End of Racial Barriers in Colleges Is Seen -- More Foreign Aid Supported U.S. STUDY MAPS HIGH GOALS IN 60'S",
+          "summary": "The President's Board sets ambitious goals for the upcoming decade, including reducing unemployment and increasing education funding, which may require tax increases",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Economic-Planning-Council-in-the-meeting-391839662267.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/28/archives/us-report-maps-high-goals-in-60s-tax-rises-hinted-presidents-board.html"
+        },
+        {
+          "headline": "NEW YORK LOSES TWO HOUSE SEATS; JERSEY GAINS ONE; California Given Eight New Members on the Basis of Rise in Population NEW YORK LOSES TWO HOUSE SEATS",
+          "summary": "New York loses two House seats, while California gains eight, due to population shifts, with the West experiencing significant growth",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/World_population_growth%2C_1700%E2%80%932100.png/1280px-World_population_growth%2C_1700%E2%80%932100.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/16/archives/new-york-loses-two-house-seats-jersey-gains-one-california-given.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/1960_Kennedy_for_President_Campaign_Bumper_Sticker.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "John F. Kennedy's presidential campaign was influenced by his Catholicism, a potentially decisive factor. He assured Western allies of cooperation on common goals, such as disarmament. The President's Board set ambitious goals for the upcoming decade, including reducing unemployment.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.553
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1927,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "BERTAUD MAY LOSE POST IN BELLANCA; ITS FLIGHT IN DOUBT; Levine Considers Ousting Him, Insists Hop Will Be Made With Chamberlin as Pilot. BYRD'S AIDE DECLINES JOB Bertaud Wants to Buy Plane--Thomas L. Hill Also Offers $30,000, but Is Refused. AMERICA IN LOAD TESTS Commander Nearly Ready as the Weather Still Holds Fliers -- Lindbergh Visits About City. BYRD'S PLANE, AMERICA, IN THE AIR AT ROOSEVELT FIELD YESTERDAY. BERTAUD MAY LOSE POST IN BELLANCA",
+          "summary": "Charles Levine considers replacing Bertaud as the pilot of the Bellanca plane, while Commander Byrd's plane, America, is nearly ready for flight and Lindbergh visits the city, as the aviation world awaits news of potential record-breaking flights during a time of intense interest in transatlantic air travel",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bellanca_wb_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/05/18/archives/bertaud-may-lose-post-in-bellanca-its-flight-in-doubt-levine.html"
+        },
+        {
+          "headline": "FATE OF ATLANTIC FLIERS IS UNKNOWN AFTER DAY OF WATCHING AND RUMORS; BELLANCA PLANS TO START TOMORROW; WHITE BIRD MUST BE DOWN Grave Anxiety Is Felt for Nungesser and Coli, Now Long Overdue. WEATHER BAD ON ROUTE But Airmen Here Hope They May Be Safe -- Many Reports of Them Prove False. PARIS FEARS THE WORST Realizing Failure After Early News of Success, It Prays Fliers May Be Rescued. Map of Nungesser's Route Across Atlantic and Prevailing Weather Conditions",
+          "summary": "The fate of French aviators Nungesser and Coli is unknown after they failed to complete their transatlantic flight, sparking grave anxiety and rumors, as the world waits for news of their safety during a period of pioneering aviation attempts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Charles_Nungesser_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/05/10/archives/fate-of-atlantic-fliers-is-unknown-after-day-of-watching-and-rumors.html"
+        },
+        {
+          "headline": "BULK OF I.R.T. STOCK IS HELD IN WALL ST., HEARING DISCLOSES; About 90 Per Cent. of It Is a \"Stock Market Football,\" Untermyer Charges. DIRECTORS' HOLDINGS SMALL Hayden Stone, of Which Dahl Was Partner, Leads List of Voting Certificate Owners. MILLER WANTS 'FAIR VALUE' But B.M.T. Won't Insist on Replacement Cost in Case of Recapture, He Says at Opening of Inquiry. BULK OF I.R.T. STOCK IS HELD IN WALL ST.",
+          "summary": "A hearing reveals that about 90 percent of I.R.T. stock is held on Wall Street, with Hayden, Stone & Co. leading the list of voting certificate owners, prompting concerns about the concentration of ownership, as the financial world scrutinizes the holdings of major companies",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/South_Ferry_td_%282018-08-02%29_17_-_Peter_Minuit_Plaza_Subway.jpg/1280px-South_Ferry_td_%282018-08-02%29_17_-_Peter_Minuit_Plaza_Subway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/05/24/archives/bulk-of-irt-stock-is-held-in-wall-st-hearing-discloses-about-90-per.html"
+        },
+        {
+          "headline": "COMMONS APPROVES BREAK WITH SOVIET; REJECTS LABOR PLEA; Motion for Inquiry Fails by Vote of 367 to 118, Order for Rupture Being Substituted. CLYNES ASKS 'FAIR TRIAL' Chamberlain Replies Verdict Is Already Justified -- Lloyd George Questions Result. WHITE PAPER OFFERS PROOF Government's Record of Moscow Intrigues Discloses Reds Here and Orders Sent From London. COMMONS APPROVES BREAK WITH SOVIET",
+          "summary": "The British Commons approves a break with the Soviet Union, rejecting a labor plea and citing evidence of Moscow's intriques, with government officials defending the decision as justified, during a time of rising tensions between Western powers and the Soviet Union",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Treaty_of_Versailles_Signing%2C_Hall_of_Mirrors.jpg/1280px-Treaty_of_Versailles_Signing%2C_Hall_of_Mirrors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/05/27/archives/commons-approves-break-with-soviet-rejects-labor-plea-motion-for.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bellanca_wb_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The French aviators Nungesser and Coli were feared lost after their transatlantic flight attempt. Commander Byrd's plane, America, was nearly ready for flight, while Charles Levine considered replacing Bertaud as pilot of the Bellanca plane. The British Commons approved a break with the Soviet Union, citing evidence of Moscow's intriques.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.671
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2008,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
+          "summary": "President-elect Barack Obama started building his transition team, preparing to name a White House chief of staff, as he began his path to assuming power during a historic presidential transition, with George W. Bush still in office. Obama's team was taking shape quickly",
+          "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
+        },
+        {
+          "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
+          "summary": "China's economy, which had experienced rapid growth, was showing signs of slowing down more quickly than expected, sparking concerns about its impact on the global economy as the world struggled with financial uncertainty",
+          "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
+        },
+        {
+          "headline": "Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided",
+          "summary": "Some voters were still undecided on how to cast their ballots, even after the election, leaving many to wonder what influenced their decision-making process during a highly contested election season",
+          "image": "https://static01.nyt.com/images/2008/11/02/us/politics/02undecided_span.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/02/us/politics/02undecided.html"
+        },
+        {
+          "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
+          "summary": "Cable news channels were wondering what was next for them after the presidential election, which had drawn record viewership, as they looked to maintain their audience and find new ways to engage viewers in a changing media landscape",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flickr_-_Official_U.S._Navy_Imagery_-_The_SECNAV_interviews_with_MSNBC_broadcast_journalists_on_the_set_of_the_weekday_morning_talk_show_%22Morning_Joe%22_in_New_York..jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Barack Obama started building his transition team, preparing for a historic presidential transition. China's economy showed rapid signs of slowing down, sparking global concerns. The presidential election concluded, leaving cable news channels to reassess their strategies.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.507
+      }
+    }
+  ]
+}
