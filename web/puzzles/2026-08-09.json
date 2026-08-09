@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T05:16:03.748393+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1886,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "BARTHOLDI WELL PLEASED; VIEWING, WITH HIS FRIENDS, HIS COMPLETED WORK. THE FRENCH GUESTS IN THE CITY--A TRIP TO BEDLOW'S ISLAND--PREPARING FOR THE CELEBRATION.",
+          "summary": "French sculptor Frédéric Auguste Bartholdi inspects his completed work, likely the Statue of Liberty, with friends, as the city prepares for a celebration, during a time of increased cultural exchange between France and the United States",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/1280px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/26/archives/bartholdi-well-pleased-viewing-with-his-friends-his-completed-work.html"
+        },
+        {
+          "headline": "INDORSING MR. ROOSEVELT; AN ENTHUSIASTIC MEETING OF THE UNION LEAGUE. THE CLUB LISTENS TO RINGING SPEECHES AND PLEDGES ITS SUPPORT TO THE REPUBLICAN CANDIDATE.",
+          "summary": "The Union League holds an enthusiastic meeting to endorse Theodore Roosevelt, the Republican candidate for mayor, as the city's political landscape shifts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Theodore_Roosevelt_IV_-_Annual_Meeting_of_the_New_Champions_2012.jpg/1280px-Theodore_Roosevelt_IV_-_Annual_Meeting_of_the_New_Champions_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/22/archives/indorsing-mr-roosevelt-an-enthusiastic-meeting-of-the-union-league.html"
+        },
+        {
+          "headline": "CLOUD-CAPPED ST.ELIAS; PERILOUS WORK OF \"THE TIMES\" ALASKA EXPEDITIDN. CLIMBING THE ICE-LOCKED MOUNT. TOILING OVER THE GLACIERS TO THE BASE OF THE TOWERING MOUNTAIN --CREVASSES HIDDEN BY TREACHEROUS SNOW BRIDGES-THE PARTY TIED TO A ROPE TO SECURE SAFETY-AN ALTITUDE OF 7,200 FEET REACHED BEFORE NATURE'S IMPASSABLE BARRIER FORBADE FURTHER PROGRESS--THE HIGHEST CLIMB ABOVE THE SNOW LIMIT EVER MADE.",
+          "summary": "The Times' Alaska expedition team, led by an unnamed leader, climbs Mount St. Elias, reaching an altitude of 7,200 feet in a perilous journey across glaciers and treacherous snow bridges, during a period of increased exploration of the American West",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mount_Huxley_in_Alaska.jpg/1280px-Mount_Huxley_in_Alaska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/07/archives/cloudcapped-stelias-perilous-work-of-the-times-alaska-expeditidn.html"
+        },
+        {
+          "headline": "BRITISH PIRATES AT WORK; BURNING EASTPORT INVADED AND PILLAGED. THIEVES FROM OVER THE BORDER BOLDLY SAIL TO THE DISTRESSED TOWN AND ROB RIGHT AND LEFT.",
+          "summary": "British pirates invade and pillage the town of Eastport, burning and robbing as they go, in a brazen act of theft and violence along the border, as tensions rise between the US and its neighbors",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Mary_Celeste_as_Amazon_in_1861_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/19/archives/british-pirates-at-work-burning-eastport-invaded-and-pillaged.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/1280px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Statue of Liberty's completion was celebrated as French sculptor Frédéric Auguste Bartholdi inspected his work. The city prepared for festivities amidst increased cultural exchange with France. Theodore Roosevelt's mayoral campaign gained momentum with a Union League endorsement.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.135
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1968,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "EVENTS DEFERRED AS CITY'S GESTURE; Baseball Opener Put Off -- Easter Shoppers Stroll as Fragile Calm Remains Sports Events Here Are Postponed and Museums Close in Honor of Dr. King SCHOOLS TO HOLD MEMORIAL RITES City Continues Its Efforts to Restrain Disturbances -- Shoppers Are Busy",
+          "summary": "In the aftermath of Dr. King's death, New York City postpones sports events and closes museums, while shoppers stroll and schools plan memorial rites, as the city tries to maintain a fragile calm. Lyndon B. Johnson's administration is working to address the unrest.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/St._Patrick%27s_Cathedral_-_2026_%2855284018525%29.jpg/1280px-St._Patrick%27s_Cathedral_-_2026_%2855284018525%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/04/07/archives/events-deferred-as-citys-gesture-baseball-opener-put-off-easter.html"
+        },
+        {
+          "headline": "Negro Expatriates Finding Wide Opportunity in Asia; Armed Forces and Companies Working for U.S. Offer Training, Mobility and Chance at a Life of Equality Negro Expatriates, Military and Civilian, Find Wide Range of Opportunity in Asia MOBILITY OF LIFE ADDS TO THE LURE Many Call Treatment They Receive Close to Ideal of Complete Equality",
+          "summary": "Negro expatriates in Asia find wide opportunities for training, mobility, and equality while working for the US armed forces and companies. Many report being treated with near ideal equality.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/US_Navy_100507-N-8539M-035_U.S._Marines_and_Royal_Brunei_Land_Forces_soldiers_disembark_a_landing_craft_unit.jpg/1280px-US_Navy_100507-N-8539M-035_U.S._Marines_and_Royal_Brunei_Land_Forces_soldiers_disembark_a_landing_craft_unit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/04/30/archives/negro-expatriates-finding-wide-opportunity-in-asia-armed-forces-and.html"
+        },
+        {
+          "headline": "MORE SOLDIERS SENT TO CONTROL WASHINGTON AND CHICAGO RIOTS;; 5,000 Troops Are Flown To Chicago for Riot Duty 5,000 U.S. Troops Sent as Chicago Riots Spread; Death Toll Is 9, and 300 Are Hurt A YOUTH CURFEW ORDERED BY DALEY 7,500 Guard Troops Help to Patrol the City -800 Persons Seized",
+          "summary": "Troops are sent to control riots in Washington and Chicago, with 5,000 US troops flown to Chicago and a youth curfew ordered, as the cities struggle to maintain order. Governor Daley and the National Guard are involved in the efforts.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Leffler_-_1968_Washington%2C_D.C._Martin_Luther_King%2C_Jr._riots.jpg/1280px-Leffler_-_1968_Washington%2C_D.C._Martin_Luther_King%2C_Jr._riots.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/04/07/archives/more-soldiers-sent-to-control-washington-and-chicago-riots-5000.html"
+        },
+        {
+          "headline": "HUMPHREY URGES 'BRIDGES' TO CHINA IN QUEST OF PEACE; Avoids His Usual Defense of Vietnam War to Emphasize Need for 'Open Doors' HUMPHREY URGES 'BRIDGES' TO CHINA",
+          "summary": "Vice President Humphrey urges building 'bridges' to China in a speech about foreign policy, emphasizing the need for 'open doors' and the 'arts of peace', as he starts to rebuild his own identity in foreign affairs.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hubert_Humphrey_vice_presidential_portrait.jpg/1280px-Hubert_Humphrey_vice_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/04/23/archives/humphrey-urges-bridges-to-china-in-quest-of-peace-avoids-his-usual.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/St._Patrick%27s_Cathedral_-_2026_%2855284018525%29.jpg/1280px-St._Patrick%27s_Cathedral_-_2026_%2855284018525%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The assassination of Dr. King sparked widespread unrest, prompting cities to postpone sports events and close museums. Negro expatriates in Asia found opportunities for equality while working for US forces and companies. Troops were sent to control riots in Washington and Chicago.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.596
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1945,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "END COMES SUDDENLY AT WARM SPRINGS; Even His Family Unaware of Condition as Cerebral Stroke Brings Death to Nation's Leader at 63 ALL CABINET MEMBERS TO KEEP POSTS Funeral to Be at White House Tomorrow, With Burial at Hyde Park Home-- Impact of News Tremendous Funeral Tomorrow Afternoon ROOSEVELT IS DEAD; TRUMAN PRESIDENT News of Death Stuns Capital Personal Physician Surprised Flag at Capitol Lowered More Than Mere Words",
+          "summary": "Franklin D. Roosevelt, the nation's leader, has died suddenly at 63 due to a cerebral stroke, and Harry S. Truman has become the new president, with all cabinet members set to keep their posts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/President_Ford_announces_his_decision_to_pardon_former_President_Richard_Nixon_-_NARA_-_7140608.jpg/1280px-President_Ford_announces_his_decision_to_pardon_former_President_Richard_Nixon_-_NARA_-_7140608.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/13/archives/end-comes-suddenly-at-warm-springs-even-his-family-unaware-of.html"
+        },
+        {
+          "headline": "TRUMAN FOR LAWS ROOSEVELT ASKED; He Tells Leaders He Favors Trade, Fund and Other Plans, Opposes Draft Changes Hannegan Among Callers TRUMAN FOR LAWS ROOSEVELT ASKED Foreign Ministers Received First Veto by the President Senate Aid Pledged Truman",
+          "summary": "President Harry S. Truman has expressed support for laws proposed by his predecessor, including trade and fund plans, and has met with leaders to discuss these initiatives",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Harry_S_Truman%2C_bw_half-length_photo_portrait%2C_facing_front%2C_1945_%283x4_tilted_cropped%29_%28b%29.jpg/1280px-Harry_S_Truman%2C_bw_half-length_photo_portrait%2C_facing_front%2C_1945_%283x4_tilted_cropped%29_%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/20/archives/truman-for-laws-roosevelt-asked-he-tells-leaders-he-favors-trade.html"
+        },
+        {
+          "headline": "CARRIER ROOSEVELT IS CHRISTENED HERE; Widow Speaks at Floating of $90,000,000 Ship--Forrestal Reveals Navy's Strength For Strong Naval Force U.S.S. ROOSEVELT CHRISTENED HERE To Carry Eighty Fast Planes Veteran Marines in Guard Forrestal Lauds Roosevelt Navy's Growth Revealed Prospective Skipper Present",
+          "summary": "The aircraft carrier Franklin Delano Roosevelt has been christened, with the late president's widow in attendance, as the US Navy continues to grow in strength",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LONGWORTH%2C_NICHOLAS%2C_MRS._LCCN2016857348.jpg/1280px-LONGWORTH%2C_NICHOLAS%2C_MRS._LCCN2016857348.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/30/archives/carrier-roosevelt-is-christened-here-widow-speaks-at-floating-of.html"
+        },
+        {
+          "headline": "REPUBLICANS ASK PREVIEW OF HELP WE PLAN FOR WORLD; Vandenberg Says This Country Cannot Undertake to Be 'Permanent Almoner' CALLS FOR NINE LISTINGS Taft Submits Amendment to Assure End of Lend-Lease When War Needs End Taft Backs Vandenberg Points to Our Own Burdens REPUBLICANS ASK WORLD AID DATA",
+          "summary": "Republicans, including Senator Vandenberg, are seeking more information on plans for post-war aid and are calling for an end to non-military use of Lend-Lease after the war",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/John_Thune_117th_Congress_portrait_%28cropped%29.jpg/1280px-John_Thune_117th_Congress_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/10/archives/republicans-ask-preview-of-help-we-plan-for-world-vandenberg-says.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/President_Ford_announces_his_decision_to_pardon_former_President_Richard_Nixon_-_NARA_-_7140608.jpg/1280px-President_Ford_announces_his_decision_to_pardon_former_President_Richard_Nixon_-_NARA_-_7140608.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Franklin D. Roosevelt's death occurred suddenly due to a cerebral stroke. Harry S. Truman became the new president, supporting Roosevelt's proposed laws. The US Navy continued to grow, with the aircraft carrier Franklin Delano Roosevelt being christened.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.688
+      }
+    }
+  ]
+}
