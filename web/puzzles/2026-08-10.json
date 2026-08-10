@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T05:42:06.322242+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1979,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "NEW IRANIAN PLAN URGES U.N. TO MEET ON CONFLICT, BUT U.S. WANTS HOSTAGES FREED FIRST; WORLD INQUIRY ASKED; Letter Seeks Investigation of the Shah and return of Money From U.S.",
+          "summary": "Iran proposes a UN meeting to resolve its conflict with the US, but the US insists that the release of American hostages must come first, as the international community weighs in on the crisis during the Iran hostage crisis",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg/1280px-Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/11/14/archives/new-iranian-plan-urges-un-to-meet-on-conflict-but-us-wants-hostages.html"
+        },
+        {
+          "headline": "One Town's Reaction of Anger to the Crisis in Iran One Town's Reaction of Anger and Frustration to the Iranian Crisis Football Victory Hailed Some Action Is Called for Iranian Children in Parish",
+          "summary": "A Maryland town's residents express anger and frustration over the Iranian hostage crisis, reflecting the sentiment of many Americans, as the nation reacts to the ongoing crisis",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Iran_hostage_negotiations%2C_State_Magazine_2006-04-_Iss_500_%28IA_sim_state-magazine_2006-04_500%29_%28page_16_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/11/12/archives/one-towns-reaction-of-anger-to-the-crisis-in-iran-one-towns.html"
+        },
+        {
+          "headline": "Freighter Hits Tanker Off Texas, Spilling Oil 31 Are Believed Dead Freighter Rams Tanker Off Texas Oil Spills and 31 Are Feared Dead",
+          "summary": "A freighter collides with a tanker off the coast of Texas, causing a massive oil spill and killing 31 people, in an environmental disaster",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IXTOC_I_oil_well_blowout.jpg/1280px-IXTOC_I_oil_well_blowout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/11/02/archives/freighter-hits-tanker-off-texas-spilling-oil-31-are-believed-dead.html"
+        },
+        {
+          "headline": "Scotto Denies Knowing Political Gifts Were Illegal; Scotto Denies Wittingly Giving Illicit Campaign Donations; Anthony M. Scotto, center, with his wife, Marion, and James LaRossa, his lawyer, outside court. Mr. Scotto continued to testify in his own defense.",
+          "summary": "Anthony M Scotto, a top ILA official, denies knowingly making illegal campaign contributions to politicians including Gov Carey and Lt Gov Mario M Cuomo, as he testifies in his own defense",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22Blasts%22_from_The_Ram%27s_Horn_%281902%29_%2814598007498%29.jpg/1280px-%22Blasts%22_from_The_Ram%27s_Horn_%281902%29_%2814598007498%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/11/01/archives/scotto-denies-knowing-political-gifts-were-illegal-scotto-denies.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg/1280px-Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Iran hostage crisis escalated as Iran proposed a UN meeting, but the US insisted on hostage release first. The international community weighed in on the crisis. A freighter collision off Texas caused a massive oil spill, killing 31 people.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.691
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2001,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "BUSH AND TOP AIDES PROCLAIM POLICY OF 'ENDING' STATES THAT BACK TERROR; LOCAL AIRPORTS SHUT AFTER AN ARREST",
+          "summary": "President George W. Bush and his top aides announced a policy to target states that support terrorism, as local airports were shut down after an arrest, and authorities investigated potential security threats, including a person wearing an American Airlines crew uniform and carrying false pilot's identification. The move came in the aftermath of the terrorist attacks on the World Trade Center.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/14/us/after-attacks-airports-bush-top-aides-proclaim-policy-ending-states-that-back.html"
+        },
+        {
+          "headline": "Attacks Spur a Surge of Interest in Religion; As Attendance at Services Rises, Clerics Hope for a General Moral Uplift",
+          "summary": "Churches and religious groups saw a surge in attendance and interest as people sought comfort and solace in the wake of the World Trade Center disaster. Clerics hoped for a broader moral uplift as houses of worship became more crowded than they had been in years.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2013_Riverside_Church2.jpg/1280px-2013_Riverside_Church2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/30/nyregion/attacks-spur-surge-interest-religion-attendance-services-rises-clerics-hope-for.html"
+        },
+        {
+          "headline": "Voices Not Silenced, Feet Not Stilled; As They Return to Work, Artists Talk Performing in a Time of Tragedy",
+          "summary": "Performing artists in New York City found that the experience of being on stage had changed after the destruction of the World Trade Center, with some saying it had affected them profoundly. As they returned to work, artists discussed the challenges of performing in a time of tragedy.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Labudovo_jezero%2C_Balet_SNP-a%2C_Jelena_Le%C4%8Di%C4%87%2C_Andrej_Kol%C4%8Deriju%2C_foto_M._Polzovi%C4%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/20/theater/voices-not-silenced-feet-not-stilled-they-return-work-artists-talk-performing.html"
+        },
+        {
+          "headline": "After a Pause, Arts Companies Find Their Role; Nationwide, People Turn to Theaters and Concert Halls for a Sense of Community",
+          "summary": "Arts companies across the country found a new role as people turned to theaters and concert halls for a sense of community in the wake of the attacks on the World Trade Center and Pentagon. Directors, including Sir Peter Hall, noted that people seemed to want to be in theaters during times of tragedy.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Civic_Opera_House_060528.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/18/theater/after-pause-arts-companies-find-their-role-nationwide-people-turn-theaters.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The World Trade Center attacks prompted a policy to target states supporting terrorism. President George W. Bush announced this stance as airports shut down. Religious attendance surged as people sought comfort.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.881
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1876,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "A SPIRITED FIGHT WITH INDIANS.; GEN. CROOK'S COMMAND ENGAGED WITH SIOUX WARRIORS SEVERAL KILLED AND A NUMBER WOUNDED ON BOTH SIDES MARKED GALLANTRY OF THE TROOPS.",
+          "summary": "Gen. Crook's command engaged in a fight with Sioux warriors, resulting in several killed and wounded on both sides, during a time of conflict with Native American tribes in the western United States. The battle showed marked gallantry of the troops.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1876/06/24/archives/a-spirited-fight-with-indians-gen-crooks-command-engaged-with-sioux.html"
+        },
+        {
+          "headline": "MR. BLAINE'S DESPERATION.; CONFRONTED BY HIS OWN WRITING. A MEMORABLE INTERVIEW WITH THE WITNESS MULLIGAN LETTERS SECURES BY SUBTERFUGE WHICH THE COMMITTEE ORDER BLAINE TO SURRENDER HISPRIVATE MEMORANDUM BOOK OF THE DISTRIBUTION OF FORT SMITH STOCK.",
+          "summary": "Mr. Blaine was confronted with his own writing and ordered to surrender his private memorandum book regarding the distribution of Fort Smith stock, after a memorable interview with witness Mulligan. This incident occurred during a time of political scrutiny.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/James_G._Blaine_-_Brady-Handy.jpg/1280px-James_G._Blaine_-_Brady-Handy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1876/06/02/archives/mr-blaines-desperation-confronted-by-his-own-writing-a-memorable.html"
+        },
+        {
+          "headline": "A FINE DAY'S RACING.; SOME FAST HORSES AT JEROME PARK. THE THREE-QUARTER DASH WON BY MADGE BRILLIANT VICTORY OF LIZZIE R. BELMONT'S FIDDLESTICK CAPTURES THE WITHERS STAKE ORE KNOB WINS THE MILE-AND-A-HALF DASH THE MILE-AND A-QUARTER RACE WON BY SPINDRIFT.",
+          "summary": "A fine day of racing took place at Jerome Park, with several fast horses competing in various races, including the Three-Quarter Dash and the Withers Stake. The event was a success with good weather and a large attendance.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jerome_Park_Racetrack_1868.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1876/06/04/archives/a-fine-days-racing-some-fast-horses-at-jerome-park-the-threequarter.html"
+        },
+        {
+          "headline": "DELEGATES TO CINCINNATI.; THE WASHINGTON DEVELOPMENTS. ALABAMA 20 VOTES. CONTESTING DELEGATION. ARKANSAS 12 VOTES. CALIFORNIA 12 VOTES. CONNECTICUT 12 VOTES. DELAWARE 6 VOTES. GEORGIA 22 VOTES. ILLINOIS 42 VOTES. INDIANA 30 VOTES. IOWA 22 VOTES. KANSAS 10 VOTES. KENTUCKY 24 VOTES. LOUISIANA 16 VOTES. MAINE 14 VOTES. MARYLAND 16 VOTES. MASSACHUSETTS 26 VOTES. MICHIGAN 22 VOTES. MINNESOTA 10 VOTES. MISSISSIPPI 16 VOTES. MISSOURI 30 VOTES. NEBRASKA 6 VOTES. NVADA 6 VOTES. NEW-HAMPSHIRE 10 VOTES. NEW-JERSEY 18 VOTES. NEW-YORK 70 VOTES. NORTH CAROLINS 20 VOTES. OHIO 44 VOTES. OREGON 6 VOTES. PENNSYLVANIA 58 VOTES. RHODE ISLAND 8 VOTES. SOUTH CAROLINA 14 VOTES. TENNESSEE 24 VOTES. TEXAS 16 VOTES. VERMONT 10 VOTES. VIRGINIA 22 VOTES. WEST VIRGINIA 10 VOTES. WISCONSIN 20 VOTES. ARIZONA 2 VOTES. COLORADO 2 VOTES. DAKOTA 2 VOTES. DISTRICT OF COLUMBIA 2 VOTES. IDAHO 2 VOTES. MONTANA 2 VOTES. NEW-MEXICO 2 VOTES. UTAH 2 VOTES. WASHINGTON 2 VOTES. WYOMING 2 VOTES. SUMMARY BY STATES.",
+          "summary": "Delegates were chosen to attend a convention in Cincinnati, with various states having a certain number of votes, during a time of political convention in the United States. The list of delegates was summarized by state.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/RP1876.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1876/06/03/archives/delegates-to-cincinnati-the-washington-developments-alabama-20.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Gen. Crook's command engaged in a spirited fight with Sioux warriors, resulting in several killed and wounded on both sides. The battle showcased marked gallantry of the troops during a time of conflict with Native American tribes. Delegates were also chosen to attend a convention in Cincinnati.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.183
+      }
+    }
+  ]
+}
