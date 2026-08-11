@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T05:20:02.132821+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2010,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "BP Is Criticized\r\nOver Oil Spill, but U.S. Missed\r\nChances to Act",
+          "summary": "A massive oil spill is approaching the Louisiana coast, with BP America facing criticism for its response and the US government acknowledging it missed chances to act, as the crisis unfolds during a period of increased environmental concern",
+          "image": "https://static01.nyt.com/images/2010/05/01/us/01gulf1-cnd/01gulf1-cnd-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/05/01/us/01gulf.html"
+        },
+        {
+          "headline": "Republicans Reject Finance Bill Again, and Offer a Plan of Their Own",
+          "summary": "President Obama rebukes the Senate after Republicans reject a Democratic attempt to bring a regulatory bill to the floor, prompting a Republican counteroffer",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/McCarthy_Cohn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2010/04/28/business/28regulate.html"
+        },
+        {
+          "headline": "Mortgage Deals\r\nUnder Scrutiny as Goldman Faces Senators",
+          "summary": "Goldman Sachs faces a Senate hearing over its actions during the housing crisis, as the company's mortgage deals come under scrutiny amidst a legal storm",
+          "image": "https://static01.nyt.com/images/2010/04/27/business/27goldman_CA0/27goldman_CA0-thumbStandard.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/04/27/business/27goldman.html"
+        },
+        {
+          "headline": "Elite U.S. Units Step Up Effort in Afghan City Before Attack",
+          "summary": "Elite US forces are targeting insurgents in Kandahar to weaken the Taliban, as President Obama's Afghanistan strategy faces a pivotal test in the looming battle for the city, during an intensified military campaign",
+          "image": "https://static01.nyt.com/images/2010/04/26/world/26kandahar_CA0/26kandahar_CA0-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/04/26/world/asia/26kandahar.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2010/05/01/us/01gulf1-cnd/01gulf1-cnd-articleLarge.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "The BP oil spill was approaching the Louisiana coast, sparking criticism of the company's response and US government inaction. The crisis unfolded during a period of increased environmental concern. Republicans rejected a finance bill and offered a counterplan.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.58
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1932,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "HOOVER VETOES PERIL ROOSEVELT PROGRAM; EXTRA SESSION SEEN; Senate Republicans Predict Farm Aid, Beer and Other Bills Will Fail Next Month. NORRIS DUBIOUS OF SPEED Thinks Agriculture Must Wait -- \"3-Way\" Relief Plan Gains Favor Among Democrats. BONUS AND INFLATION BACK Patman to Press for Action Again -- Rankin Urges \"Liberty Notes\" for \"Controlled Expansion.\" VETOES ENDANGER DEMOCRATS' PLANS",
+          "summary": "President Herbert Hoover vetoes a program, which is expected to block its passage in the short session, with Senate Republicans predicting farm aid and other bills will fail, and Democrats considering a '3-way' relief plan. This comes as the country struggles with economic hardship during the Great Depression.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/1280px-Lange-MigrantMother02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/29/archives/hoover-vetoes-peril-roosevelt-program-extra-session-seen-senate.html"
+        },
+        {
+          "headline": "STIMSON TO REVEAL DEBT PLEAS TODAY; BORAH SEES PERILS; Roosevelt Is Not Consulted, but May Be When the President Returns to Washington. SENATOR FOR NEW POLICIES Borah Sees Program Needed to Save Civilization From an Economic Collapse. MANY RUMORS ARE DENIED High Official Says There Were No \"Secret Understandings\" Concerning Reopening of Debts Question. STIMSON TO REVEAL DEBT PLEAS TODAY",
+          "summary": "Henry Stimson is set to reveal debt pleas, while Senator Borah sees the need for new policies to save civilization from economic collapse, and rumors of secret understandings are denied. This comes as the global economy teeters on the brink of disaster.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg/1280px-Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/13/archives/stimson-to-reveal-debt-pleas-today-borah-sees-perils-roosevelt-is.html"
+        },
+        {
+          "headline": "160 'FAVORITE SONS' FOR CABINET POSTS REVEALED BY SURVEY; Canvass Shows Roosevelt Has a Distinguished List From Which to Choose. 44 STATES HAVE 'NOMINEES' Idaho, Louisiana, Wyoming and North Dakota Offer None, but Others Make Up for Them. NEW YORK STATE GIVES 13 And Pennsylvania a Half Dozen -- Governors and Congress Members Bring Possibilities Up to 570. Scores of Prominent Democrats Suggested as Members of Roosevelt's Cabinet",
+          "summary": "A survey reveals 160 'favorite sons' are in the running for cabinet posts under the new administration, with 44 states having nominees and prominent Democrats being considered. This comes as the country looks to the future and a new leadership.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/1280px-Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/13/archives/160-favorite-sons-for-cabinet-posts-revealed-by-survey-canvass.html"
+        },
+        {
+          "headline": "PRESIDENT PROPOSES NON-PARTISANACTION TO CONTINUE REVIVAL; First Public Utterance Since Election Night Cheered by Crowd at Glendale, Cal. POLITICAL CAMPAIGN 'OVER' He Will 'Work for Unity' in Next Four Months and Also Aid 'Every Sound Measure' Later. PAYS VISIT TO HOOVER DAM Changing Plans to Make Inspection in Nevada by Night, He Will Now Reach Capital Wednesday. HOOVER PROPOSES NON-PARTISAN MOVE",
+          "summary": "President Herbert Hoover proposes non-partisan action to continue economic revival, calling for unity and promising to aid sound measures, as he visits the Hoover Dam and changes his plans to reach the capital. This comes as the president seeks to work across party lines to address the nation's economic struggles.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2017_Aerial_view_Hoover_Dam_4774.jpg/1280px-2017_Aerial_view_Hoover_Dam_4774.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/13/archives/president-proposes-nonpartisanaction-to-continue-revival-first.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/1280px-Lange-MigrantMother02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Herbert Hoover vetoed a relief program, blocking its passage and endangering Democratic plans. Senate Republicans predicted farm aid and other bills would fail. The country struggled with economic hardship during the Great Depression.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1919,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "BIG FIVE FINISH REVISING TREATY; DELIVER IT MONDAY; Germans Must Sign by Saturday or Face New Invasionand Blockade. MARCH TO BEGIN SUNDAY If Immediate Acceptance Is Given Signing Will Take Placeat Versailles Tomorrow. CIVIL RULE FOR RHINE AREA New Draft Provides for Superseding Martial Law in Occupied Regions. Senate Action Will Have No Effect on Treaty Plans BIG FIVE FINISH REVISING TREATY",
+          "summary": "The Big Five have finished revising the treaty and will deliver it, with Germans required to sign or face a new invasion and blockade, as civil rule is planned for the Rhine area during the aftermath of World War I. The treaty's fate is unaffected by Senate action.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/1280px-Treaty_of_Versailles%2C_English_version.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1919/06/15/archives/big-five-finish-revising-treaty-deliver-it-monday-germans-must-sign.html"
+        },
+        {
+          "headline": "TREATY \"LEAK\" IS TRACED; Entitled to Document as Red Cross Ofificial, Davison Testifies. DENIES ANY IMPROPRIETY Root, Too, Resents Imputation in Senate That Text Was \"Stolen Goods.\" OTHER BANKERS ARE HEARD Morgan and Vanderlip Deny Having Seen Copy--Inquiry Likely to be Dropped. Light on State of Europe. Only One Copy Traced. Testimony on Treaty Leak tJAT mAY rESULT IN Inquiry Being Droppe. Root on Wilson's Course. Likely to Suspend Inquiry. Telegram from Mr. Schiff. Ban Merely on Distribution. Rights of the Senate. \"President of the World.\" As to Other Copies in New York. Condition of Europe. Got Treaty from Lamont. Heard of Other Copies Here. Mr. Vanderlip's Testimony. Increase of Foreign Loans. LAMONT WITHHOLDS COMMENT Silent in Paris About Subpoena to Testify at Leak Hearing. SYMPATHETIC WITH SENATE. Several London Papers Like Its Action in Publishing Treaty.",
+          "summary": "A Senate inquiry into a leaked treaty document has heard testimony from Root and Davison, with other bankers denying any involvement, and the inquiry may be dropped, as the US navigates the post-World War I era. President Wilson's course is supported by Root.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/President_Woodrow_Wilson_asking_Congress_to_declare_war_on_Germany%2C_2_April_1917.jpg/1280px-President_Woodrow_Wilson_asking_Congress_to_declare_war_on_Germany%2C_2_April_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1919/06/12/archives/treaty-leak-is-traced-entitled-to-document-as-red-cross-ofificial.html"
+        },
+        {
+          "headline": "TO COURT-MARTIAL GERMAN ADMIRAL FOR SINKING SHIPS; Paris Council to Take Up Question of Punishment forFleet's Loss.SHOT OWN MEN AT SCAPACrews Rebelled as the ShipsSank in Clouds of Steam, DeClare Witnesses.BERLIN SEES NEW PENALTYItalians and French Lament the Loss of Ships Destined asTheir Share. Sunk Ships on Concerted Signal TO COURT-MARTIAL GERMAN ADMIRAL Many of the 5,000 Sailors Missing. Ships Plunged in Clouds of Steam. British Hauled Down Enemy Flag. Germans Leaped Into the Sea. DENY OTHER SINKINGS. Report That Home Fleet Was Sunk by Sailors Contradicted. BRITISH KNEW OF DANGER. But It Was Practically Impossible to Keep Full Watch. REPARATIONS COVER SINKING. Paris Sees No Change in Situation Affecting Peace. BERLIN SEES MORE TO PAY. Public Makes No Demonstration on First News of Fleet.",
+          "summary": "A German admiral will be court-martialed for sinking ships, with the Paris Council to decide on punishment, as the incident has sparked international concern, particularly among the Italians and French, in the wake of World War I.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/SMS_Bayern_sinking.jpg/1280px-SMS_Bayern_sinking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1919/06/24/archives/to-courtmartial-german-admiral-for-sinking-ships-paris-council-to.html"
+        },
+        {
+          "headline": "LUSTY BRITISH CHEERS FOR FLIER; Gracefully She Drops in Plymouth Harbor, Escorted from Far Out at Seaby British Airplanes.GREETED BY MAYOR AT THE MAYFLOWER ROCKAcclaimed by Throngs in Narrow Streets--500 Mile Trip from Ferrol Made At 72-Mile ClipLeaky Radiator Caused Mondego Halt. Flying Escort Puts to Sea. First Glimpse of the Ocean Crosser. Leaky Water Jacket Brought Her Down at Mondega River. Wireless Reports to the Rochester. At the Mayflower Stone. Calm Demeanor of the Crew Excites General Comment. Navy Doesn't Want to Gamble, Says Towers.",
+          "summary": "The NC-4 flying boat has arrived in Plymouth Harbor, escorted by British airplanes, after a 500-mile trip from Ferrol, marking a significant achievement in aviation, as the world witnesses a new era of flight capabilities.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/1280px-NASA-Apollo8-Dec24-Earthrise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1919/06/01/archives/lusty-british-cheers-for-flier-gracefully-she-drops-in-plymouth.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/1280px-Treaty_of_Versailles%2C_English_version.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Big Five finished revising the treaty, requiring Germany to sign or face invasion and blockade. Civil rule was planned for the Rhine area, and a Senate inquiry into a leaked treaty document heard testimony. A German admiral was to be court-martialed for sinking ships.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.605
+      }
+    }
+  ]
+}
