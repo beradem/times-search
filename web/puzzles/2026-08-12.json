@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T05:45:04.978833+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1898,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "CAPT. SIGSBEE'S NARRATIVE; The Maine's Commander Knew His Ship Was Gone as Soon as He Heard the Explosion. GOOD DISCIPLINE PREVAILED Survivors Gathered on the Poop and the Captain Directed the Work of Rescue -- The Ship Was Ready for Attack.",
+          "summary": "Captain Charles D. Sigsbee described the explosion of the USS Maine in detail, saying he knew the ship was gone as soon as he heard the blast, and directed rescue efforts afterwards",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/USS_Maine_%28ACR-1%29_starboard_bow_view%2C_1898_%2826510673494%29.jpg/1280px-USS_Maine_%28ACR-1%29_starboard_bow_view%2C_1898_%2826510673494%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/20/archives/capt-sigsbees-narrative-the-maines-commander-knew-his-ship-was-gone.html"
+        },
+        {
+          "headline": "THE MAINE BLOWN UP; Terrible Explosion on Board the United States Battleship in Havana Harbor. MANY PERSONS KILLED AND WOUNDED. All the Boats of the Spanish Cruiser Alfonso XII. Assisting in the Work of Relief. None of the Wounded Men Able to Give Any Explanation of the Cause of the Disaster.",
+          "summary": "The USS Maine battleship exploded in Havana Harbor, killing and wounding many, with Spanish ships assisting in relief efforts, but the cause of the disaster remains unknown",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Maine_Mast_Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/16/archives/the-maine-blown-up-terrible-explosion-on-board-the-united-states.html"
+        },
+        {
+          "headline": "MINISTER DE LOME IS OUT; His Resignation Promptly Accepted by the Spanish Cabinet, but the Press Is Embittered. METHODS OF CUBANS RESENTED The Incident Expected in Diplomatic Circles to Have an Important Bearing on Cuban Affairs -- Gen. Woodford Guarded.",
+          "summary": "Spanish Minister De Lome resigned after criticizing President William McKinley's Cuban policy in a letter, which is expected to impact Cuban affairs and has embittered the Spanish press",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Enrique_Dupuy_de_L%C3%B4me.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/11/archives/minister-de-lome-is-out-his-resignation-promptly-accepted-by-the.html"
+        },
+        {
+          "headline": "CUBAN AUTONOMIST REGIME; Jose Maria Galvez, President of the Cabinet, Discusses Its Programme. REPORT OF A CRISIS DENIED Peace Will Come, He Declares, by the Combined Action of Arms and Politics -- No Negotiations with the Insurgents.",
+          "summary": "Jose Maria Galvez, President of the Cuban Autonomist Cabinet, discussed the regime's program, denying a crisis and stating that peace will come through a combination of military and political action",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Caba_Reina_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/07/archives/cuban-autonomist-regime-jose-maria-galvez-president-of-the-cabinet.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/USS_Maine_%28ACR-1%29_starboard_bow_view%2C_1898_%2826510673494%29.jpg/1280px-USS_Maine_%28ACR-1%29_starboard_bow_view%2C_1898_%2826510673494%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The USS Maine's explosion occurred in Havana Harbor, killing and wounding many. Captain Charles Sigsbee directed rescue efforts after the blast. Spanish Minister De Lome resigned amidst tensions over Cuban policy.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.158
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1892,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "LANDED ON ELLIS ISLAND; NEW IMMIGRATION BUILDINGS OPENED YESTERDAY. A ROSY-CHEEKED IRISH GIRL THE FIRST REGISTERED -- ROOM ENOUGH FOR ALL ARRIVALS -- ONLY RAILROAD PEOPLE FIND FAULT.",
+          "summary": "A new immigration building on Ellis Island has opened, with a young Irish girl being the first to register, during a time of high immigration to the United States",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ellis_Island_hospital_window_mural_%2801897%29.jpg/1280px-Ellis_Island_hospital_window_mural_%2801897%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/02/archives/landed-on-ellis-island2-new-immigration-buildings-opened-yesterday.html"
+        },
+        {
+          "headline": "ENGLAND'S NOBLE DEAD; MANNING'S FUNERAL TO FOLLOW THE YOUNG DUKE'S. TO BE MADE VERY IMPRESSIVE -- RUMORS OF PEACE IN ITALY BETWEEN CHURCH AND STATE -- ONE OF BISMARCK'S FRIENDS IN TROUBLE -- BULGARIA THE ALLIED POWERS.",
+          "summary": "The funeral of a young duke is to be held, and rumors of peace between the church and state in Italy are emerging, as European nobility and politics are in the spotlight",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haemophilia_of_Queen_Victoria_-_family_tree_by_shakko.jpg/1280px-Haemophilia_of_Queen_Victoria_-_family_tree_by_shakko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/17/archives/englands-noble-dead-mannings-funeral-to-follow-the-young-dukes-to.html"
+        },
+        {
+          "headline": "SHERMAN MEN ARE VICTORS; A SHARP FIGHT. BUT THEY NOMINATE LAYLIN AS SPEAKER. THE FORAKER FACTION SURPRISED AND DOWNCAST -- SHERMAN'S ELECTION TO THE UNITED STATES SENATE PRACTICALLY ASSURED.",
+          "summary": "John Sherman's supporters have won a sharp fight, nominating Laylin as speaker and increasing Sherman's chances of being elected to the United States Senate",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Decanter_MET_DT188.jpg/1280px-Decanter_MET_DT188.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/03/archives/sherman-men-are-victors-a-sharp-fight-but-they-nominate-laylin-as.html"
+        },
+        {
+          "headline": "EUROPE'S EYE ON GERMANY; THE EMPEROR FACE TO FACE WITH LIBERAL OPPOSITION. A SITUATION THAT WAS TO BE YORE- SEEN -- FRENCH DEVOTION TO GER- MAN PEER -- AS TO POPE LEO'S HEALTH -- DUKE CONSTANTINE'S DEATH -- THE GRIP STILL IN FORCE.",
+          "summary": "The German Emperor is facing liberal opposition, and European eyes are on Germany as the Emperor's luck in politics seems to be ending, amidst a storm of partisan feeling in the Prussian Diet",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kaiser_Wilhelm_PW.jpg/1280px-Kaiser_Wilhelm_PW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/31/archives/europes-eye-on-germany-the-emperor-face-to-face-with-liberal.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ellis_Island_hospital_window_mural_%2801897%29.jpg/1280px-Ellis_Island_hospital_window_mural_%2801897%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Ellis Island immigration building opened, registering a young Irish girl first. European nobility and politics were also in the spotlight, with a young duke's funeral and rumors of peace in Italy. Germany's Emperor faced liberal opposition, amidst a tumultuous Prussian Diet.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.187
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1970,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "CREW OF CRIPPLED APOLLO 13 STARTS BACK AFTER ROUNDING MOON AND FIRING ROCKET; MEN APPEAR CALM DESPITE LOW RESERVES",
+          "summary": "The crew of Apollo 13 is heading back to Earth after a successful maneuver around the moon, despite limited power reserves",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1970/04/15/archives/crew-of-crippled-apollo-13-starts-back-target-is-pacific-chance-of.html"
+        },
+        {
+          "headline": "NIXON TO PULL OUT 150,000 FROM VIETNAM IN A YEAR; SAYS HANOI BLOCKS PEACE",
+          "summary": "President Richard Nixon announced plans to withdraw 150,000 troops from Vietnam over the next year, citing a lack of progress in peace talks with Hanoi",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/1280px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/21/archives/nixon-to-pull-out-150000-from-vietnam-in-a-year-says-hanoi-blocks.html"
+        },
+        {
+          "headline": "DEMOCRATS PICK GOLDBERG BUT HE ‘WAIVES’ SELECTION; PLANS A RACE BY PETITION;",
+          "summary": "Democrats selected a candidate, but he declined the nomination and instead plans to run as an independent",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/DPDukakis1988.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/02/archives/democrats-pick-goldberg-but-he-waives-selection-plans-a-race-by.html"
+        },
+        {
+          "headline": "Judge Blackmun of Minnesota Is Named To Supreme Court Seat by the President",
+          "summary": "The President nominated Judge Harry Blackmun to fill a seat on the Supreme Court",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Justice_Blackmun_Official.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/15/archives/judge-blackmun-of-minnesota-is-named-to-supreme-court-seat-by-the.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Apollo 13's crew successfully maneuvered around the moon and began their return to Earth despite limited power reserves. President Nixon announced plans to withdraw 150,000 troops from Vietnam. Judge Harry Blackmun was nominated to the Supreme Court.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.636
+      }
+    }
+  ]
+}
