@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T05:47:30.153740+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1969,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "19-HOUR CONCERT ENDS BETHEL FAIR; Producer Says Town Has Asked Festival to Return",
+          "summary": "A 19-hour concert featuring Jimi Hendrix and Sha-Na-Na ended at a fair in Bethel, with the town asking the festival to return, amidst a sea of debris and reports of drug use, during a time of social change in the US. The festival's conduct was praised by the sheriff and others.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Woodstock_poster.jpg/1280px-Woodstock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/08/19/archives/19hour-concert-ends-bethel-fair-producer-says-town-has-asked.html"
+        },
+        {
+          "headline": "NIXON VISITS INDIA; HE AGAIN PRAISES REGIME IN SAIGON; Says His Talk With Thieu Disproves Speculation on a Reduced Commitment IN NEW DELHI 22 HOURS President and Mrs. Gandhi Discuss Asia and the War -- Arrives in Pakistan Nixon Visits India and Sees Mrs. Gandhi; He Again Praises Thieu Government ASIA AND THE WAR SUBJECT OF TALKS 22-Hour Stay in New Delhi -- President Is Pleased by His Flight to Saigon",
+          "summary": "President Nixon visited India, where he expressed strong support for the South Vietnamese government and its leader Nguyen Van Thieu, as the US was involved in the Vietnam War. He met with Prime Minister Gandhi to discuss Asia and the war.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nixon_30-0316a_%28cropped%29%28b%29.jpg/1280px-Nixon_30-0316a_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/08/01/archives/nixon-visits-india-he-again-praises-regime-in-saigon-says-his-talk.html"
+        },
+        {
+          "headline": "NIXON ENDS TOUR OF ASIA WITH HOPE FOR ERA OF PEACE; Flies to Bucharest After Discussions in Pakistan on U.S. Arms Embargo TALKS TERMED CORDIAL Support of Self-Reliant Asia Is Promised During His Stopover in Lahore Nixon Ends Asian Tour and Leaves for Rumania After Voicing Hope for Peace EMBARGO ON ARMS BY U.S. DISCUSSED Talks in Lahore Described as 'Helpful' by President -- Flies to Bucharest",
+          "summary": "President Nixon concluded his tour of Asia with a message of hope for a new era of peace, after discussing US arms embargoes and supporting self-reliance in the region, as the Cold War continued. He flew to Bucharest after his stop in Pakistan.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/President_Richard_Nixon_and_Premier_Chou_En-Lai_Shake_Hands_at_the_Nixons%27_Arrival_in_Peking%2C_China_-_DPLA_-_315dbcc0e8b46e1bc678fde12bef9eb8.jpg/1280px-President_Richard_Nixon_and_Premier_Chou_En-Lai_Shake_Hands_at_the_Nixons%27_Arrival_in_Peking%2C_China_-_DPLA_-_315dbcc0e8b46e1bc678fde12bef9eb8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/08/02/archives/nixon-ends-tour-of-asia-with-hope-for-era-of-peace-flies-to.html"
+        },
+        {
+          "headline": "ROCKEFELLER CALLS NIXON'S PROPOSAL UNFAIR TO STATE; Contends Industrial Areas Would Be 'Shortchanged' by Welfare Reforms GOVERNOR UNSATISFIED He Sees No 'Significant' Aid for Regions Where Relief Exerts Heaviest Burden Rockefeller Charges Nixon's Proposal on Welfare Reforms Shortchanges Industrialized States",
+          "summary": "Governor Rockefeller criticized President Nixon's welfare reform proposal, saying it would unfairly shortchange industrialized states like New York, which already have high payment standards, during a time of domestic policy debate. Senator Javits and others also weighed in on the proposal.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/President_Gerald_Ford_announcing_Vice_President_nominee_Nelson_Rockefeller_%28cropped_b%29.jpg/1280px-President_Gerald_Ford_announcing_Vice_President_nominee_Nelson_Rockefeller_%28cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/08/11/archives/rockefeller-calls-nixons-proposal-unfair-to-state-contends.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Woodstock_poster.jpg/1280px-Woodstock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The Woodstock music festival concluded with a 19-hour concert. President Nixon visited India and Pakistan, expressing support for the South Vietnamese government. He then ended his Asian tour, voicing hope for a new era of peace.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.581
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1989,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "EAST GERMANS FLOOD THE WEST, MOST TO REJOICE, THEN GO HOME; KOHL AND KRENZ AGREE TO MEET",
+          "summary": "A million East Germans visited West Berlin and West Germany, with most returning home, as East Germany's leader Krenz agreed to meet with West German leader Kohl",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/12/world/clamor-east-open-frontier-east-germans-flood-west-most-rejoice-then-go-home-kohl.html"
+        },
+        {
+          "headline": "Western Europe Pledges Aid",
+          "summary": "Western European countries pledged aid to Eastern bloc nations transitioning to democracy, and agreed to establish a bank for low-interest loans",
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/La_Grande_Arche_de_la_D%C3%A9fense.jpg/1280px-La_Grande_Arche_de_la_D%C3%A9fense.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/19/world/western-europe-pledges-aid.html"
+        },
+        {
+          "headline": "WILDER SEEMS VIRGINIA WINNER, FLORIO IN; VOTERS, 5-4, APPROVE NEW YORK CHARTER; First Black Governor, If Recount Upholds Vote",
+          "summary": "L. Douglas Wilder appeared to win the Virginia governorship, which would make him the first black governor, pending a recount, as voters also approved a new New York City charter",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Douglas_Wilder_2003_NIH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/08/us/dinkins-defeats-giuliani-close-race-wilder-seems-virginia-winner-florio-voters-5-037689.html"
+        },
+        {
+          "headline": "POSTINGS: Reverse Mortgages and Repairs; New Help for Older Homeowners",
+          "summary": "The US government introduced programs to help low-income older homeowners with loans and grants for reverse mortgages and repairs, including $200 million in guaranteed funds from Fannie Mae",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1989/11/12/realestate/postings-reverse-mortgages-and-repairs-new-help-for-older-homeowners.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The fall of the Berlin Wall led to a massive influx of East Germans visiting West Berlin and West Germany. East Germany's leader Krenz agreed to meet with West German leader Kohl amidst the chaos. Western European countries pledged aid to support Eastern bloc nations' transition to democracy.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2003,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "ALLIES CONFRONT BAGHDAD DEFENDERS; IRAQIS REPEL COPTERS; ONE GOES DOWN",
+          "summary": "American forces gather south of Baghdad, attacking Saddam Hussein's defense with artillery fire and helicopters, but face strong resistance and lose one helicopter, as Iraq appears to concentrate its forces in cities",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg/1280px-U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2003/03/25/world/nation-war-attack-allies-confront-baghdad-defenders-iraqis-repel-copters-one.html"
+        },
+        {
+          "headline": "'Chicago' Is Big Oscar Winner, but 'Pianist' Surprises; Hollywood Glamour Still Stars at Ceremony, but Security and War Play Supporting Roles",
+          "summary": "Chicago wins several Oscars, but The Pianist also wins awards, including best director for Roman Polanski, and the war in Iraq is referenced in several acceptance speeches, including one by Michael Moore that criticizes President George W. Bush",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Daniel_Day_Lewis_26_May_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2003/03/24/movies/chicago-big-oscar-winner-but-pianist-surprises-hollywood-glamour-still-stars.html"
+        },
+        {
+          "headline": "Gulf War Witnesses, at an Intimate Level; As a New Conflict Looms, Two Memoirs Examine a Past One",
+          "summary": "Two new memoirs, Jarhead and Baghdad Express, examine the authors' experiences in the Persian Gulf war, offering intimate perspectives on the conflict",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2003/03/17/books/gulf-war-witnesses-intimate-level-new-conflict-looms-two-memoirs-examine-past.html"
+        },
+        {
+          "headline": "Untested Companies Enlist in U.S. Biodefense",
+          "summary": "The US biodefense sector is largely in the hands of untested companies, with about 100 biotechnology companies trying to develop technology to detect or fight pathogens, as the Bush administration plans to spend billions on biodefense",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Department_of_Homeland_Security_%28DHS%29_tour_of_the_National_Biodefense_Analysis_and_Countermeasures_Cetner_%28NBACC%29_at_Fort_Detrick%2C_Maryland_on_June_16%2C_2025_09.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2003/03/23/business/untested-companies-enlist-in-us-biodefense.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg/1280px-U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The invasion of Iraq began as American forces gathered south of Baghdad, attacking Saddam Hussein's defense. Iraqi forces resisted strongly, concentrating in cities. The war's impact was also felt at the Oscars, where acceptance speeches referenced the conflict.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.879
+      }
+    }
+  ]
+}
