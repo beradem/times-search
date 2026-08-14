@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T05:45:03.778688+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1869,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "EAST AND WEST.; Completion of the Great Line Spanning the Continent The Closing Work and Ceremonies at Promontory Summit. The News Flashed by Telegraph Simultaneously Over the Country. Rejoinings of the Metropolis at the Completion of the Enterprise. Celebrations in Chicago, Philadelphia and Other Cities. The Work Accomplished-Ceremonics at Promontory Summit. Announcement in Washington of the Completion of the Road-Scene in the Telegraph Office. Rejoicing in This City--The Booming of Cannon and Chiming of Bells--Magnificent Thanksgiving Services at Old Trinity--Address by Rev. Dr. Vinton--Congratulatory Dispatches to San Francisco by Mayor Hall and the Chamber of Commerce. The Southern Pacific--Meeting of Directors at St. Louis. Celebrations in Chicago, Philadelphia, Buffalo and Other Places. At the City Hall.",
+          "summary": "The transcontinental railroad was completed with ceremonies at Promontory Summit, and the news was celebrated across the country, during Reconstruction. Ulysses S. Grant's administration oversaw the final stages of the project.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/1280px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/11/archives/east-and-west-completion-of-the-great-line-spanning-the-continent.html"
+        },
+        {
+          "headline": "DECORATION DAY; Floral Tributes to the Memory of the Union Dead Ceremonies at the National Cemetery at Washington Oration of General Butler at Gloucester, Mass Observances at Arlington--Presence of the President and Heads of Departments--Ceremonies at the \"Tomb of the Unknown\"--Oration of Hon. S. S. Fisher The Ceremonies at Gloucester--Oration of General B. F. Butler--His Eulogy of the Soldiers--Reference to Political Questions--The Alabama Claims Question--Furious Attack on England At Boston and Vicinity In Providence, R. C.--Parade of Veterans--Tolling of the City Bells In Philadelphia--Gathering in Independence Square--Procession of Children--Services in Concert Hall In Carlisle, Penn At Huntingdon, Penn.--Children's Observances At Knoxville, Tenn.-- Five Thousand Persons in Attendance--The Addresses At Richmond, Va At Cincinnati In Toledo, Ohio In Columbus, Ohio At Detroit, Mich In Newark, N. J. --Observances at Fairmount Cemetery At Flushing-Decorations of the Mounment to the Flushing Heroes",
+          "summary": "The nation honored its Union dead on Decoration Day with ceremonies at national cemeteries, including Arlington, where President Ulysses S. Grant was in attendance. General Benjamin Butler gave a notable oration in Gloucester, Massachusetts.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Confederate_Monument_-_S_face_tight_-_Arlington_National_Cemetery_-_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/30/archives/decoration-day-floral-tributes-to-the-memory-of-the-union-dead.html"
+        },
+        {
+          "headline": "EUROPE.; Letters from Our Correspondents in London, Madrid and Florence Our Relations with England---Effects of Mr. Sumner's Speech The Warwickshire Scandal--- Sad Revelations Important and Interesting Debates in the Spanish Cortes The subjoined letters from our European correspondents present an interesting summary of political, social and Industrial affairs in the old world The Debate on the Irish Church Bill-Summary of the Views of Leading Statesmen on the Question-Sharp Debate on the Maynooth Endowment clause Labors of the Ministry--The Case of the Mayor of Cork--The Pacific Railroad The Debates on the Constitution--Another Great Orator Developed--Thrilling Souvenirs of the Inquisition--The Separation of Church and State--Impotent Fury of the Clergy Parties in the Chamber--The New Fusion--Proposed Reconstruction of the Ministry--The Sub-Alpine Tunnel and the Suez Canal--the Alabama Question--King Victor Emmanuel Assurances of an American Citizen to the English People--Letter From Senator Grimes, of lowa",
+          "summary": "European correspondents reported on political and social affairs, including debates on the Irish Church Bill and the Spanish Cortes, as well as reactions to Senator Sumner's speech on US relations with England, during a time of heightened international tensions.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_report_of_the_Deputy_Keeper_of_the_Public_Records_in_Ireland_-_presented_to_both_houses_of_the_Parliament_by_command_of_Her_Majesty_%281869%29_%2814780150195%29.jpg/1280px-The_report_of_the_Deputy_Keeper_of_the_Public_Records_in_Ireland_-_presented_to_both_houses_of_the_Parliament_by_command_of_Her_Majesty_%281869%29_%2814780150195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/28/archives/europe-letters-from-our-correspondents-in-london-madrid-and.html"
+        },
+        {
+          "headline": "Our Trouble with England--Mr. Summer's Speech--The Administration.",
+          "summary": "Senator Sumner's speech on the Alabama Claims sparked controversy and discussion about US relations with England, with the administration facing challenges in its foreign policy, during a period of post-Civil War diplomacy.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Charles_Sumner_Brady-Handy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/26/archives/our-trouble-with-englandmr-summers-speechthe-administration.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/1280px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The transcontinental railroad was completed with ceremonies at Promontory Summit. The nation celebrated this achievement and honored its Union dead on Decoration Day. President Ulysses S. Grant's administration oversaw these developments amidst Reconstruction and tensions with England.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.19
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1976,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "New York Still Giddy With the Bicentennial",
+          "summary": "New York City is still celebrating a major patriotic holiday with a carnival-like atmosphere, as Americans continue to mark a significant birthday during a time of national pride",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/07/archives/new-york-still-giddy-with-the-bicentennial.html"
+        },
+        {
+          "headline": "Carter and Mondale Approach Issues Differently but Arrive at Similar Conclusions",
+          "summary": "Jimmy Carter and Walter Mondale are meeting to discuss strategy, showing their similar conclusions despite differing approaches",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Walter_Mondale_1977_vice_presidential_portrait.jpg/1280px-Walter_Mondale_1977_vice_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/26/archives/carter-and-mondale-approach-issues-differently-but-arrive-at.html"
+        },
+        {
+          "headline": "3 Women in Carter's Life Show He'll Have to Share the Spotlight",
+          "summary": "The women in Jimmy Carter's life, including his wife, mother, and daughter, are gaining attention as he rises to prominence",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jimmy_Carter_lay-in_state_at_U.S._Capitol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/14/archives/3-women-in-carters-life-show-hell-have-to-share-the-spotlight.html"
+        },
+        {
+          "headline": "Queen Begins a Whirlwind of Activities in Washington",
+          "summary": "The Queen has arrived in Washington, D.C. for a Bicentennial visit, where she was greeted by President and Mrs. Ford, and will attend various events including a State Dinner at the White House",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/President_Gerald_R._Ford_and_First_Lady_Betty_Ford_Standing_With_Queen_Elizabeth_II_and_Prince_Philip_of_Great_Britain_on_the_South_Portico_of_the_White_House_Prior_to_a_State_Dinner_Honoring_Her_Majesty_and_Prin%28...%29_-_NARA_-_12004852.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/08/archives/queen-begins-a-whirlwind-of-activities-in-washington-elizabeth.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The United States Bicentennial celebration captivated the nation, with New York City embracing a carnival-like atmosphere. Jimmy Carter and Walter Mondale strategized, displaying similar conclusions despite differing approaches. The Queen visited Washington, attending a State Dinner at the White House.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.626
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1995,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; RAIN STALLS SEARCH OF RUBBLE",
+          "summary": "A nationwide manhunt is underway for a second suspect in the Oklahoma City bombing, with investigators searching for links to far-right groups, as they believe there was a broader plot behind the attack, during a time of heightened concern over domestic terrorism",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1995/04/23/us/terror-oklahoma-overview-fbi-hunts-2d-bombing-suspect-seeks-links-far-right-rain.html"
+        },
+        {
+          "headline": "Parking Rules",
+          "summary": "Alternate-side street parking regulations are suspended in New York City due to religious holidays, a common practice in urban areas",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/21/nyregion/parking-rules-679395.html"
+        },
+        {
+          "headline": "Rethinking Welfare: Deterring New Births -- A special report.; State Aid Is Capped, but to What Effect?",
+          "summary": "A teenage mother on welfare, Naikeya Haley, shares her experience with a state law that denies extra benefits for additional children, as part of a broader debate on welfare reform, as the US grapples with social safety nets",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/This_Horse_is_in_Terrible_Shape.jpg/1280px-This_Horse_is_in_Terrible_Shape.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/11/us/rethinking-welfare-deterring-new-births-special-report-state-aid-capped-but-what.html"
+        },
+        {
+          "headline": "AT LEAST 31 ARE DEAD, SCORES ARE MISSING AFTER CAR BOMB ATTACK IN OKLAHOMA CITY WRECKS 9-STORY FEDERAL OFFICE BUILDING",
+          "summary": "President Clinton vows to hunt down those responsible for the Oklahoma City bombing, which killed at least 31 people and destroyed a federal office building, promising to treat the perpetrators as killers, in the aftermath of a devastating domestic terrorist attack",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Oklahomacitybombing-DF-ST-98-01356.jpg/1280px-Oklahomacitybombing-DF-ST-98-01356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/20/us/terror-oklahoma-city-investigation-least-31-are-dead-scores-are-missing-after.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "The Oklahoma City bombing occurred, killing at least 31 people and destroying a federal office building. Investigators hunted for suspects, seeking links to far-right groups. The attack heightened concern over domestic terrorism.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
