@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T04:48:04.102468+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2004,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "At Warning Center, Alert for the Quake, None for a Tsunami",
+          "summary": "A massive earthquake struck off Indonesia, generating a devastating tsunami, but experts at the Pacific Tsunami Warning Center in Honolulu had no way to warn those in its path, highlighting the limits of modern science and communication during a time of increased global connectivity",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg/1280px-US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/science/at-warning-center-alert-for-the-quake-none-for-a-tsunami.html"
+        },
+        {
+          "headline": "World Business Briefing | Middle East: Israel: Military Companies Trade Stakes",
+          "summary": "Israeli military companies are trading stakes, reflecting the country's growing private defense industry as the global war on terror intensifies",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Image-Weizmann_Institute_edit.jpg/1280px-Image-Weizmann_Institute_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/business/world-business-briefing-middle-east-israel-military-companies.html"
+        },
+        {
+          "headline": "World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal",
+          "summary": "Sony and Samsung have signed a patent deal, marking a significant partnership between two major electronics companies in the rapidly evolving tech industry",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/1280px-Samsung_headquarters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/15/business/technology/world-business-briefing-asia-japan-sony-and-samsung.html"
+        },
+        {
+          "headline": "If Jets and Steelers Are Mirror Images, It's Time for One of Them to Crack",
+          "summary": "The New York Jets are preparing to face the Pittsburgh Steelers, with the two teams being compared as mirror images, as the NFL season heats up",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jets_uniforms12.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/12/sports/football/if-jets-and-steelers-are-mirror-images-its-time-for-one-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg/1280px-US_Navy_050102-N-9593M-040_A_village_near_the_coast_of_Sumatra_lays_in_ruin_after_the_Tsunami_that_struck_South_East_Asia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "A massive earthquake struck off Indonesia, generating a devastating tsunami. The disaster highlighted the limits of modern science and communication. Israeli military companies and electronics giants like Sony and Samsung made notable business moves.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.808
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1963,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "KENNEDY OPPOSES QUOTAS FOR JOBS ON BASIS OF RACE; Says Education Is Greatest Need of Negroes--Doubts U.S. Can 'Repair Past' RIGHTS BILLS PRESSED Congress Urged to Act This Session--Election Year Pressure in '64 Cited Calls Education Vital KENNEDY OPPOSES RACIAL JOB QUOTA Protests Illustrate Plight",
+          "summary": "President John F. Kennedy opposes job quotas based on race, instead emphasizing education as the greatest need for African Americans, during a news conference. He doubts the US can fully repair past injustices.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1963/08/21/archives/kennedy-opposes-quotas-for-jobs-on-basis-of-race-says-education-is.html"
+        },
+        {
+          "headline": "SAC HEAD DEMURS AS JOINT CHIEFS BACK A-TEST BAN; Gen. Power Urges Senate to Reject Pact as Not Being in Best U.S. Interest LEMAY HAS MISGIVINGS Air Force Leader Says He Might Have Fought Accord Had It Not Been Signed Goldwater Protests SAC HEAD DEMURS ON TEST BAN PACT Marines' Chief Decisive Wants Tests Continued Differ With LeMay Indicate No Pressure Had No Objection Humphrey Protests New Group Fights Treaty",
+          "summary": "General Curtis LeMay and other military leaders express misgivings about a proposed nuclear test ban treaty, with LeMay stating he would not have backed it had it not already been signed. Senator Barry Goldwater also protests the treaty.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/08/20/archives/sac-head-demurs-as-joint-chiefs-back-atest-ban-gen-power-urges.html"
+        },
+        {
+          "headline": "RAILS AND UNIONS ACCEPT PROPOSAL FOR ARBITRATION; Agree to Wirtz Plan on Two Main Issues, Crew Size and Job Reduction TALKS STILL 'CRITICAL' Secretary Says Decision on Concrete Steps Remains  Meeting Today Set Interpretation a Problem RAILS AND UNIONS ACCEPT PROPOSAL Wirtz Issues Report Unions Note Acceptance Size of Board Omitted Rail Stocks Rise",
+          "summary": "Railroads and unions agree to submit two major issues, crew size and job reduction, to binding arbitration, following a proposal by Secretary Wirtz. The decision is seen as a critical step towards resolving labor disputes.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/One_job_should_be_enough.jpg/1280px-One_job_should_be_enough.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/08/17/archives/rails-and-unions-accept-proposal-for-arbitration-agree-to-wirtz.html"
+        },
+        {
+          "headline": "ANTI-U.S. FEELING RISES IN VIETNAM AS UNREST GROWS; Nhu's Power in Regime Gains --Harder Line Toward Washington Is Feared 30 DEATHS REPORTED Troops Arrest Professors and May Seize Students to Avert a Rebellion Killing at Hue Indicated Regime Accuses Reds Anti-American Feeling Grows in Vietnam After Regime Acts Against Buddhists SAIGON STUDENTS REPORTED UNEASY Humiliation of U.S. Citizens Continues as Nhu Gains Power in Government Mrs. Nhu Exuberant Humiliations Continue Lodge Sees Two Buddhists",
+          "summary": "Anti-American sentiment grows in Vietnam as the government, led by Nhu, takes a harder line towards Washington and cracks down on Buddhist professors and students, leading to widespread unrest and humiliation of US citizens.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg/1280px-Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/08/24/archives/antius-feeling-rises-in-vietnam-as-unrest-grows-nhus-power-in.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "President John F. Kennedy opposed job quotas based on race, emphasizing education instead. The US military leadership expressed misgivings about a proposed nuclear test ban treaty. Labor disputes between railroads and unions progressed with an agreement to arbitration on key issues.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.505
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1933,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "HOUSE VOTES TO END PRESCRIPTION CURB; Liquor Liberalization Bill Is Passed 153-59 -- Roosevelt's Signature Is Due Today. FIGHT BY BLANTON FUTILE Texan Says Hard Drink Will Flow Freely -- Program for Modification Completed. HOUSE VOTES TO END PRESCRIPTION CURB",
+          "summary": "The House voted to end restrictions on liquor prescriptions, with President Franklin D. Roosevelt expected to sign the bill, as part of a broader effort to liberalize liquor laws during the Great Depression. This move is seen as a significant shift in the country's approach to alcohol regulation.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg/1280px-Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/31/archives/house-votes-to-end-prescription-curb-liquor-liberalization-bill-is.html"
+        },
+        {
+          "headline": "PATRONAGE DELAY STRENGTHENS M'KEE IN WAR ON TAMMANY; Flynn Control Here Is Likely to Weaken Curry in Fight in Primary for O'Brien. ROOSEVELT STRATEGY AIDS Delay on Jobs Till End of Extra Session to Speed His Program Also a Help in City Battle. SMITH UNCERTAIN FACTOR Only a Decision by Him to Run for Mayor Would Block McKee -- Now Definitely Against It. FEDERAL JOBS AID M'KEE FIGHT HERE",
+          "summary": "Franklin D. Roosevelt's strategy is aiding John V. McKee's fight against Tammany Hall in New York City, as the delay in federal job appointments is expected to weaken the opposition. This power struggle is unfolding as Roosevelt's administration is taking shape.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/26/archives/patronage-delay-strengthens-mkee-in-war-on-tammany-flynn-control.html"
+        },
+        {
+          "headline": "EFFECTIVE THIS MORNING; Governor Acts After an All-Night Conference With Banking Heads. PERIOD INCLUDES MONDAY All Banks and the Securities Markets Are Affected by Emergency Decree. ILLINOIS TAKES STEP, TOO Period of Closing There Is Put at Three Days -- Pederal Officials in Conferences. 2-DAY BANK HOLIDAY IS LEHMAN'S ORDER",
+          "summary": "The governor has invoked an emergency decree, closing all banks and securities markets for a period that includes Monday, in an effort to stabilize the financial system during a time of economic crisis. This move is seen as a drastic measure to address the ongoing banking crisis.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/1933_-_Bank_Holiday_-_7_Mar_MC_-_Allentown_PA.jpg/1280px-1933_-_Bank_Holiday_-_7_Mar_MC_-_Allentown_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/04/archives/effective-this-morning-governor-acts-after-an-allnight-conference.html"
+        },
+        {
+          "headline": "HITLER INTENSIFIES DRIVE ON THE LEFT; HUNDREDS ARRESTED; Red Leaders Jailed, Socialists' Papers Banned and Homes Searched All Over Prussia. NATION TOLD OF 'REVOLT' Goering Asserts Communists Planned to Trick Nazis Into 'Occupying' Berlin. SITUATION ALARMS LONDON Foreign Secretary Is Asked What Guarantee Britain Has of the Safety of Her Nationals. HITLER INTENSIFIES DRIVE ON THE LEFT",
+          "summary": "Adolf Hitler has intensified his crackdown on the left, with hundreds of arrests, suppression of Communist and Socialist press, and searches of homes across Prussia, as he claims to be preventing a communist revolt. This escalation of tensions is alarming foreign governments, including Britain.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Adolf_Hitler_-_Portrait_-_Close_Up_-_DPLA_-_%283x4_cropped%29.jpg/1280px-Adolf_Hitler_-_Portrait_-_Close_Up_-_DPLA_-_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/02/archives/hitler-intensifies-drive-on-the-left-hundreds-arrested-red-leaders.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg/1280px-Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "The House voted to end restrictions on liquor prescriptions, liberalizing liquor laws during the Great Depression. President Franklin D. Roosevelt's administration was taking shape, with his strategy aiding John V. McKee's fight against Tammany Hall. A two-day bank holiday was also invoked to stabilize the financial system.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.691
+      }
+    }
+  ]
+}
