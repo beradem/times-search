@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T04:47:48.862965+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1861,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "THE GREAT CONTEST.; Gathering of the Forces for the Struggle. Wonderful Unanimity Throughout the North and West. MOVEMENTS OF THE VOLUNTEERS. The Seventh Regiment of New-York Going to Washington. MOVEMENTS AT MONTGOMERY. Letters of Marque and Reprisal to be Issued. MORE VOLUNTEERS CALLED FOR. The Virginia Convention Not yet Decided. THE PRESIDENT AND GEN. SCOTT. THE FORT SUMTER EXPEDITION. THE FIDELITY OF MAJOR ANDERSON. RUMORS FROM VIRGINIA. THE FORCES AT THE CAPITAL. PUBLIC SPIRIT IN WASHINGTON. LIEUT. SLEMMER AND FORT PICKENS. CAPT. HUGER'S RESIGNATION. STRICKEN FROM THE ROLL. THE DEFENCE OF HARPER'S FERRY. ENLISTMENTS IN BALTIMORE. THE POSITION OF JOHN M. BOTTS. A TELEGRAPHIC ERROR. DISPATCH TO THE ASSOCIATED PRESS.",
+          "summary": "OUR WASHINGTON DISPATCHES.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Charles_Vance_Millar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1861/04/18/archives/the-great-contest-gathering-of-the-forces-for-the-struggle.html"
+        },
+        {
+          "headline": "OUR SOUTHERN CORRESPONDENCE.; Pen-Photographs of Charleston and the Charlestonians. ANXIETY RELATIVE TO FORT SUMPTER. CONDITION OF AFFAIRS IN ALABAMA. Particulars of the Seizure of the Sppply Sloop Isabella.--TRADE AND AGRICULTURAL PROSPECTS. A NAUTICAL SCHOOL AT CHARLESTON--EXPECTED REVENUE DIFFICULTIE--NEW PATENT MEDICINE DODGES, ETC. THE TRIBUNE'S DISPATCHES FROM MONTGOMERY-- COMPLETION OF THE BATTERIES--RECKLESS WASTE OF PROVISIONS--THE CONVENTION, ETC.",
+          "summary": "CHARLESTON, C.S.A., Wednesday,,.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Liberty_Tree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1861/04/02/archives/our-southern-correspondence-penphotographs-of-charleston-and-the.html"
+        },
+        {
+          "headline": "A FLOOD OF TROOPS IN WASHINGTON; FOUR NEW-YORK REGIMENTS THERE. Concentration of Secessionist Troops at Norfolk. Neither Jeff. Davis nor General Beauregard in Virginia.--ALEX. H. STEPHENS AT RICHMOND.--The Avalanche of Men and Money from the North.--Princely Subscriptions from New-Yorkers.--Vigorous Military Preparationsat Albany.--THIRTY-NINE REGIMENTS CALLED FOR. NEW YORK TROOPS IN WASHINGTON. A FLOOD OF TROOPS IN WASHINGTON. IMPORTANT FROM WESTERN VIRGINIA.",
+          "summary": "A special messenger from the TIMES Office has just returned to this City from a tour of observation in the South. He left Norfolk on Monday night; was present at the burning of Gosport Navy-Yard; and visited the new defences erected by the Virginians below Norfolk and Portsmouth. He confirms the statements of our correspondent \"York,\" that Gov. WISE was at Norfolk on Monday, and that as late as Tuesday neither DAVIS nor BEAUREGARD were in Richmond, nor had any formidable army been concentrated anywhere in Virginia.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/PNW_rainfall_totals.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1861/04/26/archives/a-flood-of-troops-in-washington-four-newyork-regiments-there.html"
+        },
+        {
+          "headline": "ENLISTMEN IS FOR THE WAR.; Movements of Volunteer Troops in and Through this City The Boston Quota en Route The Seventh Regiment to go To-Day Probable Arrival of the Rhode Island Troops this Morning Spontaneous Offering of Men and Money. MASSACHUSETTS TROOPS EN ROUTE FOR WASHINGTON. ARRIVAL IN THIS CITY THEIR RECEPTION AND DEPARTURE. A CARD. THE GREAT REBELLION. ANOTHER REGIMENT ARRIVED THE MASSACHUSETTS MILITARY IN JERSEY CITY. THE SEVENTH REGIMENT AND THE VETERAN CORPS OF THE NATIONAL GUARD. MARCHING ORDERS FOR THE SEVENTH REGIMENT. HEAD QUARTERS SEVENTH REGIMENT N.Y.S.M. FIRST REGIMENT NATIONAL GUARDS. THE TWELFTH REGIMENT. DRILL-ROOMS FOR THE SOLDIERY STILL ANOTHER DRILL-ROOM. THE UNION VOLUNTEERS. THE UNION GUARD VOLUNTEERS; THE BARRY MUSKETERES. THE CUBANS TO ARMS. FIREMEN AS CITY VOLUNTEERS. THE WARD SCHOOL BOYS PATRIOTIC. THE FREE ACADEMY BOYS FOR THE UNION. THE BONE AND SINEW AROUSED. COLUMBIA COLLEGE REBUKES THE TRAITORS. PROBABLE ARRIVAL OF THE RHOLE ISLAND TROOPS THIS MORNING. A VOLUNTEER ARTILLERY CORPS. NINTH REGIMENT.",
+          "summary": "The patriotic enthusiasm that has swept this City with a whirlwind of Union demonstrations, continued unabated yesterday. The universal display of the American colors in every available locality; the parading of the Boston troops through the streets, on their way to Washington; the busy preparations of the Seventh Regiment; the flocking of crowds to the numerous recruiting stations; the arrival of Major ANDERSON and the veterans of Fort Sumter; the running to and fro of military men; the resonance of martial music; the reception and discussion of the war bulletins from the South, made the occasion one of the most exciting in the annals of New-York City. Below we give succinct details of the various demonstrations",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Colleges_and_Universities_-_Miscellaneous_-_Wireless_class_in_preliminary_training_prior_to_enlistmen%2C_New_Castle%2C_Pennsylvania_-_NARA_-_26430870.jpg/1280px-Colleges_and_Universities_-_Miscellaneous_-_Wireless_class_in_preliminary_training_prior_to_enlistmen%2C_New_Castle%2C_Pennsylvania_-_NARA_-_26430870.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1861/04/19/archives/enlistmen-is-for-the-war-movements-of-volunteer-troops-in-and.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Charles_Vance_Millar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THE GREAT CONTEST.; OUR SOUTHERN CORRESPONDENCE.; A FLOOD OF TROOPS IN WASHINGTON.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.07
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1997,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "Diana Killed in a Car Accident in Paris",
+          "summary": "Diana, 36-year-old Princess of Wales, dies in high-speed car crash in Paris with companion, 41-year-old Emad Mohammed al-Fayed, and limousine driver; bodyguard is critically injured; she succumbs to massive injuries at Pitie-Salpetriere Hospital in southeast Paris; nighttime accident, in highway tunnel on right bank of Seine under Place d'Alma, demolishes Mercedes limousine; reportedly occurs while car was being pursued by photographers on motorcycles after leaving Ritz Hotel; police detain several motorcyclists for questioning; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Alma_tunnel_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1997/08/31/world/diana-killed-in-a-car-accident-in-paris.html"
+        },
+        {
+          "headline": "Gannett Chain Strengthens Its Presence In New Jersey by Buying 2 Newspapers",
+          "summary": "Gannett Co agrees to buy The Asbury Park Press and The Home News and Tribune of East Brunswick, putting media chain in position to dominate southern two-thirds of New Jersey and turning central New Jersey into battleground with Star-Ledger of Newark; terms of transaction are not disclosed; agreement ends family control of two papers, which were founded separately in but have been commonly owned by New Jersey Press Inc since; deal must be approved by Justice Dept; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg/1280px-Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1997/08/07/nyregion/gannett-chain-strengthens-its-presence-in-new-jersey-by-buying-2-newspapers.html"
+        },
+        {
+          "headline": "Four Decades After He Was Blacklisted, A Writer-Producer Finally Gets Credit",
+          "summary": "Hollywood blacklist denied Alfred Palca screen-writing and producing credits for film Go, Man, Go!, cult hit about Harlem Globetrotters; Palca, now 77, is expected to have his credits restored by Writers Guild of America more than 40 years later, and just in time for 50th anniversary of notorious 'Hollywood 10' hearings before House Committee on Un-American Activities; photos (M)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1997/08/20/nyregion/four-decades-after-he-was-blacklisted-a-writer-producer-finally-gets-credit.html"
+        },
+        {
+          "headline": "TEAMSTERS AND U.P.S. AGREE ON A 5-YEAR CONTRACT PLAN TO END STRIKE AFTER 15 DAYS",
+          "summary": "Teamsters Union and United Parcel Service reach tentative agreement to end 15-day strike by 185,000 workers after more than 80 hours of intense negotiations; agreement reportedly calls for first increase in starting pay of part-time workers since and conversion of 10,000 part-time jobs into full-time positions, with five-sixth of all new full-time openings created through attrition or retirement to be filled by current part-timers; highlights; Teamsters president Ron Carey calls agreement historic turning point for American workers; UPS officials say it will allow them to remain competitive; Pres Clinton hails pact; praises both sides for negotiating in good faith, and for hard work and determination in reaching settlement; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/First_United_States_Labor_Day_Parade%2C_September_5%2C_1882_in_New_York_City.jpg/1280px-First_United_States_Labor_Day_Parade%2C_September_5%2C_1882_in_New_York_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1997/08/19/us/teamsters-and-ups-agree-on-a-5-year-contract-plan-to-end-strike-after-15-days.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Alma_tunnel_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: Diana Killed in a Car Accident in Paris; Gannett Chain Strengthens Its Presence In New Jersey by Buying 2 Newspapers; Four Decades After He Was Blacklisted, A Writer-Producer Finally Gets Credit.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.939
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1987,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "Market Turmoil; STOCKS FALL 156, LOSS OF 8%, AFTER BIG SELL OFFS ABROAD; JOINT TALKS ON DEFICIT BEGIN",
+          "summary": "LEAD: A new wave of pessimism overwhelmed Wall Street yesterday, prompting another big selloff in stocks.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/27/business/market-turmoil-stocks-fall-156-loss-8-after-big-sell-offs-abroad-joint-talks.html"
+        },
+        {
+          "headline": "Perilous Economic Cures; Some Experts See Tax Increases and Cuts In Spending by U.S. as Spurs to Recession",
+          "summary": "LEAD: Just when President Reagan and Congressional leaders have at last started moving toward a compromise on measures to reduce the Federal budget deficit by at least $23 billion next year, with the logjam apparently broken by the stock market plunge, an unlikely alliance of normally warring economists is warning that shrinking the deficit by raising taxes and cutting",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stocks_%26_Bonds.jpg/1280px-Stocks_%26_Bonds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/28/business/perilous-economic-cures-some-experts-see-tax-increases-cuts-spending-us-spurs.html"
+        },
+        {
+          "headline": "9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT",
+          "summary": "LEAD: The Senate Judiciary Committee voted 9 to 5 today against the nomination of Judge Robert H. Bork to the Supreme Court, and both supporters and opponents predicted his rejection by the full Senate if President Reagan continues to insist on a vote.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ronald_Reagan_with_his_mother_Nelle_1950_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/07/us/9-5-panel-vote-against-bork-sends-nomination-senate-amid-predictions-defeat.html"
+        },
+        {
+          "headline": "Carnation Settles Shareholder Suit for $13 Million",
+          "summary": "LEAD: The Carnation Company announced yesterday that it had agreed to pay $13 million to settle a lawsuit contending that company officials had issued false statements about negotiations when the food-products company was acquired by Nestle S.A. in.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1987/10/10/business/carnation-settles-shareholder-suit-for-13-million.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: Market Turmoil; Perilous Economic Cures; 9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.998
+      }
+    }
+  ]
+}
