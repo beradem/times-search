@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T04:48:05.762548+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1990,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "CONFRONTATION IN THE GULF    FOREIGNERS IN IRAQ WILL SHARE IN HARDSHIPS, BAGHDAD WARNS; SAUDIS TO INCREASE OIL OUTPUT;   'ACT OF WAR' SEEN",
+          "summary": "LEAD: Declaring the American-led naval blockade ''an act of war,'' Iraq said tonight that thousands of foreigners, including infants, who have been turned into hostages would suffer the same food shortages as Iraqis.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1990/08/19/world/confrontation-gulf-foreigners-iraq-will-share-hardships-baghdad-warns-saudis.html"
+        },
+        {
+          "headline": "The Iraqi Invasion;   INVADING IRAQIS SEIZE KUWAIT AND ITS OIL; U.S. CONDEMNS ATTACK, URGES UNITED ACTION",
+          "summary": "LEAD: Iraqi troops stormed into the desert sheikdom of Kuwait today, seizing control of its capital city and its rich oilfields, driving its ruler into exile, plunging the strategic Persian Gulf region into crisis and sending tremors of anxiety around the world.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/1280px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1990/08/03/world/iraqi-invasion-invading-iraqis-seize-kuwait-its-oil-us-condemns-attack-urges.html"
+        },
+        {
+          "headline": "CONFRONTATION IN THE GULF: The New York Times Poll;   IN A CRISIS, SUPPORT WITH RESERVATIONS",
+          "summary": "LEAD: Those who approve of the way President Bush is dealing with Iraq's invasion of Kuwait. 74%. Those who say the Bush Adminsitration tried hard enough to reach diplomatic solutions prior to taking military acton. 48%. Those who expect the United States military to end up fighting Iraquis.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1990/08/12/world/confrontation-gulf-new-york-times-poll-crisis-support-with-reservations.html"
+        },
+        {
+          "headline": "  Mortgage Rates Up a Quarter-Point in Just a Few Days",
+          "summary": "LEAD: Home mortgage interest rates, which last week were hovering just above 10 percent, have increased quickly in recent days, following the yields on Treasury bonds onto higher ground.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Grangemouth04nov06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1990/08/07/business/oil-surge-consumers-already-taking-beating-mortgage-rates-up-quarter-point-just.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: CONFRONTATION IN THE GULF    FOREIGNERS IN IRAQ WILL SHARE IN HARDSHIPS, BAGHDAD WARNS; The Iraqi Invasion; CONFRONTATION IN THE GULF: The New York Times Poll.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2017,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him",
+          "summary": "The material was considered so potentially explosive that the intelligence agencies decided that the president and the president-elect needed to be told and that the agencies were actively investigating it.",
+          "image": "https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/10/us/politics/donald-trump-russia-intelligence.html"
+        },
+        {
+          "headline": "Workers Say Andrew Puzder Is ‘Not the One to Protect’ Them, but He’s Been Chosen To",
+          "summary": "Donald J. Trump’s pick for labor secretary may soon be tasked with enforcing the very rules his company has been accused of violating.",
+          "image": "https://static01.nyt.com/images/2017/01/13/us/13PUZDER-3/13PUZDER-3-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/15/us/politics/andrew-puzder-labor-secretary.html"
+        },
+        {
+          "headline": "Megyn Kelly’s Jump to NBC From Fox News Will Test Her, and the Networks",
+          "summary": "Ms. Kelly’s departure from Fox News will test her ability to connect with a broader audience, but the most significant implications concern the larger television news industry.",
+          "image": "https://static01.nyt.com/images/2017/01/04/business/04kelly1/04kelly1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/03/business/media/megyn-kelly-nbc-fox-news.html"
+        },
+        {
+          "headline": "Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry",
+          "summary": "The department’s inspector general will look into James B. Comey’s hotly debated decision to inform Congress about a new review of the Hillary Clinton email case.",
+          "image": "https://static01.nyt.com/images/2017/01/13/us/13comey/13comey-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him; Workers Say Andrew Puzder Is ‘Not the One to Protect’ Them, but He’s Been Chosen To; Megyn Kelly’s Jump to NBC From Fox News Will Test Her, and the Networks.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.92
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1865,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "THE FEELING IN CANADA; Opinion of the Leading Canadian Journal-- The Deep Regard and Affection Felt for the President--The Secessionists Carousing in Honor of the Assassin--A Plea for the Murderer--His Crime Justified. From the Toronto Globe. ABRAHAM LINCOLN. THE MURDER JUSTIFIED The Feeling in Montreal. PROCLAMATION. Arrival of Gen. Lee in Richmond.",
+          "summary": "Toronto Globe on death of",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hooked_on_a_feeling_bj_thomas_US_single_var_A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1865/04/19/archives/the-feeling-in-canada-opinion-of-the-leading-canadian-journal-the.html"
+        },
+        {
+          "headline": "THE REJOICING.; How the Glorious News is Received. The Quiet and Reverent Gratitude of the People. New-York City Preparing to Welcome Peace. A Widespread Spirit of Charity and Forgiveness. Meetings at the Post-Office, Custom-House and Produce Exchange. FLAGS, SALUTES, SPEECHES AND CHIMES. The Great Jubilee Throughout the Entire Country. How the American People Bear Their Grand Triumph. AT THE POST-OFFICE RESOLUTIONS THE DETAILS PUBLIC SCHOOLS, THE CANNON AT THE CUSTOM-HOUSE A GRAND TE DEUM LETTER TO THE PRESIDENT, DEPARTURE OF THE OCEANUS, MEETING OF CHAMBER OF COMMERCE--PATRIOTIC RESOLUTIONS. MEETING OF THE JOINT COMMITTEE OF THE COMMON COUNCIL--A GENERAL ILLUMINATION PROPOSED--NO PARADE AND NO FIREWORKS MEETING AT THE PRODUCE EXCHANGE. UNITED STATES DISTRICT COURT MEETING OF STUDENTS AT NEW-YORK UNIVERSITY AND COLUMBIA COLLEGE. SALUTE AT UNION-SQUARE. THE SEVENTH REGIMENT AND OUR VICTORIES. THE SPIRIT OF FORGIVENESS. PRIVATE REJOICINGS",
+          "summary": "Surrender, Rejoicings, Resolutions, Meetings, >amp;c.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1865/04/11/archives/the-rejoicing-how-the-glorious-news-is-received-the-quiet-and.html"
+        },
+        {
+          "headline": "THE ASSASSINATION.; Condition of Secretary Seward Improving. NEW FACTS ABOUT THE MURDERERS. Preparations for the President's Funeral. Official Directions from Heads of Departments.DESCRIPTION OF THE ASSASINS.Reward of Thirty Thousand Dollars Offered for Their Apprehension.Additional Details of the Conspiracy.APPEARANCE OF THE CITY. THE NEWS IN RICHMOND. THE NEWS AT FORTRESS MONROE. FEELING OF PASSENGERS. TREACHERY AMONG REBEL DESERTERS. ORDERS FOR THE FUNERAL. CONDITION OF SECRETARY SEWARD AND SON. ARRESTS OF SUSPECTED PERSONS. EFFECT ON THE FINANCES OF THE COUNTRY. Dispatches to the Associated Press. PROCLAMATION OF GOV. OGLESBY OF ILLINOIS. MEETING OF KENTUCKIANS. REPORTS ABOUT BOOTH'S ARREST. THE FLAG TORN BY THE ASSASSIN. MR. HANSELL IS BETTER. BOOTH'S MISTRESS. BOOTH'S RECENT BEHAVIOR.",
+          "summary": "Booth, J Wilkes; description of; Assailant description of; Johnson, Vice-Pres; Booth intended to Kill; Gov. Oglesby's Proclamation on Death of President; Funeral; Orders for",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lincoln_assassination_slide_c1900_-_Restoration.jpg/1280px-Lincoln_assassination_slide_c1900_-_Restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1865/04/18/archives/the-assassination-condition-of-secretary-seward-improving-new-facts.html"
+        },
+        {
+          "headline": "FROM THE PACIFIC COAST.; Juarez said to be Coming to Washington by way of San Francisco?French Forces in Sinaloa?French War Steamers in California Ports?The Overland Mails.",
+          "summary": "Overland Mail to Salt Lake reopened",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dendrobium_glomeratum_Rolfe%2C_Bull._Misc._Inform._Kew_1894_155_%281894%29_%2831362096887%29.jpg/1280px-Dendrobium_glomeratum_Rolfe%2C_Bull._Misc._Inform._Kew_1894_155_%281894%29_%2831362096887%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1865/04/10/archives/from-the-pacific-coast-juarez-said-to-be-coming-to-washington-by.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hooked_on_a_feeling_bj_thomas_US_single_var_A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THE FEELING IN CANADA; THE REJOICING.; THE ASSASSINATION..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.401
+      }
+    }
+  ]
+}
