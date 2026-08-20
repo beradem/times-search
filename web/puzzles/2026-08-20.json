@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T04:49:35.867936+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1886,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "RIOTING AND BLOODSHED IN THE STREETS OF CHICAGO.; POLICE MOWED DOWN WITH DYNAMITE. STRIKERS KILLED WITH VOLLEYS FROM REVOLVERS. THE SLAUGHTER FOLLOWING AN ANARCHIST MEETING--TWELVE POLICEMEN DEAD OR DYING--THE NUMBER OF KILLED OR INJURED CIVILIANS UNKNOWN BUT VERY LARGE--THE BRAVERY OF THE POLICE FORCE.",
+          "summary": "Riot by Anarchists; 100 Killed and Wounded",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/D.C._riot._April_%2768._Aftermath_19733v.jpg/1280px-D.C._riot._April_%2768._Aftermath_19733v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/05/archives/rioting-and-bloodshed-in-the-streets-of-chicago-police-mowed-down.html"
+        },
+        {
+          "headline": "THE DISPUTE WITH CANADA; CONGRESSMEN EXCITED BY THE SEIZURE OF THE ADAMS. MEASURES OFFERED IN BOTH HOUSES LOOKING TO PROMPT RETALIATION--SENATOR LOGAN'S PENSION HOBBY.",
+          "summary": "Seized for Fishing in Canadian Waters",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ch%C3%A2teau_Frontenac_in_Quebec_city%2C_Canada_colorfull.jpg/1280px-Ch%C3%A2teau_Frontenac_in_Quebec_city%2C_Canada_colorfull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/11/archives/the-dispute-with-canada-congressmen-excited-by-the-seizure-of-the.html"
+        },
+        {
+          "headline": "GREEK PORTS BLOCKADED; THE ENTIRE COAST HELD BY THE EUROPEAN FLEET. NO VESSELS ALLOWED TO DEPART--THE KING REFUSES THE CABINET'S RESIGNATION--ENTHUSIASM FOR WAR.",
+          "summary": "Blockade by European Fleets",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vihren_%26_Kutelo_Pirin_Mountains_Bulgaria_2025.jpg/1280px-Vihren_%26_Kutelo_Pirin_Mountains_Bulgaria_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/10/archives/greek-ports-blockaded-the-entire-coast-held-by-the-european-fleet.html"
+        },
+        {
+          "headline": "A GREAT LOSS OF LIFE; EFFECTS OF A VIOLENT STORM IN KANSAS CITY. THE COURT HOUSE AND OTHER BUILDING DEMOLISHED TWENTY LIVES KNOWN TO HAVE BEEN LOST AND SEVERAL PERSONS SERIOUSLY AND SOME FATALLY INJURED.",
+          "summary": "Rainstorm at Kansas City; Twenty Lives Lost",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg/1280px-Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/12/archives/a-great-loss-of-life-effects-of-a-violent-storm-in-kansas-city-the.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/D.C._riot._April_%2768._Aftermath_19733v.jpg/1280px-D.C._riot._April_%2768._Aftermath_19733v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: RIOTING AND BLOODSHED IN THE STREETS OF CHICAGO.; THE DISPUTE WITH CANADA; GREEK PORTS BLOCKADED.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.125
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1970,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "MITCHELL REGRETS CAMPUS GUNFIRE",
+          "summary": "Atty Gen Mitchell, in referring to shootings, says Amer educ is experiencing its saddest semester in its history, s to Miss Delta business leaders, Delta State Coll; bars comment on matters now under investigation but says nation is determined to live within law and that neither violent demonstrations nor unrestrained reactions are part of law",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/George_John_Mitchell.jpg/1280px-George_John_Mitchell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/05/20/archives/mitchell-regrets-campus-gunfire-in-mississippi-he-calls-this-the.html"
+        },
+        {
+          "headline": "NIXON WILL BAR HOSTILE COMMENTS ON STUDENTS BYA GNEW AND OTHERS; SUMMONS 50 GOVERNORS TO MEETING",
+          "summary": "group of prominent Harvard profs, including E O Reischauer, A Yarmolinsky and R E Neustadt, will conf with Nixon aide Dr Kissinger and publicly announce their break with Adm policies on SE Asia; disclosures reveal that Repubs had set up special telephone system to encourage calls to White House backing Nixon's policy; White House denies it",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1970/05/08/archives/nixon-will-bar-hostile-comments-on-students-by-agnew-and-others.html"
+        },
+        {
+          "headline": "U.S. Will Give Cambodia $7.5.Million in Weapons",
+          "summary": "Adm informs Sen Foreign Relations Com it has decided to give about $7.5-million worth of arms to Cambodia on ground that such aid is important to US security, lr to Fulbright accompanied by document signed by Nixon on importance to US security; lr is classified as secret; Fulbright seeks to have classification changed that issue might be openly discussed",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Skulls_from_the_killing_fields.jpg/1280px-Skulls_from_the_killing_fields.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/05/26/archives/us-will-give-cambodia-75million-in-weapons-congress-is-told-us-will.html"
+        },
+        {
+          "headline": "Rhodes and Taft in Tight Race; Glenn Also in Close Ohio Fight",
+          "summary": "Nominated for Gov, Dem primary",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/1280px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/05/06/archives/rhodes-and-taft-in-tight-race-glenn-also-in-close-ohio-fight-rhodes.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/George_John_Mitchell.jpg/1280px-George_John_Mitchell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: MITCHELL REGRETS CAMPUS GUNFIRE; NIXON WILL BAR HOSTILE COMMENTS ON STUDENTS BYA GNEW AND OTHERS; U.S. Will Give Cambodia $7.5.Million in Weapons.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.643
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1942,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "4 CARRIERS SUNK; Nimitz Says 2 Japanese Heavy Cruisers Also Went to Bottom 3 DESTROYERS IN TOLL 275 Enemy Planes and Most of Their Crews Were Lost -- Other Casualties High 4 CARRIERS SUNK IN MIDWAY ACTION ",
+          "summary": "HONOLULU, -- Admiral Chester W. Nimitz, Commander in Chief of the Pacific Fleet, released today an official compilation of Japanese losses in the Battle of Midway showing that four Japanese aircraft carriers had definitely been sunk.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/IJN_carrier_Amagi_capsized_off_Kure_in_1946.jpg/1280px-IJN_carrier_Amagi_capsized_off_Kure_in_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/29/archives/4-carriers-sunk-nimitz-says-2-japanese-heavy-cruisers-also-went-to.html"
+        },
+        {
+          "headline": "U.S. REFUGEES LAND, SILENCE PLEDGED; JAPANESE TO LEAVE; Gripsholm Brings 194 From Sweden -- All Signed Promise to Reveal Nothing ENEMIES GO TOMORROW 1,000 Bound for Tokyo Will Be Exchanged for Americans -- To Get Special Food SILENCE PLEDGED, U.S. REFUGEES LAND A GREETING FOR ONE OF THE GRIPSHOLM'S PASSENGERS",
+          "summary": "Amer Red Cross, Hebrew Immigrant Aid Soc, Travelers Aid Soc and Natl Council of Jewish Women aid refugees arriving, U S on SS Gripsholm",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/10/archives/us-refugees-land-silence-pledged-japanese-to-leave-gripsholm-brings.html"
+        },
+        {
+          "headline": "SPY AIDES IN CITY CAPTURED BY FBI; MORE ARE HUNTED; Hoover Shields Identities of Those Accused of Helping Men Landed by U-Boats QUICK JUSTICE PROMISED Biddle Says That He Will Deal With the Invading Saboteurs 'Swiftly and Thoroughly' SPY AIDES IN CITY CAPTURED BY FBI NAZI SABOTEUR CRUISING IN U.S. WATERS THREE YEARS AGO",
+          "summary": "8 Nazi saboteurs reptd equipped with soc security cards, some of them forged",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hudson%E2%80%99s_Detroit_Building_2026-01-01.jpg/1280px-Hudson%E2%80%99s_Detroit_Building_2026-01-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/29/archives/spy-aides-in-city-captured-by-fbi-more-are-hunted-hoover-shields.html"
+        },
+        {
+          "headline": "NELSON IS MAPPING MORE SCRAP DRIVES TO GET WAR METAL; Truman Committee Is Told We Outstrip Axis Production, but Must Build Reserves TO TAKE CIVILIAN COPPER Progress Is Seen Against Steel Plate Shortage -- Dormitories Are Planned for Workers NELSON IS MAPPING MORE SCRAP DRIVES",
+          "summary": "D M Nelson indicates nonconvertible small plants may have to close, Truman com hearing",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1942/06/26/archives/nelson-is-mapping-more-scrap-drives-to-get-war-metal-truman.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/IJN_carrier_Amagi_capsized_off_Kure_in_1946.jpg/1280px-IJN_carrier_Amagi_capsized_off_Kure_in_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 4 CARRIERS SUNK; U.S. REFUGEES LAND, SILENCE PLEDGED; SPY AIDES IN CITY CAPTURED BY FBI.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.63
+      }
+    }
+  ]
+}
