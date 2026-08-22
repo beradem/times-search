@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T04:44:06.696026+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2008,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
+          "summary": "President-elect Barack Obama prepared to name an ally as his White House chief of staff in his first step toward assuming power.",
+          "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
+        },
+        {
+          "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
+          "summary": "Just as China has attained supercharged growth that astounded much of the world, it appears to be slowing more sharply and more quickly than anyone anticipated.",
+          "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
+        },
+        {
+          "headline": "Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided",
+          "summary": "Some are still wrestling with the question of how to vote. Which raises a follow-up: What is up with these people?",
+          "image": "https://static01.nyt.com/images/2008/11/02/us/politics/02undecided_span.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/02/us/politics/02undecided.html"
+        },
+        {
+          "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
+          "summary": "For all the news media outlets that set viewership records in recent months, the looming question after Senator Barack Obama’s election is: What happens now?",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/2016_Presidential_Election_ballot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team; Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling; Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.507
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1959,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "REBELS DISSOLVE CUBAN CONGRESS; OFFICIALS OUSTED; Urrutia Drops Governors and Mayors -- Castro Due in Havana Tomorrow KEY POSTS ARE FILLED Regime Will Rule by Decree for at Least 18 Months -- Free Election Planned REBELS DISSOLVE CUBAN CONGRESS",
+          "summary": "Provisional Pres Urrutia says gambling will be abolished, s, Havana U",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/07/archives/rebels-dissolve-cuban-congress-officials-ousted-urrutia-drops.html"
+        },
+        {
+          "headline": "PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; Says They Are 'on All Sides' of the Question -- Supports Estimate of Revenue INFLATION FIGHT URGED Eisenhower Tells Newsmen He Still 'Despises' Controls on Wages and Prices President Derides Fiscal Critics For 'Budgetary Schizophrenia'",
+          "summary": "Eisenhower again warns on inflation, news conf; sees it harmful to growth",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/22/archives/president-sees-schizophrenia-in-budget-critics-says-they-are-on-all.html"
+        },
+        {
+          "headline": "KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'; Premier Cites Mikoyan Talks in Plea for Relaxation of East-West Tension AVOWS A FEAR OF WAR 'Clock Ticks On' as Plants Turn Out Arms, He Says at Indian Reception Khrushchev Sees 'Thaw' Possible In Relations of East and West",
+          "summary": "Khrushchev deplores W Ger Amb Kroll rejection of bid, s, Moscow reception",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/1280px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/khrushchev-says-thaw-is-possible-in-the-cold-war-premier-cites.html"
+        },
+        {
+          "headline": "BONN AIDES WEIGH SOVIET UNITY PLAN; Study Confederation Idea in Mapping Policy for West's German Talks Bonn Aides Study Soviet Plans For Reunification of Germany",
+          "summary": "W Ger studies USSR confed proposals to see if some elements might spur reunification; reluctance to shift discussed; Adenauer plans informal talks with Brit leaders",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg/1280px-Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/bonn-aides-weigh-soviet-unity-plan-study-confederation-idea-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: REBELS DISSOLVE CUBAN CONGRESS; PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.555
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1969,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "ASTRONAUTS SPEEDING TOWARD THE MOON; FIRST DAY OF APOLLO FLIGHT IS FLAWLESS; NIXON ASKS FOR NATIONAL HOLIDAY MONDAY; CRAFT ON TARGET World Watches Start of Man's Attempt to Achieve Landing Astronauts Speeding Toward the Moon; First Day of Apollo 11 Flight Is Flawless World Watches the Start Of Attempt for a Landing",
+          "summary": "CAPE KENNEDY, Fla., Thursday, -- Three American astronauts commissioned to fulfill an age-old dream and a national goal of the decade were streaking across the black sea of space today in man's first attempt to walk on another world -- the moon.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/1280px-Neil_Armstrong_pose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/07/17/archives/astronauts-speeding-toward-the-moon-first-day-of-apollo-flight-is.html"
+        },
+        {
+          "headline": "NIXON PLANS CUT IN MILITARY ROLE FOR U.S. IN ASIA; Starting Tour, He Promises Respect for Commitments, but Under New Forms ARRIVES IN PHILIPPINES President, at Guam, Asserts Nation Won't Be Drawn Into More Vietnams President Nixon Declares That U.S. Will Reduce Its Military Commitments in Asia POLICIES OUTLINED AT START OF TOUR He Says Nation Will Not Be Drawn Into Future Wars Like That in Vietnam",
+          "summary": "Nixon says he may order reduction in mil operations in S Vietnam if it would help negotiations to end war, news conf, Guam; favors summit meeting with USSR in search for end of war, but doubts USSR would work for settlement in pub forum; concedes many Amers are frustrated with war and want reduction in US commitment",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/07/26/archives/nixon-plans-cut-in-military-role-for-us-in-asia-starting-tour-he.html"
+        },
+        {
+          "headline": "HOUSE UNIT ACTS TO INCREASE TAX ON CAPITAL GAINS; Mills Also Indicates Action by Committee to Reduce Oil-Depletion Allowance SENATE DEBATE GOES ON Long and Dirksen Continue to Press for Early Move on Surcharge Extension House Unit Acting on Capital Gains",
+          "summary": "Maneuvering continues in Sen on linking tax reform and income tax surcharge extension; Sen E M Kennedy hacks view of Dem leadership that entire matter should be treated jointly in Sept; offers 8 major reforms",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pieter_Brueghel_the_Younger%2C_%27Paying_the_Tax_%28The_Tax_Collector%29%27_oil_on_panel%2C_1620-1640._USC_Fisher_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/07/16/archives/house-unit-acts-to-increase-tax-on-capital-gains-mills-also.html"
+        },
+        {
+          "headline": "BURGER TO PRESS JUDICIAL REFORM; Pledges to Make Off-Bench Effort in Drive to Improve Administration of Justice BURGER TO PRESS JUDICIAL REFORM",
+          "summary": "Chief Justice Burger disputes Time magazine statement that he is concerned that recent Sup Ct decisions have hampered criminal prosecutors, int; says he backs stronger defense side",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Universidade_Federal_do_Parana_4_Curitiba_Parana.jpg/1280px-Universidade_Federal_do_Parana_4_Curitiba_Parana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/07/02/archives/burger-to-press-judicial-reform-pledges-to-make-offbench-effort-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/1280px-Neil_Armstrong_pose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ASTRONAUTS SPEEDING TOWARD THE MOON; NIXON PLANS CUT IN MILITARY ROLE FOR U.S. IN ASIA; HOUSE UNIT ACTS TO INCREASE TAX ON CAPITAL GAINS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.581
+      }
+    }
+  ]
+}
