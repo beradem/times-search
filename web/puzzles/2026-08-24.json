@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T04:57:06.979774+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1965,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "FREEDOM MARCH BEGINS AT SELMA; TROOPS ON GUARD; 3,200 Take Part in Protest as 54-Mile Rights Walk to Montgomery Starts DR. KING HAILS MISSION Envisions 'a New Alabama' and 'a New America' -- Crowd's Mood Festive 3,200 Begin Freedom March to Alabama's Capitol as Federal Troops Stand Guard A FESTIVE CROWD HEARS DR. KING He Envisions New Alabama and a New America -- Throng Is Heckled",
+          "summary": "SELMA, Ala., -- Backed by the armed might of the United States, 3,200 persons marched out of Selma today on the first leg of a historic venture in nonviolent protest.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Abernathy_Children_on_front_line_leading_the_SELMA_TO_MONTGOMERY_MARCH_for_the_RIGHT_TO_VOTE.JPG/1280px-Abernathy_Children_on_front_line_leading_the_SELMA_TO_MONTGOMERY_MARCH_for_the_RIGHT_TO_VOTE.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1965/03/22/archives/freedom-march-begins-at-selma-troops-on-guard-3200-take-part-in.html"
+        },
+        {
+          "headline": "U.S. TURNS DOWN THANT PROPOSAL ON TRUCE PARLEY; Says It Can Accept No Bid for a Vietnam Discussion Until 'Aggression' Ends CHANNELS REMAIN OPEN Hope Voiced for a Peaceful Solution -- Saigon Troops Score Major Victory U.S. TURNS DOWN THANT PROPOSAL",
+          "summary": "US rejects Thant proposal; says it will not accept inv to conf until N Vietnam halts aggression",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1965/03/10/archives/us-turns-down-thant-proposal-on-truce-parley-says-it-can-accept-no.html"
+        },
+        {
+          "headline": "ALABAMA POLICE USE GAS AND CLUBS TO ROUT NEGROES; 57 Are Injured at Selma as Troopers Break Up Rights Walk in Montgomery DR. KING IS IN ATLANTA He Reveals Plans to Lead a New March Tomorrow -- Court Action Planned Alabama Police Use Gas and Clubs to Rout Negroes Attempting March on Capital 525 IN SELMA DEFY BAN OF GOVERNOR 17 Hospitalized as Officers Attack Demonstrators -- Dr. King in Atlanta",
+          "summary": "Ala police restrain newsmen during clash with Negro demonstrators, Selma",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1965/03/08/archives/alabama-police-use-gas-and-clubs-to-rout-negroes-57-are-injured-at.html"
+        },
+        {
+          "headline": "JOHNSON URGES CONGRESS AT JOINT SESSION TO PASS LAW INSURING NEGRO VOTE; NATION HEARS HIM President, in TV Talk, Pledges That 'We Shall Overcome' Johnson Urges Congress at Joint Session to Pass Law Insuring Negro Voting Rights TV APPEAL CALLS FOR ACTION NOW Nation Hears President Say 'We Shall Overcome' in the War on Bigotry",
+          "summary": "Pres Johnson, in televised address to Cong, colls for immediate action on Fed voting rights legis; in printed message sent to Cong gives more detailed description of bill; legis would immediately affect 6 states: Ala, Ga, La, Miss, SC and Va; Pres tells states wishing to retain local control of elections to regis all their voters; calls issue moral, not states rights or Fed rights; goals of bill outlined; practical effect would be to abolish literacy tests and other discriminatory voter qualification devices",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Book_of_Negroes%2C_Samuel_Birch.png/1280px-Book_of_Negroes%2C_Samuel_Birch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1965/03/16/archives/johnson-urges-congress-at-joint-session-to-pass-law-insuring-negro.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Abernathy_Children_on_front_line_leading_the_SELMA_TO_MONTGOMERY_MARCH_for_the_RIGHT_TO_VOTE.JPG/1280px-Abernathy_Children_on_front_line_leading_the_SELMA_TO_MONTGOMERY_MARCH_for_the_RIGHT_TO_VOTE.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FREEDOM MARCH BEGINS AT SELMA; U.S. TURNS DOWN THANT PROPOSAL ON TRUCE PARLEY; ALABAMA POLICE USE GAS AND CLUBS TO ROUT NEGROES.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.557
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2015,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "With Little Fanfare, Mexican Supreme Court Legalizes Same-Sex Marriage",
+          "summary": "The Supreme Court of Mexico has said laws on the books in most of the country’s states are discriminatory, but gay couples still need costly injunctions from lower courts in order to wed.",
+          "image": "https://static01.nyt.com/images/2015/06/15/world/15mexico-web2/15mexico-web2-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2015/06/15/world/americas/with-little-fanfare-mexican-supreme-court-effectively-legalizes-same-sex-marriage.html"
+        },
+        {
+          "headline": "The Story of New York’s First Black Police Officer, Told With the Help of Langston Hughes",
+          "summary": "The story of Samuel J. Battle, the first black officer in the New York Police Department, is being told in a new book by Arthur Browne, a veteran newspaper reporter and editor.",
+          "image": "https://static01.nyt.com/images/2015/06/28/nyregion/28BROWNE/28BROWNE-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2015/06/28/nyregion/the-story-of-new-yorks-first-black-police-officer-told-with-the-help-of-langston-hughes.html"
+        },
+        {
+          "headline": "Bizarre Court Case Puts a Violinist, and Leipzig String Quartet, in an Unflattering Light",
+          "summary": "Stefan Arzberger, a member of the music group, is fighting charges that he attacked a woman in a Manhattan hotel this spring.",
+          "image": "https://static01.nyt.com/images/2015/06/12/arts/13VIOLINISTWEB/13VIOLINISTWEB-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2015/06/13/arts/music/bizarre-court-case-puts-a-violinist-and-leipzig-string-quartet-in-an-unflattering-light.html"
+        },
+        {
+          "headline": "For Swapped Taliban Prisoners From Guantánamo Bay, Few Doors to Exit Qatar",
+          "summary": "As the United States pressed Qatar for a six-month travel ban for the former Guantánamo detainees exchanged for Sgt. Bowe Bergdahl, no countries appeared eager to let them in.",
+          "image": "https://static01.nyt.com/images/2015/06/01/world/01TALIBAN/01TALIBAN-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2015/06/01/world/middleeast/us-presses-qatar-on-travel-ban-for-swapped-taliban-prisoners.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2015/06/15/world/15mexico-web2/15mexico-web2-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: With Little Fanfare, Mexican Supreme Court Legalizes Same-Sex Marriage; The Story of New York’s First Black Police Officer, Told With the Help of Langston Hughes; Bizarre Court Case Puts a Violinist, and Leipzig String Quartet, in an Unflattering Light.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.892
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1947,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "COOPER IS STAR; His Single Sends Home Deciding Tally for the Giants in Fifth MIZE AND RIGNEY CONNECT Homers Account for 3 Runs Against Brooks -- Victory on Mound to Voiselle GIANTS CONQUER DODGERS BY 4-3 DODGER NEWCOMER SHOWS SPEED ON THE BASEPATHS TO GET SINGLE ",
+          "summary": "By way of demonstrating that their sudden flair for belting home runs was something more than an opening-day flash in the pan, the Giants touched off two more gaudy shots at the Polo Grounds yesterday.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bradley_Cooper_Is_This_Thing_On-41_%28cropped%29.jpg/1280px-Bradley_Cooper_Is_This_Thing_On-41_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1947/04/20/archives/cooper-is-star-his-single-sends-home-deciding-tally-for-the-giants.html"
+        },
+        {
+          "headline": "'MORALE WRECKING' OF PHONE UNIONISTS LAID TO U. S. CHIEFS; Counsel Says Schwellenbach Had Stated That NFTW Was 'Weak' and Near 'Collapse' MINERS DONATE $100,000 Labor Department Will Hold 'Intensive Conferences' With View to Quick Settlement U. S. CHIEFS SCORED BY PHONE UNIONIST $100,000 FROM UMW FOR PHONE UNION",
+          "summary": "Labor Dept completes plans for intensive confs; Mayer charges Schwellenbach and Gibson seek to break strike; Schwellenbach silent; UMWA lends $100,000; W Smallwood and C W Werkau view check, illus; Mayer claims WE is not State rate regulated yet resists wage demand",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1947/04/25/archives/morale-wrecking-of-phone-unionists-laid-to-u-s-chiefs-counsel-says.html"
+        },
+        {
+          "headline": "BASIC, WIDER CUTS IN PRICES SOUGHT TO FIGHT INFLATION; ' Newburyport Plan' Held Good So Far as It Goes but More Are Urged to Adopt It ITS EFFECTS ARE STUDIED Senator Flanders Assays It as La Guardia Calls Praise for It 'Childish, Stupid' More Drastic Price-Cutting Urged In the Fight to Ward Off Inflation",
+          "summary": "joint com to consider Econ Advisers Council repts plans Newburyport plan survey; L H Keyserling and F H LaGuardia demand more permanent plans, radio ss; Newburyport sends price-cut plea to Macy's; plan spreads",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Poverty-_Share_of_population_living_on_less_than_%248.30_a_day%2C_2023-2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1947/04/28/archives/basic-wider-cuts-in-prices-sought-to-fight-inflation-newburyport.html"
+        },
+        {
+          "headline": "HOUSE GROUP VOTES BILL TO END STRIKES BY COURT INJUNCTION; Measure Would Empower U.S. to Halt Such Tie-Ups as That Threatened by Phone Union EARLY PASSAGE IS PRESSED A.T.&T. Long Lines Here Lays In Food, Cots, Anticipating Walkout Monday at 6 A. M. LINE IS BUSY AS TELEPHONE OPERATORS VOTE ON STRIKE HOUSE GROUP VOTES ANTI-STRIKE BILL",
+          "summary": "House Labor Com approves Hartley bill empowering Govt to end strikes by injunction; Sen Labor Com has no such bill in prospect",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hudson%E2%80%99s_Detroit_Building_2026-01-01.jpg/1280px-Hudson%E2%80%99s_Detroit_Building_2026-01-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1947/04/03/archives/house-group-votes-bill-to-end-strikes-by-court-injunction-measure.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bradley_Cooper_Is_This_Thing_On-41_%28cropped%29.jpg/1280px-Bradley_Cooper_Is_This_Thing_On-41_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: COOPER IS STAR; 'MORALE WRECKING' OF PHONE UNIONISTS LAID TO U. S. CHIEFS; BASIC, WIDER CUTS IN PRICES SOUGHT TO FIGHT INFLATION.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.731
+      }
+    }
+  ]
+}
