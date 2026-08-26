@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T04:52:10.847695+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1901,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "LONDON TOPICS OF THE WEEK; No Lesson in the Conservative Victory in Northeast Lanarkshire. Liberals Still Divided -- High Honors for Soldiers Who Have Not Yet Received Their Pay. Czolgosz's Crime Reacts Upon Irish Agitators, Whose Intemperate Language Is Condemned -- Active Movement for a Redistribution of Seats -- Labor Problems.",
+          "summary": "Fishermen's Strike; Miners' Convention",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/1280px-Jack_London_young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/29/archives/london-topics-of-the-week-no-lesson-in-the-conservative-victory-in.html"
+        },
+        {
+          "headline": "PRINCE CHUN GOING HOME; He Has Been Ordered to Return to China Immediately. UNABLE TO VISIT AMERICA Berlin Kreuz Zeitung Thinks the Prince Has Been Treated Too Well While in Germany.",
+          "summary": "Ordered Home",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Badaling_China_Great-Wall-of-China-01.jpg/1280px-Badaling_China_Great-Wall-of-China-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/26/archives/prince-chun-going-home-he-has-been-ordered-to-return-to-china.html"
+        },
+        {
+          "headline": "FRANCE GREETS THE CZAR; He Lands at Dunkirk and Later Goes to Compiegne. OBJECT OF THE FESTIVITIES Behind All the Fetes and Decorations Is the Desire of France to Prove Her Military and Naval Power.",
+          "summary": "Dunkirk and Compiegne",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/In_Soviet_Russia%2C_Bill_Kills_You%21%21%21_%285526520071%29.jpg/1280px-In_Soviet_Russia%2C_Bill_Kills_You%21%21%21_%285526520071%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/19/archives/france-greets-the-czar-he-lands-at-dunkirk-and-later-goes-to.html"
+        },
+        {
+          "headline": "ORDERS TO PRINCE CHUN; He Was Told Not to Consent to a Humiliating Ceremony. HAS ARRIVED AT POTSDAM The Expiatory Mission He Heads Shorn of Its Original Significance -- Germans Blame Von Buelow.",
+          "summary": "Agreement",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gours_des_grottes_de_Saint_Marcel_d%27Ard%C3%A8che%2C_France.jpg/1280px-Gours_des_grottes_de_Saint_Marcel_d%27Ard%C3%A8che%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/04/archives/orders-to-prince-chun-he-was-told-not-to-consent-to-a-humiliating.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/1280px-Jack_London_young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: LONDON TOPICS OF THE WEEK; PRINCE CHUN GOING HOME; FRANCE GREETS THE CZAR.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.125
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1939,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "6 U.S. SHIPS KEPT IN PORT AS SEAMEN HOLD OUT FOR PAY; Stalemate Results Over War Risk Insurance Demands-- No Solution Seen Near FRIED CALLS 12 SAILORS Plans Inquiry on Tie-Up of American Trader--Owners Say Capital Must Act",
+          "summary": "American merchant shipping was badly hampered in New York harbor yesterday when the crews of six vessels refused to sail their ships, insisting on concrete concessions to their demands for extra compensation for entering European waters affected by the war.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/1280px-RMS_Titanic_3_%28cropped_to_ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1939/09/17/archives/6-us-ships-kept-in-port-as-seamen-hold-out-for-pay-stalemate.html"
+        },
+        {
+          "headline": "Bulletins on European Conflict; Air Raid Warning in London Ribbentrop Gives Reply to British Envoy American Diplomats' Families Leave Reich War Announced in France No News\" at the German Embassy Denies Poles Got Five-Power Parley Offer 1,000 Americans Sail on French Liner Heavy Fighting Is Reported in Silesia Bulletins on European Conflict Burckhardt in Kaunas en Route to London German Plane Disabled by Polish Fire Netherland Air Service to East Suspended Two Japanese Ambassadors Expected to Retire Egypt Declares Martial Law",
+          "summary": "Warsaw bombed",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1939/09/03/archives/bulletins-on-european-conflict-air-raid-warning-in-london.html"
+        },
+        {
+          "headline": "ROME ASKED PEACE; Pressed Its Proposal for a 5-Power Parley on Britain and France WAR MEASURES CUT Press Expressed the Hope Germany Would Win in Poland For Wide Settlement ITALY IS SEEKING A 5-POWER PARLEY War Measures Reduced",
+          "summary": "war measures reduced",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1939/09/03/archives/rome-asked-peace-pressed-its-proposal-for-a-5power-parley-on.html"
+        },
+        {
+          "headline": "BRITISH TAXED 37 % OF INCOME FOR WAR; Levy on $10 Weekly Earnings and Surtaxes Up to 80% Voted Without Protest Exemptions Are Slashed BRITISH TAXED 37 % OF INCOME FOR WAR Implications Realized Slowly Not Yet Time For a Loan Costs to Be Drastically Curbed Clue to Avoidance of Loans Forsees German Inflation",
+          "summary": "Brit tax raised",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg/1280px-MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1939/09/28/archives/british-taxed-37-of-income-for-war-levy-on-10-weekly-earnings-and.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/1280px-RMS_Titanic_3_%28cropped_to_ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 6 U.S. SHIPS KEPT IN PORT AS SEAMEN HOLD OUT FOR PAY; Bulletins on European Conflict; ROME ASKED PEACE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.536
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1914,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "ARMED LINER SUNK BY THE BRITISH; Cruiser High Flyer Sends Kaiser Wilhelm der Grosse to Bottom Off African Coast. WAS COMMERCE DESTROYER British Lose One Killed and Five Wouded ;- Survivors of Kaiser Landed. GERMAN CRUISER SMASHED Magdeburg, Stranded and Attacked by Russians, Blown Up ;- 17 Killed ;- Mines Sink Two Ships.",
+          "summary": "British cruiser Highflyer sinks Kaiser Wilhelm der Grosse",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Alcantara_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/28/archives/armed-liner-sunk-by-the-british-cruiser-high-flyer-sends-kaiser.html"
+        },
+        {
+          "headline": "KAISER IGNORES JAPAN'S DEMAND; TIME LIMIT ENDS; German Government Makes No Reply to Ultimatum ;- War Is Probably Now On. ENVOY ORDERED TO LEAVE Japanese Charge Instructed Throug h Washington to Quit Berlin at 4 A.M. Today. JAPAN EMBARKS TROOPS Shanghai Hears That 16,000 Men Are on Transports Ready to Move on Kiao-Chau. BIG FLEET ALSO ON PATROL London and Washington Both Believe Japan Will Begin Attack on Germans at Once. ALL NON-COMBATANTS FLEE American Ambassadors to Take Charge of Japanese and German Interests in Hostile Lands. KAISER IGNORES JAPAN'S DEMAND",
+          "summary": "Ambassadors will protect German and Japanese interests during hostilities",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/23/archives/kaiser-ignores-japans-demand-time-limit-ends-german-government.html"
+        },
+        {
+          "headline": "Kaiser at the Front With His Three Sons; Berlin Press Hails His Act With Enthusiasm",
+          "summary": "arrives at Mainz",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg/1280px-Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/18/archives/kaiser-at-the-front-with-his-three-sons-berlin-press-hails-his-act.html"
+        },
+        {
+          "headline": "ITALY WITH 800,000 MAY JOIN THE ALLIES; Swiss Papers Learn of Country-Wide Preparations for War ;- French Frontier Vacated.",
+          "summary": "England is key to Italy's attitude toward Triple Alliance",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Portland_HeadLight_%28cropped%29.jpg/1280px-Portland_HeadLight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/30/archives/italy-with-800000-may-join-the-allies-swiss-papers-learn-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Alcantara_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ARMED LINER SUNK BY THE BRITISH; KAISER IGNORES JAPAN'S DEMAND; Kaiser at the Front With His Three Sons.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.545
+      }
+    }
+  ]
+}
