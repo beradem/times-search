@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T15:08:51.035985+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1944,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "FIFTH OF ELBA WON IN FRENCH INVASION; Allied Naval Force Covers Landings -- Germans Continue Headlong Retreat in Italy FIFTH OF ELBA WON IN FRENCH INVASION FRENCH LAND ON ELBA AS ALLIES SWEEP ON IN ITALY",
+          "summary": "Rome fall discussed; illus; Clark entering Rome illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg/1280px-IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/18/archives/fifth-of-elba-won-in-french-invasion-allied-naval-force-covers-land.html"
+        },
+        {
+          "headline": "DEWEY BUILDS UP PARTY PLATFORM ON 2 MAJOR POINTS; Meeting Several Hundred News Reporters, He Backs Hull Reciprocal Trade Plan BUT AS REPUBLICAN POLICY International Police Force Is Opposed -- He Praises SEC, but Not Its Enforcement REPUBLICAN NOMINEES DISCUSS PLANS OVER BREAKFAST DEWEY BUILDS UP PARTY PLATFORM",
+          "summary": "Conf with Natl Com subcom",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/30/archives/dewey-builds-up-party-platform-on-2-major-points-meeting-several.html"
+        },
+        {
+          "headline": "DEWEY TO ACCEPT IF HE IS 'DRAFTED,' HIS ADVISERS ADMIT; All Doubt Ended as Sprague, Brownell and Jaeckle Leave for Chicago Ahead of Time STATEMENT IS DUE TODAY Trip of Closest Political Aides Comes After Week-End of Talks With the Governor DEWEY MEN ADMIT HE IS READY TO RUN",
+          "summary": "Dewey advisers on way to Chicago",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/John_Edwards_presidential_campaign%2C_2008_%282150692693%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/19/archives/dewey-to-accept-if-he-is-drafted-his-advisers-admit-all-doubt-ended.html"
+        },
+        {
+          "headline": "AIR ROUTES MAPPED FOR 140,000 MILES CIRCLING THE WORLD; Civil Aeronautics Board Shows 'Basic Draft' of Operations Proposed When War Ends 100 CARRIER APPLICANTS Chairman Stresses Point That Landing Rights Overseas Is State Department Problem AIR ROUTES MAPPED CIRCLE THE WORLD",
+          "summary": "sought by more than 100 lines for world service",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/1280px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/14/archives/air-routes-mapped-for-140000-miles-circling-the-world-civil.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg/1280px-IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FIFTH OF ELBA WON IN FRENCH INVASION; DEWEY BUILDS UP PARTY PLATFORM ON 2 MAJOR POINTS; DEWEY TO ACCEPT IF HE IS 'DRAFTED,' HIS ADVISERS ADMIT.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.667
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2009,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "Rearranging the Tables in Washington: Can Obama’s Coattails Reach to Restaurants?",
+          "summary": "Washington restaurateurs see rays of hope emanating from President-elect Barack Obama’s status as a frequent restaurant-goer.",
+          "image": "https://static01.nyt.com/images/2009/01/13/dining/14power_75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2009/01/14/dining/14power.html"
+        },
+        {
+          "headline": "Citigroup Plans to Split Itself Up, Taking Apart the Financial Supermarket",
+          "summary": "Citigroup is moving to dismantle large parts of its troubled financial empire, undoing the landmark merger that created the company a decade ago.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Subprime_mortgage_originations%2C_1996-2008.GIF?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2009/01/14/business/14citi.html"
+        },
+        {
+          "headline": "A Plan to Jump-Start Economy With No Instruction Manual",
+          "summary": "Economists say it is unclear whether President-elect Barack Obama’s stimulus package is big enough and whether it would provide the most bang for the buck.",
+          "image": "https://static01.nyt.com/images/2009/01/10/us/10stimulus01-600.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2009/01/10/washington/10stimulus.html"
+        },
+        {
+          "headline": "Contradictions in China, and the Rise of a Billionaire Family",
+          "summary": "The story of Liu Yongxing — a former factory worker who is now listed by Forbes as the wealthiest person in China — is a peek into the changes facing China.",
+          "image": "https://static01.nyt.com/images/2009/01/02/business/02yuan01-75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2009/01/02/business/worldbusiness/02yuan.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2009/01/13/dining/14power_75.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Rearranging the Tables in Washington: Can Obama’s Coattails Reach to Restaurants?; Citigroup Plans to Split Itself Up, Taking Apart the Financial Supermarket; A Plan to Jump-Start Economy With No Instruction Manual.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.489
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2016,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "Trump Diversifies Cabinet; Picks Nikki Haley and Betsy DeVos",
+          "summary": "The president-elect’s first picks were white men, but now he has recruited two women: Gov. Nikki R. Haley of South Carolina and Betsy DeVos, a G.O.P. philanthropist.",
+          "image": "https://static01.nyt.com/images/2016/11/24/us/24devos/24devos-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/23/us/politics/donald-trump-president-elect.html"
+        },
+        {
+          "headline": "Donald Trump Picks Reince Priebus as Chief of Staff and Stephen Bannon as Strategist",
+          "summary": "The appointments created rival centers of power and elevated the voice of Mr. Bannon, whose longtime website, Breitbart News, has traded in conspiracy theories and sometimes racist messages.",
+          "image": "https://static01.nyt.com/images/2016/11/13/us/00priebuschief/00priebuschief-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/14/us/politics/reince-priebus-chief-of-staff-donald-trump.html"
+        },
+        {
+          "headline": "Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally",
+          "summary": "The pop star’s appearance with the Dixie Chicks at the Country Music Association Awards was powerful — and sly.",
+          "image": "https://static01.nyt.com/images/2016/11/06/arts/07BEYONCEJP2/06BEYONCE1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/06/arts/music/beyonce-political-hillary-clinton-dixie-chicks.html"
+        },
+        {
+          "headline": "These Officials Help Write Ballot Questions. Companies Write Them Checks.",
+          "summary": "Secretaries of state, who oversee ballot measures on issues like gun control and the minimum wage, are courted by interest groups and industries with billions of dollars at stake.",
+          "image": "https://static01.nyt.com/images/2016/11/06/us/06secstate1/06secstate1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/05/us/politics/secretaries-of-state-elections-ballot-initiatives.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2016/11/24/us/24devos/24devos-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Trump Diversifies Cabinet; Donald Trump Picks Reince Priebus as Chief of Staff and Stephen Bannon as Strategist; Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.915
+      }
+    }
+  ]
+}
