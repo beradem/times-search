@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T09:55:24.103082+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1863,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "THE CAVALRY SERVICE.; Details of the Operations of Our Cavalry During the Campaign Against Lee. Fifteen Battles Fought Within Sixteen Days. The Battles of Hanover, Hunterstown, Gettysburgh, Monterey, Smithsburgh, Hagerstown, (3) Williamsport, (3) Boonsboro, (2) Funkstown, Antietam Creek and Falling Waters:The Results---Incidents---The Night Attack Upon the Enemy's Train, &c. THE BATTLE AT HANOVER. THE BATTLE AT HUNTERSTOWN. THE BATTLE AT SMITHSBURGH. THE BATTLE OF HAGERSTOWN AND WILLIAMSPORT. THE BATTLES AT AND NEAR BOONSBORO, FUNKTOWN AND ANTIETAM CREEK. THE SECOND BATTLE AT HAGERSTOWN. THE LEFT AT WILLIAMSPORT GEN. BUFORD'S DIVISION. THE RIGHT AT GETTYSBURGH. WHAT HAS BEEN ACCOMPLISHED. THE FLYING ARTILLERY.",
+          "summary": "Cavalry Operations during the Pennsylvania Campaign; the Cavalry Battle of",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Teenmurtidelhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1863/07/21/archives/the-cavalry-service-details-of-the-operations-of-our-cavalry-during.html"
+        },
+        {
+          "headline": "THE MOB IN NEW-YORK.; Resistance to the Draft--Rioting and Bloodshed. Conscription Offices Sacked and Burned. Private Dwellings Pillaged and Fired. An ARMORY AND A HOTEL DESTROYED. Colored people Assaulted--An Unoffending Black Man Hung.The Tribune office Attacked--The Colored Orphan Asylum Ransacked and Burned--Other Outrages and Incidents.A DAY OF INFAMY AND DISGRACE. ATTACK UPON SUPERINTENDENT KENNEDY. THE ATTACK ON THE ARMORY IN SECOND-AVENUE. SCENES BY AN EYE-WITNESS. BURNING OF THE ORPHAN ASYLUM FOR COLORED CHILDREN. ATTACK ON THE TRIBUNE OFFICE. OUTRAGES UPON COLORED PERSONS. COURAGEOUS ACTION OF THE POLICE. THE ATTACK ON THE MAYOR'S RESIDENCE. MEETING OF EX-OFFICERS AT THE ARMORY OF THE SEVENTH REGIMENT. CHARACTER OF THE MOB. ROVING RIOTERS. APPREHENDED ATTACK ON THE POLICE HEADQUARTERS. THE HOUSES BURNED IN LEXINGTON-AVENUE. DESTRUCTION OF A BLOCK ON BROADWAY. BULL'S HEAD HOTEL. A STATION-HOUSE AND THE RESIDENCE OF THE CITY POSTMASTER BURNED. THIEVES AND PICKPOCKETS. THE POLICE. PREPARATIONS FOR TO-DAY. WHAT WAS DONE IN B",
+          "summary": "Attack on Tribune Office; Burning of Colored Orphan Asylum",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stele_of_Vultures_detail_01a.jpg/1280px-Stele_of_Vultures_detail_01a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1863/07/14/archives/the-mob-in-newyork-resistance-to-the-draftrioting-and-bloodshed.html"
+        },
+        {
+          "headline": "ONE WEEK LATER FROM EUROPE.; The City of New-York at this Port and the Scotia off Cape Race. Reported Capture of the Steamship Moses Taylor bythe Alabama.Important Proceedings in the British Parliament.Mr. Roebuck Withdraws his Motion forRecognition. Mr. Lindsay Explains theVisit to the French Emperor.The News of Lee's Defeat Receivedin England.The London Times Does Not See the Ground of Mr. Lincoln's Hopeful Anticipations.The Principal Struggle to Take Place atVicksburgh and Port Hudson. ASPECT OF THE POLISH QUESTION.",
+          "summary": "Roebuck, J. A.; Motion--Speech; also of Mr. Lindsay, >amp;c.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Foreign_%26_Commonwealth_Office_main_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1863/07/26/archives/one-week-later-from-europe-the-city-of-newyork-at-this-port-and-the.html"
+        },
+        {
+          "headline": "The Siego of Fort Wagner.; CONDUCT OF THE MASSACHUSETTS NEGRO REGIMENT.",
+          "summary": "Strong, Gen. G. C., wounded at Fort Wagner",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dendrobium_glomeratum_Rolfe%2C_Bull._Misc._Inform._Kew_1894_155_%281894%29_%2832429111508%29.jpg/1280px-Dendrobium_glomeratum_Rolfe%2C_Bull._Misc._Inform._Kew_1894_155_%281894%29_%2832429111508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1863/07/31/archives/the-siego-of-fort-wagner-conduct-of-the-massachusetts-negro.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Teenmurtidelhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THE CAVALRY SERVICE.; THE MOB IN NEW-YORK.; ONE WEEK LATER FROM EUROPE..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.166
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1960,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "KENNEDY APPEARS TO LEAD IN STATE; RELIGION A FACTOR; Estimates of Margin Range Up to a Million -- Catholic Issue May Be Decisive KENNEDY APPEARS TO LEAD IN STATE",
+          "summary": "wk, Eisenhower role, campaign as whole revd; illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_F._Kennedy.jpg/1280px-Robert_F._Kennedy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/06/archives/kennedy-appears-to-lead-in-state-religion-a-factor-estimates-of.html"
+        },
+        {
+          "headline": "KENNEDY ASSURES 3 WESTERN ALLIES ON COMMON GOALS; He Answers Congratulatory Messages From de Gaulle, Macmillan and Adenauer PLEDGES COOPERATION President-Elect Starts His Vacation in Palm Beach -- Stops in Washington Kennedy Assures Allies of West Of Cooperation on Common Aims",
+          "summary": "Kennedy pledges to work for disarmament, reply to Adenauer congratulatory message",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1960/11/12/archives/kennedy-assures-3-western-allies-on-common-goals-he-answers.html"
+        },
+        {
+          "headline": "U.S. REPORT MAPS HIGH GOALS IN 60'S; TAX RISES HINTED; President's Board Calls for Sacrifices -- Asks Doubling of Help for Education CUT IN JOBLESS SOUGHT End of Racial Barriers in Colleges Is Seen -- More Foreign Aid Supported U.S. STUDY MAPS HIGH GOALS IN 60'S",
+          "summary": "Natl Goals Comm urges keeping unemployment below 4%; notes need to find 1.5 million jobs for marginal farm operators",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/28/archives/us-report-maps-high-goals-in-60s-tax-rises-hinted-presidents-board.html"
+        },
+        {
+          "headline": "NEW YORK LOSES TWO HOUSE SEATS; JERSEY GAINS ONE; California Given Eight New Members on the Basis of Rise in Population NEW YORK LOSES TWO HOUSE SEATS",
+          "summary": "Commerce Dept repts final totals; population as of was 179,323,175, not counting Amers abroad; rise is 28 million over '50; Fla 78.7% rise is greatest percentage gain; Calif, with 48.5% rise, made biggest gain in actual population; increase in West is far greater than rest of US; increase by region noted; table shows '50 and '60 populations of each state; only 3 states and DC lose population",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/1280px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/16/archives/new-york-loses-two-house-seats-jersey-gains-one-california-given.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_F._Kennedy.jpg/1280px-Robert_F._Kennedy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: KENNEDY APPEARS TO LEAD IN STATE; KENNEDY ASSURES 3 WESTERN ALLIES ON COMMON GOALS; U.S. REPORT MAPS HIGH GOALS IN 60'S.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.553
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1974,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "NIXON CALLS AIDES IN POSSIBLE MOVE ON IMPEACHMENT",
+          "summary": "Pres Nixon summons his chief defense atty James D St Clair, press sec Ronald L Ziegler, chief of staff Alexander M Haig Jr and speech writers Raymond K Price Jr and Patrick J Buchanan to Camp David, Md, arousing speculation that some new move is contemplated as result of Cong impeachment drive; deputy press sec Gerald L Warren says he knows of no plans for speech but does not rule out possibility that Nixon is preparing new response to pressures for impeachment; options open to Nixon noted; lr Sen R P Griffin sent to Pres Nixon warning that if Nixon defies Sen subpoenas for tapes Griffin will vote for conviction discussed; Repr J J Rhodes cancels news conf, in which he was to announce how he would vote on impeachment, because of illness (L)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1974/08/05/archives/nixon-calls-aides-in-possible-move-on-impeachment-went-with-family.html"
+        },
+        {
+          "headline": "All Europe Suddenly Focuses On the Political Crisis in U.S.",
+          "summary": "W Eur is swept by storm of intense reaction to Pres Nixon's latest disclosures in Watergate scandal; US pol crisis has suddenly eclipsed all other issues in public debate; Govt officials reluctant to comment publicly but press comment is most caustic in memory, some papers calling for Nixons resignation; several papers quoted (L)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/1280px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1974/08/08/archives/all-europe-suddenly-focuses-on-the-political-crisis-in-us-europe.html"
+        },
+        {
+          "headline": "CYPRUS FIGHTING RESUMES AS PEACE TALKS COLLAPSE; U.N. CALLED INTO SESSION",
+          "summary": "Fighting resumes on Cyprus shortly after peace talks break down in Geneva; Brit Sec James Callaghan calls for emergency meeting of UN Security Council; Turkish planes bomb Nicosia and area near airport; 2 hrs before attack, Turkish radio warns ships and civil aircraft to stay clear of area; AP and Reuters repts possibility that Greece is withdrawing from NATO; Greek Foreign Min George Mavros is quoted as saying 'NATO does not exist for Greece'; illus of Callaghan, Mavros and Turkish Foreign Min Turan Gunes leaving Geneva peace talks (S)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Coast_with_Dome_Hotel%2C_Kyrenia%2C_Northern_Cyprus_03.jpg/1280px-Coast_with_Dome_Hotel%2C_Kyrenia%2C_Northern_Cyprus_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1974/08/14/archives/cyprus-fighting-resumes-as-peace-talks-collapse-un-called-into.html"
+        },
+        {
+          "headline": "Poll Fear a Depression Is Ahead; Ford's Vow to Curb Inflation Stirs Hope",
+          "summary": "Gallup Poll taken 2 wks ago shows that 46% of those questioned fear US is headed for depression such as 1 experienced in '30s; total of 44% do not believe depression is coming, while other 10% have no opinion; finds that 68% of public believe econ situation will worsen over next 6 mos, while 13% think it will get better, 15% feel situation will be same and 4% have no opinion; NY Times survey conducted last wk finds that Pres Ford's vow to curb inflation offers hope; consumers, students, businessmen and housewives comment (L)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Photo_Low_Yok_Lin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1974/08/18/archives/46-in-poll-fear-a-depression-is-ahead-fords-vow-to-curb-inflation.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: NIXON CALLS AIDES IN POSSIBLE MOVE ON IMPEACHMENT; All Europe Suddenly Focuses On the Political Crisis in U.S.; CYPRUS FIGHTING RESUMES AS PEACE TALKS COLLAPSE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.631
+      }
+    }
+  ]
+}
