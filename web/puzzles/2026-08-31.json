@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T10:48:10.393105+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1973,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "VIETNAM PEACE PACTS SIGNED; AMERICA'S LONGEST WAR HALTS",
+          "summary": "Comment on depressed state of stock and bond mkts stemming from fears about effect of new Phase 3 econ program and related problems; notes mkt failed to react to signing of peace pact in Vietnam",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/28/archives/vietnam-peace-pacts-signed-americas-longest-war-halts-built-on.html"
+        },
+        {
+          "headline": "KISSINGER ENDS ‘USEFUL’ SESSIONS WITH THO AND RETURNS TO REPORT; SAYS NIXON WILL DECIDE NEXT STEP",
+          "summary": "Comment on developments in Kissinger-Le Duc Tho private peace talks in Paris; comment on issues Nixon deems crucial for a 'peace of justice and conciliation and on problems of truce acceptance by S Vietnamese Pres Nguyen Van Thieu; Kissinger illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/VOV_Headquarters.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/14/archives/kissinger-ends-useful-sessions-with-the-and-returns-to-report-says.html"
+        },
+        {
+          "headline": "NIXON' ECONOMIC REPORT PREDICTS SLOWER GROWTH AND SAYS IT IS DESIRABLE",
+          "summary": "Econ Rept",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Workshop_Session_-_ICT_Economic_and_Industry_Expert_Roundtable-_Emerging_Trends_in_Economic_and_Finance_of_Telecommunication-ICTs.jpg/1280px-Workshop_Session_-_ICT_Economic_and_Industry_Expert_Roundtable-_Emerging_Trends_in_Economic_and_Finance_of_Telecommunication-ICTs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/31/archives/nixons-economic-report-predicts-slower-growth-and-says-it-is.html"
+        },
+        {
+          "headline": "MANDATORY WAGE‐PRICE CONTROLS ENDED EXCEPT IN FOOD, HEALTH, BUILDING FIELDS; NIXON CALLS FOR VOLUNTARY COMPLIANCE",
+          "summary": "Pres Nixon on ends wage and price controls, except for those involving health care, food and construction, replacing them with system relying mainly on 'voluntary cooperation'; surveillance will be focused on wage trends for health care",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/1280px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1973/01/12/archives/mandatory-wageprice-controls-ended-except-in-food-health-building.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: VIETNAM PEACE PACTS SIGNED; KISSINGER ENDS ‘USEFUL’ SESSIONS WITH THO AND RETURNS TO REPORT; NIXON' ECONOMIC REPORT PREDICTS SLOWER GROWTH AND SAYS IT IS DESIRABLE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.705
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1957,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "PRESIDENT ORDERS MISSILE SPEED-UP; AVOIDS FUND RISE; Expresses Concern Over Lag in Development--Cutback Likely in Armed Forces CHIEF ADVISERS MEET Security Council Discusses Soviet Satellite--Increase in Defense Budget Denied Discusses Satellite PRESIDENT SEEKS MISSILE SPEED-UP Warning From Bureau",
+          "summary": "Eisenhower orders speed-up within present fiscal limits; added funds reptdly available through further cuts in conventional forces; Sen Knowland repts Pres discussed matter with him at White House breakfast",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Golden_Dome_constellation.webp/1280px-Golden_Dome_constellation.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/10/13/archives/president-orders-missile-speedup-avoids-fund-rise-expresses-concern.html"
+        },
+        {
+          "headline": "COMMUTERS HERE IN FINANCIAL TRAP WITH 9 RAILROADS; Lines Demand Government Aid to End Ruinous Deficit of Rush-Hour Service Would Paralyze Traffic All Residents Affected Metropolitan Commuters and Railroads Are Trapped in Ruinous Fiscal Squeeze 9 ROADS INVITING GOVERNMENT AID Rush-Hour Service Called a Losing Prospect--Present Rules and Taxes Hit Government Aid Sought Help to Others Cited 'On Borrowed Time' Highways a Blow L.I.R.R. Gets Concessions Deficit Formula Disputed Executives Give Views 'A Public Service' Curtailment Sought 'Last Chance' Awaited Other, Hudson Plans Moses Nominates Authority And More Criticism Constitutional Snag Seen Tax Abatement Backed Israel Meeting Scheduled",
+          "summary": "C Knowles on NYC area commuter rr problems",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1957/10/07/archives/commuters-here-in-financial-trap-with-9-railroads-lines-demand.html"
+        },
+        {
+          "headline": "PRESIDENT CALLS M'ELROY FOR TALK ON MISSILES LAG; Meeting Planned Today as Congressional Demands for Inquiry Increase 2-PARTY REVIEW URGED Knowland Objects to Soviet Space Bid--3 Legislators Propose Satellite Drive Speed-up is Reported Both Parties Blamed PRESIDENT CALLS M'ELROY FOR TALK",
+          "summary": "Sen Knowland on feat, implications for US, TV int; other Cong reaction; Repr Keating urges, Adm Wright opposes 'crash' program",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Astronautics_training_in_the_NBL.jpg/1280px-Astronautics_training_in_the_NBL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/10/14/archives/president-calls-melroy-for-talk-on-missiles-lag-meeting-planned.html"
+        },
+        {
+          "headline": "SUEZ FEE WEIGHED TO REPAY LENDERS; U.N. Head to Urge Voluntary Surcharge to Meet Cost of Reopening Canal SUEZ FEE WEIGHED TO REPAY LENDERS Talks on Surcahrge Held",
+          "summary": "to propose voluntary surcharge",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Frankfurt_Airport_Middle_East_Airlines_Airbus_A321-271NX_T7-ME5_%28DSC09950%29.jpg/1280px-Frankfurt_Airport_Middle_East_Airlines_Airbus_A321-271NX_T7-ME5_%28DSC09950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/10/16/archives/suez-fee-weighed-to-repay-lenders-un-head-to-urge-voluntary.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Golden_Dome_constellation.webp/1280px-Golden_Dome_constellation.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: PRESIDENT ORDERS MISSILE SPEED-UP; COMMUTERS HERE IN FINANCIAL TRAP WITH 9 RAILROADS; PRESIDENT CALLS M'ELROY FOR TALK ON MISSILES LAG.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.511
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1972,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "Bugging Is No Joke",
+          "summary": "ed scores White House press sec Ziegler's flip dismissal of attempted bugging of Dem Natl hq as ‘3d‐rate burglary’ unworthy of comment; sees Dem Natl Com's suit against Com to Re‐Elect the Pres smacking of election yr partisanship; urges thorough FBI investigation",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Joke_-_phone_books_in_doorway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/06/22/archives/bugging-is-no-joke.html"
+        },
+        {
+          "headline": "Army's Secret Inquiry Charges 43 Mylai Failures to Top Officers",
+          "summary": "play revd by H Green",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/06/04/archives/armys-secret-inquiry-charges-43-mylai-failures-to-top-officers-43.html"
+        },
+        {
+          "headline": "Democratic Convention Reform: More Blacks, Women and Youth",
+          "summary": "NY Times computer survey of initial 1/3 of delegates chosen for '72 Dem Natl Conv reveals that proportion of women is running at 3 times level of '68, that proportion of blacks is nearly double and proportion of other minorities is higher but that conv's composition as whole will fall short of reform guidlines estab by party; survey covers 1,034 delegates selected in 21 states and Washington, DC",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1972/06/03/archives/democratic-convention-reform-more-blacks-women-and-youth-democrats.html"
+        },
+        {
+          "headline": "Oppose Majority Ruling on Ground It Is Move for Racial Balance",
+          "summary": "US Sup Ct agrees on to uphold Fed Dist Ct decision that Emporia, Va, cannot secede from Greensville County because it would impede desegregation efforts; decision breaks long‐standing unanimity of Ct on desegregation when Nixon's 4 Ct nominees dissent against what they call effort to require racial balance rather than desegregation; dissent is 1st from Sup Ct ruling on integration since historic ‘54 ruling outlawing segregation; in companion case, Nixon appointees join majority in barring Scotland Neck, NC, from seceding from Halifax County under similar circumstances; school officials in both cases assert that result of secession would be more segregation, because increase of blacks over whites would cause whites to flee pss; all Justices agree that this is not acceptable reason for avoiding desegregation efforts; dissenting Justices are Chief Justice Burger and Justices Blackmun, Powell and Rehnquist",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mathematics_lecture_at_the_Helsinki_University_of_Technology.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/06/23/archives/oppose-majority-ruling-on-ground-it-is-move-for-racial-balance-4.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Joke_-_phone_books_in_doorway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: Bugging Is No Joke; Army's Secret Inquiry Charges 43 Mylai Failures to Top Officers; Democratic Convention Reform: More Blacks, Women and Youth.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.772
+      }
+    }
+  ]
+}
