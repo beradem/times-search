@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T09:22:37.906644+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1918,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "DUTCH TO INTERN FORMER KAISER; Holland Embarrassed by His Presence--Officials Go to Confer with Him. REMAINS ON RAILWAY TRAIN Three More German Rulers Ousted--All the Rest Likely to Go. Said to Have Planned Internment. DUTCH TO INTERN FORMER KAISER",
+          "summary": "reported to have fled with his staff from Liege where the garrison revolted",
+          "image": "https://upload.wikimedia.org/wikipedia/en/2/20/SMS_Kaiser_Franz_Joseph_I_anchored.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1918/11/12/archives/dutch-to-intern-former-kaiser-holland-embarrassed-by-his.html"
+        },
+        {
+          "headline": "ARMIES VIEW EACH OTHER; Across Moselle Thousands of Enemy TroopsLoiter in Camps.TIME EXTENSION REFUSEDAmericans Veto a Request forDelayed Retiring Owing toFew Bridges.LUXEMBURG PEOPLE COOLERGerman Population at the Border Greet Pershing ForceLess Heartily. First View of Germany. ARMIES VIEW EACH OTHER American Officers in Troves. FOR RELEASED AMERICANS. Our Red Cross in France to Provide for Those Returning. GERMAN BARRIERS RAZED. Americans Destroy Steel and Concrete Obstacles Near Verdun. PERSHING GOES TO CHAUMONT His Special Train Drawn by an American Locomotive. RECORD OF 26TH DIVISION. New England Men Were in All Our Big Operations of the War. BRITISH ON GERMAN BORDER. Have Reached Frontier to the North of Luxemburg.",
+          "summary": "says entire 3d U. S. Army is at German border",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1918/11/25/archives/armies-view-each-other-across-moselle-thousands-of-enemy.html"
+        },
+        {
+          "headline": "SPEED SURRENDER UNDER NAVAL TRUCE; Allied and German Delegates Will Confer at a British Port Today. RODMAN AMERICAN ENVOY Crews of U-Boats Said to Have Decided to Oppose Revolution. RHODES ON MISSION TO SPA. General of Rainbow Division Starts Today for German Headquarters. SPEED SURRENDER UNDER NAVAL TRUCE WANTS A VOICE ON ISLANDS. Australia Asks to be Consulted About Pacific Bases. WILLING TO ACCOMMODATE. German Fleet Had Only to Come Out, Wemyss Told Truce Envoys. POPE WATCHING AUSTRIA. Prays for Just Settlement of Irredentist Problems. WILL FREE 420,000 FRENCH. German Headquarters Arranging the Details of Their Repatriation. British Labor Wants Voice on Peace BEGIN EUACUATING POLAND. Germans in Warsaw Disarmed-- Reports of Pogrom There. 'OUR LADY OF VICTORY.' People of Albert Say She Clung to Her Tower Till Foe Was Beaten.",
+          "summary": "crews of U-boats said to oppose the revolution and favor reinstating officers",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg/1280px-Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1918/11/16/archives/speed-surrender-under-naval-truce-allied-and-german-delegates-will.html"
+        },
+        {
+          "headline": "MOONEY SENTENCE IS COMMUTED TO PRISON FOR LIFE; California Governor Saves from Gallows Labor Leader Convicted of Bomb Murder. CITES PRESIDETN'S ADVICE But Convict Issues Statement from Cell Protesting Against Living Death. LABOR IS NOT SATISFIED Leaders Say Mooney Should Have a New Trial to Establish Guilt or Innocence. Motives of Anarchism. President Wilson's Messages. MOONEY SENTENCE IS COMMUTED Labor Demands a New Trial. Will Carry Out Protest Strike. New York Leaders Not Satisfied. FIGHT TO SAVE MOONEY. Labor Made His Case Its Own, Both Here and Abroad. RED FLAG IN SAN FRANCISCO Several Members of the Bolshevist Group Rounded Up by Police.",
+          "summary": "Mooney's sentence commuted to life imprisonment by Gov Stephens; text of Pres Wilson's messages to Stephens",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/1280px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1918/11/29/archives/mooney-sentence-is-commuted-to-prison-for-life-california-governor.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/20/SMS_Kaiser_Franz_Joseph_I_anchored.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: DUTCH TO INTERN FORMER KAISER; ARMIES VIEW EACH OTHER; SPEED SURRENDER UNDER NAVAL TRUCE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.591
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1979,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "U.S. AND NEW YORK AGREE ON DISPOSING OF NUCLEAR WASTES",
+          "summary": "Energy Adm accepts responsibility for eventual disposal outside NYS of huge deposits of highly radioactive nuclear waste at West Valley, NY, storage facility; Carey adm agrees in turn to accept additional amounts of nuclear waste produced by nuclear reactors around NYS for interim storage at West Valley until Fed Govt comes up with plan for eventual disposal; agreement was reached by Sec Schlesinger and James L Larocca, State Energy Comr; Sen Daniel Moynihan says he had assurances from Schlesinger on Fed takeover a yr and a half ago; Fed Budget Office must still approve plan, which could cost Fed Govt estimated $200 million to $1.1 billion and take 10 yrs; kinds of wastes stored at facility, which is owned by state and leased to Nuclear Fuel Services, noted; map; illus (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TINT_Radioactive_wastes%27_barrel.jpg/1280px-TINT_Radioactive_wastes%27_barrel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/03/21/archives/us-and-new-york-agree-on-disposing-of-nuclear-wastes-talks-with.html"
+        },
+        {
+          "headline": "‘Free‐for‐All’ Or Stability?; Analysts of Oil Industry Differ on World Outlook Seasonal Slump Cited Free‐for‐All’ or Stability? Analysts’ Outlooks Differ Question of ‘Production Rationing’ Need to Rebuild Inventories",
+          "summary": "analysis of OPEC's decision; says oil economists are not as concerned about rise in base price as they are about sanctioning of individual members' premiums; notes hope that supply situation may ease, taking upward pressure off prices; says big unknown is whether OPEC will be able to restrain production, thus keeping things tight as Iranian oil continues to re‐enter mkt; comments by Theodore R Eck (Indiana Standard), Exxon, Walter J Levy and John H Lichtblau (Petroleum Indus Research Foundation) (M)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1979/03/28/archives/freeforall-or-stability-analysts-of-oil-industry-differ-on-world.html"
+        },
+        {
+          "headline": "CARTER, NEARING END OF VISIT, TO SEE BEGINAND SADAT AGAIN; OBSTACLES STILL BLOCK A PACT",
+          "summary": "Pres Carter has been unable to reconcile difficult issues holding up conclusion of peace treaty; scores Begin and Sadat for refusing to 'take a chance' for peace; will meet separately with them before returning to US in effort to complete treaty; illus (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Golgotha_%28Church_of_the_Holy_Sepulchre%29.jpg/1280px-Golgotha_%28Church_of_the_Holy_Sepulchre%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/03/13/archives/carter-nearing-end-of-visit-to-see-begin-and-sadat-again-obstacles.html"
+        },
+        {
+          "headline": "CANADA FINDS RISE OF 28% IN GAS SALES TO U.S. IS FEASIBLE",
+          "summary": "Canada's Natl Energy Bd approves 28% increase in gas exports to US, citing more optimistic estimates of Canadian reserves and more pessimistic estimate of Canadian econ activity (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/201706_Overview_of_Yiwu_International_Trading_Town.jpg/1280px-201706_Overview_of_Yiwu_International_Trading_Town.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/03/01/archives/canada-finds-rise-of-28-in-gas-sales-to-us-is-feasible-8year.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TINT_Radioactive_wastes%27_barrel.jpg/1280px-TINT_Radioactive_wastes%27_barrel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: U.S. AND NEW YORK AGREE ON DISPOSING OF NUCLEAR WASTES; ‘Free‐for‐All’ Or Stability?; CARTER, NEARING END OF VISIT, TO SEE BEGINAND SADAT AGAIN.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.673
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1950,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "WAR IS DECLARED BY NORTH KOREANS; FIGHTING ON BORDER; Communist Regime Attacks South Republic, Uses Tanks --Broadcasts Hostilities FIRST DRIVE SEEN CURBED United States, Holding Soviet Responsible, Watches Event --Plea to U.N. Likely",
+          "summary": "N Korea invades S Korea; declares war; Kaesong seized; Ongjin peninsula reptd penetrated; tanks used, Chunchon area; landing below Kangnung reptd; US Amb to Korea Muccio urges Amers not to move pending check on Communists plans, radio s; 8 Amer Meth missionaries believed in Kaesong",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/1280px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/25/archives/war-is-declared-by-north-koreans-fighting-on-border-communist.html"
+        },
+        {
+          "headline": "ACHESON PICTURES COMMUNIST SURGE ISOLATING AMERICA; Warns Governors Divided U.S. Might Let Soviet Win Europe and Asia Without a Shot LAUDS STATE DEPARTMENT Secretary of State Discusses Policies With Executives and Is Received With Acclaim Calls Staff \"Clean, Loyal\" Acheson Wins Praise in Foreign Policy Discussion With Governors Point Four Plan Described Criticized 'Coming and Going' Pays Tribute to Peurifoy Discounts Britain's Stand",
+          "summary": "Acheson minimizes manifesto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/21/archives/acheson-pictures-communist-surge-isolating-america-warns-governors.html"
+        },
+        {
+          "headline": "KOREA HAMPERED BY TRADING CURBS; Lack of 'Know How' on the Markets and 2 Money Rates Also Impair Development Regime Limits Mark-Ups 2 Export Money Rates",
+          "summary": "Curbs hampering trade development discussed",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Provisional_Government_of_the_Republic_of_Korea_1921.jpg/1280px-Provisional_Government_of_the_Republic_of_Korea_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/04/archives/korea-hampered-by-trading-curbs-lack-of-know-how-on-the-markets-and.html"
+        },
+        {
+          "headline": "ATTLEE QUALIFIES PARTY'S REJECTION OF EUROPEAN UNITY; Disavows Manifesto as Policy of Government and Voices Readiness to Cooperate TALK CREATES CONFUSION Many Britons Remain Puzzled on Issue--Opposition Sees Duplicity, Maps Attack Faulty Liaison Seen Procedure Held Mysterious Attlee Qualifies Party Attitude Against European Unity Moves Technical Cause of Break Voices Desire to Help",
+          "summary": "Prime Min Attlee holds formative phase near; says GB will lead",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1950/06/14/archives/attlee-qualifies-partys-rejection-of-european-unity-disavows.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/1280px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: WAR IS DECLARED BY NORTH KOREANS; ACHESON PICTURES COMMUNIST SURGE ISOLATING AMERICA; KOREA HAMPERED BY TRADING CURBS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.577
+      }
+    }
+  ]
+}
