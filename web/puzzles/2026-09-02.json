@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T08:45:04.817998+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1968,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "100,000 FILE PAST KENNEDY'S BIER; FINAL RITES IN ARLINGTON TODAY; A MILE-LONG LINE Rich, Poor, Young, Old Stand for Hours -- Heat Feels 100 100,000 File Quietly Past Kennedy's Bier in Line Extending More Than a Mile ARLINGTON RITES THIS AFTERNOON 21-Car Funeral Train Will Leave for Capital After Requiem Mass Here",
+          "summary": "over 100,000 persons file by Kennedy's bier in St Patrick's Cathedral, NYC; line is over 1 mi long; diversity of crowd stressed; striking response from poor and racial and religious minorities noted; coffin guarded by constantly shifting group of 6 men or boys drawn from all ranks of life; coffin kept closed; Amer flag placed over it later in day; E M Kennedy and friends and assocs keep all-night vigil; Kennedy family members and friends attend private mass at Holy Family Ch; Mrs J F Kennedy attends St Patrick's mass; illus of mourners waiting in line outside cathedral",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ICE_Agents_in_Minneapolis_After_Shooting_%28cropped%29.jpg/1280px-ICE_Agents_in_Minneapolis_After_Shooting_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/06/08/archives/100000-file-past-kennedys-bier-final-rites-in-arlington-today-a.html"
+        },
+        {
+          "headline": "M'CARTHY FORCES SEEK TO CONTROL STATE DELEGATION; Call on Democratic Party to Give Them at Least Half of the At-Large Seats MAJOR VICTORY CLAIMED Minnesota Senator Urges Also That Platform Reflect Peace and Poor Issues McCarthy Forces, Buoyed by 'Majority' Victory, Move to Control State Delegation MINNESOTAN ASKS SAY ON PLATFORM Asserts Democratic Party's Position Should Reflect Peace and Poor Issues",
+          "summary": "Senator Eugene J. McCarthy's campaign chiefs here, elated by his solid primary victory, called on the Democratic State Committee yesterday to reflect this popular will in picking the more than 65 delegates-at-large to the August nominating convention.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/1968_Presidential_Election_Results_all_the_way.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/06/20/archives/mcarthy-forces-seek-to-control-state-delegation-call-on-democratic.html"
+        },
+        {
+          "headline": "O'DWYER BEATS NICKERSON; A SENATE UPSET Organization Is Dealt Setback -- Resnick Concedes Early O'Dwyer Upsets Nickerson in Contest for Democratic Nomination for Senate RESNICK CONCEDES IN EARLY MORNING Ellenville Man Asserts He Is 'Finished' in Politics -- Upstate Tally Slow",
+          "summary": "peace candidate and McCarthy supporter P O'Dwyer wins Dem nomination for US Sen from NYS; victory attributed to peace vote",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/06/19/archives/odwyer-beats-nickerson-a-senate-upset-organization-is-dealt-setback.html"
+        },
+        {
+          "headline": "GAULLISTS AND ALLIES GAIN IN FIRST ROUND OF VOTING; COMMUNISTS LOSE GROUND; TOTAL ABOUT 46% Control of Assembly Appears Assured by an Upswing of 8'% GAULLISTS MAKE GAINS IN ELECTION Leader of Communist Party and Wife of the President Vote in France",
+          "summary": "he and wife illus voting",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gours_des_grottes_de_Saint_Marcel_d%27Ard%C3%A8che%2C_France.jpg/1280px-Gours_des_grottes_de_Saint_Marcel_d%27Ard%C3%A8che%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1968/06/24/archives/gaullists-and-allies-gain-in-first-round-of-voting-communists-lose.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ICE_Agents_in_Minneapolis_After_Shooting_%28cropped%29.jpg/1280px-ICE_Agents_in_Minneapolis_After_Shooting_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 100,000 FILE PAST KENNEDY'S BIER; M'CARTHY FORCES SEEK TO CONTROL STATE DELEGATION; O'DWYER BEATS NICKERSON.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.599
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2004,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "At Warning Center, Alert for the Quake, None for a Tsunami",
+          "summary": "Experts at Pacific Tsunami Warning Center in Honolulu had no way of knowing that earthquake that struck off Indonesia had generated devastating tsunami and no way to warn people most likely to suffer; sequence of events as knowledge of earthquake, tsunami and destruction unfolded suggest speed and precision of science and modern communication, as well as their limits; scientists do not have tools to tell when earthquake has created one; for Pacific Ocean, there are computer models to analyze consequences of earthquake, based on years of observations of previous quakes and tsunamis; for Indian Ocean, where tsunamis are rare, there are no such models (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg/1280px-Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/science/at-warning-center-alert-for-the-quake-none-for-a-tsunami.html"
+        },
+        {
+          "headline": "World Business Briefing | Middle East: Israel: Military Companies Trade Stakes",
+          "summary": "Worl4",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Photos_NewYork1_032.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/business/world-business-briefing-middle-east-israel-military-companies.html"
+        },
+        {
+          "headline": "World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal",
+          "summary": "Sony Corp si",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Typology_of_internet_point-of-control_interventions_by_governments.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/15/business/technology/world-business-briefing-asia-japan-sony-and-samsung.html"
+        },
+        {
+          "headline": "If Jets and Steelers Are Mirror Images, It's Time for One of Them to Crack",
+          "summary": "New York Jets prepare to face Pittsburgh Steelers; photo (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Stoppage_in_an_AFL_game.jpg/1280px-Stoppage_in_an_AFL_game.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/12/sports/football/if-jets-and-steelers-are-mirror-images-its-time-for-one-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg/1280px-Rescue_workers_near_the_semi-collapsed_ten-story_Uranus_Building_on_Xuanyuan_Road_after_the_2024_Hualien_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: At Warning Center, Alert for the Quake, None for a Tsunami; World Business Briefing | Middle East: Israel: Military Companies Trade Stakes; World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.808
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1955,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "SECONDARY PICKET UPHELD BY COURT; U. S. Appeals Bench Permits Boycott of Consumers and of Farmed-Out Work",
+          "summary": "US Appeals Ct rules union may picket consumers using services provided by a struck employer and ind cos doing 'farmed-out' struck work of employer, Royal Typewriter case; definition of secondary boycott under Taft-Hartley law seen revised",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1955/12/28/archives/secondary-picket-upheld-by-court-u-s-appeals-bench-permits-boycott.html"
+        },
+        {
+          "headline": "City Joins Bank to Assure A New Downtown Center; Title 1 Housing foe 750 Middle-Income Families Added to Chase Manhattan's $75,000,000 Plaza Development Sweeping' Plan for Improvements in Lower Manhattan 'Includes Large Middle-Income Housing Project City Joins Chase Manhattan Bank To Assure Big Downtown Center",
+          "summary": "Wagner, Jack rept Title I middle-income project planned, Whitehall, Water and South Sts and Coenties Slip; illus; sketch; map",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1955/12/07/archives/city-joins-bank-to-assure-a-new-downtown-center-title-1-housing-foe.html"
+        },
+        {
+          "headline": "15-CENT BUS FARE ON PRIVATE LINES APPROVED BY CITY; Increases for 8 Companies Attacked by Klein at a 6-Hour Public Hearing COUNCIL PAY IS RAISED Sharkey and Isaacs Receive Salary Advances, Others $2,000 More for Costs 15-Cent Fare, Effective Sunday, Approved on 8 Private Bus Lines",
+          "summary": "The Board of Estimate unanimously approved yesterday a 15-cent fare on the eight privately operated bus lines in Manhattan, Queens and the Bronx.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/1280px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1955/12/30/archives/15cent-bus-fare-on-private-lines-approved-by-city-increases-for-8.html"
+        },
+        {
+          "headline": "U. S. ASKS PRIORITY FOR AERIAL CHECK IN U. N. ARMS TALKS; Western Resolution Proposes Assembly Stress Program Offered by Eisenhower 5-POWER PARLEY URGED American Exhibit Employed to Show the Practicability of Inspection by Planes U. S. Asks the U. N. Give Priority To Eisenhower Idea in Arms Talk",
+          "summary": "US, GB, France, Canada ask Assembly recommend priority for Eisenhower plan in future discussions, resolution to com; ask subcom talks resume; urge instituting steps such as Eisenhower, Bulganin plans pending gen accord; urge study of Eden, Faure plans; Nutting presents resolution; chides Kuznetsov for making much of USSR relinquishing some bases; asks more evidence of good faith; US opens exhibit, NYC, to show feasibility of aerial inspection; illus; Lodge guides UN diplomats including Sobolev; says US or USSR could be completely surveyed in 6 mos",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Midtown_Manhattan_Skyline_004_%28cropped%29.jpg/1280px-Midtown_Manhattan_Skyline_004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1955/12/03/archives/u-s-asks-priority-for-aerial-check-in-u-n-arms-talks-western.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Among the month's major headlines: SECONDARY PICKET UPHELD BY COURT; City Joins Bank to Assure A New Downtown Center; 15-CENT BUS FARE ON PRIVATE LINES APPROVED BY CITY.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.588
+      }
+    }
+  ]
+}
