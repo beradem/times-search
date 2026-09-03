@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T08:54:05.125724+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1931,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "EMPIRE STATE TOWER, TALLEST IN WORLD, IS OPENED BY HOOVER; THE HIGHEST STRUCTURE RAISED BY THE HAND OF MAN",
+          "summary": "Pres Hoover presses button for opening; sends message to A E Smith; thousands see ceremony; illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1931/05/02/archives/empire-state-tower-tallest-in-world-is-opened-by-hoover-the-highest.html"
+        },
+        {
+          "headline": "BRIAND UPHELD, 430 TO 52, TO FIGHT CUSTOMS UNION; CAN BE FRENCH PRESIDENT; DEFENDS HIS PEACE POLICY Foreign Minister Says War Is Further Off Due to His Long Struggle. TWO BLIND DEPUTIES CLASH Scapini Joins in Attack, While Thebault Takes Up Fight for the Defense. BRIAND CANDIDACY LIKELY But Radical-Socialists Delay Action Until They Confer With Other Groups. Will Go to Geneva. Caught in Briand's Net. BRIAND IS UPHELD; CAN BE PRESIDENT Communist Joins Attack. Claims Support of Leaders. Sketches Origins of Situation. Herriot Supports Briand. MOVE FOR BRIAND CANDIDACY. But Radical-Socialists Delay to Consult Other Groups.",
+          "summary": "Supports foreign policy of A Briand",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%22Dispatches%22%2C_by_Michael_Herr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1931/05/09/archives/briand-upheld-430-to-52-to-fight-customs-union-can-be-french.html"
+        },
+        {
+          "headline": "HOOVER URGES NATION TO BE STEADFAST IN THIS 'VALLEY FORGE' OF DEPRESSION; WAR DEAD HONORED HERE AND ABROAD; 20,000 HEAR THE PRESIDENT Resist the Lure of 'The Rosy Path to Every Panacea,' He Counsels. SPEAKS UNDER BLAZING SUN Sweltering Heat Overcomes Several in Audience, Gathered on Historic Camp Site. OVATION FOLLOWS SPEECH Greets Union and Confederate Veterans and Visits Washington's Headquarters. Compares Two Crises. A Triumph of Character.\" HOOVER ASKS NATION TO BE STEADFAST Interrupted by Applause. Shakes Hands of Veterans. Visit Washington's Headquarters.",
+          "summary": "S at Memorial Day celebration at Gettysburg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/1280px-President_Hoover_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1931/05/31/archives/hoover-urges-nation-to-be-steadfast-in-this-valley-forge-of.html"
+        },
+        {
+          "headline": "AIR FLEET WILL FLY DOWN HUDSON TODAY IF WEATHER PERMITS; The City Is Scheduled to Get Another View of Armada as It Returns From Boston. A RECORD ACHIEVED THERE 600 Planes of Division, After \"Battle\" Aloft, Pass in Review in 11 Minutes. SWEEP OVER NEW ENGLAND Army Craft Pierce Fog of Maine Coast and Cross Vermont and New Hampshire Mountains. Battle Way Over Mountains. Cut Clouds to Rendezvous. AIR FLEET WILL FLY DOWN HUDSON TODAY Sky Battle Enthralls Crowds. Pursuits \"Annihilate\" Bombers. Price Wins Close \"Dog Fight.\" Division in Fastest Review. Bingham Regrets Sunday Work. Storm Scatters Mountain Fliers. Reunion of Mathewsons. Goodrich Lands at Quarry Edge. SEEKS SAFETY OF FLIERS. Atlantic City Official Orders Beaches Cleared and Boats Ready. THRONGS SNARL TRAFFIC. Women Faint and Children Are Endangered in Boston Jam.",
+          "summary": "Death",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/NHIndustries_NH90_at_Paris_Air_Show_2025_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1931/05/26/archives/air-fleet-will-fly-down-hudson-today-if-weather-permits-the-city-is.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EMPIRE STATE TOWER, TALLEST IN WORLD, IS OPENED BY HOOVER; BRIAND UPHELD, 430 TO 52, TO FIGHT CUSTOMS UNION; HOOVER URGES NATION TO BE STEADFAST IN THIS 'VALLEY FORGE' OF DEPRESSION.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.587
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1886,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "BARTHOLDI WELL PLEASED; VIEWING, WITH HIS FRIENDS, HIS COMPLETED WORK. THE FRENCH GUESTS IN THE CITY--A TRIP TO BEDLOW'S ISLAND--PREPARING FOR THE CELEBRATION.",
+          "summary": "It was not the least use in the world for Louis de Bebian to try and look calm as he rushed hither and thither on the dock of the Compagnie Generale Transatlantique at 7:30 o'clock yesterday morning. Fatigue and anxiety were written on his face; they could be noticed in his actions, and they were still more conspicuous in his speech. \"Where are you going to take them?\"...",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/American-Vets-Disabled-Life-Memorial.jpg/1280px-American-Vets-Disabled-Life-Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/26/archives/bartholdi-well-pleased-viewing-with-his-friends-his-completed-work.html"
+        },
+        {
+          "headline": "INDORSING MR. ROOSEVELT; AN ENTHUSIASTIC MEETING OF THE UNION LEAGUE. THE CLUB LISTENS TO RINGING SPEECHES AND PLEDGES ITS SUPPORT TO THE REPUBLICAN CANDIDATE.",
+          "summary": "Roosevelt's Mayoralty Nomination Indorsed",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg/1280px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/22/archives/indorsing-mr-roosevelt-an-enthusiastic-meeting-of-the-union-league.html"
+        },
+        {
+          "headline": "CLOUD-CAPPED ST.ELIAS; PERILOUS WORK OF \"THE TIMES\" ALASKA EXPEDITIDN. CLIMBING THE ICE-LOCKED MOUNT. TOILING OVER THE GLACIERS TO THE BASE OF THE TOWERING MOUNTAIN --CREVASSES HIDDEN BY TREACHEROUS SNOW BRIDGES-THE PARTY TIED TO A ROPE TO SECURE SAFETY-AN ALTITUDE OF 7,200 FEET REACHED BEFORE NATURE'S IMPASSABLE BARRIER FORBADE FURTHER PROGRESS--THE HIGHEST CLIMB ABOVE THE SNOW LIMIT EVER MADE.",
+          "summary": "BASE OF MOUNT ST.ELIAS, Alaska,,. This camp, No.4, in which we found ourselves under the protection of the great high evergreen trees and on the soft carpet of moss under them, was, as any one would imagine, a most acceptable camp after the dismal bivouac on the ice and the hardly",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Anchorage%2C_Alaska_skyline.jpg/1280px-Anchorage%2C_Alaska_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/07/archives/cloudcapped-stelias-perilous-work-of-the-times-alaska-expeditidn.html"
+        },
+        {
+          "headline": "BRITISH PIRATES AT WORK; BURNING EASTPORT INVADED AND PILLAGED. THIEVES FROM OVER THE BORDER BOLDLY SAIL TO THE DISTRESSED TOWN AND ROB RIGHT AND LEFT.",
+          "summary": "British Pirates' Thefts",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1886/10/19/archives/british-pirates-at-work-burning-eastport-invaded-and-pillaged.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/American-Vets-Disabled-Life-Memorial.jpg/1280px-American-Vets-Disabled-Life-Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: BARTHOLDI WELL PLEASED; INDORSING MR. ROOSEVELT; CLOUD-CAPPED ST.ELIAS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.135
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1933,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "HOUSE VOTES TO END PRESCRIPTION CURB; Liquor Liberalization Bill Is Passed 153-59 -- Roosevelt's Signature Is Due Today. FIGHT BY BLANTON FUTILE Texan Says Hard Drink Will Flow Freely -- Program for Modification Completed. HOUSE VOTES TO END PRESCRIPTION CURB",
+          "summary": "passes House",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Judy_Biggert_112th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/31/archives/house-votes-to-end-prescription-curb-liquor-liberalization-bill-is.html"
+        },
+        {
+          "headline": "PATRONAGE DELAY STRENGTHENS M'KEE IN WAR ON TAMMANY; Flynn Control Here Is Likely to Weaken Curry in Fight in Primary for O'Brien. ROOSEVELT STRATEGY AIDS Delay on Jobs Till End of Extra Session to Speed His Program Also a Help in City Battle. SMITH UNCERTAIN FACTOR Only a Decision by Him to Run for Mayor Would Block McKee -- Now Definitely Against It. FEDERAL JOBS AID M'KEE FIGHT HERE",
+          "summary": "Will be consulted on Fed apptmts for N Y; expected to aid J V McKee's fight for Mayoralty",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/FDR_Jr_1945_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/26/archives/patronage-delay-strengthens-mkee-in-war-on-tammany-flynn-control.html"
+        },
+        {
+          "headline": "EFFECTIVE THIS MORNING; Governor Acts After an All-Night Conference With Banking Heads. PERIOD INCLUDES MONDAY All Banks and the Securities Markets Are Affected by Emergency Decree. ILLINOIS TAKES STEP, TOO Period of Closing There Is Put at Three Days -- Pederal Officials in Conferences. 2-DAY BANK HOLIDAY IS LEHMAN'S ORDER",
+          "summary": "Invokes 60-day clause on withdrawals",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/1280px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/04/archives/effective-this-morning-governor-acts-after-an-allnight-conference.html"
+        },
+        {
+          "headline": "HITLER INTENSIFIES DRIVE ON THE LEFT; HUNDREDS ARRESTED; Red Leaders Jailed, Socialists' Papers Banned and Homes Searched All Over Prussia. NATION TOLD OF 'REVOLT' Goering Asserts Communists Planned to Trick Nazis Into 'Occupying' Berlin. SITUATION ALARMS LONDON Foreign Secretary Is Asked What Guarantee Britain Has of the Safety of Her Nationals. HITLER INTENSIFIES DRIVE ON THE LEFT",
+          "summary": "Wholesale arrests of leading Communists and suppression of Communist and Socialist press continues; Hitler and von Blomberg rept to von Hindenburg; H W Goering says Reichstag firing was preliminary to Red revolution",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%22Dispatches%22%2C_by_Michael_Herr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/02/archives/hitler-intensifies-drive-on-the-left-hundreds-arrested-red-leaders.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Judy_Biggert_112th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: HOUSE VOTES TO END PRESCRIPTION CURB; PATRONAGE DELAY STRENGTHENS M'KEE IN WAR ON TAMMANY; EFFECTIVE THIS MORNING.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.691
+      }
+    }
+  ]
+}
