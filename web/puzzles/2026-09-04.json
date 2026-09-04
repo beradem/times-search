@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T08:49:20.765534+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1932,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "HOOVER VETOES PERIL ROOSEVELT PROGRAM; EXTRA SESSION SEEN; Senate Republicans Predict Farm Aid, Beer and Other Bills Will Fail Next Month. NORRIS DUBIOUS OF SPEED Thinks Agriculture Must Wait -- \"3-Way\" Relief Plan Gains Favor Among Democrats. BONUS AND INFLATION BACK Patman to Press for Action Again -- Rankin Urges \"Liberty Notes\" for \"Controlled Expansion.\" VETOES ENDANGER DEMOCRATS' PLANS",
+          "summary": "Hoover's vetoes expected to block his program in short session",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Franklin_D._Roosevelt_and_Herbert_Hoover_on_the_way_to_U.S._Capitol_for_Roosevelt%27s_inauguration%2C_March_4%2C_1933-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/29/archives/hoover-vetoes-peril-roosevelt-program-extra-session-seen-senate.html"
+        },
+        {
+          "headline": "STIMSON TO REVEAL DEBT PLEAS TODAY; BORAH SEES PERILS; Roosevelt Is Not Consulted, but May Be When the President Returns to Washington. SENATOR FOR NEW POLICIES Borah Sees Program Needed to Save Civilization From an Economic Collapse. MANY RUMORS ARE DENIED High Official Says There Were No \"Secret Understandings\" Concerning Reopening of Debts Question. STIMSON TO REVEAL DEBT PLEAS TODAY",
+          "summary": "to pub notes",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/EAGLE_under_full_sail_in_2013.jpg/1280px-EAGLE_under_full_sail_in_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/13/archives/stimson-to-reveal-debt-pleas-today-borah-sees-perils-roosevelt-is.html"
+        },
+        {
+          "headline": "160 'FAVORITE SONS' FOR CABINET POSTS REVEALED BY SURVEY; Canvass Shows Roosevelt Has a Distinguished List From Which to Choose. 44 STATES HAVE 'NOMINEES' Idaho, Louisiana, Wyoming and North Dakota Offer None, but Others Make Up for Them. NEW YORK STATE GIVES 13 And Pennsylvania a Half Dozen -- Governors and Congress Members Bring Possibilities Up to 570. Scores of Prominent Democrats Suggested as Members of Roosevelt's Cabinet",
+          "summary": "Survey reveals 160 favorite sons for posts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/AlfredSmith.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/13/archives/160-favorite-sons-for-cabinet-posts-revealed-by-survey-canvass.html"
+        },
+        {
+          "headline": "PRESIDENT PROPOSES NON-PARTISANACTION TO CONTINUE REVIVAL; First Public Utterance Since Election Night Cheered by Crowd at Glendale, Cal. POLITICAL CAMPAIGN 'OVER' He Will 'Work for Unity' in Next Four Months and Also Aid 'Every Sound Measure' Later. PAYS VISIT TO HOOVER DAM Changing Plans to Make Inspection in Nevada by Night, He Will Now Reach Capital Wednesday. HOOVER PROPOSES NON-PARTISAN MOVE",
+          "summary": "Visits Hoover Dam",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/1280px-President_Hoover_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/13/archives/president-proposes-nonpartisanaction-to-continue-revival-first.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Franklin_D._Roosevelt_and_Herbert_Hoover_on_the_way_to_U.S._Capitol_for_Roosevelt%27s_inauguration%2C_March_4%2C_1933-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: HOOVER VETOES PERIL ROOSEVELT PROGRAM; STIMSON TO REVEAL DEBT PLEAS TODAY; 160 'FAVORITE SONS' FOR CABINET POSTS REVEALED BY SURVEY.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1970,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "CREW OF CRIPPLED APOLLO 13 STARTS BACK AFTER ROUNDING MOON AND FIRING ROCKET; MEN APPEAR CALM DESPITE LOW RESERVES",
+          "summary": "Illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/1280px-Buzz_Aldrin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/15/archives/crew-of-crippled-apollo-13-starts-back-target-is-pacific-chance-of.html"
+        },
+        {
+          "headline": "NIXON TO PULL OUT 150,000 FROM VIETNAM IN A YEAR; SAYS HANOI BLOCKS PEACE",
+          "summary": "Nixon makes TV s to nation from San Clemente home pledging to withdraw 150,000 men from Vietnam over next yr; trip said to have given Pres and staff visible lift",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1970/04/21/archives/nixon-to-pull-out-150000-from-vietnam-in-a-year-says-hanoi-blocks.html"
+        },
+        {
+          "headline": "DEMOCRATS PICK GOLDBERG BUT HE ‘WAIVES’ SELECTION; PLANS A RACE BY PETITION;",
+          "summary": "illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Roman_Election.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/02/archives/democrats-pick-goldberg-but-he-waives-selection-plans-a-race-by.html"
+        },
+        {
+          "headline": "Judge Blackmun of Minnesota Is Named To Supreme Court Seat by the President",
+          "summary": "Blackmun apptd to US Sup Ct; por",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Microcosm_of_London_Plate_058_-_Old_Bailey_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/04/15/archives/judge-blackmun-of-minnesota-is-named-to-supreme-court-seat-by-the.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/1280px-Buzz_Aldrin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: CREW OF CRIPPLED APOLLO 13 STARTS BACK AFTER ROUNDING MOON AND FIRING ROCKET; NIXON TO PULL OUT 150,000 FROM VIETNAM IN A YEAR; DEMOCRATS PICK GOLDBERG BUT HE ‘WAIVES’ SELECTION.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.636
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1871,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "ACCOUNTS BY MAIL.; The Story as Told by the Chicago Evening Post--Incidents, Narrow Escapes, Dangers, Privations, and Losses--The Brave Looking Forward--Proclamation by the Mayor. INCIDENTS. INCENDIARIES. THE NEED FOR RELIEF. PROCLAMATION BY THE MAYOR",
+          "summary": "Newspaper Accounts",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Royal_Mail_band.jpg/1280px-Royal_Mail_band.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/13/archives/accounts-by-mail-the-story-as-told-by-the-chicago-evening.html"
+        },
+        {
+          "headline": "THE RUINED CITY.; The Fire Out at Last Extent of the Conflagration The Business Panic Abating. THE PRESS REVIVING. INSURANCE COMPANIES AND BANKS. THE DEAD AND MISSING. BRANDS FROM THE BURNING. THE AGGREGATE LOSS. Estimates of the Losses by a Chicago Merchant Interesting Subdivision of the Property Destroyed. A False Report of a Renewal of the Fire Execution of Incendiaries. The Fire Not Broken Out Again. Reorganizing the Government Officers in Chicago. Gen. Sheridan's Dispatches to the War Department. Rebuilding the City Begun. ACTION IN THIS CITY. Effect Upon Wall-Street Yesterday Deended Reaction in Stocks ConfidenceRestored in a Measure The Losses ofthe Insurance Companies. THE INSURANCE COMPANIES. THE INSURANCES. THE RUINED CITY. Contributions for the Relief of the Sufferers. CONTRIBUTIONS IN THE CHURCHES. THE RAILROAD, EXPRESS AND STEAM-BOAT MEN. CONTRIBUTIONS OF MERCHANTS OTHER CONTRIBUTIONS. Meeting of the Chamber of Commerce $110,000 Subscribed in Forty Minutes An English Gentleman Calls onHis Countrymen to Aid the D",
+          "summary": "Great Fire in Chicago",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/1280px-Chicago_River_ferry_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/11/archives/the-ruined-city-the-fire-out-at-last-extent-of-the-conflagration.html"
+        },
+        {
+          "headline": "THE COLORED PEOPLE.; National Convention in Columbia, S. C. Addresses to the American People. A Man Murdered in Norwich, Conn. The Culprit Under Arrest.",
+          "summary": "Cooley, W. H.; Alex. Montgomery",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Peter_Paul_Rubens_-_Cain_slaying_Abel_%28Courtauld_Institute%29.jpg/1280px-Peter_Paul_Rubens_-_Cain_slaying_Abel_%28Courtauld_Institute%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/23/archives/the-colored-people-national-convention-in-columbia-s-c-addresses-to.html"
+        },
+        {
+          "headline": "RELIEF FOR CHICAGO.; Aid from the Strakosch Opera Troupe. Additional Contributions Received Yesterday Action of the BrooklynChurches and Other Bodies MoreAbout the Insurances. YESTERDAY'S CONTRIBUTIONS. GREGATIONS. The Insurances Suspension of the Manhattan Company. The Empire City Fire Insurance Company. Meeting of the National Reform Association at Nashville A Republican President Demanded. Threatened Conflict Between Two Branches of the Creek Indians. Arrival of President Grant in Boston.",
+          "summary": "His Visit to Boston",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Coast_review_%281910%29_%2814760820941%29.jpg/1280px-Coast_review_%281910%29_%2814760820941%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/15/archives/relief-for-chicago-aid-from-the-strakosch-opera-troupe-additional.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Royal_Mail_band.jpg/1280px-Royal_Mail_band.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ACCOUNTS BY MAIL.; THE RUINED CITY.; THE COLORED PEOPLE..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.258
+      }
+    }
+  ]
+}
