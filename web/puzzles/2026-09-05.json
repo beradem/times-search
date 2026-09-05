@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T08:19:59.936392+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1964,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "PRESIDENT SIGNS CIVIL RIGHTS BILL; BIDS ALL BACK IT; Approves Sweeping Measure 5 Hours After Passage in House by 289‐126 Vote; ASKS END OF INJUSTICE; Johnson Urges Closing of ‘Springs of Racial Poison’—Maps Enforcement",
+          "summary": "HR, 289-126, approves Sen version of civil rights Act including provisions barring discrimination in employment and union membership, Pres Johnson signs it",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/03/archives/president-signs-civil-rights-bill-bids-all-back-it-approves.html"
+        },
+        {
+          "headline": "GOLDWATER JOINS JOHNSON IN A BAN ON INCITING RACES; 2 Agree at White House Talk in Saying ‘Tension Should Be Avoided’ in Campaign; CONFER FOR 16 MINUTES; But President Declares He Will Discuss Rights Issue During Election Drive",
+          "summary": "Johnson, Goldwater agree that racial tension should be avoided in campaign, statement issued after White House meeting; text; Johnson commented on meeting at earlier press conf",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2024_Taiwanese_presidential_election_county_and_city_results.png/1280px-2024_Taiwanese_presidential_election_county_and_city_results.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/25/archives/goldwater-joins-johnson-in-a-ban-on-inciting-races-2-agree-at-white.html"
+        },
+        {
+          "headline": "The U. S. Under the Civil Rights Act: Despite Some Bitter Resistance, Compliance Is Generally Good; NEGROES IN SOUTH TEST RIGHTS ACT; RESISTANCE LIGHT; A Steak House in Virginia and a Pool in Georgia Are Integrated Peacefully; BIRMINGHAM IS OBEYING; Chamber of Commerce Asks Compliance in Jackson—Atlanta Cafe Defiant",
+          "summary": "Negroes test act in South, encounter only scattered resistance; driven away from Atlanta restaurant by owner L Maddox with pistol and whites wielding ax handles; illus; Birmingham restaurants quietly desegregated; test avoided in St Augustine and other cities",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Book_of_Negroes%2C_Samuel_Birch.png/1280px-Book_of_Negroes%2C_Samuel_Birch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/04/archives/the-u-s-under-the-civil-rights-act-despite-some-bitter-resistance.html"
+        },
+        {
+          "headline": "JOHNSON REJECTS DE GAULLE'S CALL FOR TALKS ON ASIA; Won't Put Indochina's Fate Up to a Neutrality Parley ‘Called to Ratify Terror’; TIES TO SAIGON PRAISED; President Seeks to Counter Reports of Disagreement Over Khanh's Militancy",
+          "summary": "Pres Johnson says US will take any action necessary to support freedom and independence of S Vietnam until Communists hon peace accords, news conf; suggests, without mentioning repts of discord, that there has been no misunderstanding between US and Nguyen Khanh, stresses close Nguyen Khanh-Taylor ties; in effect contradicts repts of US officials concern over S Vietnamese leaders statements",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/25/archives/johnson-rejects-de-gaulles-call-for-talks-on-asia-wont-put.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: PRESIDENT SIGNS CIVIL RIGHTS BILL; GOLDWATER JOINS JOHNSON IN A BAN ON INCITING RACES; The U. S. Under the Civil Rights Act: Despite Some Bitter Resistance, Compliance Is Generally Good.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.566
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1906,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "SAN FRANCISCO'S PEOPLE FED; FEDERAL AUTHORITIES RULE; Food in Plenty Reaches the City; Order is Being Restored. CIVIL AND MILITARY CLASH AVERTED BY A CONFERENCE Fire Almost Out and the Ferry House Is Safe -- Forty Bodies Found In One House -- Meals Cooked In The Streets -- Houses and Vehicles Seized By the Authorities.",
+          "summary": "Food reaches city; Fed authorities rule; civil and mil clash averted by conf; rebldg plans; other stories; map; more funds given",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Federal_Reserve_Bank%2C_San_Francisco.jpg/1280px-Federal_Reserve_Bank%2C_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/22/archives/san-franciscos-people-fed-federal-authorities-rule-food-in-plenty.html"
+        },
+        {
+          "headline": "OVER 500 DEAD, $200,000,000 LOST IN SAN FRANCISCO EARTHQUAKE; Nearly Half the City Is in Ruins and 50,000 Are Homeless. WATER SUPPLY FAILS AND DYNAMITE IS USED IN VAIN Great Buildings Consumed Before Helpless Firemen -- Federal Troops and Militia Guard the City, With Orders to Shoot Down Thieves -- Citizens Roused in Early Morning by Great Convulsion and Hundreds Caught by Falling Walls.",
+          "summary": "Half of city in ruins following earthquake; over 500 dead; damage put at $200 million; 50,000 homeless; ins losses; map; illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/1280px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/19/archives/over-500-dead-200000000-lost-in-san-francisco-earthquake-nearly.html"
+        },
+        {
+          "headline": "THE MINERS PROPOSE A NEW ARBITRATION; Would Let Judge Gray and Conciliation Board Adjudicate. OPERATORS DELAY ANSWER Will Think It Over and Reply on Monday -- But They Issue an Unconciliatory Statement. THE MINERS PROPOSE A NEW ARBITRATION",
+          "summary": "Arbitration by the present Conciliation Board, with United States Circuit Court Judge George Gray, or some person appointed by him, as Chairman and umpire, is the solution of the anthracite coal difficulties proposed by the miners. The answer of the operators will not be known until Monday, but a statement issued last night on their behalf shows that they regard some of the miners' demands as entirely inadmissible, and are in no conciliatory mood.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bituminous_Coal.JPG/1280px-Bituminous_Coal.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/06/archives/the-miners-propose-a-new-arbitration-would-let-judge-gray-and.html"
+        },
+        {
+          "headline": "MATTEUCCI TELLS OF THE ERUPTION; Stone Blocks Rose to a Height of 2,500 Feet. GREAT ELECTRIC DISPLAY Scientist Thinks It the Feature of the Outbreak. AMERICAN SHARED PERIL Perret Remained at the Observatory -- Volcano Exploded While Matteucci Was Interviewed. MATTEUCCI'S STORY OF THE ERUPTION",
+          "summary": "Prof Matteucci tells of his experience and observations",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg/1280px-Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/15/archives/matteucci-tells-of-the-eruption-stone-blocks-rose-to-a-height-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Federal_Reserve_Bank%2C_San_Francisco.jpg/1280px-Federal_Reserve_Bank%2C_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: SAN FRANCISCO'S PEOPLE FED; OVER 500 DEAD, $200,000,000 LOST IN SAN FRANCISCO EARTHQUAKE; THE MINERS PROPOSE A NEW ARBITRATION.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.182
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1981,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "OUTLOOK 'GOOD' AFTER 2-HOUR SURGERY; AIDE AND 2 GUARDS SHOT; SUSPECT HELD; White House statements, pages A5 and A7.",
+          "summary": "President Reagan was shot in the chest today by a gunman, apparently acting alone, as Mr. Reagan walked to his limousine after addressing a labor meeting at the Washington Hilton Hotel. The White House press secretary and two law-enforcement officers were also wounded by a burst of shots. The President was reported in ''good'' and ''stable'' condition tonight at George Washington University Hospital after undergoing two hours of surgery. ''The prognosis is excellent,'' said Dr. Dennis S. O'Leary, dean of clinical affairs at the university. ''He is alert and should be able to make decisions by tomorrow.'' The hospital spokesman said surgeons removed a.22-caliber bullet that struck Mr. Reagan's seventh rib, penetrating the left lung three inches and collapsing it.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tim_McCarthy_biopic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1981/03/31/us/reagan-wounded-chest-gunman-outlook-good-after-2-hour-surgery-aide-2-guards-shot.html"
+        },
+        {
+          "headline": "Index; Reagan Shooting",
+          "summary": "Secret Service assignment at hotel was considered routine A2 Reagan press secretary a long- time spokesman for G.O.P. A3 Policeman and Secret Service agent are also wounded A4 Leaders around world express shock at attack on Reagan A5 After shooting, Americans reflect on violence in nation A5 Violence and Presidents: From Jackson to Reagan A6 President lays rise in crime to shift from principles A6 International Shanghai's former capitalists back on the job A9 Islamic peace mission meets with Iranians A12 Around the World A13 Angola is concerned about U.S. policy but is treading carefully A14 Government/Politics Supreme Court to hear Kentucky election law dispute A17 City financing plan helps to set apartment housing record B8 Retirement creates opening on Federal appeals court B10 Democratic women's club doing business as usual B12 U.S. settlement on Civil Service exam suit criticized B13 Report says America's leaders underestimate role of religion B17 General Around the Nation A16 Empty classrooms a problem in many school districts A16 Feminist groups get antiabortion calls in phone switch B12 Missing persons bureaus a step- child in most cities B12 Industry/Labor Newspaper deliverers and press- men continue negotiations B4 Science Times Depression appears to affect thou- sands of U.S. children C1 Synthetic polymers outperform many natural materials C1 Elevators of future will be more pleasing C1 Education: CUNY leads in re- medial programs C1 Doctor's World: stress of medical school C3 Plant believed to have a self-de- fense mechanism C3 About Education: helping young people speak out C4 Arts/Entertainment Academy Awards postponed to to- night C5 The Atlanta Ballet performs at Brooklyn College C5 David Henry Hwang's \"Dance and the Railroad\" staged C5 Carol Fredette sings at the May- flower Hotel C5 Mustapha Matura's \"Meetings\" opens at the Phoenix C7 \"Mahagonny\" staged at Met Opera C9 Leigh Howard Stevens, marim- bist, plays classical music C9 Paschal Guzman Dance Company C9 Carlos Baker's selection of Hem- ingway letters is reviewed C20 Style Fashion Notes B16 Italian fashion's success: A fresh point of view B16 Sports A review of the World Cup ski sea- son B18 Todd, Jets' quarterback, may play out his option B18 Indiana beats North Carolina, 63- 50, and wins N.C.A.A. title B19 Dave Anderson on the decision to play the game B19 Jackson to miss Yanks' opener be- cause of torn ligament in leg B19 N.C.A.A. considering 64-team tournament format B20 Loyalty and business benefits help drive college football boosters B20 Dean Smith's long quest for national title B21 How the Knicks and Bulls match up for playoff series B22 Rangers feel confident of playoff berth B22 Mets cut Lynch, promising pitch- er, and six others B24 Phils sell Luzinski to White Sox; Dodgers get Twins' Landreaux B24 Features/Notes Notes on People B6 Editorials/Letters/Op-Ed Editorials A18 Together The price of libel Keeping racing on the track Letters A18 S. Fred Singer: a crisis - for OPEC A19 Joseph Short: helping Zimbabwe to grow more stable A19 Dean Baker: Oregon's Green Dragon Canyon A19 Murray L. Weidenbaum: subsi- dies business does not need A19",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1981/03/31/nyregion/index-reagan-shooting.html"
+        },
+        {
+          "headline": "BRITAIN RAISES TAXES AND REASSERTS THAT CUTTING INFLATION IS KEY GOAL",
+          "summary": "The Thatcher Government in Britain presented a stark austerity budget today that raised taxes and reasserted the Government's priority that inflation, not unemployment, must be its principal target. The Government sharply increased excise taxes on such consumer items as beer, liquors, cigarettes and gasoline, and it indirectly raised some income taxes. It said that the total tax increase would amount to the equivalent of more than $6.6 billion this year. The economic measures included a reduction of interest rates by two percentage points. The Bank of England's ''minimum lending rate'' was cut to 12 percent from 14 percent as part of an effort to aid industry and increase exports.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1981/03/11/world/britain-raises-taxes-and-reasserts-that-cutting-inflation-is-key-goal.html"
+        },
+        {
+          "headline": "REAGAN CUTS VIEWED AS THREAT TO CITY SEWAGE TREATMENT PROJECT",
+          "summary": "After more than a decade of delays, New York City was ready to begin a billion-dollar effort to complete its basic sewage treatment system. But city officials now say President Reagan's proposed budget cuts once again threaten the entire program. The city had planned to ask the Federal Government for $560 million in the next fiscal year to complete the North River sewage treatment plant near Harlem and the Red Hook treatment plant at the Brooklyn Navy Yard. Although city officials said they believed they had the backing of the Carter Administration, such a large allocation for one city would have been difficult to get even under that Administration's proposed total appropriation of $3.6 billion for sewage plant construction.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1981/03/06/nyregion/reagan-cuts-viewed-as-threat-to-city-sewage-treatment-project.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tim_McCarthy_biopic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: OUTLOOK 'GOOD' AFTER 2-HOUR SURGERY; Index; BRITAIN RAISES TAXES AND REASSERTS THAT CUTTING INFLATION IS KEY GOAL.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.998
+      }
+    }
+  ]
+}
