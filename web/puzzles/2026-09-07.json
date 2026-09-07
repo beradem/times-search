@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T09:17:03.398942+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1965,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "FREEDOM MARCH BEGINS AT SELMA; TROOPS ON GUARD; 3,200 Take Part in Protest as 54-Mile Rights Walk to Montgomery Starts DR. KING HAILS MISSION Envisions 'a New Alabama' and 'a New America' -- Crowd's Mood Festive 3,200 Begin Freedom March to Alabama's Capitol as Federal Troops Stand Guard A FESTIVE CROWD HEARS DR. KING He Envisions New Alabama and a New America -- Throng Is Heckled",
+          "summary": "SELMA, Ala., -- Backed by the armed might of the United States, 3,200 persons marched out of Selma today on the first leg of a historic venture in nonviolent protest.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Abernathy_Children_on_front_line_leading_the_SELMA_TO_MONTGOMERY_MARCH_for_the_RIGHT_TO_VOTE.JPG/1280px-Abernathy_Children_on_front_line_leading_the_SELMA_TO_MONTGOMERY_MARCH_for_the_RIGHT_TO_VOTE.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1965/03/22/archives/freedom-march-begins-at-selma-troops-on-guard-3200-take-part-in.html"
+        },
+        {
+          "headline": "U.S. TURNS DOWN THANT PROPOSAL ON TRUCE PARLEY; Says It Can Accept No Bid for a Vietnam Discussion Until 'Aggression' Ends CHANNELS REMAIN OPEN Hope Voiced for a Peaceful Solution -- Saigon Troops Score Major Victory U.S. TURNS DOWN THANT PROPOSAL",
+          "summary": "US rejects Thant proposal; says it will not accept inv to conf until N Vietnam halts aggression",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1965/03/10/archives/us-turns-down-thant-proposal-on-truce-parley-says-it-can-accept-no.html"
+        },
+        {
+          "headline": "ALABAMA POLICE USE GAS AND CLUBS TO ROUT NEGROES; 57 Are Injured at Selma as Troopers Break Up Rights Walk in Montgomery DR. KING IS IN ATLANTA He Reveals Plans to Lead a New March Tomorrow -- Court Action Planned Alabama Police Use Gas and Clubs to Rout Negroes Attempting March on Capital 525 IN SELMA DEFY BAN OF GOVERNOR 17 Hospitalized as Officers Attack Demonstrators -- Dr. King in Atlanta",
+          "summary": "Ala police restrain newsmen during clash with Negro demonstrators, Selma",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1965/03/08/archives/alabama-police-use-gas-and-clubs-to-rout-negroes-57-are-injured-at.html"
+        },
+        {
+          "headline": "JOHNSON URGES CONGRESS AT JOINT SESSION TO PASS LAW INSURING NEGRO VOTE; NATION HEARS HIM President, in TV Talk, Pledges That 'We Shall Overcome' Johnson Urges Congress at Joint Session to Pass Law Insuring Negro Voting Rights TV APPEAL CALLS FOR ACTION NOW Nation Hears President Say 'We Shall Overcome' in the War on Bigotry",
+          "summary": "Pres Johnson, in televised address to Cong, colls for immediate action on Fed voting rights legis; in printed message sent to Cong gives more detailed description of bill; legis would immediately affect 6 states: Ala, Ga, La, Miss, SC and Va; Pres tells states wishing to retain local control of elections to regis all their voters; calls issue moral, not states rights or Fed rights; goals of bill outlined; practical effect would be to abolish literacy tests and other discriminatory voter qualification devices",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Book_of_Negroes%2C_Samuel_Birch.png/1280px-Book_of_Negroes%2C_Samuel_Birch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1965/03/16/archives/johnson-urges-congress-at-joint-session-to-pass-law-insuring-negro.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Abernathy_Children_on_front_line_leading_the_SELMA_TO_MONTGOMERY_MARCH_for_the_RIGHT_TO_VOTE.JPG/1280px-Abernathy_Children_on_front_line_leading_the_SELMA_TO_MONTGOMERY_MARCH_for_the_RIGHT_TO_VOTE.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FREEDOM MARCH BEGINS AT SELMA; U.S. TURNS DOWN THANT PROPOSAL ON TRUCE PARLEY; ALABAMA POLICE USE GAS AND CLUBS TO ROUT NEGROES.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.557
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2017,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him",
+          "summary": "The material was considered so potentially explosive that the intelligence agencies decided that the president and the president-elect needed to be told and that the agencies were actively investigating it.",
+          "image": "https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/10/us/politics/donald-trump-russia-intelligence.html"
+        },
+        {
+          "headline": "Workers Say Andrew Puzder Is ‘Not the One to Protect’ Them, but He’s Been Chosen To",
+          "summary": "Donald J. Trump’s pick for labor secretary may soon be tasked with enforcing the very rules his company has been accused of violating.",
+          "image": "https://static01.nyt.com/images/2017/01/13/us/13PUZDER-3/13PUZDER-3-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/15/us/politics/andrew-puzder-labor-secretary.html"
+        },
+        {
+          "headline": "Megyn Kelly’s Jump to NBC From Fox News Will Test Her, and the Networks",
+          "summary": "Ms. Kelly’s departure from Fox News will test her ability to connect with a broader audience, but the most significant implications concern the larger television news industry.",
+          "image": "https://static01.nyt.com/images/2017/01/04/business/04kelly1/04kelly1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/03/business/media/megyn-kelly-nbc-fox-news.html"
+        },
+        {
+          "headline": "Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry",
+          "summary": "The department’s inspector general will look into James B. Comey’s hotly debated decision to inform Congress about a new review of the Hillary Clinton email case.",
+          "image": "https://static01.nyt.com/images/2017/01/13/us/13comey/13comey-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him; Workers Say Andrew Puzder Is ‘Not the One to Protect’ Them, but He’s Been Chosen To; Megyn Kelly’s Jump to NBC From Fox News Will Test Her, and the Networks.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.92
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1920,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "TENNESSEE COMPLETES SUFFRAGE VICTORY; MOVE TO RECONSIDER IS FEARED TODAY; PARTIES SPUR BATTLE FOR WOMEN'S VOTES; AMENDMENT WINS, 50 TO 46 \"Antis\" May Attempt to Force Fight for Rescinding it.TWO DAYS LEFT FOR ACTIONOpponents Prepare to AttackRatification on Constitutional Grounds.CONVERTED BY HIS MOTHERLegislator Whose Vote Turnedthe Scale Is Lionized bythe Suffragists.",
+          "summary": "NASHVILLE, Penn.,.--The amendment extending equal suffrage to American women was ratified today for inclusion in the Federal Constitution, the lower house of the Tennessee Legislature voting 50 to 46 to concur in the Senate resolution adopted Friday, 25 to 4. The action of the House made Tennessee the thirty-sixth State to approve the amendment.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mrs._Weller_158005v_%28cropped%29.jpg/1280px-Mrs._Weller_158005v_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/08/19/archives/tennessee-completes-suffrage-victory-move-to-reconsider-is-feared.html"
+        },
+        {
+          "headline": "RAILWAYS GET $1,500,000,000 MORE IN RATES; 40 PER CENT. FREUGHT INCREASE IN EAST; ALL PASSENGER FARES TO GO UP 20 PER CENT.; ROADS TO EARN 6 PER CENT. Investment Is Fixed by the Commission at $18,900,000,000. WESTERN ROADS DIVIDED \"Mountain Pacific Group\" Is Formed--South Gets 25% Increase and West 35%.SURCHARGE ON PULLMANSThis Goes to the Roads--MilkWill Pay 20% More, as WillExcess Baggage.",
+          "summary": "WASHINGTON, D.C.,.--Increases in rates were granted this afternoon by the Interstate Commerce Commission to the railroads which will bring $1,400,000,000, or perhaps $1,500,000,000 additional revenue to the systems, according to calculations made tonight.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1920/08/01/archives/railways-get-1500000000-more-in-rates-40-per-cent-freught-increase.html"
+        },
+        {
+          "headline": "REDS FLEE BEFORE POLES, ABANDON GUNS; 30,000 CUT OFF, BREST-LITOVSK CAPTURED; SOVIET PLEDGES POLISH INDEPENDENCE; SIX RED DIVISIONS TRAPPED Capture of 30,000 to 40,000 Prisoners Expected on East Front.SEVEN DIVISIONS CRUSHEDPilsudski Moving Troops to CutOff Russians' Main Lineof Retreat.BUDENNY HELD AT LEMBERG Soviet Cavalry Leader Only 9 Miles from That City--Polish Peasants Fight with Scythes.",
+          "summary": "PARIS,.--The Polish success on the right and centre continues to develop favorably and the Red troops that have been attacking Warsaw are in full flight along the road to Bialystok to escape General Filsudski's enveloping movement.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1920/08/21/archives/reds-flee-before-poles-abandon-guns-30000-cut-off-brestlitovsk.html"
+        },
+        {
+          "headline": "REDS IN DESPERATE RALLY TO SAVE ARMY; POLES, WARNED BY WILSON, WON'T INVADE; PREMIERS BAR DEMAND TO DISARM POLAND; TRAPS ARE CLOSED ON REDS Northwest Troops Must Cut Through, Yield, or Flee Into Prussia. ESTIMATE 75,000 PRISONERS Bialystok Taken as Two Armies Under Haller and Pilsudski Strike Russian Centre. LEMBERG SAVED FROM FOE Budenny's Cavalry Retreats Toward Southeast--7,000 Reds Interned in Prussia.",
+          "summary": "WARSAW, (Associated Press) --The Russian Bolshevist forces are re acting virtually along the whole line in an effort to save the remnants of the Red Army, but they have so far been easily frustrated by the Poles.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg/1280px-2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/08/24/archives/reds-in-desperate-rally-to-save-army-poles-warned-by-wilson-wont-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mrs._Weller_158005v_%28cropped%29.jpg/1280px-Mrs._Weller_158005v_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: TENNESSEE COMPLETES SUFFRAGE VICTORY; RAILWAYS GET $1,500,000,000 MORE IN RATES; REDS FLEE BEFORE POLES, ABANDON GUNS.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.001
+      }
+    }
+  ]
+}
