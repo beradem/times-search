@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T08:53:39.170894+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1976,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "New York Still Giddy With the Bicentennial",
+          "summary": "New Yorkers, alight with the unexhausted spirit of celebration that has transformed their city into a great Bicentennial carnival for several days, refused yesterday to let America's birthday party end.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Four-seasons-ny.jpg/1280px-Four-seasons-ny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/07/archives/new-york-still-giddy-with-the-bicentennial.html"
+        },
+        {
+          "headline": "Carter and Mondale Approach Issues Differently but Arrive at Similar Conclusions",
+          "summary": "Carter, Sen Mondale illus at Botsford, Ga, picnic; they are holding strategy meetings",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1976/07/26/archives/carter-and-mondale-approach-issues-differently-but-arrive-at.html"
+        },
+        {
+          "headline": "3 Women in Carter's Life Show He'll Have to Share the Spotlight",
+          "summary": "Carter's wife, mother and daughter interviewed during stay in NYC for conv; illus (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/1280px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/14/archives/3-women-in-carters-life-show-hell-have-to-share-the-spotlight.html"
+        },
+        {
+          "headline": "Queen Begins a Whirlwind of Activities in Washington",
+          "summary": "Queen arrives in Washington, DC, for 48-hr Bicentennial visit; is greeted by Pres and Mrs Ford as well as 21-gun salute; revs honor guard; lunches with Pres; to attend State Dinner at White House; other highlights of visit noted; illus with Pres and Mrs Ford and at Lincoln Memorial (L)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/1280px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/08/archives/queen-begins-a-whirlwind-of-activities-in-washington-elizabeth.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Four-seasons-ny.jpg/1280px-Four-seasons-ny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: New York Still Giddy With the Bicentennial; Carter and Mondale Approach Issues Differently but Arrive at Similar Conclusions; 3 Women in Carter's Life Show He'll Have to Share the Spotlight.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.626
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1987,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "Market Turmoil; STOCKS FALL 156, LOSS OF 8%, AFTER BIG SELL OFFS ABROAD; JOINT TALKS ON DEFICIT BEGIN",
+          "summary": "LEAD: A new wave of pessimism overwhelmed Wall Street yesterday, prompting another big selloff in stocks.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ian_Wace%2C_Chief_Executive%2C_ARK%2C_speaking_at_the_GAVI_pledging_event_in_London.jpg/1280px-Ian_Wace%2C_Chief_Executive%2C_ARK%2C_speaking_at_the_GAVI_pledging_event_in_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/27/business/market-turmoil-stocks-fall-156-loss-8-after-big-sell-offs-abroad-joint-talks.html"
+        },
+        {
+          "headline": "Perilous Economic Cures; Some Experts See Tax Increases and Cuts In Spending by U.S. as Spurs to Recession",
+          "summary": "LEAD: Just when President Reagan and Congressional leaders have at last started moving toward a compromise on measures to reduce the Federal budget deficit by at least $23 billion next year, with the logjam apparently broken by the stock market plunge, an unlikely alliance of normally warring economists is warning that shrinking the deficit by raising taxes and cutting",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1987/10/28/business/perilous-economic-cures-some-experts-see-tax-increases-cuts-spending-us-spurs.html"
+        },
+        {
+          "headline": "9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT",
+          "summary": "LEAD: The Senate Judiciary Committee voted 9 to 5 today against the nomination of Judge Robert H. Bork to the Supreme Court, and both supporters and opponents predicted his rejection by the full Senate if President Reagan continues to insist on a vote.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ronald_Reagan_with_his_mother_Nelle_1950_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/07/us/9-5-panel-vote-against-bork-sends-nomination-senate-amid-predictions-defeat.html"
+        },
+        {
+          "headline": "Carnation Settles Shareholder Suit for $13 Million",
+          "summary": "LEAD: The Carnation Company announced yesterday that it had agreed to pay $13 million to settle a lawsuit contending that company officials had issued false statements about negotiations when the food-products company was acquired by Nestle S.A. in.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Borussia_Dortmund_GmbH_%26_Co._KGaA_Economic_Share_Price_and_Stock_Market_Volume.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/10/business/carnation-settles-shareholder-suit-for-13-million.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ian_Wace%2C_Chief_Executive%2C_ARK%2C_speaking_at_the_GAVI_pledging_event_in_London.jpg/1280px-Ian_Wace%2C_Chief_Executive%2C_ARK%2C_speaking_at_the_GAVI_pledging_event_in_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: Market Turmoil; Perilous Economic Cures; 9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.998
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1917,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "ARMY CALL READY FOR 500,000 MEN; War Department Has Universal Service Plan Worked Out and Waits on Congress. BACKED BY GENERAL STAFF Selective Conscription Scheme to be Submitted When War Resolution Passes. ARMY CALL READY FOR 500,000 MEN Careful Selection at First. Want 20,000 Skilled Men.",
+          "summary": "war resolution passed by U. S. Sen.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/30a_Sammlung_Eybl_Gro%C3%9Fbritannien._Alfred_Leete_%281882%E2%80%931933%29_Britons_%28Kitchener%29_wants_you_%28Briten_Kitchener_braucht_Euch%29._1914_%28Nachdruck%29%2C_74_x_50_cm._%28Slg.Nr._552%29.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/05/archives/army-call-ready-for-500000-men-war-department-has-universal-service.html"
+        },
+        {
+          "headline": "DEBATE LASTED 16 1/2 HOURS; One Hundred Speeches Were Made;-Miss Rankin, Sobbing, Votes No. ALL AMENDMENTS BEATEN Resolution Will Take Effect This Afternoon with the President's Signature. KITCHIN WITH PACIFISTS Accession of the Floor Leader Added Others to the Anti-War Faction. Miss Rankin Votes \"No.\" The Early Morning Scenes. A Feast of Speeches. Levity Amid the Solemnity. Flood Opens the Discussion. Kitchin's Stand Surprises Leaders. Alabamians in a Rumpus. Why Wilson Must Sign Resolution. EBB AND FLOW OF DEBATE. Pacifists' Pleas, with Interruptions, Provide Chief Interest. Denounces Talk of Expediency. Cooper First to Oppose. Sensation Over Zimmermann Note. Rush to Hear Kitchin Talk. Cites Course Toward Britain. Why Not Forego Violation of Rights? Non-Partisan Plea by Cannon. Intimates Kitchin Should Resign. Only One Course, Says Mann. War for Human Rights, Gardner Says. Calls for \"Vote\" Futile.",
+          "summary": "naval, military, and industrial preparedness being rushed",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/06/archives/debate-lasted-16-12-hours-one-hundred-speeches-were-mademiss-rankin.html"
+        },
+        {
+          "headline": "SEEKS BOYS' ARMY FOR STATE FARMS; Agricultural Society Starts a School Census to Discover the Number Available. EXPECTS 5,000 FROM HERE Plans Laid to Make Work Congenial and to Give Credits as for Classroom Tasks. REDFIELD ISSUES APPEAL. Asks Commercial Bodies to Help Increase Crops. REDFIELD APPEALS FOR FOOD SUPPLY CALL FOR SEED STATISTICS. Pennsylvania Takes Steps to Organize Agricultural Army. GAINS IN FOOD PRICES. Commissioner Hartigan, However, Says the Supply Here Is Adequate. ROCKEFELLER LAND FOR FOOD Others Will Join Westchester Movement for National Defense. QUICK ACTION IN NORTHWEST. Minnesota, Dakotas, and Montana Increasing Farm Operations. GERMAN-AMERICANS BALK. Ohio Leader Holds Food Increase Would Help England. CORNER FOR JERSEY POTATOES If Present Efforts Succeed They May Retail at $20 a Barrel.",
+          "summary": "N. Y. S. Agricultural Soc. starts movement to recruit boys' farm army by taking school census; H. E. Cole explains plan for placing boys in congenial groups; Sec. Redfield appeals to commercial bodies to help increase crops",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg/1280px-Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/15/archives/seeks-boys-army-for-state-farms-agricultural-society-starts-a.html"
+        },
+        {
+          "headline": "CONGRESS VOTES ON DRAFT BILL TODAY; BIG MAJORITIES FOR IT ARE CLAIMED; HOUSE REJECTS ROOSEVELT ARMY PLAN; HOUSE OPPOSITION WEAKENS Kahn Leads Final Rally For Measure and Is Joined by Mann. 170 TO 106 AGAINST COLONEL Miss Rankin and Mr. Longworth Among Advocates of His Volunteer Force. AGE LIMIT STILL IN DOUBT Senate Favors 19 to 26, and the House 21 to 40;-Other Details to be Adjusted. Miss Runkin for Roosevelt. No Stigma, Mr. Mann Says. Lincoln's Letter Read. Duty to the Republic. SENATORS ADVOCATE DRAFT. Tide of Debate Turns in Favor of Administration Bill. Would Conscript Big Incomes. Attacks Volunteer System. Wants Submarine Board.",
+          "summary": "Repr. Austin offers amendment to permit Col. Roosevelt to take division to France",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1917/04/28/archives/congress-votes-on-draft-bill-today-big-majorities-for-it-are.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/30a_Sammlung_Eybl_Gro%C3%9Fbritannien._Alfred_Leete_%281882%E2%80%931933%29_Britons_%28Kitchener%29_wants_you_%28Briten_Kitchener_braucht_Euch%29._1914_%28Nachdruck%29%2C_74_x_50_cm._%28Slg.Nr._552%29.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ARMY CALL READY FOR 500,000 MEN; DEBATE LASTED 16 1/2 HOURS; SEEKS BOYS' ARMY FOR STATE FARMS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.561
+      }
+    }
+  ]
+}
