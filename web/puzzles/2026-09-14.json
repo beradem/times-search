@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T09:48:09.660040+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1944,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "FIFTH OF ELBA WON IN FRENCH INVASION; Allied Naval Force Covers Landings -- Germans Continue Headlong Retreat in Italy FIFTH OF ELBA WON IN FRENCH INVASION FRENCH LAND ON ELBA AS ALLIES SWEEP ON IN ITALY",
+          "summary": "Rome fall discussed; illus; Clark entering Rome illus",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg/1280px-IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/18/archives/fifth-of-elba-won-in-french-invasion-allied-naval-force-covers-land.html"
+        },
+        {
+          "headline": "DEWEY BUILDS UP PARTY PLATFORM ON 2 MAJOR POINTS; Meeting Several Hundred News Reporters, He Backs Hull Reciprocal Trade Plan BUT AS REPUBLICAN POLICY International Police Force Is Opposed -- He Praises SEC, but Not Its Enforcement REPUBLICAN NOMINEES DISCUSS PLANS OVER BREAKFAST DEWEY BUILDS UP PARTY PLATFORM",
+          "summary": "Conf with Natl Com subcom",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/30/archives/dewey-builds-up-party-platform-on-2-major-points-meeting-several.html"
+        },
+        {
+          "headline": "DEWEY TO ACCEPT IF HE IS 'DRAFTED,' HIS ADVISERS ADMIT; All Doubt Ended as Sprague, Brownell and Jaeckle Leave for Chicago Ahead of Time STATEMENT IS DUE TODAY Trip of Closest Political Aides Comes After Week-End of Talks With the Governor DEWEY MEN ADMIT HE IS READY TO RUN",
+          "summary": "Dewey advisers on way to Chicago",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/TR-Chemist-1912_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/19/archives/dewey-to-accept-if-he-is-drafted-his-advisers-admit-all-doubt-ended.html"
+        },
+        {
+          "headline": "AIR ROUTES MAPPED FOR 140,000 MILES CIRCLING THE WORLD; Civil Aeronautics Board Shows 'Basic Draft' of Operations Proposed When War Ends 100 CARRIER APPLICANTS Chairman Stresses Point That Landing Rights Overseas Is State Department Problem AIR ROUTES MAPPED CIRCLE THE WORLD",
+          "summary": "sought by more than 100 lines for world service",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/1280px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1944/06/14/archives/air-routes-mapped-for-140000-miles-circling-the-world-civil.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg/1280px-IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FIFTH OF ELBA WON IN FRENCH INVASION; DEWEY BUILDS UP PARTY PLATFORM ON 2 MAJOR POINTS; DEWEY TO ACCEPT IF HE IS 'DRAFTED,' HIS ADVISERS ADMIT.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.667
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1972,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "Bugging Is No Joke",
+          "summary": "ed scores White House press sec Ziegler's flip dismissal of attempted bugging of Dem Natl hq as ‘3d‐rate burglary’ unworthy of comment; sees Dem Natl Com's suit against Com to Re‐Elect the Pres smacking of election yr partisanship; urges thorough FBI investigation",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Joke_-_phone_books_in_doorway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/06/22/archives/bugging-is-no-joke.html"
+        },
+        {
+          "headline": "Army's Secret Inquiry Charges 43 Mylai Failures to Top Officers",
+          "summary": "play revd by H Green",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1972/06/04/archives/armys-secret-inquiry-charges-43-mylai-failures-to-top-officers-43.html"
+        },
+        {
+          "headline": "Democratic Convention Reform: More Blacks, Women and Youth",
+          "summary": "NY Times computer survey of initial 1/3 of delegates chosen for '72 Dem Natl Conv reveals that proportion of women is running at 3 times level of '68, that proportion of blacks is nearly double and proportion of other minorities is higher but that conv's composition as whole will fall short of reform guidlines estab by party; survey covers 1,034 delegates selected in 21 states and Washington, DC",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1972/06/03/archives/democratic-convention-reform-more-blacks-women-and-youth-democrats.html"
+        },
+        {
+          "headline": "Oppose Majority Ruling on Ground It Is Move for Racial Balance",
+          "summary": "US Sup Ct agrees on to uphold Fed Dist Ct decision that Emporia, Va, cannot secede from Greensville County because it would impede desegregation efforts; decision breaks long‐standing unanimity of Ct on desegregation when Nixon's 4 Ct nominees dissent against what they call effort to require racial balance rather than desegregation; dissent is 1st from Sup Ct ruling on integration since historic ‘54 ruling outlawing segregation; in companion case, Nixon appointees join majority in barring Scotland Neck, NC, from seceding from Halifax County under similar circumstances; school officials in both cases assert that result of secession would be more segregation, because increase of blacks over whites would cause whites to flee pss; all Justices agree that this is not acceptable reason for avoiding desegregation efforts; dissenting Justices are Chief Justice Burger and Justices Blackmun, Powell and Rehnquist",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Mathematics_lecture_at_the_Helsinki_University_of_Technology.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1972/06/23/archives/oppose-majority-ruling-on-ground-it-is-move-for-racial-balance-4.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Joke_-_phone_books_in_doorway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: Bugging Is No Joke; Army's Secret Inquiry Charges 43 Mylai Failures to Top Officers; Democratic Convention Reform: More Blacks, Women and Youth.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.772
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2011,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "Data Show Bin Laden Plots; C.I.A. Hid Near Raided House",
+          "summary": "Seized documents prompted U.S. officials to issue a warning that Al Qaeda had considered attacks on U.S. railroads. The C.I.A. also had Bin Laden’s compound under surveillance.",
+          "image": "https://static01.nyt.com/images/2011/05/07/world/07pakistan2-span/07pakistan2-span-articleLarge-v2.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2011/05/06/world/asia/06intel.html"
+        },
+        {
+          "headline": "Malick’s Film Adds a Dose of Sincerity to the Festivities",
+          "summary": "In “The Tree of Life” Terrence Malick takes a direct approach in asking some big questions.",
+          "image": "https://static01.nyt.com/images/2011/05/17/arts/JPMALICK/JPMALICK-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2011/05/17/movies/terrence-malick-asks-big-questions-in-the-tree-of-life.html"
+        },
+        {
+          "headline": "For Obama, Big Rise in Poll Numbers After Bin Laden Raid",
+          "summary": "A majority now approves of the president’s overall job performance, as well as his handling of foreign policy, according to the latest New York Times/CBS News poll.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Gary_Martin%2C_United_States_politics_and_government_reporter.jpg/1280px-Gary_Martin%2C_United_States_politics_and_government_reporter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2011/05/05/us/politics/05poll.html"
+        },
+        {
+          "headline": "Next for ‘Survivor’ Producer: Bible-Based Scripted Drama",
+          "summary": "Mark Burnett, reality-television producer extraordinaire, will step into the realm of scripted drama with the development of a 10-hour series of biblical stories for the History Channel.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Cptvdisplay.jpg/1280px-Cptvdisplay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2011/05/24/arts/television/reality-tv-producer-mark-burnett-tackles-the-bible.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2011/05/07/world/07pakistan2-span/07pakistan2-span-articleLarge-v2.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Data Show Bin Laden Plots; Malick’s Film Adds a Dose of Sincerity to the Festivities; For Obama, Big Rise in Poll Numbers After Bin Laden Raid.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.866
+      }
+    }
+  ]
+}
