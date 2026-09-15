@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T09:23:09.164528+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1997,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "Diana Killed in a Car Accident in Paris",
+          "summary": "Diana, 36-year-old Princess of Wales, dies in high-speed car crash in Paris with companion, 41-year-old Emad Mohammed al-Fayed, and limousine driver; bodyguard is critically injured; she succumbs to massive injuries at Pitie-Salpetriere Hospital in southeast Paris; nighttime accident, in highway tunnel on right bank of Seine under Place d'Alma, demolishes Mercedes limousine; reportedly occurs while car was being pursued by photographers on motorcycles after leaving Ritz Hotel; police detain several motorcyclists for questioning; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Alma_tunnel_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1997/08/31/world/diana-killed-in-a-car-accident-in-paris.html"
+        },
+        {
+          "headline": "Gannett Chain Strengthens Its Presence In New Jersey by Buying 2 Newspapers",
+          "summary": "Gannett Co agrees to buy The Asbury Park Press and The Home News and Tribune of East Brunswick, putting media chain in position to dominate southern two-thirds of New Jersey and turning central New Jersey into battleground with Star-Ledger of Newark; terms of transaction are not disclosed; agreement ends family control of two papers, which were founded separately in but have been commonly owned by New Jersey Press Inc since; deal must be approved by Justice Dept; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1997/08/07/nyregion/gannett-chain-strengthens-its-presence-in-new-jersey-by-buying-2-newspapers.html"
+        },
+        {
+          "headline": "Four Decades After He Was Blacklisted, A Writer-Producer Finally Gets Credit",
+          "summary": "Hollywood blacklist denied Alfred Palca screen-writing and producing credits for film Go, Man, Go!, cult hit about Harlem Globetrotters; Palca, now 77, is expected to have his credits restored by Writers Guild of America more than 40 years later, and just in time for 50th anniversary of notorious 'Hollywood 10' hearings before House Committee on Un-American Activities; photos (M)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1997/08/20/nyregion/four-decades-after-he-was-blacklisted-a-writer-producer-finally-gets-credit.html"
+        },
+        {
+          "headline": "TEAMSTERS AND U.P.S. AGREE ON A 5-YEAR CONTRACT PLAN TO END STRIKE AFTER 15 DAYS",
+          "summary": "Teamsters Union and United Parcel Service reach tentative agreement to end 15-day strike by 185,000 workers after more than 80 hours of intense negotiations; agreement reportedly calls for first increase in starting pay of part-time workers since and conversion of 10,000 part-time jobs into full-time positions, with five-sixth of all new full-time openings created through attrition or retirement to be filled by current part-timers; highlights; Teamsters president Ron Carey calls agreement historic turning point for American workers; UPS officials say it will allow them to remain competitive; Pres Clinton hails pact; praises both sides for negotiating in good faith, and for hard work and determination in reaching settlement; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/First_United_States_Labor_Day_Parade%2C_September_5%2C_1882_in_New_York_City.jpg/1280px-First_United_States_Labor_Day_Parade%2C_September_5%2C_1882_in_New_York_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1997/08/19/us/teamsters-and-ups-agree-on-a-5-year-contract-plan-to-end-strike-after-15-days.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Alma_tunnel_Paris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: Diana Killed in a Car Accident in Paris; Gannett Chain Strengthens Its Presence In New Jersey by Buying 2 Newspapers; Four Decades After He Was Blacklisted, A Writer-Producer Finally Gets Credit.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.939
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1961,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "EISENHOWER URGES NATION TO BACK KENNEDY ON CUBA; KHRUSHCHEV CHIDES U.S.; 2 LEADERS MEET Ex-President Upholds Foreign Policy After Camp David Talk POLICY IS UPHELD BY EX-PRESIDENT 2 Leaders Tour Camp David and Confer 90 Minutes -- Site Gets a New Sign",
+          "summary": "Confs with Pres Kennedy on Cuba, Camp David, Md; they hold press conf; illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PGM-19A_Jupiter_missile-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1961/04/23/archives/eisenhower-urges-nation-to-back-kennedy-on-cuba-khrushchev-chides.html"
+        },
+        {
+          "headline": "ANTI CASTRO UNITS LAND IN CUBA; REPORT FIGHTING AT BEACHHEAD; RUSK SAYS U.S. WON'T INTERVENE; PREMIER DEFIANT Says His Troops Battle Heroically to Repel Attacking Force Anti-Castro Military Units Land in Southern Cuba and Battle Government Forces PREMIER DIRECTS ISLAND DEFENSES Escapes Injury in Bombing Raid -- Aircraft Support Rebels at Beachhead",
+          "summary": "air-supported rebel attack on swampy coast of Cochinos Bay in S Las Villas Prov confirmed; Castro announces resistance, charges US organized attack and declares natl alert; reptdly escapes injury in air raid; Revolutionary Council repts militia defecting; maps",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1961/04/18/archives/anti-castro-units-land-in-cuba-report-fighting-at-beachhead-rusk.html"
+        },
+        {
+          "headline": "Fears About Automation Overshadowing Its Boons; Government, Unions and Employers Seek Ways to Cushion the Impact of New Technology on Jobs Fears About Automation Are Overshadowing Benefits to U.S. EFFORTS PRESSED TO SOFTEN IMPACT Washington, the Unions and Employers Seek Ways to Cut Human Toll",
+          "summary": "A H Raskin on unemployment problems, US",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1961/04/07/archives/fears-about-automation-overshadowing-its-boons-government-unions.html"
+        },
+        {
+          "headline": "WHITE HOUSE ASKS NEW ETHICS CODE FOR FEDERAL JOBS; Congress Message Calls for High Standards for Aides in Executive Branch OUTSIDE WORK BARRED But Kennedy Would Relax Rules for Consultants Who Serve U.S. Part Time President Asks a Law to Define Ethics Standards for Jobholders",
+          "summary": "Proposing modernization of conflict-of-interest laws",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/1280px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1961/04/28/archives/white-house-asks-new-ethics-code-for-federal-jobs-congress-message.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PGM-19A_Jupiter_missile-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EISENHOWER URGES NATION TO BACK KENNEDY ON CUBA; ANTI CASTRO UNITS LAND IN CUBA; Fears About Automation Overshadowing Its Boons.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.542
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2008,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
+          "summary": "President-elect Barack Obama prepared to name an ally as his White House chief of staff in his first step toward assuming power.",
+          "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
+        },
+        {
+          "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
+          "summary": "Just as China has attained supercharged growth that astounded much of the world, it appears to be slowing more sharply and more quickly than anyone anticipated.",
+          "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
+        },
+        {
+          "headline": "Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided",
+          "summary": "Some are still wrestling with the question of how to vote. Which raises a follow-up: What is up with these people?",
+          "image": "https://static01.nyt.com/images/2008/11/02/us/politics/02undecided_span.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/02/us/politics/02undecided.html"
+        },
+        {
+          "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
+          "summary": "For all the news media outlets that set viewership records in recent months, the looming question after Senator Barack Obama’s election is: What happens now?",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Dmitry_Medvedev_official_large_photo_-5.jpg/1280px-Dmitry_Medvedev_official_large_photo_-5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team; Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling; Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.507
+      }
+    }
+  ]
+}
