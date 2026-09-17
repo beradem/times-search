@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T09:24:08.397996+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1969,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "ASTRONAUTS SPEEDING TOWARD THE MOON; FIRST DAY OF APOLLO FLIGHT IS FLAWLESS; NIXON ASKS FOR NATIONAL HOLIDAY MONDAY; CRAFT ON TARGET World Watches Start of Man's Attempt to Achieve Landing Astronauts Speeding Toward the Moon; First Day of Apollo 11 Flight Is Flawless World Watches the Start Of Attempt for a Landing",
+          "summary": "CAPE KENNEDY, Fla., Thursday, -- Three American astronauts commissioned to fulfill an age-old dream and a national goal of the decade were streaking across the black sea of space today in man's first attempt to walk on another world -- the moon.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/1280px-Neil_Armstrong_pose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/07/17/archives/astronauts-speeding-toward-the-moon-first-day-of-apollo-flight-is.html"
+        },
+        {
+          "headline": "NIXON PLANS CUT IN MILITARY ROLE FOR U.S. IN ASIA; Starting Tour, He Promises Respect for Commitments, but Under New Forms ARRIVES IN PHILIPPINES President, at Guam, Asserts Nation Won't Be Drawn Into More Vietnams President Nixon Declares That U.S. Will Reduce Its Military Commitments in Asia POLICIES OUTLINED AT START OF TOUR He Says Nation Will Not Be Drawn Into Future Wars Like That in Vietnam",
+          "summary": "Nixon says he may order reduction in mil operations in S Vietnam if it would help negotiations to end war, news conf, Guam; favors summit meeting with USSR in search for end of war, but doubts USSR would work for settlement in pub forum; concedes many Amers are frustrated with war and want reduction in US commitment",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/07/26/archives/nixon-plans-cut-in-military-role-for-us-in-asia-starting-tour-he.html"
+        },
+        {
+          "headline": "HOUSE UNIT ACTS TO INCREASE TAX ON CAPITAL GAINS; Mills Also Indicates Action by Committee to Reduce Oil-Depletion Allowance SENATE DEBATE GOES ON Long and Dirksen Continue to Press for Early Move on Surcharge Extension House Unit Acting on Capital Gains",
+          "summary": "Maneuvering continues in Sen on linking tax reform and income tax surcharge extension; Sen E M Kennedy hacks view of Dem leadership that entire matter should be treated jointly in Sept; offers 8 major reforms",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/1280px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/07/16/archives/house-unit-acts-to-increase-tax-on-capital-gains-mills-also.html"
+        },
+        {
+          "headline": "BURGER TO PRESS JUDICIAL REFORM; Pledges to Make Off-Bench Effort in Drive to Improve Administration of Justice BURGER TO PRESS JUDICIAL REFORM",
+          "summary": "Chief Justice Burger disputes Time magazine statement that he is concerned that recent Sup Ct decisions have hampered criminal prosecutors, int; says he backs stronger defense side",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Universidade_Federal_do_Parana_4_Curitiba_Parana.jpg/1280px-Universidade_Federal_do_Parana_4_Curitiba_Parana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/07/02/archives/burger-to-press-judicial-reform-pledges-to-make-offbench-effort-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/1280px-Neil_Armstrong_pose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ASTRONAUTS SPEEDING TOWARD THE MOON; NIXON PLANS CUT IN MILITARY ROLE FOR U.S. IN ASIA; HOUSE UNIT ACTS TO INCREASE TAX ON CAPITAL GAINS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.581
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2010,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "BP Is Criticized\r\nOver Oil Spill, but U.S. Missed\r\nChances to Act",
+          "summary": "As oil edged toward the Louisiana coast and officials assailed BP America’s response, a government agency also said the flow from a seabed oil well could grow much larger.",
+          "image": "https://static01.nyt.com/images/2010/05/01/us/01gulf1-cnd/01gulf1-cnd-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/05/01/us/01gulf.html"
+        },
+        {
+          "headline": "Republicans Reject Finance Bill Again, and Offer a Plan of Their Own",
+          "summary": "The Senate rejected a second Democratic attempt to bring the regulatory bill to the floor of the Senate, prompting a rebuke from President Obama.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/1280px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2010/04/28/business/28regulate.html"
+        },
+        {
+          "headline": "Mortgage Deals\r\nUnder Scrutiny as Goldman Faces Senators",
+          "summary": "The legal storm buffeting Goldman Sachs continued to rage Tuesday just ahead of what is expected to be a contentious Senate hearing into its actions during the housing crisis.",
+          "image": "https://static01.nyt.com/images/2010/04/27/business/27goldman_CA0/27goldman_CA0-thumbStandard.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/04/27/business/27goldman.html"
+        },
+        {
+          "headline": "Elite U.S. Units Step Up Effort in Afghan City Before Attack",
+          "summary": "Elite forces are picking off insurgents to weaken the Taliban as the looming battle for Kandahar is shaping up as the pivotal test of President Obama’s Afghanistan strategy.",
+          "image": "https://static01.nyt.com/images/2010/04/26/world/26kandahar_CA0/26kandahar_CA0-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/04/26/world/asia/26kandahar.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2010/05/01/us/01gulf1-cnd/01gulf1-cnd-articleLarge.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: BP Is Criticized\r\nOver Oil Spill, but U.S. Missed\r\nChances to Act; Republicans Reject Finance Bill Again, and Offer a Plan of Their Own; Mortgage Deals\r\nUnder Scrutiny as Goldman Faces Senators.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.58
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1991,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "WAR IN THE GULF: The Overview; IRAQIS FIRE MISSILES AT ISRAELI CITIES AFTER SECOND DAY OF ALLIED BOMBING; U.S. DISCOURAGES AN ISRAELI RESPONSE",
+          "summary": "After a day of allied successes in the war against Iraq, Baghdad struck back today with missile attacks on Israel and Saudi Arabia. Preliminary reports indicated that seven Iraqi missiles hit Israel, and there were reports of injuries but no deaths. The missiles did not appear to be armed with chemical warheads.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Libyan_Uprising_Gulf_of_Sidra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/18/world/war-gulf-overview-iraqis-fire-missiles-israeli-cities-after-second-day-allied.html"
+        },
+        {
+          "headline": "Mideast Crisis Threatens Unlikely Victim: Junk Mail",
+          "summary": "The prospect of war in the Persian Gulf may have one unlikely beneficiary: the nation's overstuffed mailboxes. Many direct marketing consultants say they are advising their clients to postpone plans to send out junk mail until after, the date when the United Nations has authorized the use of force to end Iraq's occupation of Kuwait. January is normally a peak month for mailing magazine subscription solicitations, catalogues and sweepstakes. But the consultants say they are deferring to a debated piece of direct marketing folklore that originated on,, the day President Kennedy was assassinated: Never send junk mail into the face of a national crisis, or you risk losing your customers to the television screen.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/1280px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/09/business/mideast-crisis-threatens-unlikely-victim-junk-mail.html"
+        },
+        {
+          "headline": "Military Contractors Struggle as Rules of the Game Change",
+          "summary": "A recent effort by the Navy and two of its largest contractors to save the troubled A-12 warplane is the clearest illustration yet of how policies intended for the arms buildup of the 's are haunting the military and its suppliers in an era of declining budgets. Even before they absorb the full impact of the coming shrinkage of the nation's combat forces, military contractors are reeling. They are victims of their own overly optimistic business projections and harsh terms imposed by the Pentagon in the last decade in an ill-fated attempt to hold down costs. Policies Built by $500 Hammers The builders of the A-12, for example, the McDonnell Douglas Corporation and the General Dynamics Corporation, agreed to develop the plane for a predetermined price, a condition of the contract. As in other fixed-price arrangements, the contractors ran into unforeseen technical problems that led to expenses far higher than the value of the contract, more than $1 billion higher with the A-12.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg/1280px-71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/06/us/military-contractors-struggle-as-rules-of-the-game-change.html"
+        },
+        {
+          "headline": "The Incessant Lure of Kuwait's Oil",
+          "summary": "Kuwaiti oil is, after all, the immediate prize of the Persian Gulf crisis. But the oil was never supposed to be there. The world's great experts insisted that Kuwait would be dry of it, and the timing of its discovery was the peculiar result of the obsessions of a mining engineer from New Zealand and a noodle vendor in Japan. Thereafter, the development and shifting ownership of Kuwaiti oil embody much of the story of world oil -- from the end of World War I to the ticking clock of the current conflict with Iraq. The New Zealander, Frank Holmes, had knocked around the world for years as a mining engineer before ending up in World War I as a quartermaster in the British Army with the rank of major. On a beef-buying expedition to Ethiopia, he heard from Arab traders about oil seepages along the Arabian side of the Persian Gulf. His interest was piqued. Then, while stationed in Basra in what had not yet become Iraq, he learned of the oil production in neighboring Persia -- now Iran -- where the first successful well in the Middle East had been drilled in.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kuwait_City_Skyline_1.jpg/1280px-Kuwait_City_Skyline_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/13/business/forum-the-incessant-lure-of-kuwait-s-oil.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Libyan_Uprising_Gulf_of_Sidra.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: WAR IN THE GULF: The Overview; Mideast Crisis Threatens Unlikely Victim: Junk Mail; Military Contractors Struggle as Rules of the Game Change.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    }
+  ]
+}
