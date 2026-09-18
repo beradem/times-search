@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T08:59:02.921912+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1871,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "ACCOUNTS BY MAIL.; The Story as Told by the Chicago Evening Post--Incidents, Narrow Escapes, Dangers, Privations, and Losses--The Brave Looking Forward--Proclamation by the Mayor. INCIDENTS. INCENDIARIES. THE NEED FOR RELIEF. PROCLAMATION BY THE MAYOR",
+          "summary": "Newspaper Accounts",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Royal_Mail_band.jpg/1280px-Royal_Mail_band.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/13/archives/accounts-by-mail-the-story-as-told-by-the-chicago-evening.html"
+        },
+        {
+          "headline": "THE RUINED CITY.; The Fire Out at Last Extent of the Conflagration The Business Panic Abating. THE PRESS REVIVING. INSURANCE COMPANIES AND BANKS. THE DEAD AND MISSING. BRANDS FROM THE BURNING. THE AGGREGATE LOSS. Estimates of the Losses by a Chicago Merchant Interesting Subdivision of the Property Destroyed. A False Report of a Renewal of the Fire Execution of Incendiaries. The Fire Not Broken Out Again. Reorganizing the Government Officers in Chicago. Gen. Sheridan's Dispatches to the War Department. Rebuilding the City Begun. ACTION IN THIS CITY. Effect Upon Wall-Street Yesterday Deended Reaction in Stocks ConfidenceRestored in a Measure The Losses ofthe Insurance Companies. THE INSURANCE COMPANIES. THE INSURANCES. THE RUINED CITY. Contributions for the Relief of the Sufferers. CONTRIBUTIONS IN THE CHURCHES. THE RAILROAD, EXPRESS AND STEAM-BOAT MEN. CONTRIBUTIONS OF MERCHANTS OTHER CONTRIBUTIONS. Meeting of the Chamber of Commerce $110,000 Subscribed in Forty Minutes An English Gentleman Calls onHis Countrymen to Aid the D",
+          "summary": "Great Fire in Chicago",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/1280px-Chicago_River_ferry_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/11/archives/the-ruined-city-the-fire-out-at-last-extent-of-the-conflagration.html"
+        },
+        {
+          "headline": "THE COLORED PEOPLE.; National Convention in Columbia, S. C. Addresses to the American People. A Man Murdered in Norwich, Conn. The Culprit Under Arrest.",
+          "summary": "Cooley, W. H.; Alex. Montgomery",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Peter_Paul_Rubens_-_Cain_slaying_Abel_%28Courtauld_Institute%29.jpg/1280px-Peter_Paul_Rubens_-_Cain_slaying_Abel_%28Courtauld_Institute%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/23/archives/the-colored-people-national-convention-in-columbia-s-c-addresses-to.html"
+        },
+        {
+          "headline": "RELIEF FOR CHICAGO.; Aid from the Strakosch Opera Troupe. Additional Contributions Received Yesterday Action of the BrooklynChurches and Other Bodies MoreAbout the Insurances. YESTERDAY'S CONTRIBUTIONS. GREGATIONS. The Insurances Suspension of the Manhattan Company. The Empire City Fire Insurance Company. Meeting of the National Reform Association at Nashville A Republican President Demanded. Threatened Conflict Between Two Branches of the Creek Indians. Arrival of President Grant in Boston.",
+          "summary": "His Visit to Boston",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Coast_review_%281910%29_%2814760820941%29.jpg/1280px-Coast_review_%281910%29_%2814760820941%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1871/10/15/archives/relief-for-chicago-aid-from-the-strakosch-opera-troupe-additional.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Royal_Mail_band.jpg/1280px-Royal_Mail_band.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ACCOUNTS BY MAIL.; THE RUINED CITY.; THE COLORED PEOPLE..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.258
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1959,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "REBELS DISSOLVE CUBAN CONGRESS; OFFICIALS OUSTED; Urrutia Drops Governors and Mayors -- Castro Due in Havana Tomorrow KEY POSTS ARE FILLED Regime Will Rule by Decree for at Least 18 Months -- Free Election Planned REBELS DISSOLVE CUBAN CONGRESS",
+          "summary": "Provisional Pres Urrutia says gambling will be abolished, s, Havana U",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/07/archives/rebels-dissolve-cuban-congress-officials-ousted-urrutia-drops.html"
+        },
+        {
+          "headline": "PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; Says They Are 'on All Sides' of the Question -- Supports Estimate of Revenue INFLATION FIGHT URGED Eisenhower Tells Newsmen He Still 'Despises' Controls on Wages and Prices President Derides Fiscal Critics For 'Budgetary Schizophrenia'",
+          "summary": "Eisenhower again warns on inflation, news conf; sees it harmful to growth",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/22/archives/president-sees-schizophrenia-in-budget-critics-says-they-are-on-all.html"
+        },
+        {
+          "headline": "KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'; Premier Cites Mikoyan Talks in Plea for Relaxation of East-West Tension AVOWS A FEAR OF WAR 'Clock Ticks On' as Plants Turn Out Arms, He Says at Indian Reception Khrushchev Sees 'Thaw' Possible In Relations of East and West",
+          "summary": "Khrushchev deplores W Ger Amb Kroll rejection of bid, s, Moscow reception",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/1280px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/khrushchev-says-thaw-is-possible-in-the-cold-war-premier-cites.html"
+        },
+        {
+          "headline": "BONN AIDES WEIGH SOVIET UNITY PLAN; Study Confederation Idea in Mapping Policy for West's German Talks Bonn Aides Study Soviet Plans For Reunification of Germany",
+          "summary": "W Ger studies USSR confed proposals to see if some elements might spur reunification; reluctance to shift discussed; Adenauer plans informal talks with Brit leaders",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg/1280px-Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/bonn-aides-weigh-soviet-unity-plan-study-confederation-idea-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: REBELS DISSOLVE CUBAN CONGRESS; PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.555
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1898,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "OMINOUS SIGN IN MADRID; Heavy Decline on the Bourse Is Deemed Significant, But Other Indications Are Encouraging. POWERS MORE SYMPATHETIC Spain Urged, It Is Said, to Grant an Immediate Armistice -- The Papal Nuncio May Take a Hand -- War Preparations.",
+          "summary": "MADRID,, 7 P.M. -- The report published in the Imparcial, that United States Minister Woodford was preparing to leave Madrid, is entirely without foundation.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1898/04/03/archives/ominous-sign-in-madrid-heavy-decline-on-the-bourse-is-deemed.html"
+        },
+        {
+          "headline": "WAR TO BE DECLARED; Resolution Approved at a White House Sunday Conference to Go to Congress To-day. NO DELAY EXPECTED IN EITHER HOUSE. Sampson's Fleet Vigilant and Active Off the Cuban Coast Blockading Ports and Capturing Prizes. Flying Squadron Still at Fort Monroe -- Hongkong Ships Sailing for the Philippines -- No News of the Spanish Fleet.",
+          "summary": "Spain's Designs Against United States Ships",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1898/04/25/archives/war-to-be-declared-resolution-approved-at-a-white-house-sunday.html"
+        },
+        {
+          "headline": "FIRST WAR ORDERS; The Flying Squadron to Move Against the Spanish Flotilla and Fleet. WILL CAPTURE AND HOLD THE CANARIES. Capt. Sampson's Fleet Will Co-operate, Placing the Spaniards Between Two Fires. Blow to be Struck Within Forty-eight Hours -- The Coast of Spain Will Then Be Invested and Cuba Invaded.",
+          "summary": "Ordered to Canary Islands",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/1_toledo_spain_evening_sunset_2014_DXR_edit.jpg/1280px-1_toledo_spain_evening_sunset_2014_DXR_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/04/06/archives/first-war-orders-the-flying-squadron-to-move-against-the-spanish.html"
+        },
+        {
+          "headline": "FIVE VESSELS ALMOST READY.; Three Torpedo Boats, a Gunboat, and a Submarine Boat Almost Completed -- The Holland Boat.",
+          "summary": "Vessels--Mackenzie, McKea, Rowan, Princeton, and Plunger--Under Construction",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/USS_Gerald_R._Ford_%28CVN-78%29_and_USS_Harry_S._Truman_%28CVN-75%29_underway_in_the_Atlantic_Ocean_on_4_June_2020_%28200604-N-BD352-0199%29.JPG/1280px-USS_Gerald_R._Ford_%28CVN-78%29_and_USS_Harry_S._Truman_%28CVN-75%29_underway_in_the_Atlantic_Ocean_on_4_June_2020_%28200604-N-BD352-0199%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/04/27/archives/five-vessels-almost-ready-three-torpedo-boats-a-gunboat-and-a.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Among the month's major headlines: OMINOUS SIGN IN MADRID; WAR TO BE DECLARED; FIRST WAR ORDERS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.132
+      }
+    }
+  ]
+}
