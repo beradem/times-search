@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T08:46:22.814243+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1945,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "END COMES SUDDENLY AT WARM SPRINGS; Even His Family Unaware of Condition as Cerebral Stroke Brings Death to Nation's Leader at 63 ALL CABINET MEMBERS TO KEEP POSTS Funeral to Be at White House Tomorrow, With Burial at Hyde Park Home-- Impact of News Tremendous Funeral Tomorrow Afternoon ROOSEVELT IS DEAD; TRUMAN PRESIDENT News of Death Stuns Capital Personal Physician Surprised Flag at Capitol Lowered More Than Mere Words",
+          "summary": "Roosevelt, Franklin D",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/FDR-Wheelchair-February-1941.jpg/1280px-FDR-Wheelchair-February-1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/13/archives/end-comes-suddenly-at-warm-springs-even-his-family-unaware-of.html"
+        },
+        {
+          "headline": "TRUMAN FOR LAWS ROOSEVELT ASKED; He Tells Leaders He Favors Trade, Fund and Other Plans, Opposes Draft Changes Hannegan Among Callers TRUMAN FOR LAWS ROOSEVELT ASKED Foreign Ministers Received First Veto by the President Senate Aid Pledged Truman",
+          "summary": "Calls on Pres Truman",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/20/archives/truman-for-laws-roosevelt-asked-he-tells-leaders-he-favors-trade.html"
+        },
+        {
+          "headline": "CARRIER ROOSEVELT IS CHRISTENED HERE; Widow Speaks at Floating of $90,000,000 Ship--Forrestal Reveals Navy's Strength For Strong Naval Force U.S.S. ROOSEVELT CHRISTENED HERE To Carry Eighty Fast Planes Veteran Marines in Guard Forrestal Lauds Roosevelt Navy's Growth Revealed Prospective Skipper Present",
+          "summary": "Christens aircraft carrier Franklin Delano Roosevelt",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/1280px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/30/archives/carrier-roosevelt-is-christened-here-widow-speaks-at-floating-of.html"
+        },
+        {
+          "headline": "REPUBLICANS ASK PREVIEW OF HELP WE PLAN FOR WORLD; Vandenberg Says This Country Cannot Undertake to Be 'Permanent Almoner' CALLS FOR NINE LISTINGS Taft Submits Amendment to Assure End of Lend-Lease When War Needs End Taft Backs Vandenberg Points to Our Own Burdens REPUBLICANS ASK WORLD AID DATA",
+          "summary": "Sen opens debate on Lend-Lease Act extension bill; Taft offers amendment to Vorys amendment against post-war non-mil use",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/1280px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/04/10/archives/republicans-ask-preview-of-help-we-plan-for-world-vandenberg-says.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/FDR-Wheelchair-February-1941.jpg/1280px-FDR-Wheelchair-February-1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: END COMES SUDDENLY AT WARM SPRINGS; TRUMAN FOR LAWS ROOSEVELT ASKED; CARRIER ROOSEVELT IS CHRISTENED HERE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.688
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1954,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "SCHOOL PLAN SET BY NEGRO PARLEY; Association to Petition Local Boards in South to Act at Once to End Segregation School Plan Set by Negro Parley; Fast Action at Local Level Sought",
+          "summary": "USSR press remains silent",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SLC_Skyline_2024.jpg/1280px-SLC_Skyline_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1954/05/24/archives/school-plan-set-by-negro-parley-association-to-petition-local.html"
+        },
+        {
+          "headline": "PARIS SENDS HEAD OF ARMY TO STUDY INDO-CHINA CRISIS; General Ely's Report Will Be Basis for New Talks With Washington on Help U. S. SCANS INTERVENTION Top-Level Officials Reweigh Possibilities in Light of Latest Developments French Generals Going to Indo-China PARIS SENDS HEAD OF FORCES TO ASIA",
+          "summary": "French Defense Council instructs Gens Ely and Salan to rev situation with Navarre; Ely rept to serve as basis for new talks with US on revised aid program; Amb Dillon confs with Laniel; French concede Navarre plan cannot be resumed now; Dulles confs with Eisenhower; State Dept officials cite conditions providing suitable basis for US intervention; Ely, Salon illus",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1954/05/16/archives/paris-sends-head-of-army-to-study-indochina-crisis-general-elys.html"
+        },
+        {
+          "headline": "SERVICE TAX DIES; 5% ADMISSION LEVY INDICATED FOR CITY; Auto Use Impost Due to Stay -- Estimate Board Bars Water Rate Rise RESERVE FUNDS RETAINED Board Rejects State Proposal for Use of Realty and Tax Appropriation Moneys BOARD OF ESTIMATE KILLS SERVICE TAX",
+          "summary": "Estimate Bd rejects McGovern proposal on reserve funds",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1954/05/21/archives/service-tax-dies-5-admission-levy-indicated-for-city-auto-use.html"
+        },
+        {
+          "headline": "MONITORED CALLS STIR NEW DISPUTE IN M'CARTHY CASE; Democrats Would Reveal All or None -- Republicans Try to Limit the Disclosures GILLETTE WARNS SENATE Says on the Floor That Panel Has Violated Men's Rights and Chamber Must Act Army's Monitored Phone Call Stir Dispute in McCarthy Case",
+          "summary": "Dem subcom members demand that all or none of monitored calls be made pub; Repub members consent to disclosure to counsel for interested parties before facing issue of making them pub; Dems opposed; Symington urges complete disclosure; Sen Gillette hopes for speedy end of hearings, Sen",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/DF-ST-84-03879.jpg/1280px-DF-ST-84-03879.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1954/05/22/archives/monitored-calls-stir-new-dispute-in-mcarthy-case-democrats-would.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SLC_Skyline_2024.jpg/1280px-SLC_Skyline_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: SCHOOL PLAN SET BY NEGRO PARLEY; PARIS SENDS HEAD OF ARMY TO STUDY INDO-CHINA CRISIS; SERVICE TAX DIES.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.604
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1898,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "CAPT. SIGSBEE'S NARRATIVE; The Maine's Commander Knew His Ship Was Gone as Soon as He Heard the Explosion. GOOD DISCIPLINE PREVAILED Survivors Gathered on the Poop and the Captain Directed the Work of Rescue -- The Ship Was Ready for Attack.",
+          "summary": "HAVANA,. -- Capt. C. D. Sigsbee of the battleship Maine, in an interview to-day described the explosion in detail. He said:...",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/USS_Constitution_fires_a_17-gun_salute.jpg/1280px-USS_Constitution_fires_a_17-gun_salute.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/20/archives/capt-sigsbees-narrative-the-maines-commander-knew-his-ship-was-gone.html"
+        },
+        {
+          "headline": "THE MAINE BLOWN UP; Terrible Explosion on Board the United States Battleship in Havana Harbor. MANY PERSONS KILLED AND WOUNDED. All the Boats of the Spanish Cruiser Alfonso XII. Assisting in the Work of Relief. None of the Wounded Men Able to Give Any Explanation of the Cause of the Disaster.",
+          "summary": "Explosion",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/USS_Gerald_R._Ford_%28CVN-78%29_and_USS_Harry_S._Truman_%28CVN-75%29_underway_in_the_Atlantic_Ocean_on_4_June_2020_%28200604-N-BD352-0199%29.JPG/1280px-USS_Gerald_R._Ford_%28CVN-78%29_and_USS_Harry_S._Truman_%28CVN-75%29_underway_in_the_Atlantic_Ocean_on_4_June_2020_%28200604-N-BD352-0199%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/16/archives/the-maine-blown-up-terrible-explosion-on-board-the-united-states.html"
+        },
+        {
+          "headline": "MINISTER DE LOME IS OUT; His Resignation Promptly Accepted by the Spanish Cabinet, but the Press Is Embittered. METHODS OF CUBANS RESENTED The Incident Expected in Diplomatic Circles to Have an Important Bearing on Cuban Affairs -- Gen. Woodford Guarded.",
+          "summary": "President McKinley's Cuban Policy Criticised in Letter to Don J. Canalejas",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/1_toledo_spain_evening_sunset_2014_DXR_edit.jpg/1280px-1_toledo_spain_evening_sunset_2014_DXR_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/11/archives/minister-de-lome-is-out-his-resignation-promptly-accepted-by-the.html"
+        },
+        {
+          "headline": "CUBAN AUTONOMIST REGIME; Jose Maria Galvez, President of the Cabinet, Discusses Its Programme. REPORT OF A CRISIS DENIED Peace Will Come, He Declares, by the Combined Action of Arms and Politics -- No Negotiations with the Insurgents.",
+          "summary": "Cabinet; Programme Outlined by President Galvez",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cuba_Gooding_Jr_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1898/02/07/archives/cuban-autonomist-regime-jose-maria-galvez-president-of-the-cabinet.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/USS_Constitution_fires_a_17-gun_salute.jpg/1280px-USS_Constitution_fires_a_17-gun_salute.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: CAPT. SIGSBEE'S NARRATIVE; THE MAINE BLOWN UP; MINISTER DE LOME IS OUT.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.158
+      }
+    }
+  ]
+}
