@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T09:15:34.131509+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2004,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "At Warning Center, Alert for the Quake, None for a Tsunami",
+          "summary": "Experts at Pacific Tsunami Warning Center in Honolulu had no way of knowing that earthquake that struck off Indonesia had generated devastating tsunami and no way to warn people most likely to suffer; sequence of events as knowledge of earthquake, tsunami and destruction unfolded suggest speed and precision of science and modern communication, as well as their limits; scientists do not have tools to tell when earthquake has created one; for Pacific Ocean, there are computer models to analyze consequences of earthquake, based on years of observations of previous quakes and tsunamis; for Indian Ocean, where tsunamis are rare, there are no such models (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sunda_strait_tsunami.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/science/at-warning-center-alert-for-the-quake-none-for-a-tsunami.html"
+        },
+        {
+          "headline": "World Business Briefing | Middle East: Israel: Military Companies Trade Stakes",
+          "summary": "Worl4",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Photos_NewYork1_032.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/business/world-business-briefing-middle-east-israel-military-companies.html"
+        },
+        {
+          "headline": "World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal",
+          "summary": "Sony Corp si",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Typology_of_internet_point-of-control_interventions_by_governments.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/15/business/technology/world-business-briefing-asia-japan-sony-and-samsung.html"
+        },
+        {
+          "headline": "If Jets and Steelers Are Mirror Images, It's Time for One of Them to Crack",
+          "summary": "New York Jets prepare to face Pittsburgh Steelers; photo (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Stoppage_in_an_AFL_game.jpg/1280px-Stoppage_in_an_AFL_game.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/12/sports/football/if-jets-and-steelers-are-mirror-images-its-time-for-one-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sunda_strait_tsunami.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: At Warning Center, Alert for the Quake, None for a Tsunami; World Business Briefing | Middle East: Israel: Military Companies Trade Stakes; World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.808
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1980,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "John Lennon of Beatles Is Killed; Suspect Held in Shooting at Dakota; Wife Reported Unhurt John Lennon Shot to Death; Suspect Is Seized at Dakota Obtained Autograph Earlier 'Crouching in Archway' Continued to Write Songs Emblem of the 60's ",
+          "summary": "John Lennon, one of the four Beatles was shot and killed last night while entering the apartment building where he lived, the Dakota, on Manhattan's Upper West Side. A suspect was seized at the scene.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dakotanewyork.jpg/1280px-Dakotanewyork.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1980/12/09/archives/john-lennon-of-beatles-is-killed-suspect-held-in-shooting-at-dakota.html"
+        },
+        {
+          "headline": "4 REPORTED CHOSEN AS THE INNER CIRCLE OF REAGAN CABINET; Haig at State Dept.; Weinberger at Defense; Wriston at Treasury; Smith, Attorney General Caution on Clearances Casey and Stockman Listed 4 REPORTED CHOSEN FOR REAGAN CABINET Possible Agriculture Choice Blend of Old and New ",
+          "summary": "WASHINGTON, --Presidentelect Ronald Reagan, drawing on both the Eastern establishment and his West Coast political associates, has decided on the four men he wants to form the inner ring of his Cabinet, well-placed Republican sources said today.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1980/12/03/archives/4-reported-chosen-as-the-inner-circle-of-reagan-cabinet-haig-at.html"
+        },
+        {
+          "headline": "POLISH COMMUNISTS OUST 4 KEY LEADERS; GENERAL GETS POST; OLD GUARD SET BACK Kania Seen Strengthened in the Crisis--Moczar Makes a Comeback Moczar Guided Anti-Zionist Drive Conservatives Are Dismissed Party in Poland Ousts 4 Leaders; Moczar Returns Moczar Takes a Liberal Tack ",
+          "summary": "WARSAW, --Meeting in an atmosphere of crisis, the Communist Party's Central Committee dismissed four members of the ruling Politburo today and returned a former Interior Minister to that body.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mateusz_Morawiecki_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1980/12/03/archives/polish-communists-oust-4-key-leaders-general-gets-post-old-guard.html"
+        },
+        {
+          "headline": "Senate Rejects Raise for Congress; House Yields on Abortion Measure; Pay Bill's Defeat Is Seen as Early Loss for Reagan-- Agency Appropriations Last Hurdle of the Session 34,000 Employees Affected House Acts on Voice Vote Senate Rejects Raise; House Approves Abortion Rules ",
+          "summary": "WASHINGTON, --The Senate tonight handed President-elect Ronald Reagan his first legislative defeat by rejecting his request for a $10,000-a-year Congressional pay increase that also would benefit senior Government officials. The vote was 62 to 8.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Washington_260424_US_Capitol_02.jpg/1280px-Washington_260424_US_Capitol_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1980/12/14/archives/senate-rejects-raise-for-congress-house-yields-on-abortion-measure.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dakotanewyork.jpg/1280px-Dakotanewyork.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: John Lennon of Beatles Is Killed; 4 REPORTED CHOSEN AS THE INNER CIRCLE OF REAGAN CABINET; POLISH COMMUNISTS OUST 4 KEY LEADERS.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.003
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1863,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "THE CAVALRY SERVICE.; Details of the Operations of Our Cavalry During the Campaign Against Lee. Fifteen Battles Fought Within Sixteen Days. The Battles of Hanover, Hunterstown, Gettysburgh, Monterey, Smithsburgh, Hagerstown, (3) Williamsport, (3) Boonsboro, (2) Funkstown, Antietam Creek and Falling Waters:The Results---Incidents---The Night Attack Upon the Enemy's Train, &c. THE BATTLE AT HANOVER. THE BATTLE AT HUNTERSTOWN. THE BATTLE AT SMITHSBURGH. THE BATTLE OF HAGERSTOWN AND WILLIAMSPORT. THE BATTLES AT AND NEAR BOONSBORO, FUNKTOWN AND ANTIETAM CREEK. THE SECOND BATTLE AT HAGERSTOWN. THE LEFT AT WILLIAMSPORT GEN. BUFORD'S DIVISION. THE RIGHT AT GETTYSBURGH. WHAT HAS BEEN ACCOMPLISHED. THE FLYING ARTILLERY.",
+          "summary": "Cavalry Operations during the Pennsylvania Campaign; the Cavalry Battle of",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Teenmurtidelhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1863/07/21/archives/the-cavalry-service-details-of-the-operations-of-our-cavalry-during.html"
+        },
+        {
+          "headline": "THE MOB IN NEW-YORK.; Resistance to the Draft--Rioting and Bloodshed. Conscription Offices Sacked and Burned. Private Dwellings Pillaged and Fired. An ARMORY AND A HOTEL DESTROYED. Colored people Assaulted--An Unoffending Black Man Hung.The Tribune office Attacked--The Colored Orphan Asylum Ransacked and Burned--Other Outrages and Incidents.A DAY OF INFAMY AND DISGRACE. ATTACK UPON SUPERINTENDENT KENNEDY. THE ATTACK ON THE ARMORY IN SECOND-AVENUE. SCENES BY AN EYE-WITNESS. BURNING OF THE ORPHAN ASYLUM FOR COLORED CHILDREN. ATTACK ON THE TRIBUNE OFFICE. OUTRAGES UPON COLORED PERSONS. COURAGEOUS ACTION OF THE POLICE. THE ATTACK ON THE MAYOR'S RESIDENCE. MEETING OF EX-OFFICERS AT THE ARMORY OF THE SEVENTH REGIMENT. CHARACTER OF THE MOB. ROVING RIOTERS. APPREHENDED ATTACK ON THE POLICE HEADQUARTERS. THE HOUSES BURNED IN LEXINGTON-AVENUE. DESTRUCTION OF A BLOCK ON BROADWAY. BULL'S HEAD HOTEL. A STATION-HOUSE AND THE RESIDENCE OF THE CITY POSTMASTER BURNED. THIEVES AND PICKPOCKETS. THE POLICE. PREPARATIONS FOR TO-DAY. WHAT WAS DONE IN B",
+          "summary": "Attack on Tribune Office; Burning of Colored Orphan Asylum",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Stele_of_Vultures_detail_01a.jpg/1280px-Stele_of_Vultures_detail_01a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1863/07/14/archives/the-mob-in-newyork-resistance-to-the-draftrioting-and-bloodshed.html"
+        },
+        {
+          "headline": "ONE WEEK LATER FROM EUROPE.; The City of New-York at this Port and the Scotia off Cape Race. Reported Capture of the Steamship Moses Taylor bythe Alabama.Important Proceedings in the British Parliament.Mr. Roebuck Withdraws his Motion forRecognition. Mr. Lindsay Explains theVisit to the French Emperor.The News of Lee's Defeat Receivedin England.The London Times Does Not See the Ground of Mr. Lincoln's Hopeful Anticipations.The Principal Struggle to Take Place atVicksburgh and Port Hudson. ASPECT OF THE POLISH QUESTION.",
+          "summary": "Roebuck, J. A.; Motion--Speech; also of Mr. Lindsay, >amp;c.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Foreign_%26_Commonwealth_Office_main_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1863/07/26/archives/one-week-later-from-europe-the-city-of-newyork-at-this-port-and-the.html"
+        },
+        {
+          "headline": "The Siego of Fort Wagner.; CONDUCT OF THE MASSACHUSETTS NEGRO REGIMENT.",
+          "summary": "Strong, Gen. G. C., wounded at Fort Wagner",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1863/07/31/archives/the-siego-of-fort-wagner-conduct-of-the-massachusetts-negro.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Teenmurtidelhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THE CAVALRY SERVICE.; THE MOB IN NEW-YORK.; ONE WEEK LATER FROM EUROPE..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.166
+      }
+    }
+  ]
+}
