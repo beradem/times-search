@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T09:16:34.778717+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2000,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "GORE ASKS PUBLIC FOR PATIENCE; BUSH STARTS TRANSITION MOVES; ADMINISTRATION WITHHOLDS AID",
+          "summary": "Gov George W Bush presses forward with transition plans while Vice Pres Al Gore pleads in nationwide address for public patience while he contests award of Florida's 25 decisive electoral votes to Bush; Gore says he is not engaged in struggle for power, but in effort to preserve democracy itself; says challenge is to ensure that every American has change to register choice in one closest presidential races in American history; says fair count of Florida vote would provide him with more than enough votes to defeat Bush; blames series of lawsuits by Republicans and 'organized intimidation' of local canvassing officials for delay in reaching full count; Bush running mate and transition director Dick Cheney sharply criticizes Gore and White House for refusing to authorize public money and government office space for Bush transition; says administration has duty to honor certified results of Florida election; says Gore's obstinacy is getting in way of peaceful transfer of power; Florida Gov Jeb Bush signs document officially certifying brother as winner of state's 25 electoral votes; senior Republicans in Congress begin referring to Bush as president-elect; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_of_the_Public_Universal_Friend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/28/us/contesting-vote-overview-gore-asks-public-for-patience-bush-starts-transition.html"
+        },
+        {
+          "headline": "Ideas & Trends: Vacancy; Stunning Estate, 130-plus Rms., 18 Acres, Rose Garden. Available.",
+          "summary": "Assessment of brutal post-election clash between Democrats and Republicans over unresolved presidential election; photo (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/RIAN_archive_100306_Vladimir_Putin%2C_Federal_Security_Service_Director_%283x4_cropped%29.jpg/1280px-RIAN_archive_100306_Vladimir_Putin%2C_Federal_Security_Service_Director_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/12/weekinreview/ideas-trends-vacancy-stunning-estate-130-plus-rms-18-acres-rose-garden-available.html"
+        },
+        {
+          "headline": "Will Nasdaq's Fall Haunt the Democrats?",
+          "summary": "Gretchen Morgenson column on negative impact of falling Nasdaq stock prices on Vice Pres Al Gore's presidential campaign; notes analysts expect Gore victory would do little for stock prices, while victory by Gov George W Bush would likely boost prices; graph of drop in Nasdaq stocks (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/1280px-George-W-Bush.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/05/business/market-watch-will-nasdaq-s-fall-haunt-the-democrats.html"
+        },
+        {
+          "headline": "Entering Last Act, Senate Rivals Stick to the Script; Mrs. Clinton Preaches to the Party Faithful",
+          "summary": "Hillary Rodham Clinton moves to close out campaign for US Senate from New York by urging black parishioners in New York City to support her; makes appearances at seven churches in seven-hour period; implores churchgoers to vote Democratic, linking herself to husband and Vice Pres Al Gore at every turn; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg/1280px-Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/06/nyregion/entering-last-act-senate-rivals-stick-script-mrs-clinton-preaches-party-faithful.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_of_the_Public_Universal_Friend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: GORE ASKS PUBLIC FOR PATIENCE; Ideas & Trends: Vacancy; Will Nasdaq's Fall Haunt the Democrats?.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.89
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1995,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; RAIN STALLS SEARCH OF RUBBLE",
+          "summary": "A nationwide manhunt continued today for a second suspect in the bombing of a Federal office building in Oklahoma City, and the search for possible links between right-wing paramilitary groups and the 26-year-old Army veteran already in custody moved from a muddy Michigan bean field to the Arizona desert. Federal investigators said they believed there was a broader plot behind the bombing and were searching for evidence of a conspiracy hatched by several self-styled militiamen who oppose gun laws, income taxes and other forms of government control. Federal agents descended on Kingman, Ariz., the last known address of the suspect arrested on Friday, Timothy James McVeigh, and on the high desert surrounding the town, a training site for one such militia, the Arizona Patriots.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/23/us/terror-oklahoma-overview-fbi-hunts-2d-bombing-suspect-seeks-links-far-right-rain.html"
+        },
+        {
+          "headline": "Parking Rules",
+          "summary": "Because of religious holidays, alternate-side street parking regulations are suspended in New York City today and tomorrow. Other regulations remain in effect.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1995/04/21/nyregion/parking-rules-679395.html"
+        },
+        {
+          "headline": "Rethinking Welfare: Deterring New Births -- A special report.; State Aid Is Capped, but to What Effect?",
+          "summary": "At 16, Naikeya Haley decided to have a second child despite the state law that denied her extra welfare benefits because she was already receiving aid. \"It was a planned pregnancy,\" said Ms. Haley, who is now 17. The law that kept her from collecting $102 more a month \"doesn't make any difference to me,\" she said flatly, other than to make it that much harder to provide for her family. She and her two daughters live on $322 a month, and stay with friends.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/11/us/rethinking-welfare-deterring-new-births-special-report-state-aid-capped-but-what.html"
+        },
+        {
+          "headline": "AT LEAST 31 ARE DEAD, SCORES ARE MISSING AFTER CAR BOMB ATTACK IN OKLAHOMA CITY WRECKS 9-STORY FEDERAL OFFICE BUILDING",
+          "summary": "The authorities opened an intensive hunt today for whoever bombed a Federal office building in Oklahoma City, and proceeded on the theory that the bombing was a terrorist attack against the Government, law-enforcement officials said. President Clinton appeared in the White House press room this afternoon and somberly promised that the Government would hunt down the \"evil cowards\" responsible. \"These people are killers,\" he said, \"and must be treated like killers.\"",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Pressure_cooker_bomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/20/us/terror-oklahoma-city-investigation-least-31-are-dead-scores-are-missing-after.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; Parking Rules; Rethinking Welfare: Deterring New Births -- A special report..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1960,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "KENNEDY APPEARS TO LEAD IN STATE; RELIGION A FACTOR; Estimates of Margin Range Up to a Million -- Catholic Issue May Be Decisive KENNEDY APPEARS TO LEAD IN STATE",
+          "summary": "wk, Eisenhower role, campaign as whole revd; illus",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kerry_Kennedy_at_a_press_conference_for_the_Latinos_for_Harris-Walz_and_Arizona_for_Harris-Walz_at_President_campaign_event_at_Teamsters_Union_Local_104_in_Phoenix%2C_Arizona_on_28_August_2024_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/06/archives/kennedy-appears-to-lead-in-state-religion-a-factor-estimates-of.html"
+        },
+        {
+          "headline": "KENNEDY ASSURES 3 WESTERN ALLIES ON COMMON GOALS; He Answers Congratulatory Messages From de Gaulle, Macmillan and Adenauer PLEDGES COOPERATION President-Elect Starts His Vacation in Palm Beach -- Stops in Washington Kennedy Assures Allies of West Of Cooperation on Common Aims",
+          "summary": "Kennedy pledges to work for disarmament, reply to Adenauer congratulatory message",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Oklahoma_general_election_ballot_for_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/12/archives/kennedy-assures-3-western-allies-on-common-goals-he-answers.html"
+        },
+        {
+          "headline": "U.S. REPORT MAPS HIGH GOALS IN 60'S; TAX RISES HINTED; President's Board Calls for Sacrifices -- Asks Doubling of Help for Education CUT IN JOBLESS SOUGHT End of Racial Barriers in Colleges Is Seen -- More Foreign Aid Supported U.S. STUDY MAPS HIGH GOALS IN 60'S",
+          "summary": "Natl Goals Comm urges keeping unemployment below 4%; notes need to find 1.5 million jobs for marginal farm operators",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1960/11/28/archives/us-report-maps-high-goals-in-60s-tax-rises-hinted-presidents-board.html"
+        },
+        {
+          "headline": "NEW YORK LOSES TWO HOUSE SEATS; JERSEY GAINS ONE; California Given Eight New Members on the Basis of Rise in Population NEW YORK LOSES TWO HOUSE SEATS",
+          "summary": "Commerce Dept repts final totals; population as of was 179,323,175, not counting Amers abroad; rise is 28 million over '50; Fla 78.7% rise is greatest percentage gain; Calif, with 48.5% rise, made biggest gain in actual population; increase in West is far greater than rest of US; increase by region noted; table shows '50 and '60 populations of each state; only 3 states and DC lose population",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1960/11/16/archives/new-york-loses-two-house-seats-jersey-gains-one-california-given.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kerry_Kennedy_at_a_press_conference_for_the_Latinos_for_Harris-Walz_and_Arizona_for_Harris-Walz_at_President_campaign_event_at_Teamsters_Union_Local_104_in_Phoenix%2C_Arizona_on_28_August_2024_%28cropped%29.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: KENNEDY APPEARS TO LEAD IN STATE; KENNEDY ASSURES 3 WESTERN ALLIES ON COMMON GOALS; U.S. REPORT MAPS HIGH GOALS IN 60'S.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.553
+      }
+    }
+  ]
+}
