@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T09:16:26.787936+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1990,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "CONFRONTATION IN THE GULF    FOREIGNERS IN IRAQ WILL SHARE IN HARDSHIPS, BAGHDAD WARNS; SAUDIS TO INCREASE OIL OUTPUT;   'ACT OF WAR' SEEN",
+          "summary": "LEAD: Declaring the American-led naval blockade ''an act of war,'' Iraq said tonight that thousands of foreigners, including infants, who have been turned into hostages would suffer the same food shortages as Iraqis.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1990/08/19/world/confrontation-gulf-foreigners-iraq-will-share-hardships-baghdad-warns-saudis.html"
+        },
+        {
+          "headline": "The Iraqi Invasion;   INVADING IRAQIS SEIZE KUWAIT AND ITS OIL; U.S. CONDEMNS ATTACK, URGES UNITED ACTION",
+          "summary": "LEAD: Iraqi troops stormed into the desert sheikdom of Kuwait today, seizing control of its capital city and its rich oilfields, driving its ruler into exile, plunging the strategic Persian Gulf region into crisis and sending tremors of anxiety around the world.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/1280px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1990/08/03/world/iraqi-invasion-invading-iraqis-seize-kuwait-its-oil-us-condemns-attack-urges.html"
+        },
+        {
+          "headline": "CONFRONTATION IN THE GULF: The New York Times Poll;   IN A CRISIS, SUPPORT WITH RESERVATIONS",
+          "summary": "LEAD: Those who approve of the way President Bush is dealing with Iraq's invasion of Kuwait. 74%. Those who say the Bush Adminsitration tried hard enough to reach diplomatic solutions prior to taking military acton. 48%. Those who expect the United States military to end up fighting Iraquis.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1990/08/12/world/confrontation-gulf-new-york-times-poll-crisis-support-with-reservations.html"
+        },
+        {
+          "headline": "  Mortgage Rates Up a Quarter-Point in Just a Few Days",
+          "summary": "LEAD: Home mortgage interest rates, which last week were hovering just above 10 percent, have increased quickly in recent days, following the yields on Treasury bonds onto higher ground.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Grangemouth04nov06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1990/08/07/business/oil-surge-consumers-already-taking-beating-mortgage-rates-up-quarter-point-just.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: CONFRONTATION IN THE GULF    FOREIGNERS IN IRAQ WILL SHARE IN HARDSHIPS, BAGHDAD WARNS; The Iraqi Invasion; CONFRONTATION IN THE GULF: The New York Times Poll.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1901,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "LONDON TOPICS OF THE WEEK; No Lesson in the Conservative Victory in Northeast Lanarkshire. Liberals Still Divided -- High Honors for Soldiers Who Have Not Yet Received Their Pay. Czolgosz's Crime Reacts Upon Irish Agitators, Whose Intemperate Language Is Condemned -- Active Movement for a Redistribution of Seats -- Labor Problems.",
+          "summary": "Fishermen's Strike; Miners' Convention",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/1280px-Jack_London_young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/29/archives/london-topics-of-the-week-no-lesson-in-the-conservative-victory-in.html"
+        },
+        {
+          "headline": "PRINCE CHUN GOING HOME; He Has Been Ordered to Return to China Immediately. UNABLE TO VISIT AMERICA Berlin Kreuz Zeitung Thinks the Prince Has Been Treated Too Well While in Germany.",
+          "summary": "Ordered Home",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Badaling_China_Great-Wall-of-China-01.jpg/1280px-Badaling_China_Great-Wall-of-China-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/26/archives/prince-chun-going-home-he-has-been-ordered-to-return-to-china.html"
+        },
+        {
+          "headline": "FRANCE GREETS THE CZAR; He Lands at Dunkirk and Later Goes to Compiegne. OBJECT OF THE FESTIVITIES Behind All the Fetes and Decorations Is the Desire of France to Prove Her Military and Naval Power.",
+          "summary": "Dunkirk and Compiegne",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Ergaki%2C_Buiba_Valley%2C_Western_Sayan_Mountains%2C_Krasnoyarsk_Krai%2C_Russia.jpg/1280px-Ergaki%2C_Buiba_Valley%2C_Western_Sayan_Mountains%2C_Krasnoyarsk_Krai%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/19/archives/france-greets-the-czar-he-lands-at-dunkirk-and-later-goes-to.html"
+        },
+        {
+          "headline": "ORDERS TO PRINCE CHUN; He Was Told Not to Consent to a Humiliating Ceremony. HAS ARRIVED AT POTSDAM The Expiatory Mission He Heads Shorn of Its Original Significance -- Germans Blame Von Buelow.",
+          "summary": "Agreement",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gours_des_grottes_de_Saint_Marcel_d%27Ard%C3%A8che%2C_France.jpg/1280px-Gours_des_grottes_de_Saint_Marcel_d%27Ard%C3%A8che%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/04/archives/orders-to-prince-chun-he-was-told-not-to-consent-to-a-humiliating.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/1280px-Jack_London_young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: LONDON TOPICS OF THE WEEK; PRINCE CHUN GOING HOME; FRANCE GREETS THE CZAR.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.125
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1991,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "GORBACHEV, LAST SOVIET LEADER, RESIGNS; U.S. RECOGNIZES REPUBLICS' INDEPENDENCE",
+          "summary": "Mikhail S. Gorbachev, the trailblazer of the Soviet Union's retreat from the cold war and the spark for the democratic reforms that ended 70 years of Communist tyranny, told a weary, anxious nation tonight that he was resigning as President and closing out the union. \"I hereby discontinue my activities at the post of President of the Union of Soviet Socialist Republics,\" declared the 60-year-old politician, the last leader of a totalitarian empire that was undone across the six years and nine months of his stewardship.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/12/26/world/end-soviet-union-gorbachev-last-soviet-leader-resigns-us-recognizes-republics.html"
+        },
+        {
+          "headline": "For Needy Children, Caring Hearts",
+          "summary": "This time of year, many people are digging deeper to pay for gifts to make their childrens' day brighter. The charities affiliated with The New York Times Neediest Cases Fund are digging deeper to brighten the lives of children year-round. The donations the Fund receives translates into many kinds of help. For a 3 1/2-year-old boy infected with H.I.V., a program financed by fund provides counseling to deal with the heartbreak. For a group of 10-year-olds, a volunteer's dedication has created a newspaper in which they chronicle their lives Articles, page 48.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/12/15/nyregion/a-christmas-appeal-the-neediest-cases-for-needy-children-caring-hearts.html"
+        },
+        {
+          "headline": "AFTER THE SOVIET UNION: Capitalism's New Frontier - A special report; Hunting for Riches in Ex-Soviet Lands",
+          "summary": "American companies are treating the territories of the now-defunct Soviet Union as wild, unpredictable places, without reliable laws, but good for trying to strike it rich with ventures that skim the cream from an economy in disarray. Even Fortune 500 companies are signing deals that have a frontier quality. In fact, the upheaval seems to be stimulating imaginative deal-making, not inhibiting it. The greater the turmoil and risk, the greater the concessions the authorities in the newly independent lands seem willing to grant, although concern is surfacing that deals born today may be canceled tomorrow by some future government that views them as one-sided and exploitative. Promise of Big Profits The guiding principle appears to be this: Gamble as little as possible in a risky investment that might very well return a jackpot profit, if the money is not lost altogether in the chaos. Robert S. Strauss, a millionaire Texas lawyer and the United States Ambassador to Moscow, describes the potential and the risk by advising business people that if he were younger -- he is 73 -- he would invest $100,000 in the old Soviet Union and run it up into $10 million, but that if he had $10 million, he would gamble only $100,000 of it.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Senate_building_Moscow.jpg/1280px-Senate_building_Moscow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/12/27/world/after-soviet-union-capitalism-s-new-frontier-special-report-hunting-for-riches.html"
+        },
+        {
+          "headline": "Recalling Pearl Harbor, Bush Urges an End to Rancor; 50 Years After Attack, Survivors Are Told to Forget Animosity",
+          "summary": "Amid solemn ceremonies honoring the Americans who died in the Japanese surprise attack on Pearl Harbor 50 years ago today, President Bush told an assemblage of more than 2,000 survivors that the time had come to put aside their animosity toward Japan. \"I have no rancor in my heart toward Germany or Japan -- none at all,\" said the President, a former Navy pilot who was himself shot down by the Japanese in the Pacific in. \"I hope you have none in yours. This is no time for recrimination.\"",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg/1280px-George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/12/08/us/pearl-harbor-remembered-recalling-pearl-harbor-bush-urges-end-rancor-50-years.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: GORBACHEV, LAST SOVIET LEADER, RESIGNS; For Needy Children, Caring Hearts; AFTER THE SOVIET UNION: Capitalism's New Frontier - A special report.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    }
+  ]
+}
