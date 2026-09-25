@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T09:34:57.413558+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1933,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "HOUSE VOTES TO END PRESCRIPTION CURB; Liquor Liberalization Bill Is Passed 153-59 -- Roosevelt's Signature Is Due Today. FIGHT BY BLANTON FUTILE Texan Says Hard Drink Will Flow Freely -- Program for Modification Completed. HOUSE VOTES TO END PRESCRIPTION CURB",
+          "summary": "passes House",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Chuck_Grassley_official_photo_2017.jpg/1280px-Chuck_Grassley_official_photo_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/31/archives/house-votes-to-end-prescription-curb-liquor-liberalization-bill-is.html"
+        },
+        {
+          "headline": "PATRONAGE DELAY STRENGTHENS M'KEE IN WAR ON TAMMANY; Flynn Control Here Is Likely to Weaken Curry in Fight in Primary for O'Brien. ROOSEVELT STRATEGY AIDS Delay on Jobs Till End of Extra Session to Speed His Program Also a Help in City Battle. SMITH UNCERTAIN FACTOR Only a Decision by Him to Run for Mayor Would Block McKee -- Now Definitely Against It. FEDERAL JOBS AID M'KEE FIGHT HERE",
+          "summary": "Will be consulted on Fed apptmts for N Y; expected to aid J V McKee's fight for Mayoralty",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/1280px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/26/archives/patronage-delay-strengthens-mkee-in-war-on-tammany-flynn-control.html"
+        },
+        {
+          "headline": "EFFECTIVE THIS MORNING; Governor Acts After an All-Night Conference With Banking Heads. PERIOD INCLUDES MONDAY All Banks and the Securities Markets Are Affected by Emergency Decree. ILLINOIS TAKES STEP, TOO Period of Closing There Is Put at Three Days -- Pederal Officials in Conferences. 2-DAY BANK HOLIDAY IS LEHMAN'S ORDER",
+          "summary": "Invokes 60-day clause on withdrawals",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/1280px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/04/archives/effective-this-morning-governor-acts-after-an-allnight-conference.html"
+        },
+        {
+          "headline": "HITLER INTENSIFIES DRIVE ON THE LEFT; HUNDREDS ARRESTED; Red Leaders Jailed, Socialists' Papers Banned and Homes Searched All Over Prussia. NATION TOLD OF 'REVOLT' Goering Asserts Communists Planned to Trick Nazis Into 'Occupying' Berlin. SITUATION ALARMS LONDON Foreign Secretary Is Asked What Guarantee Britain Has of the Safety of Her Nationals. HITLER INTENSIFIES DRIVE ON THE LEFT",
+          "summary": "Wholesale arrests of leading Communists and suppression of Communist and Socialist press continues; Hitler and von Blomberg rept to von Hindenburg; H W Goering says Reichstag firing was preliminary to Red revolution",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%22Dispatches%22%2C_by_Michael_Herr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1933/03/02/archives/hitler-intensifies-drive-on-the-left-hundreds-arrested-red-leaders.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Chuck_Grassley_official_photo_2017.jpg/1280px-Chuck_Grassley_official_photo_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: HOUSE VOTES TO END PRESCRIPTION CURB; PATRONAGE DELAY STRENGTHENS M'KEE IN WAR ON TAMMANY; EFFECTIVE THIS MORNING.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.691
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1948,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "CEASE-FIRE TODAY IN ALL JERUSALEM SET BY ARABS, JEWS; Briton Gets Azzam Pasha's Pledge for Halt at Noon -- Food Route Not Affected ZIONISTS CLAIM VILLAGES British Ask U. N. to Name City Commissioner -- Choice of an American Likely TRAINING MEN FOR THE JEWISH ARMY IN PALESTINE CEASE-FIRE TODAY SET IN JERUSALEM",
+          "summary": "Arabs and Jews agree to cease fire in entire city as result of A R Azzam Pasha conf with Cunningham, Jericho; earlier gun battle in Montefiore sec noted",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg/1280px-Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1948/05/08/archives/ceasefire-today-in-all-jerusalem-set-by-arabs-jews-briton-gets.html"
+        },
+        {
+          "headline": "ISRAEL USES FLIERS TO STRIKE IN NORTH; RETIRES IN OLD CITY; Air Force's Initial Blow Hits Samakh Area -- Ground Unit Enters Syria, Razes Depot JERUSALEM BATTLE RAGES Arabs Claim Control of 80% of Walled Area -- Egyptian Troops Seize Beersheba ISRAEL USES FLIERS TO STRIKE IN NORTH A NERW AIR FORCE ENTERS PALESTINE WARFARE",
+          "summary": "Israel uses planes for 1st time to bomb Iraqis and Arab Legion near Galilee Sea; Haganah claims Syrian supply camp destroyed; Tel Aviv bombed; Irgun claims 1 plane downed; Egypt claims Beersheba and 2 coastal towns; map",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Survey_of_Palestine_1942-1958_1-100%2C000_sheet_index_georef.png/1280px-Survey_of_Palestine_1942-1958_1-100%2C000_sheet_index_georef.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1948/05/21/archives/israel-uses-fliers-to-strike-in-north-retires-in-old-city-air-force.html"
+        },
+        {
+          "headline": "14 OF 23.CONTESTS IN OHIO SHOW TAFT AHEAD OF STASSEN; Senator Leads for All Nine Delegates-at-Large and in 13 District Races TREND SHIFTS POSSIBLE Turnout Is Heavy in the GOP Primary and Count Is Slow -- Lausche Defeats Miller AS THE REPUBLICAN PRIMARY CONTEST IN OHIO NEARED ITS CLOSE YESTERDAY TAFT TAKES LEAD IN OHIO PRIMARY",
+          "summary": "Ohio early primary returns give Taft lead over Stassen in 14 of 23 contests; Marshall trails",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kanye_West_North_Charleston_Rally%2C_July_2020_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1948/05/05/archives/14-of-23contests-in-ohio-show-taft-ahead-of-stassen-senator-leads.html"
+        },
+        {
+          "headline": "STEELMAN PARLEYS WITH RAIL UNIONS MAKE NO PROGRESS; After 'Exploratory' Talks Fail, Truman Aide Confers Briefly With Faricy, Roads' Leader TO MEET CARRIERS TODAY Their Negotiators Are Called From Chicago -- Truman Meets Cabinet -- No Seizure Move RAIL PEACE TALKS MAKE NO PROGRESS",
+          "summary": "shippers of perishables press Truman to avert strike",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Tsai_Ing-wen_talks_with_MODA_officials_02.jpg/1280px-Tsai_Ing-wen_talks_with_MODA_officials_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1948/05/08/archives/steelman-parleys-with-rail-unions-make-no-progress-after.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg/1280px-Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: CEASE-FIRE TODAY IN ALL JERUSALEM SET BY ARABS, JEWS; ISRAEL USES FLIERS TO STRIKE IN NORTH; 14 OF 23.CONTESTS IN OHIO SHOW TAFT AHEAD OF STASSEN.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.623
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1993,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "EXPLOSION AT THE TWIN TOWERS: The Overview; BLAST HITS TRADE CENTER, BOMB SUSPECTED; 5 KILLED, THOUSANDS FLEE SMOKE IN TOWERS",
+          "summary": "An explosion apparently caused by a car bomb in an underground garage shook the World Trade Center in lower Manhattan with the force of a small earthquake shortly after noon yesterday, collapsing walls and floors, igniting fires and plunging the city's largest building complex into a maelstrom of smoke, darkness and fearful chaos. The police said the blast killed at least five people and left more than 650 others injured, mostly with smoke inhalation or minor burns, but dozens with cuts, bruises, broken bones or serious burns. The police said 476 were treated at hospitals and the rest by rescue and medical crews at the scene.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/WTC_collapse_before_and_after.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/27/nyregion/explosion-twin-towers-overview-blast-hits-trade-center-bomb-suspected-5-killed.html"
+        },
+        {
+          "headline": "Woman in the News: CLINTON PICKS MIAMI WOMAN, VETERAN STATE PROSECUTOR, TO BE HIS ATTORNEY GENERAL; Tough 'Front-Line Warrior' Janet Reno",
+          "summary": "MIAMI, As State Attorney for Dade County for 15 years, Janet Reno has grown accustomed to controversy and conflict. A largely liberal Democrat in a mostly conservative Republican county, she has lost some big cases, but won enough to convince voters that no one can be more effective in one of the most difficult law enforcement jobs in the country. Race riots, crime waves, drug cartels, massive waves of immigrants, political corruption and police brutality are among the problems that Ms. Reno has confronted and survived. Now, after the collapse of two other attempts to nominate a woman as Attorney General, President Clinton has called upon the 54-year-old prosecutor to fight many of those same battles at the national level. - Mayor Seymour Gelber of Miami Beach, the former judge and prosecutor who hired Ms. Reno to the State Attorney's office here, called her \"a truly experienced big city prosecutor, a front-line warrior who has fought all the battles and faced all the slings and arrows.\" He added: \"She is a tough, tough lady. She has a soft, genteel way about her, but she is an adversary of steel.\" Speaking Her Mind",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/12/us/woman-clinton-picks-miami-woman-veteran-state-prosecutor-be-his-attorney-general.html"
+        },
+        {
+          "headline": "This Week's Numbers",
+          "summary": "Last Consensus Period Estimates (I.D.E.A. Inc.) Tuesday Dec. wholesale trade, percent change 0.4 0.6 Thursday Weekly jobless claims, thousands 352 325 January retail sales, percent change 1.2 0.4 Friday January producer prices, percent change 0.2 0.2 Dec. business inventories, percent change 0.2 0.1 Tuesday: Treasury auctions 3-year notes Wednesday: Treasury auctions 10-year notes Thursday: Treasury auctions 30-year bonds",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1993/02/07/business/this-week-s-numbers.html"
+        },
+        {
+          "headline": "National Recovery Fattening Tax Revenue in Many States",
+          "summary": "Evidence is continuing to build that the nation's economic expansion that took hold in the second half of is having a positive effect on battered state finances. Tax collections, not including legislated tax increases, rose nearly 6 percent in the fourth quarter compared with a year earlier, according to a survey of state tax officials by the Center for the Study of States, a research concern in Albany. That is the biggest increase since the beginning of the recent recession and five times last year's rise.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1993/02/17/us/national-recovery-fattening-tax-revenue-in-many-states.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/WTC_collapse_before_and_after.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EXPLOSION AT THE TWIN TOWERS: The Overview; Woman in the News: CLINTON PICKS MIAMI WOMAN, VETERAN STATE PROSECUTOR, TO BE HIS ATTORNEY GENERAL; This Week's Numbers.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
