@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T09:19:08.870259+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1889,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "BURYING ITS MANY DEAD; JOHNSTOWN NOW A CITY OF MORGUES. UNKNOWN BODIES HURRIED TO UNNAMED GRAVES. THE DEATH LIST CERTAINLY 10,000-- STRINGENT MEASURES AND HARD WORK NECESSARY TO PREVENT A PESTILENCE--DISTRIBUTING THE GREAT STORES OF FOOD AND CLOTHING--THE STORY OF THE FATAL FLOOD RETOLD--THE GREAT DAMAGE BELOW THE AFFLICTED CITY. A CROWDED MORGUE. A TERRIBLE DEATH MILL.",
+          "summary": "Johnstown Flood; 10,000 Deaths",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Nicrophorus_americanus%2C_American_Burying_Beetle_%28female%29_%E2%80%94_walking.jpg/1280px-Nicrophorus_americanus%2C_American_Burying_Beetle_%28female%29_%E2%80%94_walking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/06/archives/burying-its-many-dead-johnstown-now-a-city-of-morgues-unknown.html"
+        },
+        {
+          "headline": "REFORM IN THE BALLOT; CONNECTICUT'S EFFORT TO SECURE IT. HEARING BEFORE THE JUDICIARY COMMITTEE YESTERDAY--THE LONG CONTEST BE FOUGHT OVER.",
+          "summary": "HARTFORD,.--The interest in the Secret-Ballot bill attracted a large attendance at the bearing this afternoon before the Judiciary Committee. The principal supporters of the measure who were heard were the Hon. Henry C. Robinson and William A. Country man of this city, Speaker John H. Perry, the Rev. Dr. Chapin of Meriden, and Representative Wolff of New-Haven. Albert H. Walker of this city appeared in behalf of an envelope system.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Hartford%2C_CT_skyline_%28cropped%29.jpg/1280px-Hartford%2C_CT_skyline_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/19/archives/reform-in-the-ballot-connecticuts-effort-to-secure-it-hearing.html"
+        },
+        {
+          "headline": "FORAKER WINS THE PRIZE; OHIO REPUBLICANS OFFER HIM A THIRD TERM. WORK OF THE CONVENTION DONE WITHOUT CREATING ANY BITTER ANTAGONISMS--THE TICKET NAMED. THE DEMOCRATIC OUTLOOK.",
+          "summary": "Ticket; J. B. Foraker for Governor",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Downtown_Columbus_View_from_Main_St_Bridge_-_edit1.jpg/1280px-Downtown_Columbus_View_from_Main_St_Bridge_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/27/archives/foraker-wins-the-prize-ohio-republicans-offer-him-a-third-term-work.html"
+        },
+        {
+          "headline": "BODIES ARE EVERYWHERE; PESTILENCE THREATENED IN CONEMAUGH VALLEY. FULLY 10,000 PERSONS MUST HAVE PERISHED. DRAGGING THE CHARRED BODIES FROM THE BURNING WRECK--CORPSES FOUND IN THE MUD AND SAND--THE RESPONSIBILITY FOR THE DAM WHICH GAVE WAY--THE WHOLE COUNTRY RISING TO AID THE SUFFERERS.",
+          "summary": "Ten Thousand Drowned; Scenes; Incidents; General References",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Green_Bank_300ft_collapsed_telescope.jpg/1280px-Green_Bank_300ft_collapsed_telescope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/04/archives/bodies-are-everywhere-pestilence-threatened-in-conemaugh-valley.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Nicrophorus_americanus%2C_American_Burying_Beetle_%28female%29_%E2%80%94_walking.jpg/1280px-Nicrophorus_americanus%2C_American_Burying_Beetle_%28female%29_%E2%80%94_walking.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: BURYING ITS MANY DEAD; REFORM IN THE BALLOT; FORAKER WINS THE PRIZE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.18
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1957,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "FAUBUS CONTINUES TALKS WITH HAYS; IMPASSE REMAINS; Little Rock School Guarded ----President to Meet Powell to Discuss Integration Hays Seeks a Formula U.S. Prepares Case FAUBUS CONTINUES TALKS WITH HAYS All Is Quiet at School",
+          "summary": "Hays again confs with Faubus; Davies returns to Little Rock; subpoenas served on Mann, others; MacGuineas and C Eardley of Justice Dept to work in Little Rock with Cobb; Mann again urges Guard be removed",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/1280px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/09/19/archives/faubus-continues-talks-with-hays-impasse-remains-little-rock-school.html"
+        },
+        {
+          "headline": "Survey Finds Blow To G.O.P. in South; Survey Finds Little Rock Dispute a Setback to Republican Efforts to Win South NEGRO VOTE GAINS NEW SIGNIFICANCE Study Asserts Complications Face Democrats in '60 on Presidential Ticket G.O.P. Losses Reported State-wide Effect Noted Dilemma for Democrats Bias Laws a Factor North Carolina Maryland Missouri Alabama Louisiana Split in G.O.P. Ranks Texas Oklahoma Pennsylvania Michigan Illinois California Washington",
+          "summary": "NY Times survey of pol effects of crisis",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1957/09/29/archives/survey-finds-blow-to-gop-in-south-survey-finds-little-rock-dispute.html"
+        },
+        {
+          "headline": "BULGANIN WARNS TURKEY TO AVOID ATTACK ON SYRIA; Charges Troops Are Poised on Border to Carry Out Plan Directed by U.S. HINTS ACTION BY SOVIET Says Mideast Military Move Might Bring World War-- Washington Denies Plot Turkey Accused by Gromyko Bulganin Cites Geography BULGANIN WARNS TURKS ON SYRIA Bulganin Appeals to Turkey U.S. Disavows Any Role",
+          "summary": "USSR Premier Bulganin lr to Menderes warns Turkey not to attack Syria; alleges US plans mil action against Syria with Turkey playing role; warns on world conflict; Tass version of note cited; US officials see USSR seeking 'big bro' role toward Arabs",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/09/14/archives/bulganin-warns-turkey-to-avoid-attack-on-syria-charges-troops-are.html"
+        },
+        {
+          "headline": "U.S. IS STILL COOL TO PLEAS TO JOIN BAGHDAD TREATY; But Is Expected to Weigh Turkey's Bid Again When Henderson Returns",
+          "summary": "US cool to suggestions by Turkey and Iraq that it join Pact in response to Syrian drift to left",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Frankfurt_Airport_Middle_East_Airlines_Airbus_A321-271NX_T7-ME5_%28DSC09950%29.jpg/1280px-Frankfurt_Airport_Middle_East_Airlines_Airbus_A321-271NX_T7-ME5_%28DSC09950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/09/01/archives/us-is-still-cool-to-pleas-to-join-baghdad-treaty-but-is-expected-to.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/1280px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FAUBUS CONTINUES TALKS WITH HAYS; Survey Finds Blow To G.O.P. in South; BULGANIN WARNS TURKEY TO AVOID ATTACK ON SYRIA.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.5
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1892,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "LANDED ON ELLIS ISLAND; NEW IMMIGRATION BUILDINGS OPENED YESTERDAY. A ROSY-CHEEKED IRISH GIRL THE FIRST REGISTERED -- ROOM ENOUGH FOR ALL ARRIVALS -- ONLY RAILROAD PEOPLE FIND FAULT.",
+          "summary": "",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/1280px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/02/archives/landed-on-ellis-island2-new-immigration-buildings-opened-yesterday.html"
+        },
+        {
+          "headline": "ENGLAND'S NOBLE DEAD; MANNING'S FUNERAL TO FOLLOW THE YOUNG DUKE'S. TO BE MADE VERY IMPRESSIVE -- RUMORS OF PEACE IN ITALY BETWEEN CHURCH AND STATE -- ONE OF BISMARCK'S FRIENDS IN TROUBLE -- BULGARIA THE ALLIED POWERS.",
+          "summary": "Death; Career; Funeral",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Portland_HeadLight_%28cropped%29.jpg/1280px-Portland_HeadLight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/17/archives/englands-noble-dead-mannings-funeral-to-follow-the-young-dukes-to.html"
+        },
+        {
+          "headline": "SHERMAN MEN ARE VICTORS; A SHARP FIGHT. BUT THEY NOMINATE LAYLIN AS SPEAKER. THE FORAKER FACTION SURPRISED AND DOWNCAST -- SHERMAN'S ELECTION TO THE UNITED STATES SENATE PRACTICALLY ASSURED.",
+          "summary": "United States Senatorship; Candidates Sherman and Foraker's Prospects",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Downtown_Columbus_View_from_Main_St_Bridge_-_edit1.jpg/1280px-Downtown_Columbus_View_from_Main_St_Bridge_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/03/archives/sherman-men-are-victors-a-sharp-fight-but-they-nominate-laylin-as.html"
+        },
+        {
+          "headline": "EUROPE'S EYE ON GERMANY; THE EMPEROR FACE TO FACE WITH LIBERAL OPPOSITION. A SITUATION THAT WAS TO BE YORE- SEEN -- FRENCH DEVOTION TO GER- MAN PEER -- AS TO POPE LEO'S HEALTH -- DUKE CONSTANTINE'S DEATH -- THE GRIP STILL IN FORCE.",
+          "summary": "LONDON, -- Young William's luck in politics has proved too good to last. All at once it has come to an abrupt and sensational end. Lifelong observers say there has been no such furious storm of partisan feeling in the Prussian Diet since the great battle over the army organization nearly thirty years ago as this which is now shaking Berlin.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/In_Soviet_Russia%2C_Bill_Kills_You%21%21%21_%285526520071%29.jpg/1280px-In_Soviet_Russia%2C_Bill_Kills_You%21%21%21_%285526520071%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/31/archives/europes-eye-on-germany-the-emperor-face-to-face-with-liberal.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/1280px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: LANDED ON ELLIS ISLAND; ENGLAND'S NOBLE DEAD; SHERMAN MEN ARE VICTORS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.187
+      }
+    }
+  ]
+}
