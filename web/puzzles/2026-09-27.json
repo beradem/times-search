@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T09:58:35.302308+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2001,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "BUSH AND TOP AIDES PROCLAIM POLICY OF 'ENDING' STATES THAT BACK TERROR; LOCAL AIRPORTS SHUT AFTER AN ARREST",
+          "summary": "Ten people are taken into custody at Kennedy International and La Guardia Airports shortly after they reopen for first time since terrorist attacks; authorities then shut all three major New York-area airports again; law enforcement officials say one of those held was carrying false pilot's identification; say one was wearing American Airlines crew uniform on and tried to board flight to Los Angeles around time of hijackings, only to become infuriated when it was canceled because of attacks at World Trade Center; Italian police reopen inquiry into theft of American Airlines uniform and credential in Rome four months ago; authorities say several of those detained showed up at airport with tickets for flights canceled on and tried to use them; man with false pilot's identification is arrested, and he and others are being questioned to determine whether they are part of plot to attack American targets (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/14/us/after-attacks-airports-bush-top-aides-proclaim-policy-ending-states-that-back.html"
+        },
+        {
+          "headline": "Attacks Spur a Surge of Interest in Religion; As Attendance at Services Rises, Clerics Hope for a General Moral Uplift",
+          "summary": "Many churches and religious groups are stepping forward in wake of World Trade Center disaster to confort, offer prayers and proselytize; in and around New York, houses of worship are more crowded than they have been in years; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/American_Airlines_Airplane.jpg/1280px-American_Airlines_Airplane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/30/nyregion/attacks-spur-surge-interest-religion-attendance-services-rises-clerics-hope-for.html"
+        },
+        {
+          "headline": "Voices Not Silenced, Feet Not Stilled; As They Return to Work, Artists Talk Performing in a Time of Tragedy",
+          "summary": "Some performing artists in New York City say experience of being on stage has changed, subtly as well as profoundly, after destruction of World Trade Center; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg/1280px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/20/theater/voices-not-silenced-feet-not-stilled-they-return-work-artists-talk-performing.html"
+        },
+        {
+          "headline": "After a Pause, Arts Companies Find Their Role; Nationwide, People Turn to Theaters and Concert Halls for a Sense of Community",
+          "summary": "Directors of performing arts companies across country ponder how to react to attacks on World Trade Center and Pentagon; people turn to theaters and concert halls for sense of community; Sir Peter Hall, who is directing Verdi's Otello at Lyric Opera Company in Chicago, says people seem to want to be in theaters in times of tragedy; photo (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Snow_won%27t_stop_operations_121228-F-LR266-849.jpg/1280px-Snow_won%27t_stop_operations_121228-F-LR266-849.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/18/theater/after-pause-arts-companies-find-their-role-nationwide-people-turn-theaters.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: BUSH AND TOP AIDES PROCLAIM POLICY OF 'ENDING' STATES THAT BACK TERROR; Attacks Spur a Surge of Interest in Religion; Voices Not Silenced, Feet Not Stilled.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.881
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1962,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "THANT OPENS TALKS WITH CASTRO ON VERIFYING MISSILES' REMOVAL; U.S. HALTS SURVEILLANCE FROM AIR; 2D MEETING TODAY Havana Reports No Accord--U.N. Calls Session 'Useful' Thant Opens Discussions With Castro on Verifying Removal of Soviet Missiles CUBANS REPORT NO AGREEMENT But U.N. Aide Says Session Is 'Very Useful'--2d Meeting Due Today",
+          "summary": "Thant in Havana; confs for over 2 hrs with Castro; Cuba repts no accord; Thant confs with Gen da Silva, Brazilian special envoy; subject not disclosed",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PGM-19A_Jupiter_missile-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1962/10/31/archives/thant-opens-talks-with-castro-on-verifying-missiles-removal-us.html"
+        },
+        {
+          "headline": "THANT'S CUBA TALKS 'FRUITFUL'; HE WILL FLY TO HAVANA TODAY; BLOCKADE HALTED DURING TRIP; AIR CHECK GOES ON Missile Sites Watched Despite Suspension of Quarantine U.S. Suspending Blockade of Cuba for Thant's Two Day Meeting With Castro AIR SURVEILLANCE OF BASES GOES ON Naval Units Remain in Area --Gesture Viewed as Aid to U.N. Chief in Talks",
+          "summary": "illus and por",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cuba_Gooding_Jr_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1962/10/30/archives/thants-cuba-talks-fruitful-he-will-fly-to-havana-today-blockade.html"
+        },
+        {
+          "headline": "MACMILLAN BIDS BRITAIN BECOME GUIDE OF EUROPE; Tory Party Told New Trade Group Can Be Influenced Toward a World Role NATION URGED TO GROW Premier Says Old Ways and Old Privileges Must Give Way to New Methods Too Set in Ways Common Market Hurdle MACMILLAN BIDS BRITAIN BE GUIDE Federal System Barred Spice for the Tories Political Ammunition",
+          "summary": "lack of Brit alternative to membership in Euromkt discussed; indus and trade planning has been aimed at operating under Euromkt; Commonwealth, other trade patterns already changing",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1962/10/14/archives/macmillan-bids-britain-become-guide-of-europe-tory-party-told-new.html"
+        },
+        {
+          "headline": "RECORD 3,442,410 QUALIFIED TO VOTE IN ELECTION HERE; Statewide Total Is Also Due to Set Mark for Eligibility in a Gubernatorial Year 5-DAY DRIVE ADDS 9.1% But Big Enrollment Is Not Interpreted as a Sign of Heavy Turnout at Polls Rise of 700,000 Over '58 Helped by Carry-Over RECORD 3,442,410 CAN VOTE IN CITY Size of Vote Weighed Actual Number Smaller",
+          "summary": "NYC regis, a record, seen not necessarily meaning heavy turnout",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/1280px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1962/10/15/archives/record-3442410-qualified-to-vote-in-election-here-statewide-total.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PGM-19A_Jupiter_missile-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THANT OPENS TALKS WITH CASTRO ON VERIFYING MISSILES' REMOVAL; THANT'S CUBA TALKS 'FRUITFUL'; MACMILLAN BIDS BRITAIN BECOME GUIDE OF EUROPE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.465
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1957,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "PRESIDENT ORDERS MISSILE SPEED-UP; AVOIDS FUND RISE; Expresses Concern Over Lag in Development--Cutback Likely in Armed Forces CHIEF ADVISERS MEET Security Council Discusses Soviet Satellite--Increase in Defense Budget Denied Discusses Satellite PRESIDENT SEEKS MISSILE SPEED-UP Warning From Bureau",
+          "summary": "Eisenhower orders speed-up within present fiscal limits; added funds reptdly available through further cuts in conventional forces; Sen Knowland repts Pres discussed matter with him at White House breakfast",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Golden_Dome_constellation.webp/1280px-Golden_Dome_constellation.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/10/13/archives/president-orders-missile-speedup-avoids-fund-rise-expresses-concern.html"
+        },
+        {
+          "headline": "COMMUTERS HERE IN FINANCIAL TRAP WITH 9 RAILROADS; Lines Demand Government Aid to End Ruinous Deficit of Rush-Hour Service Would Paralyze Traffic All Residents Affected Metropolitan Commuters and Railroads Are Trapped in Ruinous Fiscal Squeeze 9 ROADS INVITING GOVERNMENT AID Rush-Hour Service Called a Losing Prospect--Present Rules and Taxes Hit Government Aid Sought Help to Others Cited 'On Borrowed Time' Highways a Blow L.I.R.R. Gets Concessions Deficit Formula Disputed Executives Give Views 'A Public Service' Curtailment Sought 'Last Chance' Awaited Other, Hudson Plans Moses Nominates Authority And More Criticism Constitutional Snag Seen Tax Abatement Backed Israel Meeting Scheduled",
+          "summary": "C Knowles on NYC area commuter rr problems",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/10/07/archives/commuters-here-in-financial-trap-with-9-railroads-lines-demand.html"
+        },
+        {
+          "headline": "PRESIDENT CALLS M'ELROY FOR TALK ON MISSILES LAG; Meeting Planned Today as Congressional Demands for Inquiry Increase 2-PARTY REVIEW URGED Knowland Objects to Soviet Space Bid--3 Legislators Propose Satellite Drive Speed-up is Reported Both Parties Blamed PRESIDENT CALLS M'ELROY FOR TALK",
+          "summary": "Sen Knowland on feat, implications for US, TV int; other Cong reaction; Repr Keating urges, Adm Wright opposes 'crash' program",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Hubble_Space_Telescope_over_Earth_%28during_the_STS-109_mission%29.jpg/1280px-Hubble_Space_Telescope_over_Earth_%28during_the_STS-109_mission%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/10/14/archives/president-calls-melroy-for-talk-on-missiles-lag-meeting-planned.html"
+        },
+        {
+          "headline": "SUEZ FEE WEIGHED TO REPAY LENDERS; U.N. Head to Urge Voluntary Surcharge to Meet Cost of Reopening Canal SUEZ FEE WEIGHED TO REPAY LENDERS Talks on Surcahrge Held",
+          "summary": "to propose voluntary surcharge",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1957/10/16/archives/suez-fee-weighed-to-repay-lenders-un-head-to-urge-voluntary.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Golden_Dome_constellation.webp/1280px-Golden_Dome_constellation.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: PRESIDENT ORDERS MISSILE SPEED-UP; COMMUTERS HERE IN FINANCIAL TRAP WITH 9 RAILROADS; PRESIDENT CALLS M'ELROY FOR TALK ON MISSILES LAG.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.511
+      }
+    }
+  ]
+}
