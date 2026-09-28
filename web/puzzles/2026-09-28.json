@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T10:50:02.699447+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1912,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "THRILLING STORY BY TITANIC'S SURVIVING WIRELESS MAN; Bride Tells How He and Phillips Worked and How He Finished a Stoker Who Tried to Steal Phillips's Life Belt -- Ship Sank to Tune of \"Autumn\"",
+          "summary": "Carpathia in NYC with 745 survivors including 206 crewmen and 4 officers; 1,595 perished; survivors say ship sank while band stood on deck playing song 'Autumn'; Titanic's surviving wireless operator H Bride tells how he and Phillips sent messages for help; eyewitnesses give accts of sinking, acts of heroism and reactions to disaster; say many women refused to be rescued without husbands; fireman H Senior tells how Smith refused to be saved; Carpathia wireless operator H T Cottam acct of how he recd and responded to Titanic's 'CQD,'",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jack_George_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/19/archives/thrilling-story-by-titanics-surviving-wireless-man-bride-tells-how.html"
+        },
+        {
+          "headline": "WEST VIRGINIA ALSO WON BY ROOSEVELT; Colonel Carries 24 Counties, Which Gives Him a Majority of State Convention Delegates.",
+          "summary": "Results of primaries in 24 counties",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1912/04/21/archives/west-virginia-also-won-by-roosevelt-colonel-carries-24-counties.html"
+        },
+        {
+          "headline": "SAIONJI'S REPLY ENDS MAGDALENA BUGABOO; Japanese Premier's Message to The Time, Washington Agrees, Closes the \"Incident.\"",
+          "summary": "Washington considers incident closed; Taft readying reply to Lodge resolution",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/1280px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/07/archives/saionjis-reply-ends-magdalena-bugaboo-japanese-premiers-message-to.html"
+        },
+        {
+          "headline": "$100,000,000 PRICE ON RAILWAY MERGER; New Haven Must Spend This on Improvements, Says Foss, to Take Over Boston & Maine.",
+          "summary": "Gov E N Foss message to pub urges letting NY,NH&H lease Boston & Maine on condition it spend $100 million for improvements in and near Boston",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Alaska_Railroad_oil_train_at_Nenna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/11/archives/100000000-price-on-railway-merger-new-haven-must-spend-this-on.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jack_George_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THRILLING STORY BY TITANIC'S SURVIVING WIRELESS MAN; WEST VIRGINIA ALSO WON BY ROOSEVELT; SAIONJI'S REPLY ENDS MAGDALENA BUGABOO.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.4
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1987,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "Market Turmoil; STOCKS FALL 156, LOSS OF 8%, AFTER BIG SELL OFFS ABROAD; JOINT TALKS ON DEFICIT BEGIN",
+          "summary": "LEAD: A new wave of pessimism overwhelmed Wall Street yesterday, prompting another big selloff in stocks.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/27/business/market-turmoil-stocks-fall-156-loss-8-after-big-sell-offs-abroad-joint-talks.html"
+        },
+        {
+          "headline": "Perilous Economic Cures; Some Experts See Tax Increases and Cuts In Spending by U.S. as Spurs to Recession",
+          "summary": "LEAD: Just when President Reagan and Congressional leaders have at last started moving toward a compromise on measures to reduce the Federal budget deficit by at least $23 billion next year, with the logjam apparently broken by the stock market plunge, an unlikely alliance of normally warring economists is warning that shrinking the deficit by raising taxes and cutting",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Stocks_%26_Bonds.jpg/1280px-Stocks_%26_Bonds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/28/business/perilous-economic-cures-some-experts-see-tax-increases-cuts-spending-us-spurs.html"
+        },
+        {
+          "headline": "9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT",
+          "summary": "LEAD: The Senate Judiciary Committee voted 9 to 5 today against the nomination of Judge Robert H. Bork to the Supreme Court, and both supporters and opponents predicted his rejection by the full Senate if President Reagan continues to insist on a vote.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ronald_Reagan_with_his_mother_Nelle_1950_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/07/us/9-5-panel-vote-against-bork-sends-nomination-senate-amid-predictions-defeat.html"
+        },
+        {
+          "headline": "Carnation Settles Shareholder Suit for $13 Million",
+          "summary": "LEAD: The Carnation Company announced yesterday that it had agreed to pay $13 million to settle a lawsuit contending that company officials had issued false statements about negotiations when the food-products company was acquired by Nestle S.A. in.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Borussia_Dortmund_GmbH_%26_Co._KGaA_Economic_Share_Price_and_Stock_Market_Volume.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/10/business/carnation-settles-shareholder-suit-for-13-million.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: Market Turmoil; Perilous Economic Cures; 9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.998
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1903,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "LABOR'S NEW DOCTRINE; Carroil D. Wright Says Wages System Will Pass Away. Demand of Workingmen Is to Acquire Interest as Investors -- England and Germany's Advances.",
+          "summary": "On the wage question; Philadelphia Ethical Soc; Cooper Union",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/1280px-Portrait_of_Milton_Friedman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1903/12/14/archives/labors-new-doctrine-carroil-d-wright-says-wages-system-will-pass.html"
+        },
+        {
+          "headline": "SWAM IN RAGING SEA TO SAVE TORPEDO BOAT; Brooklyn Jackie Took a Line to the Submarine Craft Adder. COMPANION BOAT IS ASHORE The Moccasin Appears to be Only Slightly Damaged -- Machinery of the Adder Badly Affected.",
+          "summary": "Deering praised by Lt. England; saved the Adder",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/USS_Gerald_R._Ford_%28CVN-78%29_and_USS_Harry_S._Truman_%28CVN-75%29_underway_in_the_Atlantic_Ocean_on_4_June_2020_%28200604-N-BD352-0199%29.JPG/1280px-USS_Gerald_R._Ford_%28CVN-78%29_and_USS_Harry_S._Truman_%28CVN-75%29_underway_in_the_Atlantic_Ocean_on_4_June_2020_%28200604-N-BD352-0199%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1903/12/05/archives/swam-in-raging-sea-to-save-torpedo-boat-brooklyn-jackie-took-a-line.html"
+        },
+        {
+          "headline": "CHICAGO STRIKERS BOYCOTT FUNERALS; Prevent Carriages from Taking Part in Processions. Body of Judge Taken to the Grave in an Undertaker's Wagon -- Police Promise Protection.",
+          "summary": "Funerals Boycotted",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1903/12/20/archives/chicago-strikers-boycott-funerals-prevent-carriages-from-taking.html"
+        },
+        {
+          "headline": "COLOMBIA WAS WARNED; Correspondence Between Messrs, Hay and Beaupre Made Public. After Recognition of Panama, Colombian Council Voted 10 to 1 to Hand Minister Beaupre His Passports.",
+          "summary": "3d set of papers sent in, Hay-Beaupre letters",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Santuario_de_Las_Lajas%2C_Ipiales%2C_Colombia%2C_2015-07-21%2C_DD_01.JPG/1280px-Santuario_de_Las_Lajas%2C_Ipiales%2C_Colombia%2C_2015-07-21%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1903/12/20/archives/colombia-was-warned-correspondence-between-messrs-hay-and-beaupre.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/1280px-Portrait_of_Milton_Friedman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: LABOR'S NEW DOCTRINE; SWAM IN RAGING SEA TO SAVE TORPEDO BOAT; CHICAGO STRIKERS BOYCOTT FUNERALS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.333
+      }
+    }
+  ]
+}
