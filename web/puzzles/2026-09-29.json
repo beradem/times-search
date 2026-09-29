@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T10:37:07.333332+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2016,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "Trump Diversifies Cabinet; Picks Nikki Haley and Betsy DeVos",
+          "summary": "The president-elect’s first picks were white men, but now he has recruited two women: Gov. Nikki R. Haley of South Carolina and Betsy DeVos, a G.O.P. philanthropist.",
+          "image": "https://static01.nyt.com/images/2016/11/24/us/24devos/24devos-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/23/us/politics/donald-trump-president-elect.html"
+        },
+        {
+          "headline": "Donald Trump Picks Reince Priebus as Chief of Staff and Stephen Bannon as Strategist",
+          "summary": "The appointments created rival centers of power and elevated the voice of Mr. Bannon, whose longtime website, Breitbart News, has traded in conspiracy theories and sometimes racist messages.",
+          "image": "https://static01.nyt.com/images/2016/11/13/us/00priebuschief/00priebuschief-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/14/us/politics/reince-priebus-chief-of-staff-donald-trump.html"
+        },
+        {
+          "headline": "Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally",
+          "summary": "The pop star’s appearance with the Dixie Chicks at the Country Music Association Awards was powerful — and sly.",
+          "image": "https://static01.nyt.com/images/2016/11/06/arts/07BEYONCEJP2/06BEYONCE1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/06/arts/music/beyonce-political-hillary-clinton-dixie-chicks.html"
+        },
+        {
+          "headline": "These Officials Help Write Ballot Questions. Companies Write Them Checks.",
+          "summary": "Secretaries of state, who oversee ballot measures on issues like gun control and the minimum wage, are courted by interest groups and industries with billions of dollars at stake.",
+          "image": "https://static01.nyt.com/images/2016/11/06/us/06secstate1/06secstate1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/05/us/politics/secretaries-of-state-elections-ballot-initiatives.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2016/11/24/us/24devos/24devos-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Trump Diversifies Cabinet; Donald Trump Picks Reince Priebus as Chief of Staff and Stephen Bannon as Strategist; Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.915
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1961,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "EISENHOWER URGES NATION TO BACK KENNEDY ON CUBA; KHRUSHCHEV CHIDES U.S.; 2 LEADERS MEET Ex-President Upholds Foreign Policy After Camp David Talk POLICY IS UPHELD BY EX-PRESIDENT 2 Leaders Tour Camp David and Confer 90 Minutes -- Site Gets a New Sign",
+          "summary": "Confs with Pres Kennedy on Cuba, Camp David, Md; they hold press conf; illus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PGM-19A_Jupiter_missile-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1961/04/23/archives/eisenhower-urges-nation-to-back-kennedy-on-cuba-khrushchev-chides.html"
+        },
+        {
+          "headline": "ANTI CASTRO UNITS LAND IN CUBA; REPORT FIGHTING AT BEACHHEAD; RUSK SAYS U.S. WON'T INTERVENE; PREMIER DEFIANT Says His Troops Battle Heroically to Repel Attacking Force Anti-Castro Military Units Land in Southern Cuba and Battle Government Forces PREMIER DIRECTS ISLAND DEFENSES Escapes Injury in Bombing Raid -- Aircraft Support Rebels at Beachhead",
+          "summary": "air-supported rebel attack on swampy coast of Cochinos Bay in S Las Villas Prov confirmed; Castro announces resistance, charges US organized attack and declares natl alert; reptdly escapes injury in air raid; Revolutionary Council repts militia defecting; maps",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cuba_Gooding_Jr_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1961/04/18/archives/anti-castro-units-land-in-cuba-report-fighting-at-beachhead-rusk.html"
+        },
+        {
+          "headline": "Fears About Automation Overshadowing Its Boons; Government, Unions and Employers Seek Ways to Cushion the Impact of New Technology on Jobs Fears About Automation Are Overshadowing Benefits to U.S. EFFORTS PRESSED TO SOFTEN IMPACT Washington, the Unions and Employers Seek Ways to Cut Human Toll",
+          "summary": "A H Raskin on unemployment problems, US",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1961/04/07/archives/fears-about-automation-overshadowing-its-boons-government-unions.html"
+        },
+        {
+          "headline": "WHITE HOUSE ASKS NEW ETHICS CODE FOR FEDERAL JOBS; Congress Message Calls for High Standards for Aides in Executive Branch OUTSIDE WORK BARRED But Kennedy Would Relax Rules for Consultants Who Serve U.S. Part Time President Asks a Law to Define Ethics Standards for Jobholders",
+          "summary": "Proposing modernization of conflict-of-interest laws",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/1280px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1961/04/28/archives/white-house-asks-new-ethics-code-for-federal-jobs-congress-message.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PGM-19A_Jupiter_missile-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EISENHOWER URGES NATION TO BACK KENNEDY ON CUBA; ANTI CASTRO UNITS LAND IN CUBA; Fears About Automation Overshadowing Its Boons.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.542
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1999,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "2 STUDENTS IN COLORADO SCHOOL SAID TO GUN DOWN AS MANY AS 23 AND KILL THEMSELVES IN A SIEGE",
+          "summary": "Armed youths identified as Eric Harris and Dylan Klebold storm into Columbine High School in Littleton, Colo, killing up to 23 students and teachers and wounding at least 20 in five-hour siege before killing themselves; at least 13 bombs are found in school; one, set with timer, explodes in school at night; three autos are found rigged with bombs, including one that explodes; bodies of gunmen and some of victims are also apparently wired with explosives; gunmen apparently targeted minorities and athletes, as well as peers who poked fun of their group in past; two other students, thought to be gunmen's friends, are being questioned; chronology of other school shootings; diagram of school; maps; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Columbine_Shooting_Security_Camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1999/04/21/us/terror-littleton-overview-2-students-colorado-school-said-gun-down-many-23-kill.html"
+        },
+        {
+          "headline": "CRISIS IN THE BALKANS: THE ROAD TO WAR -- A special report.; How a President, Distracted by Scandal, Entered Balkan War",
+          "summary": "Special Report--The Road to War--examines question of whether Pres Clinton was too distracted by impeachment hearings to pay full attention to his Administration's early discussions about crisis developing in Yugoslavia; on, Pres Clinton's top aides met in Situation Room in White House basement to hear fateful new plan for an autonomous Kosovo from State State Madeleine K Albright; Albright urged that NATO should use threat of air strikes on Yugoslavia to force peace agreement to be monitored by alliance's ground troops; on that day, Clinton was not there; his lawyers were starting their arguments on Senate floor against his removal from office; that night he was to deliver his State of Union address; Kosovo would have presented daunting foreign policy challenge even to a President whose power of persuasion and moral authority had not been damaged by a year of sex scandal and impeachment; it is unclear whether Clinton's decisions on Kosovo would have been any different if he had not been distracted by his own political and legal problems; but it is seen clear that his troubles gave him less maneuvering room to made his decisions; diplomacy that came to rely heavily on military threats reduced wiggle room even further; photos (L)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Church_of_Saint_Sava_%28Belgrade%2C_Serbia%29.jpg/1280px-Church_of_Saint_Sava_%28Belgrade%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1999/04/18/world/crisis-balkans-road-war-special-report-president-distracted-scandal-entered.html"
+        },
+        {
+          "headline": "Allies' Progress Remains Unclear as Few Details Are Made Public",
+          "summary": "Military experts, commenting after 12 days of allied air attacks against Yugoslavia, say lack of detailed, after-action reports routinely provided in past conflicts have made it impossible to assess claim by NATO allies that they are steadily dismantling Belgrade's war-making powers; assertions of military progress are thrown in doubt by accelerated pace of ethnic cleansing by Serb forces in Kosovo; photo (L)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Ensemble_%22Kolo%22_dancing_folk_dance_of_Gnjilane.jpg/1280px-Ensemble_%22Kolo%22_dancing_folk_dance_of_Gnjilane.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1999/04/05/world/crisis-balkans-briefings-allies-progress-remains-unclear-few-details-are-made.html"
+        },
+        {
+          "headline": "The Low-Budget Realities Of Making Indie Films; A Hollywood Director Takes Off on His Own, Even if He Can't Get His Movie Distributed",
+          "summary": "Entropy, movie by Phil Joanou, a successful Hollywood director, will open Los Angeles Independent Film Festival and will be his introduction to world of independent films made outside studio system on low budgets; his difficulty in distributing film despite backing of powerhouse company like TriBeCa Productions underscores gritty reality behind the fashionable facade of independent filmmaking; photos (M)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1999/04/15/movies/low-budget-realities-making-indie-films-hollywood-director-takes-off-his-own.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Columbine_Shooting_Security_Camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 2 STUDENTS IN COLORADO SCHOOL SAID TO GUN DOWN AS MANY AS 23 AND KILL THEMSELVES IN A SIEGE; CRISIS IN THE BALKANS: THE ROAD TO WAR -- A special report.; Allies' Progress Remains Unclear as Few Details Are Made Public.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.916
+      }
+    }
+  ]
+}
