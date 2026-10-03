@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T09:49:50.322015+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1963,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "RITES TOMORROW; Burial in Arlington-- Many World Leaders to Attend Funeral Visits by Ex-Presidents Military Cortege Set Kennedy's Body Lies in White House; Military Cortege to Precede Arlington Burial WORLD LEADES TO ATTEND RITES Funeral Set for Tomorrow --Officials Pay Respects at Bier in White House Private Mass Said McCormack Is First Flowers Discouraged",
+          "summary": "pays private respects to Kennedy, White House",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Myra_Keaton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/11/24/archives/rites-tomorrow-burial-in-arlington-many-world-leaders-to-attend.html"
+        },
+        {
+          "headline": "Gov. Connally Shot; Mrs. Kennedy Safe; President Is Struck Down by a Rifle Shot From Building on Motorcade Route-- Johnson, Riding Behind, Is Unhurt Suspect Captured After Scuffle Priests Administer Last Rites Johnson Embraces Mrs. Kennedy Resuscitation Attempted In Operating Room 40 Minutes Kennedys Hailed at Breakfast Approaching 3-Street Underpass Rumors Spread at Trade Mart Mrs. Kennedy's Reaction Eyewitness Describes Shooting Tour by Mrs. Kennedy Unusual",
+          "summary": "Kennedy assassinated, Connally wounded while riding in Dallas motorcade",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/11/23/archives/gov-connally-shot-mrs-kennedy-safe-president-is-struck-down-by-a.html"
+        },
+        {
+          "headline": "RUSSIANS REPORT LAUNCHING CRAFT THAT SHIFTS ORBIT; Major Advance Is Claimed for Rendezvous in Space --More Shots Predicted KHRUSHCHEV JUBILANT He Expresses Support for a U.S.-Soviet Lunar Trip if Tensions Are Eased Stresses Joint Flights SOVIET LAUNCHES STEERABLE CRAFT Scientists Are Toasted Vagueness Is Cited Forms of Steering Explained",
+          "summary": "Premier Khrushchev says easing internatl tensions would spur development of science, s, Mascow",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/1280px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/11/02/archives/russians-report-launching-craft-that-shifts-orbit-major-advance-is.html"
+        },
+        {
+          "headline": "U.S. RECOGNIZES REGIME IN SAIGON; TALKS ON AID SET; Move Comes Less Than Week After Overthrow of Diem by Military Leaders NEW CLIMATE IS SEEN Hope for Fresh Efforts in War Against Guerrillas Is Signaled by Action 'Mutual Benefit' Sought Note Delivered in Saigon U.S. RECOGNIZES REGIME IN SAIGON Contrast Is Noted",
+          "summary": "US recognizes new regime; US officials eager for talks on renewing aid",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/11/08/archives/us-recognizes-regime-in-saigon-talks-on-aid-set-move-comes-less.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Myra_Keaton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: RITES TOMORROW; Gov. Connally Shot; RUSSIANS REPORT LAUNCHING CRAFT THAT SHIFTS ORBIT.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.465
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1917,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "ARMY CALL READY FOR 500,000 MEN; War Department Has Universal Service Plan Worked Out and Waits on Congress. BACKED BY GENERAL STAFF Selective Conscription Scheme to be Submitted When War Resolution Passes. ARMY CALL READY FOR 500,000 MEN Careful Selection at First. Want 20,000 Skilled Men.",
+          "summary": "war resolution passed by U. S. Sen.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/30a_Sammlung_Eybl_Gro%C3%9Fbritannien._Alfred_Leete_%281882%E2%80%931933%29_Britons_%28Kitchener%29_wants_you_%28Briten_Kitchener_braucht_Euch%29._1914_%28Nachdruck%29%2C_74_x_50_cm._%28Slg.Nr._552%29.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/05/archives/army-call-ready-for-500000-men-war-department-has-universal-service.html"
+        },
+        {
+          "headline": "DEBATE LASTED 16 1/2 HOURS; One Hundred Speeches Were Made;-Miss Rankin, Sobbing, Votes No. ALL AMENDMENTS BEATEN Resolution Will Take Effect This Afternoon with the President's Signature. KITCHIN WITH PACIFISTS Accession of the Floor Leader Added Others to the Anti-War Faction. Miss Rankin Votes \"No.\" The Early Morning Scenes. A Feast of Speeches. Levity Amid the Solemnity. Flood Opens the Discussion. Kitchin's Stand Surprises Leaders. Alabamians in a Rumpus. Why Wilson Must Sign Resolution. EBB AND FLOW OF DEBATE. Pacifists' Pleas, with Interruptions, Provide Chief Interest. Denounces Talk of Expediency. Cooper First to Oppose. Sensation Over Zimmermann Note. Rush to Hear Kitchin Talk. Cites Course Toward Britain. Why Not Forego Violation of Rights? Non-Partisan Plea by Cannon. Intimates Kitchin Should Resign. Only One Course, Says Mann. War for Human Rights, Gardner Says. Calls for \"Vote\" Futile.",
+          "summary": "naval, military, and industrial preparedness being rushed",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Second_world_war_europe_animation_large_de.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/06/archives/debate-lasted-16-12-hours-one-hundred-speeches-were-mademiss-rankin.html"
+        },
+        {
+          "headline": "SEEKS BOYS' ARMY FOR STATE FARMS; Agricultural Society Starts a School Census to Discover the Number Available. EXPECTS 5,000 FROM HERE Plans Laid to Make Work Congenial and to Give Credits as for Classroom Tasks. REDFIELD ISSUES APPEAL. Asks Commercial Bodies to Help Increase Crops. REDFIELD APPEALS FOR FOOD SUPPLY CALL FOR SEED STATISTICS. Pennsylvania Takes Steps to Organize Agricultural Army. GAINS IN FOOD PRICES. Commissioner Hartigan, However, Says the Supply Here Is Adequate. ROCKEFELLER LAND FOR FOOD Others Will Join Westchester Movement for National Defense. QUICK ACTION IN NORTHWEST. Minnesota, Dakotas, and Montana Increasing Farm Operations. GERMAN-AMERICANS BALK. Ohio Leader Holds Food Increase Would Help England. CORNER FOR JERSEY POTATOES If Present Efforts Succeed They May Retail at $20 a Barrel.",
+          "summary": "N. Y. S. Agricultural Soc. starts movement to recruit boys' farm army by taking school census; H. E. Cole explains plan for placing boys in congenial groups; Sec. Redfield appeals to commercial bodies to help increase crops",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg/1280px-Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/15/archives/seeks-boys-army-for-state-farms-agricultural-society-starts-a.html"
+        },
+        {
+          "headline": "CONGRESS VOTES ON DRAFT BILL TODAY; BIG MAJORITIES FOR IT ARE CLAIMED; HOUSE REJECTS ROOSEVELT ARMY PLAN; HOUSE OPPOSITION WEAKENS Kahn Leads Final Rally For Measure and Is Joined by Mann. 170 TO 106 AGAINST COLONEL Miss Rankin and Mr. Longworth Among Advocates of His Volunteer Force. AGE LIMIT STILL IN DOUBT Senate Favors 19 to 26, and the House 21 to 40;-Other Details to be Adjusted. Miss Runkin for Roosevelt. No Stigma, Mr. Mann Says. Lincoln's Letter Read. Duty to the Republic. SENATORS ADVOCATE DRAFT. Tide of Debate Turns in Favor of Administration Bill. Would Conscript Big Incomes. Attacks Volunteer System. Wants Submarine Board.",
+          "summary": "Repr. Austin offers amendment to permit Col. Roosevelt to take division to France",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Europa_Congres_Ridderzaal_Den_Haag._Overzicht%2C_Bestanddeelnr_902-7379.jpg/1280px-Europa_Congres_Ridderzaal_Den_Haag._Overzicht%2C_Bestanddeelnr_902-7379.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1917/04/28/archives/congress-votes-on-draft-bill-today-big-majorities-for-it-are.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/30a_Sammlung_Eybl_Gro%C3%9Fbritannien._Alfred_Leete_%281882%E2%80%931933%29_Britons_%28Kitchener%29_wants_you_%28Briten_Kitchener_braucht_Euch%29._1914_%28Nachdruck%29%2C_74_x_50_cm._%28Slg.Nr._552%29.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ARMY CALL READY FOR 500,000 MEN; DEBATE LASTED 16 1/2 HOURS; SEEKS BOYS' ARMY FOR STATE FARMS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.561
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1920,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "MAY MAKE REFUND TO LIQUOR OWNERS; Prohibitionists Said to Approve Plan to Take Over Stock and Give Compensation. NO COST TO THE TREASURY Scheme Contemplates Sales from Warehouses for Industry--Supervisors Named. Many Thefts from Warehouses. MAY MAKE REFUND TO LIQUOR OWNERS Government Machinery Completed.",
+          "summary": "WASHINGTON,.--A plan to compensate the owners of intoxicating liquors now stored in bonded warehouses, whereby the Treasury will issue certificates to the owners of the whisky and take over the liquor for gradual sale under the law for non-beverage purposes...",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tomra_820.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/01/18/archives/may-make-refund-to-liquor-owners-prohibitionists-said-to-approve.html"
+        },
+        {
+          "headline": "FOES OF TREATY HOLD UP PARLEY; THREATEN LODGE; Bitter-Enders Block Conference at Which It Was Hoped to Agree on Article X. HOLD MEETING OF PROTEST Johnson and Borah Hint Revolt on Leader--Sherman Talks of Bolt from Party. FEAR COLLAPSE OF PARLEYS Taft Confers with Mild Group-- Ashurst Assails Nursing of Presidential Booms.",
+          "summary": "WASHINGTON,.--Republican irreconcilables in the Senate today threw a monkey wrench into treaty compromise machinery, stopping its wheels and perhaps damaging it beyond repair.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/At_the_Sand_Creek_Massacre%2C_1874-1875.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/01/24/archives/foes-of-treaty-hold-up-parley-threaten-lodge-bitterenders-block.html"
+        },
+        {
+          "headline": "SOCIALISTS ELATED; SEE PROPAGANDA IN ASSEMBLY'S ACT; Excluded Members Raised from a Harmless Minority to a Political Force, Says One. PREPARE APPEAL TO LABOR Issue Statement Declaring Lusk Committee Feared Possible Disclosures. SUBMIT LIST OF QUESTIONS Public Men Differ as to Assembly's Attitude--Craig Approves; Hylan Demurs.",
+          "summary": "Roused by the action of the State Assembly in excluding the five Socialist members at its opening session on Wednesday Socialist leaders in the city worked feverishly yesterday preparing the defense they will make before the Assembly Judiciary Committee on Monday. Besides denying the charge that...",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Member_of_the_European_Parliament_for_Bulgaria_Sergey_Dmitrievich_Stanishev.jpg/1280px-Member_of_the_European_Parliament_for_Bulgaria_Sergey_Dmitrievich_Stanishev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/01/09/archives/socialists-elated-see-propaganda-in-assemblys-act-excluded-members.html"
+        },
+        {
+          "headline": "FLETCHER RESIGNS AS AMBASSADOR IN MEXICO CITY; Our Envoy Said to Feel It Is Impossible for Him to Deal Further with Carranza.--HAS PRESSED OUR DEMANDS-- Many Disputes with Carranza Have Robbed His Mission of Future Usefulness.--RECENTLY IN WASHINGTON-- His Service in Mexico Covered the Period of German Intrigue and Border Troubles.",
+          "summary": "WASHINGTON, (Associated Press)--Henry P. Fletcher has resigned as United States Ambassador to Mexico, to take effect in the course of the next few weeks.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1920/01/28/archives/fletcher-resigns-as-ambassador-in-mexico-city-our-envoy-said-to.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tomra_820.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: MAY MAKE REFUND TO LIQUOR OWNERS; FOES OF TREATY HOLD UP PARLEY; SOCIALISTS ELATED.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.001
+      }
+    }
+  ]
+}
