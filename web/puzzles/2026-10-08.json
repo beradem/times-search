@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T11:18:07.697190+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1945,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "FOE'S ENVOYS CONFER IN MANILA; ASK SWIFT DISARMING OF JAPAN; WAINWRIGHT FOUND WELL IN CAMP; STEPS OF DEFEAT: JAPANESE ENVOYS ARRIVING IN MANILA FOE'S EMISSARIES CONFER IN MANILA New Yorkers Among Guards U.S. Silent on Kuriles",
+          "summary": "Heads MacArthur reprs, Jap surrender conf at Manila",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Order_of_Sikatuna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/20/archives/foes-envoys-confer-in-manila-ask-swift-disarming-of-japan.html"
+        },
+        {
+          "headline": "POTSDAM TERMS ACCEPTED, DOMEI SAYS; An Imperial Message Is Forthcoming Soon,' Official News Agency Reports in Broadcast at 1:49 A.M. DISCLOSES LONG SESSION BY CABINET FCC Monitors Hear Code Dispatch Being Sent by Japanese to Switzerland--Washington Began to Suspect 'Stalling' Message to Switzerland Heard Cheering Greets Report in Guam Capital Awaited Reply All Day DOMEI ANNOUNCES FOE'S SURRENDER Japanese End Vigil Swiss Blame Japanese",
+          "summary": "all-day vigil cited",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/14/archives/potsdam-terms-accepted-domei-says-an-imperial-message-is.html"
+        },
+        {
+          "headline": "ARMED ESCORT SET; 350 Planes Will Carry Troops to an Airfield Southwest of Tokyo JAPAN REPORTS TYPHOON Says Storm in Kanto District Has Delayed Preparations for Entry of Allies Ships to Begin Disarmament Asks for Data on Newsmen Five Exceptions Requested 7,500 SKY TROOPS TO LAND IN JAPAN JAPAN WARNED ON CLASHES Home Ministry Issues Instructions to People During Occupation",
+          "summary": "gives up post of War Min",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Exterior_view_of_the_illuminated_facade_of_Maison_Herm%C3%A8s%2C_Ginza%2C_Tokyo%2C_Japan.jpg/1280px-Exterior_view_of_the_illuminated_facade_of_Maison_Herm%C3%A8s%2C_Ginza%2C_Tokyo%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/24/archives/armed-escort-set-350-planes-will-carry-troops-to-an-airfield.html"
+        },
+        {
+          "headline": "FRENCH ASK LOANS OF BILLION HERE; Paris Officials Reveal Request as de Gaulle and Party Return by Plane TOP PRIORITY ALSO SOUGHT France Wants Credits Given in Three Parts, as Well as Aid in Reconstruction Believe Air Is Cleared No Pledge on Third Loan",
+          "summary": "French reptd disappointed at US plan to distribute captured gold among liberated countries in proportion to losses",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Anterior_cruciate_ligament_repair_3_legend.jpg/1280px-Anterior_cruciate_ligament_repair_3_legend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/31/archives/french-ask-loans-of-billion-here-paris-officials-reveal-request-as.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Order_of_Sikatuna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FOE'S ENVOYS CONFER IN MANILA; POTSDAM TERMS ACCEPTED, DOMEI SAYS; ARMED ESCORT SET.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2013,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "2nd Bombing Suspect Caught After Frenzied Hunt Paralyzes Boston",
+          "summary": "The teenage suspect in the Boston Marathon bombings, Dzhokhar A. Tsarnaev, was taken into custody in Watertown, Mass., after a search that left his brother dead and the Boston area virtually shut down.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/US_Navy_030502-N-8497H-015_Sailors_aboard_USS_Abraham_Lincoln_%28CVN_72%29_man_the_rails_as_the_ship_pulls_into_NAS_North_Island.jpg/1280px-US_Navy_030502-N-8497H-015_Sailors_aboard_USS_Abraham_Lincoln_%28CVN_72%29_man_the_rails_as_the_ship_pulls_into_NAS_North_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2013/04/20/us/boston-marathon-bombings.html"
+        },
+        {
+          "headline": "From Wrinkles to Rap, a Rock Award’s Shifting Cast ",
+          "summary": "Randy Newman, Public Enemy and Quincy Jones were among the honorees Thursday night at the Rock and Roll Hall of Fame’s induction ceremony in Los Angeles.",
+          "image": "https://static01.nyt.com/images/2013/04/20/arts/20INDUCTION/20INDUCTION-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2013/04/20/arts/music/rock-hall-of-fame-embraces-randy-newman-public-enemy-and-others.html"
+        },
+        {
+          "headline": "In Gun Bill Defeat, a President’s Distaste for Twisting Arms",
+          "summary": "The White House defended President Obama’s efforts on gun violence, but he has long struggled to master his relationship with Congress.",
+          "image": "https://static01.nyt.com/images/2013/04/23/us/jp23OBAMA1/jp23OBAMA1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2013/04/23/us/politics/in-gun-bill-defeat-a-president-who-hesitates-to-twist-arms.html"
+        },
+        {
+          "headline": "Same Story, Different Screens: A Video Game That’s Also a Series",
+          "summary": "The video game Defiance and the television series of the same title were created in a collaboration between the Syfy network and Trion Worlds, a gaming company.",
+          "image": "https://static01.nyt.com/images/2013/04/09/arts/defiance1/defiance1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2013/04/09/arts/video-games/defiance-both-a-tv-series-and-a-video-game.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/US_Navy_030502-N-8497H-015_Sailors_aboard_USS_Abraham_Lincoln_%28CVN_72%29_man_the_rails_as_the_ship_pulls_into_NAS_North_Island.jpg/1280px-US_Navy_030502-N-8497H-015_Sailors_aboard_USS_Abraham_Lincoln_%28CVN_72%29_man_the_rails_as_the_ship_pulls_into_NAS_North_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 2nd Bombing Suspect Caught After Frenzied Hunt Paralyzes Boston; From Wrinkles to Rap, a Rock Award’s Shifting Cast; In Gun Bill Defeat, a President’s Distaste for Twisting Arms.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.893
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1980,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "John Lennon of Beatles Is Killed; Suspect Held in Shooting at Dakota; Wife Reported Unhurt John Lennon Shot to Death; Suspect Is Seized at Dakota Obtained Autograph Earlier 'Crouching in Archway' Continued to Write Songs Emblem of the 60's ",
+          "summary": "John Lennon, one of the four Beatles was shot and killed last night while entering the apartment building where he lived, the Dakota, on Manhattan's Upper West Side. A suspect was seized at the scene.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1980/12/09/archives/john-lennon-of-beatles-is-killed-suspect-held-in-shooting-at-dakota.html"
+        },
+        {
+          "headline": "4 REPORTED CHOSEN AS THE INNER CIRCLE OF REAGAN CABINET; Haig at State Dept.; Weinberger at Defense; Wriston at Treasury; Smith, Attorney General Caution on Clearances Casey and Stockman Listed 4 REPORTED CHOSEN FOR REAGAN CABINET Possible Agriculture Choice Blend of Old and New ",
+          "summary": "WASHINGTON, --Presidentelect Ronald Reagan, drawing on both the Eastern establishment and his West Coast political associates, has decided on the four men he wants to form the inner ring of his Cabinet, well-placed Republican sources said today.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NYC_1987_let_the_record_show.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1980/12/03/archives/4-reported-chosen-as-the-inner-circle-of-reagan-cabinet-haig-at.html"
+        },
+        {
+          "headline": "POLISH COMMUNISTS OUST 4 KEY LEADERS; GENERAL GETS POST; OLD GUARD SET BACK Kania Seen Strengthened in the Crisis--Moczar Makes a Comeback Moczar Guided Anti-Zionist Drive Conservatives Are Dismissed Party in Poland Ousts 4 Leaders; Moczar Returns Moczar Takes a Liberal Tack ",
+          "summary": "WARSAW, --Meeting in an atmosphere of crisis, the Communist Party's Central Committee dismissed four members of the ruling Politburo today and returned a former Interior Minister to that body.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mateusz_Morawiecki_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1980/12/03/archives/polish-communists-oust-4-key-leaders-general-gets-post-old-guard.html"
+        },
+        {
+          "headline": "Senate Rejects Raise for Congress; House Yields on Abortion Measure; Pay Bill's Defeat Is Seen as Early Loss for Reagan-- Agency Appropriations Last Hurdle of the Session 34,000 Employees Affected House Acts on Voice Vote Senate Rejects Raise; House Approves Abortion Rules ",
+          "summary": "WASHINGTON, --The Senate tonight handed President-elect Ronald Reagan his first legislative defeat by rejecting his request for a $10,000-a-year Congressional pay increase that also would benefit senior Government officials. The vote was 62 to 8.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Washington_260424_US_Capitol_02.jpg/1280px-Washington_260424_US_Capitol_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1980/12/14/archives/senate-rejects-raise-for-congress-house-yields-on-abortion-measure.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Among the month's major headlines: John Lennon of Beatles Is Killed; 4 REPORTED CHOSEN AS THE INNER CIRCLE OF REAGAN CABINET; POLISH COMMUNISTS OUST 4 KEY LEADERS.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.003
+      }
+    }
+  ]
+}
