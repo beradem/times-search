@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T11:17:25.278871+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1886,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "RIOTING AND BLOODSHED IN THE STREETS OF CHICAGO.; POLICE MOWED DOWN WITH DYNAMITE. STRIKERS KILLED WITH VOLLEYS FROM REVOLVERS. THE SLAUGHTER FOLLOWING AN ANARCHIST MEETING--TWELVE POLICEMEN DEAD OR DYING--THE NUMBER OF KILLED OR INJURED CIVILIANS UNKNOWN BUT VERY LARGE--THE BRAVERY OF THE POLICE FORCE.",
+          "summary": "Riot by Anarchists; 100 Killed and Wounded",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/D.C._riot._April_%2768._Aftermath_19733v.jpg/1280px-D.C._riot._April_%2768._Aftermath_19733v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/05/archives/rioting-and-bloodshed-in-the-streets-of-chicago-police-mowed-down.html"
+        },
+        {
+          "headline": "THE DISPUTE WITH CANADA; CONGRESSMEN EXCITED BY THE SEIZURE OF THE ADAMS. MEASURES OFFERED IN BOTH HOUSES LOOKING TO PROMPT RETALIATION--SENATOR LOGAN'S PENSION HOBBY.",
+          "summary": "Seized for Fishing in Canadian Waters",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Shopping_for_pumpkins_in_Ottawa.jpg/1280px-Shopping_for_pumpkins_in_Ottawa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/11/archives/the-dispute-with-canada-congressmen-excited-by-the-seizure-of-the.html"
+        },
+        {
+          "headline": "GREEK PORTS BLOCKADED; THE ENTIRE COAST HELD BY THE EUROPEAN FLEET. NO VESSELS ALLOWED TO DEPART--THE KING REFUSES THE CABINET'S RESIGNATION--ENTHUSIASM FOR WAR.",
+          "summary": "Blockade by European Fleets",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Samuil_of_bolgaria_reconstruction.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/10/archives/greek-ports-blockaded-the-entire-coast-held-by-the-european-fleet.html"
+        },
+        {
+          "headline": "A GREAT LOSS OF LIFE; EFFECTS OF A VIOLENT STORM IN KANSAS CITY. THE COURT HOUSE AND OTHER BUILDING DEMOLISHED TWENTY LIVES KNOWN TO HAVE BEEN LOST AND SEVERAL PERSONS SERIOUSLY AND SOME FATALLY INJURED.",
+          "summary": "Rainstorm at Kansas City; Twenty Lives Lost",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg/1280px-Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/05/12/archives/a-great-loss-of-life-effects-of-a-violent-storm-in-kansas-city-the.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/D.C._riot._April_%2768._Aftermath_19733v.jpg/1280px-D.C._riot._April_%2768._Aftermath_19733v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: RIOTING AND BLOODSHED IN THE STREETS OF CHICAGO.; THE DISPUTE WITH CANADA; GREEK PORTS BLOCKADED.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.125
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1927,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "BERTAUD MAY LOSE POST IN BELLANCA; ITS FLIGHT IN DOUBT; Levine Considers Ousting Him, Insists Hop Will Be Made With Chamberlin as Pilot. BYRD'S AIDE DECLINES JOB Bertaud Wants to Buy Plane--Thomas L. Hill Also Offers $30,000, but Is Refused. AMERICA IN LOAD TESTS Commander Nearly Ready as the Weather Still Holds Fliers -- Lindbergh Visits About City. BYRD'S PLANE, AMERICA, IN THE AIR AT ROOSEVELT FIELD YESTERDAY. BERTAUD MAY LOSE POST IN BELLANCA",
+          "summary": "Bertaud-Levine controversy continues; Bertaud may lose post in Bellanca; B Balchen refuses offer to pilot it; its flight in doubt; summary of dispute; Bertaud's statement as to prize money; he offers to buy plane; T L Hill announces offer of $30,000 for it, not accepted; Levine says Chamberlin will fly in any event; Comdr Byrd praises Bertaud's spirit",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1927/05/18/archives/bertaud-may-lose-post-in-bellanca-its-flight-in-doubt-levine.html"
+        },
+        {
+          "headline": "FATE OF ATLANTIC FLIERS IS UNKNOWN AFTER DAY OF WATCHING AND RUMORS; BELLANCA PLANS TO START TOMORROW; WHITE BIRD MUST BE DOWN Grave Anxiety Is Felt for Nungesser and Coli, Now Long Overdue. WEATHER BAD ON ROUTE But Airmen Here Hope They May Be Safe -- Many Reports of Them Prove False. PARIS FEARS THE WORST Realizing Failure After Early News of Success, It Prays Fliers May Be Rescued. Map of Nungesser's Route Across Atlantic and Prevailing Weather Conditions",
+          "summary": "Rumors of bad conditions as nothing is heard of Nungesser and Coli; map of their route and prevailing conditions; fog forces F de Pinedo to defer Boston-Phila flight",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1927/05/10/archives/fate-of-atlantic-fliers-is-unknown-after-day-of-watching-and-rumors.html"
+        },
+        {
+          "headline": "BULK OF I.R.T. STOCK IS HELD IN WALL ST., HEARING DISCLOSES; About 90 Per Cent. of It Is a \"Stock Market Football,\" Untermyer Charges. DIRECTORS' HOLDINGS SMALL Hayden Stone, of Which Dahl Was Partner, Leads List of Voting Certificate Owners. MILLER WANTS 'FAIR VALUE' But B.M.T. Won't Insist on Replacement Cost in Case of Recapture, He Says at Opening of Inquiry. BULK OF I.R.T. STOCK IS HELD IN WALL ST.",
+          "summary": "Hayden, Stone & Co, of which he was formerly a partner, found to lead list of voting certificate holders in I R T",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Skylight_in_the_abandoned_City_Hall_Station_%2832155%29.jpg/1280px-Skylight_in_the_abandoned_City_Hall_Station_%2832155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/05/24/archives/bulk-of-irt-stock-is-held-in-wall-st-hearing-discloses-about-90-per.html"
+        },
+        {
+          "headline": "COMMONS APPROVES BREAK WITH SOVIET; REJECTS LABOR PLEA; Motion for Inquiry Fails by Vote of 367 to 118, Order for Rupture Being Substituted. CLYNES ASKS 'FAIR TRIAL' Chamberlain Replies Verdict Is Already Justified -- Lloyd George Questions Result. WHITE PAPER OFFERS PROOF Government's Record of Moscow Intrigues Discloses Reds Here and Orders Sent From London. COMMONS APPROVES BREAK WITH SOVIET",
+          "summary": "S in defense of rupture of diplomatic relations, in Commons",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/In_Soviet_Russia%2C_Bill_Kills_You%21%21%21_%285526520071%29.jpg/1280px-In_Soviet_Russia%2C_Bill_Kills_You%21%21%21_%285526520071%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1927/05/27/archives/commons-approves-break-with-soviet-rejects-labor-plea-motion-for.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Among the month's major headlines: BERTAUD MAY LOSE POST IN BELLANCA; FATE OF ATLANTIC FLIERS IS UNKNOWN AFTER DAY OF WATCHING AND RUMORS; BULK OF I.R.T. STOCK IS HELD IN WALL ST., HEARING DISCLOSES.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.671
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1986,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "U.S. APPROVAL NEAR FOR RADIATION USE ON FRESH FOODS",
+          "summary": "The head of the Food and Drug Administration said today that the agency would shortly approve the use of irradiation to preserve fresh fruits and vegetables. The F.D.A. Commissioner, Dr. Frank E. Young, made the disclosure at a Congressional hearing, saying the agency's formal approval would be published within a week, and there were some indications it could come in a day or so. Consumer and health organizations have opposed the plan, contending that the process is not effective in preserving food and is potentially hazardous to consumers, while large segments of the food industry have contended that irradiation is both safe and effective. In a typical process, as described by the Coalition for Food Irradiation, representing the food industry, the food is placed on trolleys and rolled into a room protected with thick walls. No workers are present. Low doses of gamma or X-rays, which kill bacteria, insects and other contaminants, are then directed into the food, penetrating both the food and its packaging. The trolleys then remove the food from the chamber.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/HD.6B.452_%2811984638133%29.jpg/1280px-HD.6B.452_%2811984638133%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/09/garden/us-approval-near-for-radiation-use-on-fresh-foods.html"
+        },
+        {
+          "headline": "REAGAN WARNS OF NEW ATTACKS IF NEEDED; ONE PLANE MISSING IN RAIDS ON 5 TARGETS",
+          "summary": "The United States conducted a series of air strikes on Monday night against what the White House called ''terrorist centers'' and military bases in Libya. President Reagan, in a nationally broadcast speech, said the American forces had ''succeeded'' in their mission of retaliating against Libya for what he termed the ''reign of terror'' waged by Col. Muammar el-Qaddafi, the Libyan leader, against the United States. Defense Secretary Caspar W. Weinberger said later that one United States plane, an F-111 with a crew of two, ''is not accounted for at this time.'' But he declined to say if the plane had been shot down. Libya Says 3 Jets Downed The Libyan radio, monitored in London, said that three United States aircraft had been shot down and that Libyans had killed their pilots and crew.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ronald_Reagan_with_his_mother_Nelle_1950_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/15/world/us-jets-hit-terrorist-centers-libya-reagan-warns-new-attacks-if-needed-one-plane.html"
+        },
+        {
+          "headline": "BRITAIN MOVES TO EXPEL 21 LIBYANS IT CALLS 'REVOLUTIONARY' ACTIVISTS",
+          "summary": "Britain said today that it planned to expel 21 Libyan students for suspected involvement in ''student revolutionary activities.'' The 21, all of whom were arrested today, included a pilot trainee who authorities say telephoned Tripoli radio last month with an offer to form suicide squads to bomb United States military targets. The expulsions of the Libyan students were ordered by the Home Secretary ''in the national interest.'' Statement by Home Secretary British authorities said the 21 students, all men, had been under surveillance for some time, and today Douglas Hurd, the Home Secretary, said all had been actively involved in organizing Libyan student activities in Britain to support the Government of Col. Muammar el-Qaddafi. ''What we have done is not in any way vindictive or persecuting anyone,'' Mr. Hurd told the House of Commons. ''It is a clear sign that we are determined to get rid of troublemakers.'' [ In Washington, officials said the Reagan Administration was tightening surveillance of Libyans living in the United States. The officials said the step was taken after the Administration decided against a proposal to deport the Libyans, who are thought to number 3,500. Page A4. [ In Paris, French officials, confirming a statement by President Reagan, said the Government had favored a more ambitious and hard-hitting raid against Libya than the one carried out by the United States.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg/1280px-71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/23/world/britain-moves-to-expel-21-libyans-it-calls-revolutionary-activists.html"
+        },
+        {
+          "headline": "HIS CONDITION IS SERIOUS; KHARTOUM SECURITY REVIEWED",
+          "summary": "An American communications specialist at the United States Embassy in the Sudan was shot in the head today by an unknown assailant while driving his car, the State Department said tonight. A spokesman on the department's special Libyan task force said the wounded American was ''in serious condition'' in a Khartoum hospital, where he was being treated. His identity was not made known immediately, pending notification of his family.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Libyan_Civil_War_in_October_2011_%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/04/16/world/american-aide-embassy-shot-sudan-his-condition-serious-khartoum-security.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/HD.6B.452_%2811984638133%29.jpg/1280px-HD.6B.452_%2811984638133%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: U.S. APPROVAL NEAR FOR RADIATION USE ON FRESH FOODS; REAGAN WARNS OF NEW ATTACKS IF NEEDED; BRITAIN MOVES TO EXPEL 21 LIBYANS IT CALLS 'REVOLUTIONARY' ACTIVISTS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
