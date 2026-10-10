@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T10:34:10.953480+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1911,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "141 MEN AND GIRLS DIE IN WAIST FACTORY FIRE; TRAPPED HIGH UP IN WASHINGTON PLACE BUILDING; STREET STREWN WITH BODIES; PILES OF DEAD INSIDE; The Flames Spread with Deadly Rapidity Through Flimsy Material Used in the Factory.",
+          "summary": "fire cause unknown",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/26/archives/141-men-and-girls-die-in-waist-factory-fire-trapped-high-up-in.html"
+        },
+        {
+          "headline": "20,000 TROOPS AND TWO NAVAL DIVISIONS TO MOBILIZE NEAR MEXICAN BORDER; Fourth of United States Army Ordered to Concentrate in Texas and Southern California. REGIMENTS ALREADY MOVING Cruiser Division of Atlantic Fleet to Proceed to Gulf -- Pacific Fleet Held Ready. 2,000 MARINES ASSEMBLING Washington Explains It as Mobilization Test and Joint Army and Navy War Game. INTERVENTION TALK FOLLOWS Disorders in Mexico Have Caused Large British Interests to Claim Protection. FALSE RUMORS ABOUT DIAZ Washington and Mexican Authorities Deny That Aged President Is in Worse Health. GEN. CARTER HEADS FORCE Commanded in Philippines and Is Now Gen. Wood's Assistant as Chief of Staff.",
+          "summary": "US orders 20,000 troops, 2 naval divs to Tex and southern Calif near Mex border for mobilization tests; commanded by Maj Gen Carter; Taft and Maj Gen Wood comment; text of White House announcement; some see order as potential interference; Brit interests in Mex to seek US protection if Brit Govt unable to act under restraints of Monroe Doctrine; Mex and US officials deny repts of Diaz illness",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/1280px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/08/archives/20000-troops-and-two-naval-divisions-to-mobilize-near-mexican.html"
+        },
+        {
+          "headline": "SEEKS FRAUD NOTES IN CARNEGIE TRUST; Whitman Is Investigating Story That Names of Dead Men and Fictitious Persons Were Used.",
+          "summary": "Whitman probes rept of fraudulent notes; Rollins '10 lrs to Banks Supt and to Cummins group explaining his assn with co revealed; lrs texts",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Andrew_Carnegie%2C_by_Theodore_Marceau_%28cropped%29_%282%29.jpg/1280px-Andrew_Carnegie%2C_by_Theodore_Marceau_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/24/archives/seeks-fraud-notes-in-carnegie-trust-whitman-is-investigating-story.html"
+        },
+        {
+          "headline": "WON'T WITHDRAW, DECLARES SHEEHAN; Onus Is on the Party to Release His Supporters from Their Caucus Obligations, He Says. MUST RETIRE, IS OUTLOOK Murphy Said to Have Enough Votes for Cohalan -- Osborne Sees Trap for Insurgents in To-day's Caucus. WON'T WITHDRAW, DECLARES SHEEHAN",
+          "summary": "Sheehan refuses to withdraw, open lr to Dem Legislators; text; Osborne says caucus is Tammany plot to trap insurgents; Roosevelt sees insurgents refusing to enter caucus",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1911/03/27/archives/wont-withdraw-declares-sheehan-onus-is-on-the-party-to-release-his.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 141 MEN AND GIRLS DIE IN WAIST FACTORY FIRE; 20,000 TROOPS AND TWO NAVAL DIVISIONS TO MOBILIZE NEAR MEXICAN BORDER; SEEKS FRAUD NOTES IN CARNEGIE TRUST.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.352
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1865,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "THE FEELING IN CANADA; Opinion of the Leading Canadian Journal-- The Deep Regard and Affection Felt for the President--The Secessionists Carousing in Honor of the Assassin--A Plea for the Murderer--His Crime Justified. From the Toronto Globe. ABRAHAM LINCOLN. THE MURDER JUSTIFIED The Feeling in Montreal. PROCLAMATION. Arrival of Gen. Lee in Richmond.",
+          "summary": "Toronto Globe on death of",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hooked_on_a_feeling_bj_thomas_US_single_var_A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1865/04/19/archives/the-feeling-in-canada-opinion-of-the-leading-canadian-journal-the.html"
+        },
+        {
+          "headline": "THE REJOICING.; How the Glorious News is Received. The Quiet and Reverent Gratitude of the People. New-York City Preparing to Welcome Peace. A Widespread Spirit of Charity and Forgiveness. Meetings at the Post-Office, Custom-House and Produce Exchange. FLAGS, SALUTES, SPEECHES AND CHIMES. The Great Jubilee Throughout the Entire Country. How the American People Bear Their Grand Triumph. AT THE POST-OFFICE RESOLUTIONS THE DETAILS PUBLIC SCHOOLS, THE CANNON AT THE CUSTOM-HOUSE A GRAND TE DEUM LETTER TO THE PRESIDENT, DEPARTURE OF THE OCEANUS, MEETING OF CHAMBER OF COMMERCE--PATRIOTIC RESOLUTIONS. MEETING OF THE JOINT COMMITTEE OF THE COMMON COUNCIL--A GENERAL ILLUMINATION PROPOSED--NO PARADE AND NO FIREWORKS MEETING AT THE PRODUCE EXCHANGE. UNITED STATES DISTRICT COURT MEETING OF STUDENTS AT NEW-YORK UNIVERSITY AND COLUMBIA COLLEGE. SALUTE AT UNION-SQUARE. THE SEVENTH REGIMENT AND OUR VICTORIES. THE SPIRIT OF FORGIVENESS. PRIVATE REJOICINGS",
+          "summary": "Surrender, Rejoicings, Resolutions, Meetings, >amp;c.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1865/04/11/archives/the-rejoicing-how-the-glorious-news-is-received-the-quiet-and.html"
+        },
+        {
+          "headline": "THE ASSASSINATION.; Condition of Secretary Seward Improving. NEW FACTS ABOUT THE MURDERERS. Preparations for the President's Funeral. Official Directions from Heads of Departments.DESCRIPTION OF THE ASSASINS.Reward of Thirty Thousand Dollars Offered for Their Apprehension.Additional Details of the Conspiracy.APPEARANCE OF THE CITY. THE NEWS IN RICHMOND. THE NEWS AT FORTRESS MONROE. FEELING OF PASSENGERS. TREACHERY AMONG REBEL DESERTERS. ORDERS FOR THE FUNERAL. CONDITION OF SECRETARY SEWARD AND SON. ARRESTS OF SUSPECTED PERSONS. EFFECT ON THE FINANCES OF THE COUNTRY. Dispatches to the Associated Press. PROCLAMATION OF GOV. OGLESBY OF ILLINOIS. MEETING OF KENTUCKIANS. REPORTS ABOUT BOOTH'S ARREST. THE FLAG TORN BY THE ASSASSIN. MR. HANSELL IS BETTER. BOOTH'S MISTRESS. BOOTH'S RECENT BEHAVIOR.",
+          "summary": "Booth, J Wilkes; description of; Assailant description of; Johnson, Vice-Pres; Booth intended to Kill; Gov. Oglesby's Proclamation on Death of President; Funeral; Orders for",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Lincoln_assassination_slide_c1900_-_Restoration.jpg/1280px-Lincoln_assassination_slide_c1900_-_Restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1865/04/18/archives/the-assassination-condition-of-secretary-seward-improving-new-facts.html"
+        },
+        {
+          "headline": "FROM THE PACIFIC COAST.; Juarez said to be Coming to Washington by way of San Francisco?French Forces in Sinaloa?French War Steamers in California Ports?The Overland Mails.",
+          "summary": "Overland Mail to Salt Lake reopened",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Dendrobium_glomeratum_Rolfe%2C_Bull._Misc._Inform._Kew_1894_155_%281894%29_%2832429111508%29.jpg/1280px-Dendrobium_glomeratum_Rolfe%2C_Bull._Misc._Inform._Kew_1894_155_%281894%29_%2832429111508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1865/04/10/archives/from-the-pacific-coast-juarez-said-to-be-coming-to-washington-by.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hooked_on_a_feeling_bj_thomas_US_single_var_A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THE FEELING IN CANADA; THE REJOICING.; THE ASSASSINATION..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.401
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2008,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "Talks Implode During a Day of Chaos; Fate of Bailout Plan Remains Unresolved",
+          "summary": "Partisan presidential politics seemed to trample what had been exceedingly delicate Congressional negotiations over the $700 billion bailout package.",
+          "image": "https://static01.nyt.com/images/2008/09/25/business/26abush4_600.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/09/26/business/26bailout.html"
+        },
+        {
+          "headline": "A.I.G. Is Still Profitable, With a Wide Array of Enterprises",
+          "summary": "The great assortment of assets at the American International Group reflects the determination of Maurice R. Greenberg, the man who built A.I.G. into an empire spanning the globe.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Stocks_%26_Bonds.jpg/1280px-Stocks_%26_Bonds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/09/17/business/17aig.html"
+        },
+        {
+          "headline": "Savings and Loan Crisis May Be Guide for Bank Bailout",
+          "summary": "The Resolution Trust Corporation, which helped to sort out the S.&L. debacle, found itself dealing with people trying to game the system to their financial advantage.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/1280px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/09/29/business/29rtc.html"
+        },
+        {
+          "headline": "Dubious Claims in Obama’s Ads Against McCain, Despite Vow of Truth",
+          "summary": "Despite a vow of truth, Barack Obama’s latest ads match the misleading nature of some of John McCain’s spots.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Dmitry_Medvedev_official_large_photo_-5.jpg/1280px-Dmitry_Medvedev_official_large_photo_-5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/09/26/us/politics/26ads.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/09/25/business/26abush4_600.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Talks Implode During a Day of Chaos; A.I.G. Is Still Profitable, With a Wide Array of Enterprises; Savings and Loan Crisis May Be Guide for Bank Bailout.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.489
+      }
+    }
+  ]
+}
