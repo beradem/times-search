@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T10:46:06.481218+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1995,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; RAIN STALLS SEARCH OF RUBBLE",
+          "summary": "A nationwide manhunt continued today for a second suspect in the bombing of a Federal office building in Oklahoma City, and the search for possible links between right-wing paramilitary groups and the 26-year-old Army veteran already in custody moved from a muddy Michigan bean field to the Arizona desert. Federal investigators said they believed there was a broader plot behind the bombing and were searching for evidence of a conspiracy hatched by several self-styled militiamen who oppose gun laws, income taxes and other forms of government control. Federal agents descended on Kingman, Ariz., the last known address of the suspect arrested on Friday, Timothy James McVeigh, and on the high desert surrounding the town, a training site for one such militia, the Arizona Patriots.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/23/us/terror-oklahoma-overview-fbi-hunts-2d-bombing-suspect-seeks-links-far-right-rain.html"
+        },
+        {
+          "headline": "Parking Rules",
+          "summary": "Because of religious holidays, alternate-side street parking regulations are suspended in New York City today and tomorrow. Other regulations remain in effect.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/21/nyregion/parking-rules-679395.html"
+        },
+        {
+          "headline": "Rethinking Welfare: Deterring New Births -- A special report.; State Aid Is Capped, but to What Effect?",
+          "summary": "At 16, Naikeya Haley decided to have a second child despite the state law that denied her extra welfare benefits because she was already receiving aid. \"It was a planned pregnancy,\" said Ms. Haley, who is now 17. The law that kept her from collecting $102 more a month \"doesn't make any difference to me,\" she said flatly, other than to make it that much harder to provide for her family. She and her two daughters live on $322 a month, and stay with friends.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/11/us/rethinking-welfare-deterring-new-births-special-report-state-aid-capped-but-what.html"
+        },
+        {
+          "headline": "AT LEAST 31 ARE DEAD, SCORES ARE MISSING AFTER CAR BOMB ATTACK IN OKLAHOMA CITY WRECKS 9-STORY FEDERAL OFFICE BUILDING",
+          "summary": "The authorities opened an intensive hunt today for whoever bombed a Federal office building in Oklahoma City, and proceeded on the theory that the bombing was a terrorist attack against the Government, law-enforcement officials said. President Clinton appeared in the White House press room this afternoon and somberly promised that the Government would hunt down the \"evil cowards\" responsible. \"These people are killers,\" he said, \"and must be treated like killers.\"",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Pressure_cooker_bomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/20/us/terror-oklahoma-city-investigation-least-31-are-dead-scores-are-missing-after.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; Parking Rules; Rethinking Welfare: Deterring New Births -- A special report..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2009,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "Rearranging the Tables in Washington: Can Obama’s Coattails Reach to Restaurants?",
+          "summary": "Washington restaurateurs see rays of hope emanating from President-elect Barack Obama’s status as a frequent restaurant-goer.",
+          "image": "https://static01.nyt.com/images/2009/01/13/dining/14power_75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2009/01/14/dining/14power.html"
+        },
+        {
+          "headline": "Citigroup Plans to Split Itself Up, Taking Apart the Financial Supermarket",
+          "summary": "Citigroup is moving to dismantle large parts of its troubled financial empire, undoing the landmark merger that created the company a decade ago.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Subprime_mortgage_originations%2C_1996-2008.GIF?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2009/01/14/business/14citi.html"
+        },
+        {
+          "headline": "A Plan to Jump-Start Economy With No Instruction Manual",
+          "summary": "Economists say it is unclear whether President-elect Barack Obama’s stimulus package is big enough and whether it would provide the most bang for the buck.",
+          "image": "https://static01.nyt.com/images/2009/01/10/us/10stimulus01-600.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2009/01/10/washington/10stimulus.html"
+        },
+        {
+          "headline": "Contradictions in China, and the Rise of a Billionaire Family",
+          "summary": "The story of Liu Yongxing — a former factory worker who is now listed by Forbes as the wealthiest person in China — is a peek into the changes facing China.",
+          "image": "https://static01.nyt.com/images/2009/01/02/business/02yuan01-75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2009/01/02/business/worldbusiness/02yuan.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2009/01/13/dining/14power_75.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Rearranging the Tables in Washington: Can Obama’s Coattails Reach to Restaurants?; Citigroup Plans to Split Itself Up, Taking Apart the Financial Supermarket; A Plan to Jump-Start Economy With No Instruction Manual.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.489
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1979,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "NEW IRANIAN PLAN URGES U.N. TO MEET ON CONFLICT, BUT U.S. WANTS HOSTAGES FREED FIRST; WORLD INQUIRY ASKED; Letter Seeks Investigation of the Shah and return of Money From U.S.",
+          "summary": "ken offers new proposals, including call for meeting of UN Security Council, to deal with its dispute with US; US officials respond coolly, asserting that priority has to be given to release of hostages; Iranian delegate to UN Jamal Shemirani meets with Waldheim and conveys letter from Bani‐Sadr requesting Security Council meeting; letter asks for international inquiry into Shah's rule and for return of his property from US; sentiment at UN appears to be against calling Security Council session until hostages are freed; State Dept establishes telephone link with Iranian students occupying embassy; puts number of Americans being held hostage at 62; says few Indian, Pakistani and Italian embassy employees are also being held; Justice Dept says 50,000 Iranian students in US will have until to report to Immigration and Naturalization Service for review of their status; House, 379‐0, votes to block all aid to Iran; move is largely symbolic (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/President_Donald_Trump_and_Israeli_Prime_Minister_Benjamin_Netanyahu_hold_a_joint_press_conference_%28cropped%29.jpg/1280px-President_Donald_Trump_and_Israeli_Prime_Minister_Benjamin_Netanyahu_hold_a_joint_press_conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/11/14/archives/new-iranian-plan-urges-un-to-meet-on-conflict-but-us-wants-hostages.html"
+        },
+        {
+          "headline": "One Town's Reaction of Anger to the Crisis in Iran One Town's Reaction of Anger and Frustration to the Iranian Crisis Football Victory Hailed Some Action Is Called for Iranian Children in Parish",
+          "summary": "Residents of Cumberland, Md, which is considered fair sample of middle America, express anger over seizing of American hostages by Iranian students; their frustration appears to typify reaction of Americans across nation; illustrations of some residents (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg/1280px-Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/11/12/archives/one-towns-reaction-of-anger-to-the-crisis-in-iran-one-towns.html"
+        },
+        {
+          "headline": "Freighter Hits Tanker Off Texas, Spilling Oil 31 Are Believed Dead Freighter Rams Tanker Off Texas Oil Spills and 31 Are Feared Dead",
+          "summary": "Liberian tanker carrying 16.8 million gallons of crude oil is rammed by freighter in Gulf of Mexico 5 miles south of Galveston, Tex; both ships are afire, tanker is sinking, and freighter is sailing aimlessly through area dotted with offshore oil platorms; 1 well site is evacuated, and tugboats are called to bring vessel under control; 4 of tanker's crewmen are known dead and 27 are still missing and presumed dead; map; illus (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Grangemouth04nov06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/11/02/archives/freighter-hits-tanker-off-texas-spilling-oil-31-are-believed-dead.html"
+        },
+        {
+          "headline": "Scotto Denies Knowing Political Gifts Were Illegal; Scotto Denies Wittingly Giving Illicit Campaign Donations; Anthony M. Scotto, center, with his wife, Marion, and James LaRossa, his lawyer, outside court. Mr. Scotto continued to testify in his own defense.",
+          "summary": "Anthony M Scotto, a top ILA official, denies under cross-examination that he had knowingly made illegal contributions to political campaigns of Gov Carey, in his '78 re-election bid, and Lt Gov Mario M Cuomo, in his unsuccessful '77 NYC mayoral campaign; both Carey and Cuomo have denied any knowledge of having received illegal campaign contributions (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/1280px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/11/01/archives/scotto-denies-knowing-political-gifts-were-illegal-scotto-denies.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/President_Donald_Trump_and_Israeli_Prime_Minister_Benjamin_Netanyahu_hold_a_joint_press_conference_%28cropped%29.jpg/1280px-President_Donald_Trump_and_Israeli_Prime_Minister_Benjamin_Netanyahu_hold_a_joint_press_conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: NEW IRANIAN PLAN URGES U.N. TO MEET ON CONFLICT, BUT U.S. WANTS HOSTAGES FREED FIRST; One Town's Reaction of Anger to the Crisis in Iran One Town's Reaction of Anger and Frustration to the Iranian Crisis Football Victory Hailed Some Action Is Called for Iranian Children in Parish; Freighter Hits Tanker Off Texas, Spilling Oil 31 Are Believed Dead Freighter Rams Tanker Off Texas Oil Spills and 31 Are Feared Dead.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.691
+      }
+    }
+  ]
+}
