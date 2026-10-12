@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T11:52:06.632667+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2008,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
+          "summary": "President-elect Barack Obama prepared to name an ally as his White House chief of staff in his first step toward assuming power.",
+          "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
+        },
+        {
+          "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
+          "summary": "Just as China has attained supercharged growth that astounded much of the world, it appears to be slowing more sharply and more quickly than anyone anticipated.",
+          "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
+        },
+        {
+          "headline": "Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided",
+          "summary": "Some are still wrestling with the question of how to vote. Which raises a follow-up: What is up with these people?",
+          "image": "https://static01.nyt.com/images/2008/11/02/us/politics/02undecided_span.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/02/us/politics/02undecided.html"
+        },
+        {
+          "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
+          "summary": "For all the news media outlets that set viewership records in recent months, the looming question after Senator Barack Obama’s election is: What happens now?",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Dmitry_Medvedev_official_large_photo_-5.jpg/1280px-Dmitry_Medvedev_official_large_photo_-5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team; Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling; Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.507
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1906,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "SAN FRANCISCO'S PEOPLE FED; FEDERAL AUTHORITIES RULE; Food in Plenty Reaches the City; Order is Being Restored. CIVIL AND MILITARY CLASH AVERTED BY A CONFERENCE Fire Almost Out and the Ferry House Is Safe -- Forty Bodies Found In One House -- Meals Cooked In The Streets -- Houses and Vehicles Seized By the Authorities.",
+          "summary": "Food reaches city; Fed authorities rule; civil and mil clash averted by conf; rebldg plans; other stories; map; more funds given",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Southsanfrancisco.jpg/1280px-Southsanfrancisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/22/archives/san-franciscos-people-fed-federal-authorities-rule-food-in-plenty.html"
+        },
+        {
+          "headline": "OVER 500 DEAD, $200,000,000 LOST IN SAN FRANCISCO EARTHQUAKE; Nearly Half the City Is in Ruins and 50,000 Are Homeless. WATER SUPPLY FAILS AND DYNAMITE IS USED IN VAIN Great Buildings Consumed Before Helpless Firemen -- Federal Troops and Militia Guard the City, With Orders to Shoot Down Thieves -- Citizens Roused in Early Morning by Great Convulsion and Hundreds Caught by Falling Walls.",
+          "summary": "Half of city in ruins following earthquake; over 500 dead; damage put at $200 million; 50,000 homeless; ins losses; map; illus",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/1280px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/19/archives/over-500-dead-200000000-lost-in-san-francisco-earthquake-nearly.html"
+        },
+        {
+          "headline": "THE MINERS PROPOSE A NEW ARBITRATION; Would Let Judge Gray and Conciliation Board Adjudicate. OPERATORS DELAY ANSWER Will Think It Over and Reply on Monday -- But They Issue an Unconciliatory Statement. THE MINERS PROPOSE A NEW ARBITRATION",
+          "summary": "Arbitration by the present Conciliation Board, with United States Circuit Court Judge George Gray, or some person appointed by him, as Chairman and umpire, is the solution of the anthracite coal difficulties proposed by the miners. The answer of the operators will not be known until Monday, but a statement issued last night on their behalf shows that they regard some of the miners' demands as entirely inadmissible, and are in no conciliatory mood.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bituminous_Coal.JPG/1280px-Bituminous_Coal.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/06/archives/the-miners-propose-a-new-arbitration-would-let-judge-gray-and.html"
+        },
+        {
+          "headline": "MATTEUCCI TELLS OF THE ERUPTION; Stone Blocks Rose to a Height of 2,500 Feet. GREAT ELECTRIC DISPLAY Scientist Thinks It the Feature of the Outbreak. AMERICAN SHARED PERIL Perret Remained at the Observatory -- Volcano Exploded While Matteucci Was Interviewed. MATTEUCCI'S STORY OF THE ERUPTION",
+          "summary": "Prof Matteucci tells of his experience and observations",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg/1280px-Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/15/archives/matteucci-tells-of-the-eruption-stone-blocks-rose-to-a-height-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Southsanfrancisco.jpg/1280px-Southsanfrancisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: SAN FRANCISCO'S PEOPLE FED; OVER 500 DEAD, $200,000,000 LOST IN SAN FRANCISCO EARTHQUAKE; THE MINERS PROPOSE A NEW ARBITRATION.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.182
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1925,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "SCOPES FAILS TO GET FEDERAL INJUNCTION; STATE TRIAL FRIDAY; Judge Gore Rules Tennessee Officers Are Acting in the Only Way They Are Authorized. TWO PETITIONS PRESENTED Teacher Charges Violation of Liberty -- Parent Asserts Right to Educate His Children. APPEAL TO BE TAKEN LATER Darrow Says He Fears the State Court May Limit the Case to Whether Law Was Violated. SCOPES FAILS TO GET FEDERAL INJUNCTION",
+          "summary": "Refuses to grant restraining order to stop evolution case against J. T. Scopes; doubts his jurisdiction as Federal Judge",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1925/07/07/archives/scopes-fails-to-get-federal-injunction-state-trial-friday-judge.html"
+        },
+        {
+          "headline": "NICHOLSON SEEKS TO DELAY ENTERING HOME RULE DECREE; Plans Plea to Court to Maintain Status Quo Until Appeal Is Heard. CITY'S PETITION DELAYED Will Not Be Presented to Appellate Division Until Monday Counsel Announces. SYRACUSE OFFERS TO HELP Wallstein Says He Will Ask for an Order Immediately to Restrain Operation of Buses. NICHOLSON SEEKS TO DELAY DECREE ASK FOR SPECIAL SESSION. Community Councils Seek Legislation to Make Home Rule Legal.",
+          "summary": "Browne objects to Corp Counsel Nicholson's request that home rule retain present status until appeal is heard; comment on Citizens' Union",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1925/07/09/archives/nicholson-seeks-to-delay-entering-home-rule-decree-plans-plea-to.html"
+        },
+        {
+          "headline": "INDICTED JUDGE DIES IN PLUNGE OF AUTO; Judge Ross of Jackson, Tenn., Is Drowned in Creek After Injuries in Fall From Bridge. SOME THINK IT SUICIDE But Coroner, After Inquiry, Calls It an Accident -- No One Saw Tragedy.",
+          "summary": "Ross (Judge) J W, killed",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Skyline_of_Memphis%2C_TN.jpg/1280px-Skyline_of_Memphis%2C_TN.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1925/07/10/archives/indicted-judge-dies-in-plunge-of-auto-judge-ross-of-jackson-tenn-is.html"
+        },
+        {
+          "headline": "COOLIDGE CONFIDENT HIS CHINESE POLICY WILL AVERT CRISIS; He Believes Acceptance of It Will Convince China of Powers' Good Faith. WOULD HASTEN CONFERENCE President Regards Agreement on the Country's Customs Revenues as of First Importance. KELLOGG PUSHING PROGRAM Secretary Promptly Begins Laying Plans to Carry Out the President's Purpose. COOLIDGE CONFIDENT OF HIS CHINESE POLICY",
+          "summary": "Pres Coolidge confident agreement on Chinese policy will avert crisis; provisions of agreement",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Jasmine_Revolution_in_China_-_Beijing_11_02_20_crowd_2.jpg/1280px-Jasmine_Revolution_in_China_-_Beijing_11_02_20_crowd_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1925/07/14/archives/coolidge-confident-his-chinese-policy-will-avert-crisis-he-believes.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: SCOPES FAILS TO GET FEDERAL INJUNCTION; NICHOLSON SEEKS TO DELAY ENTERING HOME RULE DECREE; INDICTED JUDGE DIES IN PLUNGE OF AUTO.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.728
+      }
+    }
+  ]
+}
