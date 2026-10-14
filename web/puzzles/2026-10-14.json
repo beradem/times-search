@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T09:28:05.566071+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1959,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "REBELS DISSOLVE CUBAN CONGRESS; OFFICIALS OUSTED; Urrutia Drops Governors and Mayors -- Castro Due in Havana Tomorrow KEY POSTS ARE FILLED Regime Will Rule by Decree for at Least 18 Months -- Free Election Planned REBELS DISSOLVE CUBAN CONGRESS",
+          "summary": "Provisional Pres Urrutia says gambling will be abolished, s, Havana U",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/07/archives/rebels-dissolve-cuban-congress-officials-ousted-urrutia-drops.html"
+        },
+        {
+          "headline": "PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; Says They Are 'on All Sides' of the Question -- Supports Estimate of Revenue INFLATION FIGHT URGED Eisenhower Tells Newsmen He Still 'Despises' Controls on Wages and Prices President Derides Fiscal Critics For 'Budgetary Schizophrenia'",
+          "summary": "Eisenhower again warns on inflation, news conf; sees it harmful to growth",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/22/archives/president-sees-schizophrenia-in-budget-critics-says-they-are-on-all.html"
+        },
+        {
+          "headline": "KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'; Premier Cites Mikoyan Talks in Plea for Relaxation of East-West Tension AVOWS A FEAR OF WAR 'Clock Ticks On' as Plants Turn Out Arms, He Says at Indian Reception Khrushchev Sees 'Thaw' Possible In Relations of East and West",
+          "summary": "Khrushchev deplores W Ger Amb Kroll rejection of bid, s, Moscow reception",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/1280px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/khrushchev-says-thaw-is-possible-in-the-cold-war-premier-cites.html"
+        },
+        {
+          "headline": "BONN AIDES WEIGH SOVIET UNITY PLAN; Study Confederation Idea in Mapping Policy for West's German Talks Bonn Aides Study Soviet Plans For Reunification of Germany",
+          "summary": "W Ger studies USSR confed proposals to see if some elements might spur reunification; reluctance to shift discussed; Adenauer plans informal talks with Brit leaders",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Germaine_de_Sta%C3%ABl_-_De_l%27Allemagne.jpg/1280px-Germaine_de_Sta%C3%ABl_-_De_l%27Allemagne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/bonn-aides-weigh-soviet-unity-plan-study-confederation-idea-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: REBELS DISSOLVE CUBAN CONGRESS; PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.555
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1989,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "EAST GERMANS FLOOD THE WEST, MOST TO REJOICE, THEN GO HOME; KOHL AND KRENZ AGREE TO MEET",
+          "summary": "LEAD: A million East Germans streamed into West Berlin and West Germany today on foot and by car, subway and train, many passing through border crossings so new that the paint was not yet dry. More important for East Germany, most were going back.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Westernwall2.jpg/1280px-Westernwall2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/12/world/clamor-east-open-frontier-east-germans-flood-west-most-rejoice-then-go-home-kohl.html"
+        },
+        {
+          "headline": "Western Europe Pledges Aid",
+          "summary": "LEAD: At an impromptu summit meeting called by France, the European Community pledged aid to East bloc countries that move toward democracy and agreed to set up a bank for low-interest loans to those nations. Page 28.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1989/11/19/world/western-europe-pledges-aid.html"
+        },
+        {
+          "headline": "WILDER SEEMS VIRGINIA WINNER, FLORIO IN; VOTERS, 5-4, APPROVE NEW YORK CHARTER; First Black Governor, If Recount Upholds Vote",
+          "summary": "LEAD: L. Douglas Wilder appeared to have eked out a narrow victory for the governorship of Virginia today, on the basis of almost complete but unofficial returns.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/1280px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/08/us/dinkins-defeats-giuliani-close-race-wilder-seems-virginia-winner-florio-voters-5-037689.html"
+        },
+        {
+          "headline": "POSTINGS: Reverse Mortgages and Repairs; New Help for Older Homeowners",
+          "summary": "LEAD: Two government programs announced this month offer loans and grants to older homeowners having low incomes or housing problems or both. In Washington, the Federal National Mortgage Association, known as Fannie Mae, made available for the first time about $200 million in guaranteed funds for 2,500 so-called reverse mortgages to be insured by the Federal Housing Administration.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Worker_home_from_1911_in_Helsinki.jpg/1280px-Worker_home_from_1911_in_Helsinki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/12/realestate/postings-reverse-mortgages-and-repairs-new-help-for-older-homeowners.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Westernwall2.jpg/1280px-Westernwall2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EAST GERMANS FLOOD THE WEST, MOST TO REJOICE, THEN GO HOME; Western Europe Pledges Aid; WILDER SEEMS VIRGINIA WINNER, FLORIO IN.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2016,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "Trump Diversifies Cabinet; Picks Nikki Haley and Betsy DeVos",
+          "summary": "The president-elect’s first picks were white men, but now he has recruited two women: Gov. Nikki R. Haley of South Carolina and Betsy DeVos, a G.O.P. philanthropist.",
+          "image": "https://static01.nyt.com/images/2016/11/24/us/24devos/24devos-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/23/us/politics/donald-trump-president-elect.html"
+        },
+        {
+          "headline": "Donald Trump Picks Reince Priebus as Chief of Staff and Stephen Bannon as Strategist",
+          "summary": "The appointments created rival centers of power and elevated the voice of Mr. Bannon, whose longtime website, Breitbart News, has traded in conspiracy theories and sometimes racist messages.",
+          "image": "https://static01.nyt.com/images/2016/11/13/us/00priebuschief/00priebuschief-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/14/us/politics/reince-priebus-chief-of-staff-donald-trump.html"
+        },
+        {
+          "headline": "Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally",
+          "summary": "The pop star’s appearance with the Dixie Chicks at the Country Music Association Awards was powerful — and sly.",
+          "image": "https://static01.nyt.com/images/2016/11/06/arts/07BEYONCEJP2/06BEYONCE1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/06/arts/music/beyonce-political-hillary-clinton-dixie-chicks.html"
+        },
+        {
+          "headline": "These Officials Help Write Ballot Questions. Companies Write Them Checks.",
+          "summary": "Secretaries of state, who oversee ballot measures on issues like gun control and the minimum wage, are courted by interest groups and industries with billions of dollars at stake.",
+          "image": "https://static01.nyt.com/images/2016/11/06/us/06secstate1/06secstate1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2016/11/05/us/politics/secretaries-of-state-elections-ballot-initiatives.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2016/11/24/us/24devos/24devos-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Trump Diversifies Cabinet; Donald Trump Picks Reince Priebus as Chief of Staff and Stephen Bannon as Strategist; Beyoncé’s True Political Statement This Week? It Wasn’t at a Clinton Rally.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.915
+      }
+    }
+  ]
+}
