@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T09:06:47.387899+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1869,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "EAST AND WEST.; Completion of the Great Line Spanning the Continent The Closing Work and Ceremonies at Promontory Summit. The News Flashed by Telegraph Simultaneously Over the Country. Rejoinings of the Metropolis at the Completion of the Enterprise. Celebrations in Chicago, Philadelphia and Other Cities. The Work Accomplished-Ceremonics at Promontory Summit. Announcement in Washington of the Completion of the Road-Scene in the Telegraph Office. Rejoicing in This City--The Booming of Cannon and Chiming of Bells--Magnificent Thanksgiving Services at Old Trinity--Address by Rev. Dr. Vinton--Congratulatory Dispatches to San Francisco by Mayor Hall and the Chamber of Commerce. The Southern Pacific--Meeting of Directors at St. Louis. Celebrations in Chicago, Philadelphia, Buffalo and Other Places. At the City Hall.",
+          "summary": "Pacific Road; Ceremonies on Completion",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/1280px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/11/archives/east-and-west-completion-of-the-great-line-spanning-the-continent.html"
+        },
+        {
+          "headline": "DECORATION DAY; Floral Tributes to the Memory of the Union Dead Ceremonies at the National Cemetery at Washington Oration of General Butler at Gloucester, Mass Observances at Arlington--Presence of the President and Heads of Departments--Ceremonies at the \"Tomb of the Unknown\"--Oration of Hon. S. S. Fisher The Ceremonies at Gloucester--Oration of General B. F. Butler--His Eulogy of the Soldiers--Reference to Political Questions--The Alabama Claims Question--Furious Attack on England At Boston and Vicinity In Providence, R. C.--Parade of Veterans--Tolling of the City Bells In Philadelphia--Gathering in Independence Square--Procession of Children--Services in Concert Hall In Carlisle, Penn At Huntingdon, Penn.--Children's Observances At Knoxville, Tenn.-- Five Thousand Persons in Attendance--The Addresses At Richmond, Va At Cincinnati In Toledo, Ohio In Columbus, Ohio At Detroit, Mich In Newark, N. J. --Observances at Fairmount Cemetery At Flushing-Decorations of the Mounment to the Flushing Heroes",
+          "summary": "Celebration at Arlington and elsewhere",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Takarazuka_Music_School01n3000.jpg/1280px-Takarazuka_Music_School01n3000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/30/archives/decoration-day-floral-tributes-to-the-memory-of-the-union-dead.html"
+        },
+        {
+          "headline": "EUROPE.; Letters from Our Correspondents in London, Madrid and Florence Our Relations with England---Effects of Mr. Sumner's Speech The Warwickshire Scandal--- Sad Revelations Important and Interesting Debates in the Spanish Cortes The subjoined letters from our European correspondents present an interesting summary of political, social and Industrial affairs in the old world The Debate on the Irish Church Bill-Summary of the Views of Leading Statesmen on the Question-Sharp Debate on the Maynooth Endowment clause Labors of the Ministry--The Case of the Mayor of Cork--The Pacific Railroad The Debates on the Constitution--Another Great Orator Developed--Thrilling Souvenirs of the Inquisition--The Separation of Church and State--Impotent Fury of the Clergy Parties in the Chamber--The New Fusion--Proposed Reconstruction of the Ministry--The Sub-Alpine Tunnel and the Suez Canal--the Alabama Question--King Victor Emmanuel Assurances of an American Citizen to the English People--Letter From Senator Grimes, of lowa",
+          "summary": "Florence Letter",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Foreign_%26_Commonwealth_Office_main_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/28/archives/europe-letters-from-our-correspondents-in-london-madrid-and.html"
+        },
+        {
+          "headline": "Our Trouble with England--Mr. Summer's Speech--The Administration.",
+          "summary": "Alabama Claims; Mr. Sumner's Speech",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg/1280px-MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/26/archives/our-trouble-with-englandmr-summers-speechthe-administration.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/1280px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EAST AND WEST.; DECORATION DAY; EUROPE..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.19
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1991,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "WAR IN THE GULF: The Overview; IRAQIS FIRE MISSILES AT ISRAELI CITIES AFTER SECOND DAY OF ALLIED BOMBING; U.S. DISCOURAGES AN ISRAELI RESPONSE",
+          "summary": "After a day of allied successes in the war against Iraq, Baghdad struck back today with missile attacks on Israel and Saudi Arabia. Preliminary reports indicated that seven Iraqi missiles hit Israel, and there were reports of injuries but no deaths. The missiles did not appear to be armed with chemical warheads.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/18/world/war-gulf-overview-iraqis-fire-missiles-israeli-cities-after-second-day-allied.html"
+        },
+        {
+          "headline": "Mideast Crisis Threatens Unlikely Victim: Junk Mail",
+          "summary": "The prospect of war in the Persian Gulf may have one unlikely beneficiary: the nation's overstuffed mailboxes. Many direct marketing consultants say they are advising their clients to postpone plans to send out junk mail until after, the date when the United Nations has authorized the use of force to end Iraq's occupation of Kuwait. January is normally a peak month for mailing magazine subscription solicitations, catalogues and sweepstakes. But the consultants say they are deferring to a debated piece of direct marketing folklore that originated on,, the day President Kennedy was assassinated: Never send junk mail into the face of a national crisis, or you risk losing your customers to the television screen.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Iraqi_Wimimedians_women_at_the_Embassy_of_The_Republic_of_Iraq_in_Nairobi_04.jpg/1280px-Iraqi_Wimimedians_women_at_the_Embassy_of_The_Republic_of_Iraq_in_Nairobi_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/09/business/mideast-crisis-threatens-unlikely-victim-junk-mail.html"
+        },
+        {
+          "headline": "Military Contractors Struggle as Rules of the Game Change",
+          "summary": "A recent effort by the Navy and two of its largest contractors to save the troubled A-12 warplane is the clearest illustration yet of how policies intended for the arms buildup of the 's are haunting the military and its suppliers in an era of declining budgets. Even before they absorb the full impact of the coming shrinkage of the nation's combat forces, military contractors are reeling. They are victims of their own overly optimistic business projections and harsh terms imposed by the Pentagon in the last decade in an ill-fated attempt to hold down costs. Policies Built by $500 Hammers The builders of the A-12, for example, the McDonnell Douglas Corporation and the General Dynamics Corporation, agreed to develop the plane for a predetermined price, a condition of the contract. As in other fixed-price arrangements, the contractors ran into unforeseen technical problems that led to expenses far higher than the value of the contract, more than $1 billion higher with the A-12.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg/1280px-71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/06/us/military-contractors-struggle-as-rules-of-the-game-change.html"
+        },
+        {
+          "headline": "The Incessant Lure of Kuwait's Oil",
+          "summary": "Kuwaiti oil is, after all, the immediate prize of the Persian Gulf crisis. But the oil was never supposed to be there. The world's great experts insisted that Kuwait would be dry of it, and the timing of its discovery was the peculiar result of the obsessions of a mining engineer from New Zealand and a noodle vendor in Japan. Thereafter, the development and shifting ownership of Kuwaiti oil embody much of the story of world oil -- from the end of World War I to the ticking clock of the current conflict with Iraq. The New Zealander, Frank Holmes, had knocked around the world for years as a mining engineer before ending up in World War I as a quartermaster in the British Army with the rank of major. On a beef-buying expedition to Ethiopia, he heard from Arab traders about oil seepages along the Arabian side of the Persian Gulf. His interest was piqued. Then, while stationed in Basra in what had not yet become Iraq, he learned of the oil production in neighboring Persia -- now Iran -- where the first successful well in the Middle East had been drilled in.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kuwait_City_Skyline_1.jpg/1280px-Kuwait_City_Skyline_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/13/business/forum-the-incessant-lure-of-kuwait-s-oil.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: WAR IN THE GULF: The Overview; Mideast Crisis Threatens Unlikely Victim: Junk Mail; Military Contractors Struggle as Rules of the Game Change.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1937,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "WARSHIP'S PLANES START SEARCH FOR MISS EARHART; NO DEFINITE SIGNAL HEARD; COLORADO IN ACTION Director of Hunt Says Fliers' Fate Should Be Known Monday 104,000 SQ. MILES COVERED Itasca, Swan Have Scanned Area North of Howland--Lexington Speeds West PUTNAM STILL HOPEFUL Husband of Lost Flier Believes She May Be Found in Area Below Howland Islands Mysterious Signals Continue Expects to Know by Monday Lexington's Speed a Factor WARSHIP'S PLANES JOIN EARHART HUNT Putnam Keeps Up Hope Son to Join Putnam FROWN ON 'STUNT FLYING' WHERE EARHART PLANE IS BEING SOUGHT",
+          "summary": "por",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/USS_Lexington_%28CV-2%29_leaving_San_Diego_on_14_October_1941_%2880-G-416362%29.jpg/1280px-USS_Lexington_%28CV-2%29_leaving_San_Diego_on_14_October_1941_%2880-G-416362%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1937/07/08/archives/warships-planes-start-search-for-miss-earhart-no-definite-signal.html"
+        },
+        {
+          "headline": "ALLIANCE WINS DAY; Former Foes of Leader Desert Whalen to Join in Fight on New Deal SOME CHIEFS DEFIANT Hines and Kenneally Break With Organization to Side With 4 County Heads PRIMARY FIGHTS SURE County and District Contests Foreseen-Court Bill Defeat a Factor in Outcome Victory for Dooling Copeland Is Silent COPELAND VICTOR IN TAMMANY FIGHT Kennedy Acts for Dooling Court Plan Collapse a Factor Hines Explains Vote Some Delay at Start Call for Primary Read Alliance Is Confirmed Untermyer Backs Whalen",
+          "summary": "Tammany exec com names Levy",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/1280px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1937/07/23/archives/alliance-wins-day-former-foes-of-leader-desert-whalen-to-join-in.html"
+        },
+        {
+          "headline": "JAPANESE TAKE TWO TOWNS IN FIGHTING NEAR PEIPING; CHINESE PREPARE FOR WAR; PEACE MOVES FAIL Japan Is Suspected of Plan to Increase Hold on North China NANKING TROOPS ON MOVE Chiang Kai-shek Is Reported to Have Ordered His Air Force to Be Mobilized JAPAN SEES A BIG CHANCE Army Believes Soviet Forces in East Are Too Upset to Intervene Effectively The Chinese Situation Renewal of the Fighting Japanese Rush Troops JAPANESE CAPTURE 2 TOWNS IN CLASH Chinese Expected Attack More Japanese On Way U. S. Embassy Car Halted FIGHTING AT PEIPING",
+          "summary": "Truce violated; fighting renewed; Japanese capture Lungwangmiao and Tunghsinchuang; martial law tightened in Peiping; J Belden, Amer, reptd wounded; both sides reinforce troops, map of area",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Jasmine_Revolution_in_China_-_Beijing_11_02_20_crowd_2.jpg/1280px-Jasmine_Revolution_in_China_-_Beijing_11_02_20_crowd_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1937/07/11/archives/japanese-take-two-towns-in-fighting-near-peiping-chinese-prepare.html"
+        },
+        {
+          "headline": "LEWIS-ROOSEVEL T BREAK IS HINTED; C.I.O. SEES LET-DOWN; UNION TOO 'SPEEDY' It Also Is Taking In Too Much Territory, Some at Capital Feel CABINET REMARKS CITED Roper and Perkins Views Are Taken by Labor to Mean 'Scuttling' of Drive ROBINSON TEST EXPECTED C. I. O., Opposing Him for Bench, May Open Attack by Effort to Link Him to Utilities Day's Labor Developments Roosevelt-Lewis Break Seen Miss Perkins's Actions Cited Washington saw a possibility of a break between the administration and John L. Lewis over the C. I. O.'s militant policies. Page 1. Secretary Roper, in an appeal for industrial peace, said the public will not tolerate extremists on either side. Page 6. Troops were on hand at Cleveland to keep peace as Republic Steel prepared to reopen four struck plants. Page 1. Johnstown officials believed that the C. I. O. had suffered a setback in failure of the crowd at the strike mass meeting there to live up to expectations. Page 5.",
+          "summary": "CIO circles discuss possible Lewis-Roosevelt break",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1937/07/06/archives/lewisroosevel-t-break-is-hinted-cio-sees-letdown-union-too-speedy-i.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/USS_Lexington_%28CV-2%29_leaving_San_Diego_on_14_October_1941_%2880-G-416362%29.jpg/1280px-USS_Lexington_%28CV-2%29_leaving_San_Diego_on_14_October_1941_%2880-G-416362%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: WARSHIP'S PLANES START SEARCH FOR MISS EARHART; ALLIANCE WINS DAY; JAPANESE TAKE TWO TOWNS IN FIGHTING NEAR PEIPING.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.666
+      }
+    }
+  ]
+}
