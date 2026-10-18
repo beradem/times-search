@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T08:48:06.716965+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1957,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "FAUBUS CONTINUES TALKS WITH HAYS; IMPASSE REMAINS; Little Rock School Guarded ----President to Meet Powell to Discuss Integration Hays Seeks a Formula U.S. Prepares Case FAUBUS CONTINUES TALKS WITH HAYS All Is Quiet at School",
+          "summary": "Hays again confs with Faubus; Davies returns to Little Rock; subpoenas served on Mann, others; MacGuineas and C Eardley of Justice Dept to work in Little Rock with Cobb; Mann again urges Guard be removed",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/1280px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/09/19/archives/faubus-continues-talks-with-hays-impasse-remains-little-rock-school.html"
+        },
+        {
+          "headline": "Survey Finds Blow To G.O.P. in South; Survey Finds Little Rock Dispute a Setback to Republican Efforts to Win South NEGRO VOTE GAINS NEW SIGNIFICANCE Study Asserts Complications Face Democrats in '60 on Presidential Ticket G.O.P. Losses Reported State-wide Effect Noted Dilemma for Democrats Bias Laws a Factor North Carolina Maryland Missouri Alabama Louisiana Split in G.O.P. Ranks Texas Oklahoma Pennsylvania Michigan Illinois California Washington",
+          "summary": "NY Times survey of pol effects of crisis",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Public_high_school_teachers_in_a_classroom_in_the_United_States_10.jpg/1280px-Public_high_school_teachers_in_a_classroom_in_the_United_States_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/09/29/archives/survey-finds-blow-to-gop-in-south-survey-finds-little-rock-dispute.html"
+        },
+        {
+          "headline": "BULGANIN WARNS TURKEY TO AVOID ATTACK ON SYRIA; Charges Troops Are Poised on Border to Carry Out Plan Directed by U.S. HINTS ACTION BY SOVIET Says Mideast Military Move Might Bring World War-- Washington Denies Plot Turkey Accused by Gromyko Bulganin Cites Geography BULGANIN WARNS TURKS ON SYRIA Bulganin Appeals to Turkey U.S. Disavows Any Role",
+          "summary": "USSR Premier Bulganin lr to Menderes warns Turkey not to attack Syria; alleges US plans mil action against Syria with Turkey playing role; warns on world conflict; Tass version of note cited; US officials see USSR seeking 'big bro' role toward Arabs",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/09/14/archives/bulganin-warns-turkey-to-avoid-attack-on-syria-charges-troops-are.html"
+        },
+        {
+          "headline": "U.S. IS STILL COOL TO PLEAS TO JOIN BAGHDAD TREATY; But Is Expected to Weigh Turkey's Bid Again When Henderson Returns",
+          "summary": "US cool to suggestions by Turkey and Iraq that it join Pact in response to Syrian drift to left",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Frankfurt_Airport_Middle_East_Airlines_Airbus_A321-271NX_T7-ME5_%28DSC09950%29.jpg/1280px-Frankfurt_Airport_Middle_East_Airlines_Airbus_A321-271NX_T7-ME5_%28DSC09950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1957/09/01/archives/us-is-still-cool-to-pleas-to-join-baghdad-treaty-but-is-expected-to.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/1280px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FAUBUS CONTINUES TALKS WITH HAYS; Survey Finds Blow To G.O.P. in South; BULGANIN WARNS TURKEY TO AVOID ATTACK ON SYRIA.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.5
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2017,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him",
+          "summary": "The material was considered so potentially explosive that the intelligence agencies decided that the president and the president-elect needed to be told and that the agencies were actively investigating it.",
+          "image": "https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/10/us/politics/donald-trump-russia-intelligence.html"
+        },
+        {
+          "headline": "Workers Say Andrew Puzder Is ‘Not the One to Protect’ Them, but He’s Been Chosen To",
+          "summary": "Donald J. Trump’s pick for labor secretary may soon be tasked with enforcing the very rules his company has been accused of violating.",
+          "image": "https://static01.nyt.com/images/2017/01/13/us/13PUZDER-3/13PUZDER-3-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/15/us/politics/andrew-puzder-labor-secretary.html"
+        },
+        {
+          "headline": "Megyn Kelly’s Jump to NBC From Fox News Will Test Her, and the Networks",
+          "summary": "Ms. Kelly’s departure from Fox News will test her ability to connect with a broader audience, but the most significant implications concern the larger television news industry.",
+          "image": "https://static01.nyt.com/images/2017/01/04/business/04kelly1/04kelly1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/03/business/media/megyn-kelly-nbc-fox-news.html"
+        },
+        {
+          "headline": "Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry",
+          "summary": "The department’s inspector general will look into James B. Comey’s hotly debated decision to inform Congress about a new review of the Hillary Clinton email case.",
+          "image": "https://static01.nyt.com/images/2017/01/13/us/13comey/13comey-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him; Workers Say Andrew Puzder Is ‘Not the One to Protect’ Them, but He’s Been Chosen To; Megyn Kelly’s Jump to NBC From Fox News Will Test Her, and the Networks.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.92
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1941,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "ENEMY PAST IPOH; Vital Road-Rail Center 290 Miles From Goal Claimed by Tokyo JUNGLE FIGHTING IS FIERCE Japanese Losses Called Huge -- Invaders Also Gain in East -- Kluang Airport Raided ENEMY PAST IPOH IN MALAYA DRIVE",
+          "summary": "Domei repts civilians evacuated from Perak Prov to Singapore",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Encampment_of_Gypsies_with_Caravans.jpg/1280px-Encampment_of_Gypsies_with_Caravans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1941/12/30/archives/enemy-past-ipoh-vital-roadrail-center-290-miles-from-goal-claimed.html"
+        },
+        {
+          "headline": "50 BILLION A YEAR IS SET BY PRESIDENT AS OUR WAR OUTLAY; Half of National Income in Next Fiscal Year Will Go to Arms Production, He States HE OVERHAULS ALL PLANS Stepped Up From Present 20% of Income -- He Hints Arms for Kamchatka, Near Tokyo PRESIDENT TO ASK 50 BILLIONS A YEAR",
+          "summary": "Roosevelt states expenditures will reach 50% of natl income by",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/The_Far_East_and_adjoining_areas%2C_1943.jpg/1280px-The_Far_East_and_adjoining_areas%2C_1943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1941/12/31/archives/50-billion-a-year-is-set-by-president-as-our-war-outlay-half-of.html"
+        },
+        {
+          "headline": "GUAM BOMBED; ARMY SHIP IS SUNK; U.S. Fliers Head North From Manila -- Battleship Oklahoma Set Afire by Torpedo Planes at Honolulu 104 SOLDIERS KILLED AT FIELD IN HAWAII President Fears 'Very Heavy Losses' on Oahu -- Churchill Notifies Japan That a State of War Exists Japan Starts War on U.S.; Hawaii and Guam Bombed",
+          "summary": "Radio and cable outgoing messages censored as result of U S-Japanese war entry; Defense Communications Bd bans amateur radio station activity without special permit",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1941/12/08/archives/guam-bombed-army-ship-is-sunk-us-fliers-head-north-from-manila.html"
+        },
+        {
+          "headline": "GREEN AND MURRAY TAKE JOINT ACTION FOR LABOR IN WAR; Rival Union Chiefs Talk With Secretary Perkins on New Board to Be Set Up SHE EXPECTS ORDER SOON Selection by President Is Held Likely This Week -- Board of Twelve May Be Chosen GREEN AND MURRAY TAKE JOINT ACTION",
+          "summary": "Sec Perkins conf with Murray and Green; sees early apptmt of War Labor Bd; exec order issued calling for bd of 12; procedure method drafted",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg/1280px-71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1941/12/30/archives/green-and-murray-take-joint-action-for-labor-in-war-rival-union.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Encampment_of_Gypsies_with_Caravans.jpg/1280px-Encampment_of_Gypsies_with_Caravans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ENEMY PAST IPOH; 50 BILLION A YEAR IS SET BY PRESIDENT AS OUR WAR OUTLAY; GUAM BOMBED.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.635
+      }
+    }
+  ]
+}
