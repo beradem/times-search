@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T09:49:44.695325+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1970,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "MITCHELL REGRETS CAMPUS GUNFIRE",
+          "summary": "Atty Gen Mitchell, in referring to shootings, says Amer educ is experiencing its saddest semester in its history, s to Miss Delta business leaders, Delta State Coll; bars comment on matters now under investigation but says nation is determined to live within law and that neither violent demonstrations nor unrestrained reactions are part of law",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/George_John_Mitchell.jpg/1280px-George_John_Mitchell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/05/20/archives/mitchell-regrets-campus-gunfire-in-mississippi-he-calls-this-the.html"
+        },
+        {
+          "headline": "NIXON WILL BAR HOSTILE COMMENTS ON STUDENTS BYA GNEW AND OTHERS; SUMMONS 50 GOVERNORS TO MEETING",
+          "summary": "group of prominent Harvard profs, including E O Reischauer, A Yarmolinsky and R E Neustadt, will conf with Nixon aide Dr Kissinger and publicly announce their break with Adm policies on SE Asia; disclosures reveal that Repubs had set up special telephone system to encourage calls to White House backing Nixon's policy; White House denies it",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/05/08/archives/nixon-will-bar-hostile-comments-on-students-by-agnew-and-others.html"
+        },
+        {
+          "headline": "U.S. Will Give Cambodia $7.5.Million in Weapons",
+          "summary": "Adm informs Sen Foreign Relations Com it has decided to give about $7.5-million worth of arms to Cambodia on ground that such aid is important to US security, lr to Fulbright accompanied by document signed by Nixon on importance to US security; lr is classified as secret; Fulbright seeks to have classification changed that issue might be openly discussed",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Skulls_from_the_killing_fields.jpg/1280px-Skulls_from_the_killing_fields.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/05/26/archives/us-will-give-cambodia-75million-in-weapons-congress-is-told-us-will.html"
+        },
+        {
+          "headline": "Rhodes and Taft in Tight Race; Glenn Also in Close Ohio Fight",
+          "summary": "Nominated for Gov, Dem primary",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/1280px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1970/05/06/archives/rhodes-and-taft-in-tight-race-glenn-also-in-close-ohio-fight-rhodes.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/George_John_Mitchell.jpg/1280px-George_John_Mitchell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: MITCHELL REGRETS CAMPUS GUNFIRE; NIXON WILL BAR HOSTILE COMMENTS ON STUDENTS BYA GNEW AND OTHERS; U.S. Will Give Cambodia $7.5.Million in Weapons.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.643
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1912,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "THRILLING STORY BY TITANIC'S SURVIVING WIRELESS MAN; Bride Tells How He and Phillips Worked and How He Finished a Stoker Who Tried to Steal Phillips's Life Belt -- Ship Sank to Tune of \"Autumn\"",
+          "summary": "Carpathia in NYC with 745 survivors including 206 crewmen and 4 officers; 1,595 perished; survivors say ship sank while band stood on deck playing song 'Autumn'; Titanic's surviving wireless operator H Bride tells how he and Phillips sent messages for help; eyewitnesses give accts of sinking, acts of heroism and reactions to disaster; say many women refused to be rescued without husbands; fireman H Senior tells how Smith refused to be saved; Carpathia wireless operator H T Cottam acct of how he recd and responded to Titanic's 'CQD,'",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jack_George_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/19/archives/thrilling-story-by-titanics-surviving-wireless-man-bride-tells-how.html"
+        },
+        {
+          "headline": "WEST VIRGINIA ALSO WON BY ROOSEVELT; Colonel Carries 24 Counties, Which Gives Him a Majority of State Convention Delegates.",
+          "summary": "Results of primaries in 24 counties",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1912/04/21/archives/west-virginia-also-won-by-roosevelt-colonel-carries-24-counties.html"
+        },
+        {
+          "headline": "SAIONJI'S REPLY ENDS MAGDALENA BUGABOO; Japanese Premier's Message to The Time, Washington Agrees, Closes the \"Incident.\"",
+          "summary": "Washington considers incident closed; Taft readying reply to Lodge resolution",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/1280px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/07/archives/saionjis-reply-ends-magdalena-bugaboo-japanese-premiers-message-to.html"
+        },
+        {
+          "headline": "$100,000,000 PRICE ON RAILWAY MERGER; New Haven Must Spend This on Improvements, Says Foss, to Take Over Boston & Maine.",
+          "summary": "Gov E N Foss message to pub urges letting NY,NH&H lease Boston & Maine on condition it spend $100 million for improvements in and near Boston",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Alaska_Railroad_oil_train_at_Nenna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1912/04/11/archives/100000000-price-on-railway-merger-new-haven-must-spend-this-on.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jack_George_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THRILLING STORY BY TITANIC'S SURVIVING WIRELESS MAN; WEST VIRGINIA ALSO WON BY ROOSEVELT; SAIONJI'S REPLY ENDS MAGDALENA BUGABOO.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.4
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1932,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "HOOVER VETOES PERIL ROOSEVELT PROGRAM; EXTRA SESSION SEEN; Senate Republicans Predict Farm Aid, Beer and Other Bills Will Fail Next Month. NORRIS DUBIOUS OF SPEED Thinks Agriculture Must Wait -- \"3-Way\" Relief Plan Gains Favor Among Democrats. BONUS AND INFLATION BACK Patman to Press for Action Again -- Rankin Urges \"Liberty Notes\" for \"Controlled Expansion.\" VETOES ENDANGER DEMOCRATS' PLANS",
+          "summary": "Hoover's vetoes expected to block his program in short session",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Franklin_D._Roosevelt_and_Herbert_Hoover_on_the_way_to_U.S._Capitol_for_Roosevelt%27s_inauguration%2C_March_4%2C_1933-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/29/archives/hoover-vetoes-peril-roosevelt-program-extra-session-seen-senate.html"
+        },
+        {
+          "headline": "STIMSON TO REVEAL DEBT PLEAS TODAY; BORAH SEES PERILS; Roosevelt Is Not Consulted, but May Be When the President Returns to Washington. SENATOR FOR NEW POLICIES Borah Sees Program Needed to Save Civilization From an Economic Collapse. MANY RUMORS ARE DENIED High Official Says There Were No \"Secret Understandings\" Concerning Reopening of Debts Question. STIMSON TO REVEAL DEBT PLEAS TODAY",
+          "summary": "to pub notes",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/EAGLE_under_full_sail_in_2013.jpg/1280px-EAGLE_under_full_sail_in_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/13/archives/stimson-to-reveal-debt-pleas-today-borah-sees-perils-roosevelt-is.html"
+        },
+        {
+          "headline": "160 'FAVORITE SONS' FOR CABINET POSTS REVEALED BY SURVEY; Canvass Shows Roosevelt Has a Distinguished List From Which to Choose. 44 STATES HAVE 'NOMINEES' Idaho, Louisiana, Wyoming and North Dakota Offer None, but Others Make Up for Them. NEW YORK STATE GIVES 13 And Pennsylvania a Half Dozen -- Governors and Congress Members Bring Possibilities Up to 570. Scores of Prominent Democrats Suggested as Members of Roosevelt's Cabinet",
+          "summary": "Survey reveals 160 favorite sons for posts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/AlfredSmith.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1932/11/13/archives/160-favorite-sons-for-cabinet-posts-revealed-by-survey-canvass.html"
+        },
+        {
+          "headline": "PRESIDENT PROPOSES NON-PARTISANACTION TO CONTINUE REVIVAL; First Public Utterance Since Election Night Cheered by Crowd at Glendale, Cal. POLITICAL CAMPAIGN 'OVER' He Will 'Work for Unity' in Next Four Months and Also Aid 'Every Sound Measure' Later. PAYS VISIT TO HOOVER DAM Changing Plans to Make Inspection in Nevada by Night, He Will Now Reach Capital Wednesday. HOOVER PROPOSES NON-PARTISAN MOVE",
+          "summary": "Visits Hoover Dam",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1932/11/13/archives/president-proposes-nonpartisanaction-to-continue-revival-first.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Franklin_D._Roosevelt_and_Herbert_Hoover_on_the_way_to_U.S._Capitol_for_Roosevelt%27s_inauguration%2C_March_4%2C_1933-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: HOOVER VETOES PERIL ROOSEVELT PROGRAM; STIMSON TO REVEAL DEBT PLEAS TODAY; 160 'FAVORITE SONS' FOR CABINET POSTS REVEALED BY SURVEY.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    }
+  ]
+}
