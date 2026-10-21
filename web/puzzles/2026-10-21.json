@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T09:19:33.368276+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1976,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "New York Still Giddy With the Bicentennial",
+          "summary": "New Yorkers, alight with the unexhausted spirit of celebration that has transformed their city into a great Bicentennial carnival for several days, refused yesterday to let America's birthday party end.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Four-seasons-ny.jpg/1280px-Four-seasons-ny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/07/archives/new-york-still-giddy-with-the-bicentennial.html"
+        },
+        {
+          "headline": "Carter and Mondale Approach Issues Differently but Arrive at Similar Conclusions",
+          "summary": "Carter, Sen Mondale illus at Botsford, Ga, picnic; they are holding strategy meetings",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1976/07/26/archives/carter-and-mondale-approach-issues-differently-but-arrive-at.html"
+        },
+        {
+          "headline": "3 Women in Carter's Life Show He'll Have to Share the Spotlight",
+          "summary": "Carter's wife, mother and daughter interviewed during stay in NYC for conv; illus (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/1280px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/14/archives/3-women-in-carters-life-show-hell-have-to-share-the-spotlight.html"
+        },
+        {
+          "headline": "Queen Begins a Whirlwind of Activities in Washington",
+          "summary": "Queen arrives in Washington, DC, for 48-hr Bicentennial visit; is greeted by Pres and Mrs Ford as well as 21-gun salute; revs honor guard; lunches with Pres; to attend State Dinner at White House; other highlights of visit noted; illus with Pres and Mrs Ford and at Lincoln Memorial (L)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/1280px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1976/07/08/archives/queen-begins-a-whirlwind-of-activities-in-washington-elizabeth.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Four-seasons-ny.jpg/1280px-Four-seasons-ny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: New York Still Giddy With the Bicentennial; Carter and Mondale Approach Issues Differently but Arrive at Similar Conclusions; 3 Women in Carter's Life Show He'll Have to Share the Spotlight.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.626
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1969,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "19-HOUR CONCERT ENDS BETHEL FAIR; Producer Says Town Has Asked Festival to Return",
+          "summary": "19-hr concert ends fair at 10:30 AM; J Hendrix, Sha-Na-Na group among performers; fair site emptied; sea of debris left behind; traffic reptd 'going well'; clean-up of fair site may take 2 wks; Yasgur praises festival sponsors and participants for conduct under stress, news conf; comments on drug scene; Lang says county, town and Yasgur urged that festival take place again in spring; fair incidents revd; Sheriff L Ratner describes youths as 'the best kids 1 ever met in the world'; fair med dir Dr W Abruzzi says 5,000 youths were treated for drugs and other conditions by 50 drs; illus",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Woodstock_poster.jpg/1280px-Woodstock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/08/19/archives/19hour-concert-ends-bethel-fair-producer-says-town-has-asked.html"
+        },
+        {
+          "headline": "NIXON VISITS INDIA; HE AGAIN PRAISES REGIME IN SAIGON; Says His Talk With Thieu Disproves Speculation on a Reduced Commitment IN NEW DELHI 22 HOURS President and Mrs. Gandhi Discuss Asia and the War -- Arrives in Pakistan Nixon Visits India and Sees Mrs. Gandhi; He Again Praises Thieu Government ASIA AND THE WAR SUBJECT OF TALKS 22-Hour Stay in New Delhi -- President Is Pleased by His Flight to Saigon",
+          "summary": "Nixon, in India, goes out of his way to express support for S Vietnamese Govt; lauds Nguyen Van Thieu; says S Vietnam's govt insts are strong; calls Nguyen Van Thieu 1 of 4 or 5 best pol leaders in world",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1969/08/01/archives/nixon-visits-india-he-again-praises-regime-in-saigon-says-his-talk.html"
+        },
+        {
+          "headline": "NIXON ENDS TOUR OF ASIA WITH HOPE FOR ERA OF PEACE; Flies to Bucharest After Discussions in Pakistan on U.S. Arms Embargo TALKS TERMED CORDIAL Support of Self-Reliant Asia Is Promised During His Stopover in Lahore Nixon Ends Asian Tour and Leaves for Rumania After Voicing Hope for Peace EMBARGO ON ARMS BY U.S. DISCUSSED Talks in Lahore Described as 'Helpful' by President -- Flies to Bucharest",
+          "summary": "Nixon says world must have a peace that will see what is created by people and govt is not destroyed, s, Lahore, Pakistan; predicts new era of progress in Asia if world leaders are able to create peace conditions",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/1280px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/08/02/archives/nixon-ends-tour-of-asia-with-hope-for-era-of-peace-flies-to.html"
+        },
+        {
+          "headline": "ROCKEFELLER CALLS NIXON'S PROPOSAL UNFAIR TO STATE; Contends Industrial Areas Would Be 'Shortchanged' by Welfare Reforms GOVERNOR UNSATISFIED He Sees No 'Significant' Aid for Regions Where Relief Exerts Heaviest Burden Rockefeller Charges Nixon's Proposal on Welfare Reforms Shortchanges Industrialized States",
+          "summary": "Gov Rockefeller charges programs will shortchange NY and other indus states which already have fairly high payment standards, statement; NYC mayoral candidate Procaccino endorses plan in principle, urges payments to NYC proportionate to living costs, TV int; Natl Welfare Rights Orgn exec dir Wiley charges elimination of aid to families with dependent children program discriminates against Negroes, major recipients, TV int; opposes requirement that mothers work; is supported by Admr Ginsberg; Sen Javits sees 'only a beginning', with little effect in NY, TV int",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Workfare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1969/08/11/archives/rockefeller-calls-nixons-proposal-unfair-to-state-contends.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Woodstock_poster.jpg/1280px-Woodstock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 19-HOUR CONCERT ENDS BETHEL FAIR; NIXON VISITS INDIA; NIXON ENDS TOUR OF ASIA WITH HOPE FOR ERA OF PEACE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.581
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1979,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "U.S. AND NEW YORK AGREE ON DISPOSING OF NUCLEAR WASTES",
+          "summary": "Energy Adm accepts responsibility for eventual disposal outside NYS of huge deposits of highly radioactive nuclear waste at West Valley, NY, storage facility; Carey adm agrees in turn to accept additional amounts of nuclear waste produced by nuclear reactors around NYS for interim storage at West Valley until Fed Govt comes up with plan for eventual disposal; agreement was reached by Sec Schlesinger and James L Larocca, State Energy Comr; Sen Daniel Moynihan says he had assurances from Schlesinger on Fed takeover a yr and a half ago; Fed Budget Office must still approve plan, which could cost Fed Govt estimated $200 million to $1.1 billion and take 10 yrs; kinds of wastes stored at facility, which is owned by state and leased to Nuclear Fuel Services, noted; map; illus (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/TINT_Radioactive_wastes%27_barrel.jpg/1280px-TINT_Radioactive_wastes%27_barrel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/03/21/archives/us-and-new-york-agree-on-disposing-of-nuclear-wastes-talks-with.html"
+        },
+        {
+          "headline": "‘Free‐for‐All’ Or Stability?; Analysts of Oil Industry Differ on World Outlook Seasonal Slump Cited Free‐for‐All’ or Stability? Analysts’ Outlooks Differ Question of ‘Production Rationing’ Need to Rebuild Inventories",
+          "summary": "analysis of OPEC's decision; says oil economists are not as concerned about rise in base price as they are about sanctioning of individual members' premiums; notes hope that supply situation may ease, taking upward pressure off prices; says big unknown is whether OPEC will be able to restrain production, thus keeping things tight as Iranian oil continues to re‐enter mkt; comments by Theodore R Eck (Indiana Standard), Exxon, Walter J Levy and John H Lichtblau (Petroleum Indus Research Foundation) (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Grangemouth04nov06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/03/28/archives/freeforall-or-stability-analysts-of-oil-industry-differ-on-world.html"
+        },
+        {
+          "headline": "CARTER, NEARING END OF VISIT, TO SEE BEGINAND SADAT AGAIN; OBSTACLES STILL BLOCK A PACT",
+          "summary": "Pres Carter has been unable to reconcile difficult issues holding up conclusion of peace treaty; scores Begin and Sadat for refusing to 'take a chance' for peace; will meet separately with them before returning to US in effort to complete treaty; illus (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Frankfurt_Airport_Middle_East_Airlines_Airbus_A321-271NX_T7-ME5_%28DSC09950%29.jpg/1280px-Frankfurt_Airport_Middle_East_Airlines_Airbus_A321-271NX_T7-ME5_%28DSC09950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1979/03/13/archives/carter-nearing-end-of-visit-to-see-begin-and-sadat-again-obstacles.html"
+        },
+        {
+          "headline": "CANADA FINDS RISE OF 28% IN GAS SALES TO U.S. IS FEASIBLE",
+          "summary": "Canada's Natl Energy Bd approves 28% increase in gas exports to US, citing more optimistic estimates of Canadian reserves and more pessimistic estimate of Canadian econ activity (M)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1979/03/01/archives/canada-finds-rise-of-28-in-gas-sales-to-us-is-feasible-8year.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/TINT_Radioactive_wastes%27_barrel.jpg/1280px-TINT_Radioactive_wastes%27_barrel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: U.S. AND NEW YORK AGREE ON DISPOSING OF NUCLEAR WASTES; ‘Free‐for‐All’ Or Stability?; CARTER, NEARING END OF VISIT, TO SEE BEGINAND SADAT AGAIN.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.673
+      }
+    }
+  ]
+}
