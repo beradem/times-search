@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T09:21:07.200618+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1992,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "NO EVIDENCE FOUND OF PATRIOT SALES BY ISRAEL TO CHINA",
+          "summary": "The State Department said today that its investigators had found \"no evidence that Israel had transferred a Patriot missile or Patriot missile technology\" to China, and added that the matter was now closed. Administration officials said that the investigation had not resolved all questions, but that given the turmoil the case was causing in United States-Israel relations, the State Department saw no point in continuing the inquiry.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/1280px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/03/world/no-evidence-found-of-patriot-sales-by-israel-to-china.html"
+        },
+        {
+          "headline": "Quotations of the Day",
+          "summary": "\"Today we welcome you as the man who closed the book of apartheid.\" PRESIDENT IBRAHIM BABANGIDA, welcoming President F. W. de Klerk to Nigeria. [ A11:1 ] \"History has kept us apart for many reasons, for many decades. Tonight we can say that the barriers of history have been broken down.\" PRESIDENT DE KLERK [ A11:1 ]",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/10/nyregion/quotations-of-the-day-428692.html"
+        },
+        {
+          "headline": "ON THE ROAD WITH: Jacques Barzaghi; What's That Glimmering Behind Jerry Brown?",
+          "summary": "DON QUIXOTE had Sancho Panza and Richard Nixon had Bebe Rebozo. Jerry Brown, who on any given day of his campaign can seem idealistic or just plain tricky, has Jacques Barzaghi. People joke that Edmund G. Brown Jr. is Governor Moonbeam, but it is Mr. Barzaghi who, behind the scenes, puts the frost on the California Flake. Anywhere Mr. Brown goes in his quest for the Democratic nomination for President, his longtime adviser and confidant is sure to be found -- and noticed. He does not travel incognito.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/02/garden/on-the-road-with-jacques-barzaghi-what-s-that-glimmering-behind-jerry-brown.html"
+        },
+        {
+          "headline": "Caterpillar's Trump Card; Threat of Permanently Replacing Strikers Gave Company Advantage Against Union",
+          "summary": "The abrupt end of a five-month strike against Caterpillar Inc. showed that management can bring even a union so mighty and rich as the United Automobile Workers to its knees by asserting that experienced machinists, tool makers and technicians add no more value to the products they make than an untrained job hunter who comes in off the street. Half a century ago, under the leadership of Walter Reuther, the union vaulted the blue-collar work force into the middle class, forcing Henry Ford and the other sultans of Detroit to treat workers as something more than biceps and sweat. But the Caterpillar strike suggests that the Ford strain of American management is alive and well in Peoria, and Mr. Reuther and the American labor movement are not.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg/1280px-George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1992/04/16/us/caterpillar-s-trump-card-threat-permanently-replacing-strikers-gave-company.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/1280px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: NO EVIDENCE FOUND OF PATRIOT SALES BY ISRAEL TO CHINA; Quotations of the Day; ON THE ROAD WITH: Jacques Barzaghi.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2011,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "Data Show Bin Laden Plots; C.I.A. Hid Near Raided House",
+          "summary": "Seized documents prompted U.S. officials to issue a warning that Al Qaeda had considered attacks on U.S. railroads. The C.I.A. also had Bin Laden’s compound under surveillance.",
+          "image": "https://static01.nyt.com/images/2011/05/07/world/07pakistan2-span/07pakistan2-span-articleLarge-v2.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2011/05/06/world/asia/06intel.html"
+        },
+        {
+          "headline": "Malick’s Film Adds a Dose of Sincerity to the Festivities",
+          "summary": "In “The Tree of Life” Terrence Malick takes a direct approach in asking some big questions.",
+          "image": "https://static01.nyt.com/images/2011/05/17/arts/JPMALICK/JPMALICK-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2011/05/17/movies/terrence-malick-asks-big-questions-in-the-tree-of-life.html"
+        },
+        {
+          "headline": "For Obama, Big Rise in Poll Numbers After Bin Laden Raid",
+          "summary": "A majority now approves of the president’s overall job performance, as well as his handling of foreign policy, according to the latest New York Times/CBS News poll.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Gary_Martin%2C_United_States_politics_and_government_reporter.jpg/1280px-Gary_Martin%2C_United_States_politics_and_government_reporter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2011/05/05/us/politics/05poll.html"
+        },
+        {
+          "headline": "Next for ‘Survivor’ Producer: Bible-Based Scripted Drama",
+          "summary": "Mark Burnett, reality-television producer extraordinaire, will step into the realm of scripted drama with the development of a 10-hour series of biblical stories for the History Channel.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Cptvdisplay.jpg/1280px-Cptvdisplay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2011/05/24/arts/television/reality-tv-producer-mark-burnett-tackles-the-bible.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2011/05/07/world/07pakistan2-span/07pakistan2-span-articleLarge-v2.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Data Show Bin Laden Plots; Malick’s Film Adds a Dose of Sincerity to the Festivities; For Obama, Big Rise in Poll Numbers After Bin Laden Raid.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.866
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1948,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "CEASE-FIRE TODAY IN ALL JERUSALEM SET BY ARABS, JEWS; Briton Gets Azzam Pasha's Pledge for Halt at Noon -- Food Route Not Affected ZIONISTS CLAIM VILLAGES British Ask U. N. to Name City Commissioner -- Choice of an American Likely TRAINING MEN FOR THE JEWISH ARMY IN PALESTINE CEASE-FIRE TODAY SET IN JERUSALEM",
+          "summary": "Arabs and Jews agree to cease fire in entire city as result of A R Azzam Pasha conf with Cunningham, Jericho; earlier gun battle in Montefiore sec noted",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg/1280px-Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1948/05/08/archives/ceasefire-today-in-all-jerusalem-set-by-arabs-jews-briton-gets.html"
+        },
+        {
+          "headline": "ISRAEL USES FLIERS TO STRIKE IN NORTH; RETIRES IN OLD CITY; Air Force's Initial Blow Hits Samakh Area -- Ground Unit Enters Syria, Razes Depot JERUSALEM BATTLE RAGES Arabs Claim Control of 80% of Walled Area -- Egyptian Troops Seize Beersheba ISRAEL USES FLIERS TO STRIKE IN NORTH A NERW AIR FORCE ENTERS PALESTINE WARFARE",
+          "summary": "Israel uses planes for 1st time to bomb Iraqis and Arab Legion near Galilee Sea; Haganah claims Syrian supply camp destroyed; Tel Aviv bombed; Irgun claims 1 plane downed; Egypt claims Beersheba and 2 coastal towns; map",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Survey_of_Palestine_1942-1958_1-100%2C000_sheet_index_georef.png/1280px-Survey_of_Palestine_1942-1958_1-100%2C000_sheet_index_georef.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1948/05/21/archives/israel-uses-fliers-to-strike-in-north-retires-in-old-city-air-force.html"
+        },
+        {
+          "headline": "14 OF 23.CONTESTS IN OHIO SHOW TAFT AHEAD OF STASSEN; Senator Leads for All Nine Delegates-at-Large and in 13 District Races TREND SHIFTS POSSIBLE Turnout Is Heavy in the GOP Primary and Count Is Slow -- Lausche Defeats Miller AS THE REPUBLICAN PRIMARY CONTEST IN OHIO NEARED ITS CLOSE YESTERDAY TAFT TAKES LEAD IN OHIO PRIMARY",
+          "summary": "Ohio early primary returns give Taft lead over Stassen in 14 of 23 contests; Marshall trails",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kanye_West_North_Charleston_Rally%2C_July_2020_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1948/05/05/archives/14-of-23contests-in-ohio-show-taft-ahead-of-stassen-senator-leads.html"
+        },
+        {
+          "headline": "STEELMAN PARLEYS WITH RAIL UNIONS MAKE NO PROGRESS; After 'Exploratory' Talks Fail, Truman Aide Confers Briefly With Faricy, Roads' Leader TO MEET CARRIERS TODAY Their Negotiators Are Called From Chicago -- Truman Meets Cabinet -- No Seizure Move RAIL PEACE TALKS MAKE NO PROGRESS",
+          "summary": "shippers of perishables press Truman to avert strike",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Tsai_Ing-wen_talks_with_MODA_officials_01.jpg/1280px-Tsai_Ing-wen_talks_with_MODA_officials_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1948/05/08/archives/steelman-parleys-with-rail-unions-make-no-progress-after.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg/1280px-Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: CEASE-FIRE TODAY IN ALL JERUSALEM SET BY ARABS, JEWS; ISRAEL USES FLIERS TO STRIKE IN NORTH; 14 OF 23.CONTESTS IN OHIO SHOW TAFT AHEAD OF STASSEN.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.623
+      }
+    }
+  ]
+}
