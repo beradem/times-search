@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T08:50:06.023241+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1886,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "BARTHOLDI WELL PLEASED; VIEWING, WITH HIS FRIENDS, HIS COMPLETED WORK. THE FRENCH GUESTS IN THE CITY--A TRIP TO BEDLOW'S ISLAND--PREPARING FOR THE CELEBRATION.",
+          "summary": "It was not the least use in the world for Louis de Bebian to try and look calm as he rushed hither and thither on the dock of the Compagnie Generale Transatlantique at 7:30 o'clock yesterday morning. Fatigue and anxiety were written on his face; they could be noticed in his actions, and they were still more conspicuous in his speech. \"Where are you going to take them?\"...",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/American-Vets-Disabled-Life-Memorial.jpg/1280px-American-Vets-Disabled-Life-Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/26/archives/bartholdi-well-pleased-viewing-with-his-friends-his-completed-work.html"
+        },
+        {
+          "headline": "INDORSING MR. ROOSEVELT; AN ENTHUSIASTIC MEETING OF THE UNION LEAGUE. THE CLUB LISTENS TO RINGING SPEECHES AND PLEDGES ITS SUPPORT TO THE REPUBLICAN CANDIDATE.",
+          "summary": "Roosevelt's Mayoralty Nomination Indorsed",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/1280px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/22/archives/indorsing-mr-roosevelt-an-enthusiastic-meeting-of-the-union-league.html"
+        },
+        {
+          "headline": "CLOUD-CAPPED ST.ELIAS; PERILOUS WORK OF \"THE TIMES\" ALASKA EXPEDITIDN. CLIMBING THE ICE-LOCKED MOUNT. TOILING OVER THE GLACIERS TO THE BASE OF THE TOWERING MOUNTAIN --CREVASSES HIDDEN BY TREACHEROUS SNOW BRIDGES-THE PARTY TIED TO A ROPE TO SECURE SAFETY-AN ALTITUDE OF 7,200 FEET REACHED BEFORE NATURE'S IMPASSABLE BARRIER FORBADE FURTHER PROGRESS--THE HIGHEST CLIMB ABOVE THE SNOW LIMIT EVER MADE.",
+          "summary": "BASE OF MOUNT ST.ELIAS, Alaska,,. This camp, No.4, in which we found ourselves under the protection of the great high evergreen trees and on the soft carpet of moss under them, was, as any one would imagine, a most acceptable camp after the dismal bivouac on the ice and the hardly",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Anchorage%2C_Alaska_skyline.jpg/1280px-Anchorage%2C_Alaska_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/07/archives/cloudcapped-stelias-perilous-work-of-the-times-alaska-expeditidn.html"
+        },
+        {
+          "headline": "BRITISH PIRATES AT WORK; BURNING EASTPORT INVADED AND PILLAGED. THIEVES FROM OVER THE BORDER BOLDLY SAIL TO THE DISTRESSED TOWN AND ROB RIGHT AND LEFT.",
+          "summary": "British Pirates' Thefts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/19/archives/british-pirates-at-work-burning-eastport-invaded-and-pillaged.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/American-Vets-Disabled-Life-Memorial.jpg/1280px-American-Vets-Disabled-Life-Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: BARTHOLDI WELL PLEASED; INDORSING MR. ROOSEVELT; CLOUD-CAPPED ST.ELIAS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.135
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1945,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "FOE'S ENVOYS CONFER IN MANILA; ASK SWIFT DISARMING OF JAPAN; WAINWRIGHT FOUND WELL IN CAMP; STEPS OF DEFEAT: JAPANESE ENVOYS ARRIVING IN MANILA FOE'S EMISSARIES CONFER IN MANILA New Yorkers Among Guards U.S. Silent on Kuriles",
+          "summary": "Heads MacArthur reprs, Jap surrender conf at Manila",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Order_of_Sikatuna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/20/archives/foes-envoys-confer-in-manila-ask-swift-disarming-of-japan.html"
+        },
+        {
+          "headline": "POTSDAM TERMS ACCEPTED, DOMEI SAYS; An Imperial Message Is Forthcoming Soon,' Official News Agency Reports in Broadcast at 1:49 A.M. DISCLOSES LONG SESSION BY CABINET FCC Monitors Hear Code Dispatch Being Sent by Japanese to Switzerland--Washington Began to Suspect 'Stalling' Message to Switzerland Heard Cheering Greets Report in Guam Capital Awaited Reply All Day DOMEI ANNOUNCES FOE'S SURRENDER Japanese End Vigil Swiss Blame Japanese",
+          "summary": "all-day vigil cited",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1945/08/14/archives/potsdam-terms-accepted-domei-says-an-imperial-message-is.html"
+        },
+        {
+          "headline": "ARMED ESCORT SET; 350 Planes Will Carry Troops to an Airfield Southwest of Tokyo JAPAN REPORTS TYPHOON Says Storm in Kanto District Has Delayed Preparations for Entry of Allies Ships to Begin Disarmament Asks for Data on Newsmen Five Exceptions Requested 7,500 SKY TROOPS TO LAND IN JAPAN JAPAN WARNED ON CLASHES Home Ministry Issues Instructions to People During Occupation",
+          "summary": "gives up post of War Min",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Japanned_tea_tray_Birmingham_History_Galleries_%288162317815%29.jpg/1280px-Japanned_tea_tray_Birmingham_History_Galleries_%288162317815%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/24/archives/armed-escort-set-350-planes-will-carry-troops-to-an-airfield.html"
+        },
+        {
+          "headline": "FRENCH ASK LOANS OF BILLION HERE; Paris Officials Reveal Request as de Gaulle and Party Return by Plane TOP PRIORITY ALSO SOUGHT France Wants Credits Given in Three Parts, as Well as Aid in Reconstruction Believe Air Is Cleared No Pledge on Third Loan",
+          "summary": "French reptd disappointed at US plan to distribute captured gold among liberated countries in proportion to losses",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Anterior_cruciate_ligament_repair_3_legend.jpg/1280px-Anterior_cruciate_ligament_repair_3_legend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/31/archives/french-ask-loans-of-billion-here-paris-officials-reveal-request-as.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Order_of_Sikatuna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FOE'S ENVOYS CONFER IN MANILA; POTSDAM TERMS ACCEPTED, DOMEI SAYS; ARMED ESCORT SET.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2010,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "BP Is Criticized\r\nOver Oil Spill, but U.S. Missed\r\nChances to Act",
+          "summary": "As oil edged toward the Louisiana coast and officials assailed BP America’s response, a government agency also said the flow from a seabed oil well could grow much larger.",
+          "image": "https://static01.nyt.com/images/2010/05/01/us/01gulf1-cnd/01gulf1-cnd-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/05/01/us/01gulf.html"
+        },
+        {
+          "headline": "Republicans Reject Finance Bill Again, and Offer a Plan of Their Own",
+          "summary": "The Senate rejected a second Democratic attempt to bring the regulatory bill to the floor of the Senate, prompting a rebuke from President Obama.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London.bankofengland.arp.jpg/1280px-London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2010/04/28/business/28regulate.html"
+        },
+        {
+          "headline": "Mortgage Deals\r\nUnder Scrutiny as Goldman Faces Senators",
+          "summary": "The legal storm buffeting Goldman Sachs continued to rage Tuesday just ahead of what is expected to be a contentious Senate hearing into its actions during the housing crisis.",
+          "image": "https://static01.nyt.com/images/2010/04/27/business/27goldman_CA0/27goldman_CA0-thumbStandard.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/04/27/business/27goldman.html"
+        },
+        {
+          "headline": "Elite U.S. Units Step Up Effort in Afghan City Before Attack",
+          "summary": "Elite forces are picking off insurgents to weaken the Taliban as the looming battle for Kandahar is shaping up as the pivotal test of President Obama’s Afghanistan strategy.",
+          "image": "https://static01.nyt.com/images/2010/04/26/world/26kandahar_CA0/26kandahar_CA0-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2010/04/26/world/asia/26kandahar.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2010/05/01/us/01gulf1-cnd/01gulf1-cnd-articleLarge.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: BP Is Criticized\r\nOver Oil Spill, but U.S. Missed\r\nChances to Act; Republicans Reject Finance Bill Again, and Offer a Plan of Their Own; Mortgage Deals\r\nUnder Scrutiny as Goldman Faces Senators.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.58
+      }
+    }
+  ]
+}
