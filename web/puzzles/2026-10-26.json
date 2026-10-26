@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T10:02:22.510369+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1881,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "THE GLOOM AT THE CAPITAL.; A VERY QUIET FOURTH--DEEP ANXIETY MANIFESTED ON EVERY HAND--ADMIRATION FOR THE PRESIDENT'S HEROIC CONDUCT--A SUPPRESSED FEELING OF ANGER AGAINST GUITEAU. HEROISM OF THE PRESIDENT AND HIS WIFE THE DASTARDLY ASSASSIN.",
+          "summary": "WASHINGTON,.--The Chief of Police of this city issued an order on Sunday evening, as THE TIMES has already been informed, to prevent the setting off of fire-crackers and other explosives. It is only just, as it is creditable, to the people here to say that the order was altogether unnecessary, because of...",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Palace_of_the_Governors.jpg/1280px-Palace_of_the_Governors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1881/07/05/archives/the-gloom-at-the-capital-a-very-quiet-fourthdeep-anxiety-manifested.html"
+        },
+        {
+          "headline": "THE PRESIDENT'S CONDITION.; JOYFUL NEWS FOR THE PATIENT WATCHERS IN AND ABOUT THE WHITE HOUSE FOLLOWED BY DISCOURAGING TIDINGS--HIS TENDER NURSES--A GOOD OMEN--NO VISITORS ALLOWED TO SEE THE PATIENT --INCIDENTS OF THE DAY. THE EARLY HOURS AT THE WHITE HOUSE THE ATTENDANTS ON THE SUFFERER. A GOOD OMEN. MORE JOYFUL NEWS. SOME UNFAVORABLE SYMPTOMS. GLOOMY FOREBODINGS.",
+          "summary": "WASHINGTON,.--The feeling in this city has changed within the past 24 hours from that of the utmost alarm to one of hope and joy.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/LBJOathOfOffice1963.jpg/1280px-LBJOathOfOffice1963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1881/07/04/archives/the-presidents-condition-joyful-news-for-the-patient-watchers-in.html"
+        },
+        {
+          "headline": "THE SUFFERER AT MIDNIGHT.; A SUMMARY OF HIS CONDITION--UNFAVORABLE SYMPTOMS FOLLOWED BY HOPEFUL ONES--THE PRESENT THE MOST CRITICAL PERIOD--THE DOCTORS NEITHER DISHEARTENED NOR SANGUINE.",
+          "summary": "Midnight.--There has been a marked improvement in the condition of the President since 9 o'clock. Previous to that hour there were indications of a rapid decline, and to an extent that alarmed the physicians. During the day the bulletins given to the public were of the same hopeful character as...",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/RiseAgainst2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1881/07/05/archives/the-sufferer-at-midnight-a-summary-of-his-conditionunfavorable.html"
+        },
+        {
+          "headline": "HIS CONDITION MORE AND MORE HOPEFUL.; ANOTHER COMFORTABLE DAY AND NIGHT PASSED--NO UNFAVORABLE SYMPTOMS-- HIS ATTENDANTS STILL FURTHER ENCOURAGED--PUBLIC ANXIETY ALLAYED.",
+          "summary": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Claude_Simon_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1881/07/09/archives/his-condition-more-and-more-hopeful-another-comfortable-day-and.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Palace_of_the_Governors.jpg/1280px-Palace_of_the_Governors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: THE GLOOM AT THE CAPITAL.; THE PRESIDENT'S CONDITION.; THE SUFFERER AT MIDNIGHT..",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.001
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1939,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "6 U.S. SHIPS KEPT IN PORT AS SEAMEN HOLD OUT FOR PAY; Stalemate Results Over War Risk Insurance Demands-- No Solution Seen Near FRIED CALLS 12 SAILORS Plans Inquiry on Tie-Up of American Trader--Owners Say Capital Must Act",
+          "summary": "American merchant shipping was badly hampered in New York harbor yesterday when the crews of six vessels refused to sail their ships, insisting on concrete concessions to their demands for extra compensation for entering European waters affected by the war.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/1280px-RMS_Titanic_3_%28cropped_to_ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1939/09/17/archives/6-us-ships-kept-in-port-as-seamen-hold-out-for-pay-stalemate.html"
+        },
+        {
+          "headline": "Bulletins on European Conflict; Air Raid Warning in London Ribbentrop Gives Reply to British Envoy American Diplomats' Families Leave Reich War Announced in France No News\" at the German Embassy Denies Poles Got Five-Power Parley Offer 1,000 Americans Sail on French Liner Heavy Fighting Is Reported in Silesia Bulletins on European Conflict Burckhardt in Kaunas en Route to London German Plane Disabled by Polish Fire Netherland Air Service to East Suspended Two Japanese Ambassadors Expected to Retire Egypt Declares Martial Law",
+          "summary": "Warsaw bombed",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1939/09/03/archives/bulletins-on-european-conflict-air-raid-warning-in-london.html"
+        },
+        {
+          "headline": "ROME ASKED PEACE; Pressed Its Proposal for a 5-Power Parley on Britain and France WAR MEASURES CUT Press Expressed the Hope Germany Would Win in Poland For Wide Settlement ITALY IS SEEKING A 5-POWER PARLEY War Measures Reduced",
+          "summary": "war measures reduced",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tiered_defense_and_high_energy_laser_weapon_system.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1939/09/03/archives/rome-asked-peace-pressed-its-proposal-for-a-5power-parley-on.html"
+        },
+        {
+          "headline": "BRITISH TAXED 37 % OF INCOME FOR WAR; Levy on $10 Weekly Earnings and Surtaxes Up to 80% Voted Without Protest Exemptions Are Slashed BRITISH TAXED 37 % OF INCOME FOR WAR Implications Realized Slowly Not Yet Time For a Loan Costs to Be Drastically Curbed Clue to Avoidance of Loans Forsees German Inflation",
+          "summary": "Brit tax raised",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg/1280px-MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1939/09/28/archives/british-taxed-37-of-income-for-war-levy-on-10-weekly-earnings-and.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/RMS_Titanic_3_%28cropped_to_ship%29.jpg/1280px-RMS_Titanic_3_%28cropped_to_ship%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 6 U.S. SHIPS KEPT IN PORT AS SEAMEN HOLD OUT FOR PAY; Bulletins on European Conflict; ROME ASKED PEACE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.536
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1914,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "ARMED LINER SUNK BY THE BRITISH; Cruiser High Flyer Sends Kaiser Wilhelm der Grosse to Bottom Off African Coast. WAS COMMERCE DESTROYER British Lose One Killed and Five Wouded ;- Survivors of Kaiser Landed. GERMAN CRUISER SMASHED Magdeburg, Stranded and Attacked by Russians, Blown Up ;- 17 Killed ;- Mines Sink Two Ships.",
+          "summary": "British cruiser Highflyer sinks Kaiser Wilhelm der Grosse",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Alcantara_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/28/archives/armed-liner-sunk-by-the-british-cruiser-high-flyer-sends-kaiser.html"
+        },
+        {
+          "headline": "KAISER IGNORES JAPAN'S DEMAND; TIME LIMIT ENDS; German Government Makes No Reply to Ultimatum ;- War Is Probably Now On. ENVOY ORDERED TO LEAVE Japanese Charge Instructed Throug h Washington to Quit Berlin at 4 A.M. Today. JAPAN EMBARKS TROOPS Shanghai Hears That 16,000 Men Are on Transports Ready to Move on Kiao-Chau. BIG FLEET ALSO ON PATROL London and Washington Both Believe Japan Will Begin Attack on Germans at Once. ALL NON-COMBATANTS FLEE American Ambassadors to Take Charge of Japanese and German Interests in Hostile Lands. KAISER IGNORES JAPAN'S DEMAND",
+          "summary": "Ambassadors will protect German and Japanese interests during hostilities",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/23/archives/kaiser-ignores-japans-demand-time-limit-ends-german-government.html"
+        },
+        {
+          "headline": "Kaiser at the Front With His Three Sons; Berlin Press Hails His Act With Enthusiasm",
+          "summary": "arrives at Mainz",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg/1280px-Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/18/archives/kaiser-at-the-front-with-his-three-sons-berlin-press-hails-his-act.html"
+        },
+        {
+          "headline": "ITALY WITH 800,000 MAY JOIN THE ALLIES; Swiss Papers Learn of Country-Wide Preparations for War ;- French Frontier Vacated.",
+          "summary": "England is key to Italy's attitude toward Triple Alliance",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Portland_HeadLight_%28cropped%29.jpg/1280px-Portland_HeadLight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/30/archives/italy-with-800000-may-join-the-allies-swiss-papers-learn-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Alcantara_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ARMED LINER SUNK BY THE BRITISH; KAISER IGNORES JAPAN'S DEMAND; Kaiser at the Front With His Three Sons.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.545
+      }
+    }
+  ]
+}
