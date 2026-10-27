@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T09:46:06.579911+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1998,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "DEBATE ON IMPEACHMENT BEGINS AS LAWYERS MAKE FINAL PLEAS; PANEL'S FIRST VOTE LIKELY TODAY",
+          "summary": "House Judiciary Com begins debating four articles of impeachment after Republican and Democratic lawyers make their final arguments over Pres Clinton's fate, marshaling videotapes, words of nation's founders and competing views of the evidence; Speaker Newt Gingrich instructs lame-duck Congress to be ready to return next week; sets next Thursday,, as day that House could begin considering impeachment; it would be only the second time in nation's history that House had been called upon to take such a vote; 37-member panel plans to vote on Friday and Saturday whether to charge Clinton with two counts of perjury and with obstruction of justice and abuse of power; Republicans say it is certain that committee will recommend Clinton's removal from office; photos of Republican counsel David P Schippers and Democratic counsel Abbe D Lowell (L)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Processo_de_impeachment_de_Dilma_Rousseff.jpg/1280px-Processo_de_impeachment_de_Dilma_Rousseff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1998/12/11/us/testing-president-hearings-debate-impeachment-begins-lawyers-make-final-pleas.html"
+        },
+        {
+          "headline": "A Writer With an Ear for the Melody of Peasant Speech; The New Nobel Prize Winner Jose Saramago Trains an Outsider's Irony on Time, Faith and History",
+          "summary": "Interview with Jose Saramago of Portugal, new Nobel laureate in literature; photo (M)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1998/12/03/books/writer-with-ear-for-melody-peasant-speech-new-nobel-prize-winner-jose-saramago.html"
+        },
+        {
+          "headline": "The Nation: Battles Joined -- A Country at War, Both Abroad and at Home; Behind the Urge to Impeach",
+          "summary": "Republican motivation for pursuing impeachment of Pres Clinton, in face of considerable evidence that American public is firmly in his corner, discussed; photo; polls obscure depth of Republican anger, tepidness of nation's support for Clinton and, most of all, that fact that when it comes to Congress, all politics really is local (S)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1998/12/20/weekinreview/nation-battles-joined-country-war-both-abroad-home-behind-urge-impeach.html"
+        },
+        {
+          "headline": "Government Scandal: No Stranger in Brookhaven; Extortion Charges Are Latest on a Long List",
+          "summary": "Few suburban towns have been touched by scandal as often as Brookhaven, NY, where patronage and payoffs seem as much part of landscape as subdivisions and strip malls; town has grown from population of 44,000 in to 435,000 in; in every decade since 's, growth has been accompanied by brazen instances of graft by town officials; Suffolk County Republican leader John Powell, in latest scandal, was arrested on on Federal charges that he had extorted money from trash haulers seeking access to town dump; map; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Aristotelis_De_Moribus_ad_Nicomachum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1998/12/16/nyregion/government-scandal-no-stranger-brookhaven-extortion-charges-are-latest-long-list.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Processo_de_impeachment_de_Dilma_Rousseff.jpg/1280px-Processo_de_impeachment_de_Dilma_Rousseff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: DEBATE ON IMPEACHMENT BEGINS AS LAWYERS MAKE FINAL PLEAS; A Writer With an Ear for the Melody of Peasant Speech; The Nation: Battles Joined -- A Country at War, Both Abroad and at Home.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.92
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1986,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "THE SHUTTLE EXPLODES: 6 IN CREW AND HIGH-SCHOOL TEACHER ARE KILLED 74 SECONDS AFTER LIFTOFF",
+          "summary": "The space shuttle Challenger exploded in a ball of fire shortly after it left the launching pad today, and all seven astronauts on board were lost. The worst accident in the history of the American space program, it was witnessed by thousands of spectators who watched in wonder, then horror, as the ship blew apart high in the air. Flaming debris rained down on the Atlantic Ocean for an hour after the explosion, which occurred just after 11:39 A.M. It kept rescue teams from reaching the area where the craft would have fallen into the sea, about 18 miles offshore. It seemed impossible that anyone could have lived through the terrific explosion 10 miles in the sky, and officials said this afternoon that there was no evidence to indicate that the five men and two women aboard had survived. No Ideas Yet as to Cause There were no clues to the cause of the accident. The space agency offered no immediate explanations, and said it was suspending all shuttle flights indefinitely while it conducted an inquiry. Officials discounted speculation that cold weather at Cape Canaveral or an accident several days ago that slightly damaged insulation on the external fuel tank might have been a factor.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1986/01/29/us/shuttle-explodes-6-crew-high-school-teacher-are-killed-74-seconds-after-liftoff.html"
+        },
+        {
+          "headline": "FINANCIAL CORP. REPORTS EARNINGS OF $97 MILLION",
+          "summary": "The Financial Corporation of America reported today that it earned $97 million, or $2.58 a share, in the fourth quarter, giving it an overall profit in of $53.3 million. Analysts said the results indicated the progress the nation's largest thrift company has made after its record loss in of $590.5 million. Financial Corporation also said it had agreed in principle to settle class action suits based on charges of misleading financial reporting when the company was under different management. In August Federal regulators disapproved of Finacical Corporation's accounting methods and forced the company to restate income figures as substantial losses. That touched off a run on deposits, and the company has since been fighting for its life. Under the settlement, the company would issue new common stock worth between $32 million and $43 million to people who purchased Financial Corporation's securities between and.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1986/01/30/business/financial-corp-reports-earnings-of-97-million.html"
+        },
+        {
+          "headline": "U.S. WEIGHS ASSIGNING WARSHIPS TO ESCORT DUTY IN THE PERSIAN GULF",
+          "summary": "The Administration is considering assigning Navy warships to escort American merchant vessels in the Persian Gulf to prevent another boarding by armed Iranians, State Department officials said today. Administration officials acknowledged that Washington was caught off guard on Sunday when an Iranian Navy ship forced an American freighter, the President Taylor, to stop in the Gulf of Oman and submit to a search for war materiel for Iraq. When no such goods were found, the freighter was allowed to proceed to Fujaira, its desination in the United Arab Emirates. Possible Future Course A possible future course of action, officials said, would be for the United States to declare that the cargoes of American merchant ships were free of war materiel for Iraq and to authorize Navy warships to use force if necessary to keep the Iranians away. This could lead to a confrontation with the Iranians if they pressed their right to board a ship, but Administration officials said they did not believe the Iranians force the issue.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/1280px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/01/15/world/us-weighs-assigning-warships-to-escort-duty-in-the-persian-gulf.html"
+        },
+        {
+          "headline": "EDITORS' NOTE",
+          "summary": "A report in New York Day by Day on described a protest by a Porsche owner, Donald Schupak, who hired a picket to walk outside the two sites of Porsche-Audi Manhattan Inc. with a sign saying, ''Porsche-Audi Manhattan Does Not Honor Its Repair Warranties.'' Mr. Schupak contended that after his car had been repaired and the problem recurred, the shop failed to honor the warranty on the first repair. Mr. Schupak refused to pay for the second repair, and his car remained in the shop.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/US_Penitentiary%2C_Lompoc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1986/01/22/nyregion/editors-note-255186.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Among the month's major headlines: THE SHUTTLE EXPLODES: 6 IN CREW AND HIGH-SCHOOL TEACHER ARE KILLED 74 SECONDS AFTER LIFTOFF; FINANCIAL CORP. REPORTS EARNINGS OF $97 MILLION; U.S. WEIGHS ASSIGNING WARSHIPS TO ESCORT DUTY IN THE PERSIAN GULF.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1993,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "EXPLOSION AT THE TWIN TOWERS: The Overview; BLAST HITS TRADE CENTER, BOMB SUSPECTED; 5 KILLED, THOUSANDS FLEE SMOKE IN TOWERS",
+          "summary": "An explosion apparently caused by a car bomb in an underground garage shook the World Trade Center in lower Manhattan with the force of a small earthquake shortly after noon yesterday, collapsing walls and floors, igniting fires and plunging the city's largest building complex into a maelstrom of smoke, darkness and fearful chaos. The police said the blast killed at least five people and left more than 650 others injured, mostly with smoke inhalation or minor burns, but dozens with cuts, bruises, broken bones or serious burns. The police said 476 were treated at hospitals and the rest by rescue and medical crews at the scene.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/WTC_collapse_before_and_after.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/27/nyregion/explosion-twin-towers-overview-blast-hits-trade-center-bomb-suspected-5-killed.html"
+        },
+        {
+          "headline": "Woman in the News: CLINTON PICKS MIAMI WOMAN, VETERAN STATE PROSECUTOR, TO BE HIS ATTORNEY GENERAL; Tough 'Front-Line Warrior' Janet Reno",
+          "summary": "MIAMI, As State Attorney for Dade County for 15 years, Janet Reno has grown accustomed to controversy and conflict. A largely liberal Democrat in a mostly conservative Republican county, she has lost some big cases, but won enough to convince voters that no one can be more effective in one of the most difficult law enforcement jobs in the country. Race riots, crime waves, drug cartels, massive waves of immigrants, political corruption and police brutality are among the problems that Ms. Reno has confronted and survived. Now, after the collapse of two other attempts to nominate a woman as Attorney General, President Clinton has called upon the 54-year-old prosecutor to fight many of those same battles at the national level. - Mayor Seymour Gelber of Miami Beach, the former judge and prosecutor who hired Ms. Reno to the State Attorney's office here, called her \"a truly experienced big city prosecutor, a front-line warrior who has fought all the battles and faced all the slings and arrows.\" He added: \"She is a tough, tough lady. She has a soft, genteel way about her, but she is an adversary of steel.\" Speaking Her Mind",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/12/us/woman-clinton-picks-miami-woman-veteran-state-prosecutor-be-his-attorney-general.html"
+        },
+        {
+          "headline": "This Week's Numbers",
+          "summary": "Last Consensus Period Estimates (I.D.E.A. Inc.) Tuesday Dec. wholesale trade, percent change 0.4 0.6 Thursday Weekly jobless claims, thousands 352 325 January retail sales, percent change 1.2 0.4 Friday January producer prices, percent change 0.2 0.2 Dec. business inventories, percent change 0.2 0.1 Tuesday: Treasury auctions 3-year notes Wednesday: Treasury auctions 10-year notes Thursday: Treasury auctions 30-year bonds",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/07/business/this-week-s-numbers.html"
+        },
+        {
+          "headline": "National Recovery Fattening Tax Revenue in Many States",
+          "summary": "Evidence is continuing to build that the nation's economic expansion that took hold in the second half of is having a positive effect on battered state finances. Tax collections, not including legislated tax increases, rose nearly 6 percent in the fourth quarter compared with a year earlier, according to a survey of state tax officials by the Center for the Study of States, a research concern in Albany. That is the biggest increase since the beginning of the recent recession and five times last year's rise.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Lights_of_Rockefeller_Center_during_sunset.jpg/1280px-Lights_of_Rockefeller_Center_during_sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/17/us/national-recovery-fattening-tax-revenue-in-many-states.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/WTC_collapse_before_and_after.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EXPLOSION AT THE TWIN TOWERS: The Overview; Woman in the News: CLINTON PICKS MIAMI WOMAN, VETERAN STATE PROSECUTOR, TO BE HIS ATTORNEY GENERAL; This Week's Numbers.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
