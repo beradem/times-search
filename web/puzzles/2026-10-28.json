@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T10:31:40.535431+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1964,
+        "month": 7
+      },
+      "stories": [
+        {
+          "headline": "PRESIDENT SIGNS CIVIL RIGHTS BILL; BIDS ALL BACK IT; Approves Sweeping Measure 5 Hours After Passage in House by 289‐126 Vote; ASKS END OF INJUSTICE; Johnson Urges Closing of ‘Springs of Racial Poison’—Maps Enforcement",
+          "summary": "HR, 289-126, approves Sen version of civil rights Act including provisions barring discrimination in employment and union membership, Pres Johnson signs it",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/03/archives/president-signs-civil-rights-bill-bids-all-back-it-approves.html"
+        },
+        {
+          "headline": "GOLDWATER JOINS JOHNSON IN A BAN ON INCITING RACES; 2 Agree at White House Talk in Saying ‘Tension Should Be Avoided’ in Campaign; CONFER FOR 16 MINUTES; But President Declares He Will Discuss Rights Issue During Election Drive",
+          "summary": "Johnson, Goldwater agree that racial tension should be avoided in campaign, statement issued after White House meeting; text; Johnson commented on meeting at earlier press conf",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2024_Taiwanese_presidential_election_county_and_city_results.png/1280px-2024_Taiwanese_presidential_election_county_and_city_results.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/25/archives/goldwater-joins-johnson-in-a-ban-on-inciting-races-2-agree-at-white.html"
+        },
+        {
+          "headline": "The U. S. Under the Civil Rights Act: Despite Some Bitter Resistance, Compliance Is Generally Good; NEGROES IN SOUTH TEST RIGHTS ACT; RESISTANCE LIGHT; A Steak House in Virginia and a Pool in Georgia Are Integrated Peacefully; BIRMINGHAM IS OBEYING; Chamber of Commerce Asks Compliance in Jackson—Atlanta Cafe Defiant",
+          "summary": "Negroes test act in South, encounter only scattered resistance; driven away from Atlanta restaurant by owner L Maddox with pistol and whites wielding ax handles; illus; Birmingham restaurants quietly desegregated; test avoided in St Augustine and other cities",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Book_of_Negroes%2C_Samuel_Birch.png/1280px-Book_of_Negroes%2C_Samuel_Birch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/04/archives/the-u-s-under-the-civil-rights-act-despite-some-bitter-resistance.html"
+        },
+        {
+          "headline": "JOHNSON REJECTS DE GAULLE'S CALL FOR TALKS ON ASIA; Won't Put Indochina's Fate Up to a Neutrality Parley ‘Called to Ratify Terror’; TIES TO SAIGON PRAISED; President Seeks to Counter Reports of Disagreement Over Khanh's Militancy",
+          "summary": "Pres Johnson says US will take any action necessary to support freedom and independence of S Vietnam until Communists hon peace accords, news conf; suggests, without mentioning repts of discord, that there has been no misunderstanding between US and Nguyen Khanh, stresses close Nguyen Khanh-Taylor ties; in effect contradicts repts of US officials concern over S Vietnamese leaders statements",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1964/07/25/archives/johnson-rejects-de-gaulles-call-for-talks-on-asia-wont-put.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: PRESIDENT SIGNS CIVIL RIGHTS BILL; GOLDWATER JOINS JOHNSON IN A BAN ON INCITING RACES; The U. S. Under the Civil Rights Act: Despite Some Bitter Resistance, Compliance Is Generally Good.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.566
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1901,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "LONDON TOPICS OF THE WEEK; No Lesson in the Conservative Victory in Northeast Lanarkshire. Liberals Still Divided -- High Honors for Soldiers Who Have Not Yet Received Their Pay. Czolgosz's Crime Reacts Upon Irish Agitators, Whose Intemperate Language Is Condemned -- Active Movement for a Redistribution of Seats -- Labor Problems.",
+          "summary": "Fishermen's Strike; Miners' Convention",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/1280px-Jack_London_young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/29/archives/london-topics-of-the-week-no-lesson-in-the-conservative-victory-in.html"
+        },
+        {
+          "headline": "PRINCE CHUN GOING HOME; He Has Been Ordered to Return to China Immediately. UNABLE TO VISIT AMERICA Berlin Kreuz Zeitung Thinks the Prince Has Been Treated Too Well While in Germany.",
+          "summary": "Ordered Home",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1901/09/26/archives/prince-chun-going-home-he-has-been-ordered-to-return-to-china.html"
+        },
+        {
+          "headline": "FRANCE GREETS THE CZAR; He Lands at Dunkirk and Later Goes to Compiegne. OBJECT OF THE FESTIVITIES Behind All the Fetes and Decorations Is the Desire of France to Prove Her Military and Naval Power.",
+          "summary": "Dunkirk and Compiegne",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Ergaki%2C_Buiba_Valley%2C_Western_Sayan_Mountains%2C_Krasnoyarsk_Krai%2C_Russia.jpg/1280px-Ergaki%2C_Buiba_Valley%2C_Western_Sayan_Mountains%2C_Krasnoyarsk_Krai%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/19/archives/france-greets-the-czar-he-lands-at-dunkirk-and-later-goes-to.html"
+        },
+        {
+          "headline": "ORDERS TO PRINCE CHUN; He Was Told Not to Consent to a Humiliating Ceremony. HAS ARRIVED AT POTSDAM The Expiatory Mission He Heads Shorn of Its Original Significance -- Germans Blame Von Buelow.",
+          "summary": "Agreement",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Gours_des_grottes_de_Saint_Marcel_d%27Ard%C3%A8che%2C_France.jpg/1280px-Gours_des_grottes_de_Saint_Marcel_d%27Ard%C3%A8che%2C_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1901/09/04/archives/orders-to-prince-chun-he-was-told-not-to-consent-to-a-humiliating.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/1280px-Jack_London_young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: LONDON TOPICS OF THE WEEK; PRINCE CHUN GOING HOME; FRANCE GREETS THE CZAR.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.125
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1995,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; RAIN STALLS SEARCH OF RUBBLE",
+          "summary": "A nationwide manhunt continued today for a second suspect in the bombing of a Federal office building in Oklahoma City, and the search for possible links between right-wing paramilitary groups and the 26-year-old Army veteran already in custody moved from a muddy Michigan bean field to the Arizona desert. Federal investigators said they believed there was a broader plot behind the bombing and were searching for evidence of a conspiracy hatched by several self-styled militiamen who oppose gun laws, income taxes and other forms of government control. Federal agents descended on Kingman, Ariz., the last known address of the suspect arrested on Friday, Timothy James McVeigh, and on the high desert surrounding the town, a training site for one such militia, the Arizona Patriots.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/23/us/terror-oklahoma-overview-fbi-hunts-2d-bombing-suspect-seeks-links-far-right-rain.html"
+        },
+        {
+          "headline": "Parking Rules",
+          "summary": "Because of religious holidays, alternate-side street parking regulations are suspended in New York City today and tomorrow. Other regulations remain in effect.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/21/nyregion/parking-rules-679395.html"
+        },
+        {
+          "headline": "Rethinking Welfare: Deterring New Births -- A special report.; State Aid Is Capped, but to What Effect?",
+          "summary": "At 16, Naikeya Haley decided to have a second child despite the state law that denied her extra welfare benefits because she was already receiving aid. \"It was a planned pregnancy,\" said Ms. Haley, who is now 17. The law that kept her from collecting $102 more a month \"doesn't make any difference to me,\" she said flatly, other than to make it that much harder to provide for her family. She and her two daughters live on $322 a month, and stay with friends.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Journal_Square_Jersey_City_November_2021_003.jpg/1280px-Journal_Square_Jersey_City_November_2021_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/11/us/rethinking-welfare-deterring-new-births-special-report-state-aid-capped-but-what.html"
+        },
+        {
+          "headline": "AT LEAST 31 ARE DEAD, SCORES ARE MISSING AFTER CAR BOMB ATTACK IN OKLAHOMA CITY WRECKS 9-STORY FEDERAL OFFICE BUILDING",
+          "summary": "The authorities opened an intensive hunt today for whoever bombed a Federal office building in Oklahoma City, and proceeded on the theory that the bombing was a terrorist attack against the Government, law-enforcement officials said. President Clinton appeared in the White House press room this afternoon and somberly promised that the Government would hunt down the \"evil cowards\" responsible. \"These people are killers,\" he said, \"and must be treated like killers.\"",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1995/04/20/us/terror-oklahoma-city-investigation-least-31-are-dead-scores-are-missing-after.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; Parking Rules; Rethinking Welfare: Deterring New Births -- A special report..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    }
+  ]
+}
