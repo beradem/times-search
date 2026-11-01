@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T11:14:04.686820+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1911,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "141 MEN AND GIRLS DIE IN WAIST FACTORY FIRE; TRAPPED HIGH UP IN WASHINGTON PLACE BUILDING; STREET STREWN WITH BODIES; PILES OF DEAD INSIDE; The Flames Spread with Deadly Rapidity Through Flimsy Material Used in the Factory.",
+          "summary": "fire cause unknown",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/26/archives/141-men-and-girls-die-in-waist-factory-fire-trapped-high-up-in.html"
+        },
+        {
+          "headline": "20,000 TROOPS AND TWO NAVAL DIVISIONS TO MOBILIZE NEAR MEXICAN BORDER; Fourth of United States Army Ordered to Concentrate in Texas and Southern California. REGIMENTS ALREADY MOVING Cruiser Division of Atlantic Fleet to Proceed to Gulf -- Pacific Fleet Held Ready. 2,000 MARINES ASSEMBLING Washington Explains It as Mobilization Test and Joint Army and Navy War Game. INTERVENTION TALK FOLLOWS Disorders in Mexico Have Caused Large British Interests to Claim Protection. FALSE RUMORS ABOUT DIAZ Washington and Mexican Authorities Deny That Aged President Is in Worse Health. GEN. CARTER HEADS FORCE Commanded in Philippines and Is Now Gen. Wood's Assistant as Chief of Staff.",
+          "summary": "US orders 20,000 troops, 2 naval divs to Tex and southern Calif near Mex border for mobilization tests; commanded by Maj Gen Carter; Taft and Maj Gen Wood comment; text of White House announcement; some see order as potential interference; Brit interests in Mex to seek US protection if Brit Govt unable to act under restraints of Monroe Doctrine; Mex and US officials deny repts of Diaz illness",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/1280px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/08/archives/20000-troops-and-two-naval-divisions-to-mobilize-near-mexican.html"
+        },
+        {
+          "headline": "SEEKS FRAUD NOTES IN CARNEGIE TRUST; Whitman Is Investigating Story That Names of Dead Men and Fictitious Persons Were Used.",
+          "summary": "Whitman probes rept of fraudulent notes; Rollins '10 lrs to Banks Supt and to Cummins group explaining his assn with co revealed; lrs texts",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Andrew_Carnegie%2C_by_Theodore_Marceau_%28cropped%29_%282%29.jpg/1280px-Andrew_Carnegie%2C_by_Theodore_Marceau_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/24/archives/seeks-fraud-notes-in-carnegie-trust-whitman-is-investigating-story.html"
+        },
+        {
+          "headline": "WON'T WITHDRAW, DECLARES SHEEHAN; Onus Is on the Party to Release His Supporters from Their Caucus Obligations, He Says. MUST RETIRE, IS OUTLOOK Murphy Said to Have Enough Votes for Cohalan -- Osborne Sees Trap for Insurgents in To-day's Caucus. WON'T WITHDRAW, DECLARES SHEEHAN",
+          "summary": "Sheehan refuses to withdraw, open lr to Dem Legislators; text; Osborne says caucus is Tammany plot to trap insurgents; Roosevelt sees insurgents refusing to enter caucus",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1911/03/27/archives/wont-withdraw-declares-sheehan-onus-is-on-the-party-to-release-his.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 141 MEN AND GIRLS DIE IN WAIST FACTORY FIRE; 20,000 TROOPS AND TWO NAVAL DIVISIONS TO MOBILIZE NEAR MEXICAN BORDER; SEEKS FRAUD NOTES IN CARNEGIE TRUST.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.352
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1937,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "WRECKAGE VIEWED; Naval Survey Will Be Limited to Interests of Government; TWO OTHER INQUIRIES; Department of Commerce Will Study Cause of Accident to the HindenBurg; REICH GROUP ON WAY HERE; Sabotage Theory Discarded --Passenger and Officer Succumb to Injuries",
+          "summary": "sees sabotage possibility",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Titanic_wreck_bow.jpg/1280px-Titanic_wreck_bow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1937/05/09/archives/wreckage-viewed-naval-survey-will-be-limited-to-interests-of.html"
+        },
+        {
+          "headline": "CABINET IN SESSION; All German Navy Craft Wait With Steam Up for Instructions LONDON MEETING CALLED Non - Intervention Group to Consider Safety Measures for Warships Off Spain SPANISH LINER IS SUNK Vessel With Heavy Passenger List Is Torpedoed by Rebel Submarine Off Barcelona \"Measures\" Not Divulged TEXT OF COMMUNIQUE SPANISH BOMBING STIRS THE REICH Serious Crisis for Reich Demand on London Likely News of Bombing Delayed Ambassador Davies Visits Parents' Home in Wales European Action Demanded Valencia Officials Silent Battleship Reaches Gibraltar Rebels Torpedo a Liner",
+          "summary": "illus of Tlalpujahua",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/1_toledo_spain_evening_sunset_2014_DXR_edit.jpg/1280px-1_toledo_spain_evening_sunset_2014_DXR_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1937/05/31/archives/cabinet-in-session-all-german-navy-craft-wait-with-steam-up-for.html"
+        },
+        {
+          "headline": "YOUNGSTOWN STEEL MILLS WILL CLOSE, IF MEN STRIKE, UNTIL THEY ASK JOBS BACK; SEEK A 'SHOWDOWN' Two Independents Plan to End Threat of Closed Shop Now UNION IS NOT ASKING ONE But Republic and Youngstown Sheet and Tube Bar Contract as Opening Wedge DISCRIMINATION CHARGED S. W. O. C. Asserts Union Men Suffer Lay-Offs--Walkout Is Held 'Inevitable' Day's Strike Developments Talk of Steel Shutdown 33,000 in Youngstown 2 STEEL COMPANIES PLAN 'SHOWDOWN' Conditions Held Different Prepared for Strike Discrimination Charged 'PEACE OR WAR' IN VOTE S. W. O. C. Leaders Stress Issue in Jones & Laughlin Ballot",
+          "summary": "SWOC stresses peace or war as slogan in J & L vote",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Tsai_Ing-wen_talks_with_MODA_officials_01.jpg/1280px-Tsai_Ing-wen_talks_with_MODA_officials_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1937/05/18/archives/youngstown-steel-mills-will-close-if-men-strike-until-they-ask-jobs.html"
+        },
+        {
+          "headline": "ROYAL TITLE DENIED TO WINDSOR'S BRIDE; King Orders That Mrs. Warfield Shall Not Be Styled as 'Her Royal Highness' VICTORIA SET PRECEDENT Ministers Gave 'Advice' in the Recognition of Status to Duke, but Excluding His Wife Emphasis on Word \"Only\" ROYAL TITLE DENIED TO WINDSOR'S BRIDE Victory for Court Group Ministerial Responsibility Vagueness on Old Document Act Will Stop Speculation EDWARD ANGERED BY NEWS Refuses to Accept Defeat as Final, Associate Reports DUKE RE-ENGAGES DRIVER Reported to Have Phoned Him to Serve on Wedding Trip",
+          "summary": "Re-engaged as chauffeur by Duke of Windsor",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg/1280px-MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1937/05/29/archives/royal-title-denied-to-windsors-bride-king-orders-that-mrs-warfield.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Titanic_wreck_bow.jpg/1280px-Titanic_wreck_bow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: WRECKAGE VIEWED; CABINET IN SESSION; YOUNGSTOWN STEEL MILLS WILL CLOSE, IF MEN STRIKE, UNTIL THEY ASK JOBS BACK.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.663
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1963,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "KENNEDY OPPOSES QUOTAS FOR JOBS ON BASIS OF RACE; Says Education Is Greatest Need of Negroes--Doubts U.S. Can 'Repair Past' RIGHTS BILLS PRESSED Congress Urged to Act This Session--Election Year Pressure in '64 Cited Calls Education Vital KENNEDY OPPOSES RACIAL JOB QUOTA Protests Illustrate Plight",
+          "summary": "Kennedy calls educ greatest need of Negroes in redressing past grievances and improving present lot, news conf",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Abstract_representation_of_diversity%2C_equity%2C_and_inclusion.jpg/1280px-Abstract_representation_of_diversity%2C_equity%2C_and_inclusion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/08/21/archives/kennedy-opposes-quotas-for-jobs-on-basis-of-race-says-education-is.html"
+        },
+        {
+          "headline": "SAC HEAD DEMURS AS JOINT CHIEFS BACK A-TEST BAN; Gen. Power Urges Senate to Reject Pact as Not Being in Best U.S. Interest LEMAY HAS MISGIVINGS Air Force Leader Says He Might Have Fought Accord Had It Not Been Signed Goldwater Protests SAC HEAD DEMURS ON TEST BAN PACT Marines' Chief Decisive Wants Tests Continued Differ With LeMay Indicate No Pressure Had No Objection Humphrey Protests New Group Fights Treaty",
+          "summary": "Cs/S LeMay, Wheeler, McDonald and Shoup urge test ban treaty ratification but LeMay says he would not have backed it had it not already been signed, Foreign Relations Com; illus; all deny Adm pressure in decision; differ on degree of consultation by Adm; LeMay concedes he knew of treaty before signing and did not object; Fulbright repts LeMay, in later testimony, gives treaty more support; says 'heavy majority' of 9 heads of unified commands back treaty; SAC comdr Gen Power urges Sen reject treaty, Stennis subcom; illus; Goldwater suggests that without inspection USSR could encourage or participate in Chinese tests without detection, Sen s; Humphrey, defending US detection system, charges Goldwater, by putting up 'straw men,' does nation disservice",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/08/20/archives/sac-head-demurs-as-joint-chiefs-back-atest-ban-gen-power-urges.html"
+        },
+        {
+          "headline": "RAILS AND UNIONS ACCEPT PROPOSAL FOR ARBITRATION; Agree to Wirtz Plan on Two Main Issues, Crew Size and Job Reduction TALKS STILL 'CRITICAL' Secretary Says Decision on Concrete Steps Remains  Meeting Today Set Interpretation a Problem RAILS AND UNIONS ACCEPT PROPOSAL Wirtz Issues Report Unions Note Acceptance Size of Board Omitted Rail Stocks Rise",
+          "summary": "rrs and unions agree in principle to Wirtz plan to submit 2 major issues, job-cutting procedures and crew size, to binding arbitration; differ on how to apply principle; Wirtz holds talks still critical; says 'what to arbitrate remains serious problem'; mgt, union reprs comment on acceptance; rail stocks rise in anticipation of favorable settlement",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1963/08/17/archives/rails-and-unions-accept-proposal-for-arbitration-agree-to-wirtz.html"
+        },
+        {
+          "headline": "ANTI-U.S. FEELING RISES IN VIETNAM AS UNREST GROWS; Nhu's Power in Regime Gains --Harder Line Toward Washington Is Feared 30 DEATHS REPORTED Troops Arrest Professors and May Seize Students to Avert a Rebellion Killing at Hue Indicated Regime Accuses Reds Anti-American Feeling Grows in Vietnam After Regime Acts Against Buddhists SAIGON STUDENTS REPORTED UNEASY Humiliation of U.S. Citizens Continues as Nhu Gains Power in Government Mrs. Nhu Exuberant Humiliations Continue Lodge Sees Two Buddhists",
+          "summary": "Dean of med faculty Dr Pham Bieu Tam arrested during pol crisis",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Incense_in_Vietnam.jpg/1280px-Incense_in_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/08/24/archives/antius-feeling-rises-in-vietnam-as-unrest-grows-nhus-power-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Abstract_representation_of_diversity%2C_equity%2C_and_inclusion.jpg/1280px-Abstract_representation_of_diversity%2C_equity%2C_and_inclusion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: KENNEDY OPPOSES QUOTAS FOR JOBS ON BASIS OF RACE; SAC HEAD DEMURS AS JOINT CHIEFS BACK A-TEST BAN; RAILS AND UNIONS ACCEPT PROPOSAL FOR ARBITRATION.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.505
+      }
+    }
+  ]
+}
