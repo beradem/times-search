@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T12:16:39.464672+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2004,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "At Warning Center, Alert for the Quake, None for a Tsunami",
+          "summary": "Experts at Pacific Tsunami Warning Center in Honolulu had no way of knowing that earthquake that struck off Indonesia had generated devastating tsunami and no way to warn people most likely to suffer; sequence of events as knowledge of earthquake, tsunami and destruction unfolded suggest speed and precision of science and modern communication, as well as their limits; scientists do not have tools to tell when earthquake has created one; for Pacific Ocean, there are computer models to analyze consequences of earthquake, based on years of observations of previous quakes and tsunamis; for Indian Ocean, where tsunamis are rare, there are no such models (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Quake_epicenters_1963-98.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/science/at-warning-center-alert-for-the-quake-none-for-a-tsunami.html"
+        },
+        {
+          "headline": "World Business Briefing | Middle East: Israel: Military Companies Trade Stakes",
+          "summary": "Worl4",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Photos_NewYork1_032.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/28/business/world-business-briefing-middle-east-israel-military-companies.html"
+        },
+        {
+          "headline": "World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal",
+          "summary": "Sony Corp si",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Virus_Blaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/15/business/technology/world-business-briefing-asia-japan-sony-and-samsung.html"
+        },
+        {
+          "headline": "If Jets and Steelers Are Mirror Images, It's Time for One of Them to Crack",
+          "summary": "New York Jets prepare to face Pittsburgh Steelers; photo (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Stoppage_in_an_AFL_game.jpg/1280px-Stoppage_in_an_AFL_game.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2004/12/12/sports/football/if-jets-and-steelers-are-mirror-images-its-time-for-one-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Quake_epicenters_1963-98.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: At Warning Center, Alert for the Quake, None for a Tsunami; World Business Briefing | Middle East: Israel: Military Companies Trade Stakes; World Business Briefing | Asia: Japan: Sony and Samsung Sign Patent Deal.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.808
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1869,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "EAST AND WEST.; Completion of the Great Line Spanning the Continent The Closing Work and Ceremonies at Promontory Summit. The News Flashed by Telegraph Simultaneously Over the Country. Rejoinings of the Metropolis at the Completion of the Enterprise. Celebrations in Chicago, Philadelphia and Other Cities. The Work Accomplished-Ceremonics at Promontory Summit. Announcement in Washington of the Completion of the Road-Scene in the Telegraph Office. Rejoicing in This City--The Booming of Cannon and Chiming of Bells--Magnificent Thanksgiving Services at Old Trinity--Address by Rev. Dr. Vinton--Congratulatory Dispatches to San Francisco by Mayor Hall and the Chamber of Commerce. The Southern Pacific--Meeting of Directors at St. Louis. Celebrations in Chicago, Philadelphia, Buffalo and Other Places. At the City Hall.",
+          "summary": "Pacific Road; Ceremonies on Completion",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/1280px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/11/archives/east-and-west-completion-of-the-great-line-spanning-the-continent.html"
+        },
+        {
+          "headline": "DECORATION DAY; Floral Tributes to the Memory of the Union Dead Ceremonies at the National Cemetery at Washington Oration of General Butler at Gloucester, Mass Observances at Arlington--Presence of the President and Heads of Departments--Ceremonies at the \"Tomb of the Unknown\"--Oration of Hon. S. S. Fisher The Ceremonies at Gloucester--Oration of General B. F. Butler--His Eulogy of the Soldiers--Reference to Political Questions--The Alabama Claims Question--Furious Attack on England At Boston and Vicinity In Providence, R. C.--Parade of Veterans--Tolling of the City Bells In Philadelphia--Gathering in Independence Square--Procession of Children--Services in Concert Hall In Carlisle, Penn At Huntingdon, Penn.--Children's Observances At Knoxville, Tenn.-- Five Thousand Persons in Attendance--The Addresses At Richmond, Va At Cincinnati In Toledo, Ohio In Columbus, Ohio At Detroit, Mich In Newark, N. J. --Observances at Fairmount Cemetery At Flushing-Decorations of the Mounment to the Flushing Heroes",
+          "summary": "Celebration at Arlington and elsewhere",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1869/05/30/archives/decoration-day-floral-tributes-to-the-memory-of-the-union-dead.html"
+        },
+        {
+          "headline": "EUROPE.; Letters from Our Correspondents in London, Madrid and Florence Our Relations with England---Effects of Mr. Sumner's Speech The Warwickshire Scandal--- Sad Revelations Important and Interesting Debates in the Spanish Cortes The subjoined letters from our European correspondents present an interesting summary of political, social and Industrial affairs in the old world The Debate on the Irish Church Bill-Summary of the Views of Leading Statesmen on the Question-Sharp Debate on the Maynooth Endowment clause Labors of the Ministry--The Case of the Mayor of Cork--The Pacific Railroad The Debates on the Constitution--Another Great Orator Developed--Thrilling Souvenirs of the Inquisition--The Separation of Church and State--Impotent Fury of the Clergy Parties in the Chamber--The New Fusion--Proposed Reconstruction of the Ministry--The Sub-Alpine Tunnel and the Suez Canal--the Alabama Question--King Victor Emmanuel Assurances of an American Citizen to the English People--Letter From Senator Grimes, of lowa",
+          "summary": "Florence Letter",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Foreign_and_Commonwealth_Office_-_Durbar_Court.jpg/1280px-Foreign_and_Commonwealth_Office_-_Durbar_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/28/archives/europe-letters-from-our-correspondents-in-london-madrid-and.html"
+        },
+        {
+          "headline": "Our Trouble with England--Mr. Summer's Speech--The Administration.",
+          "summary": "Alabama Claims; Mr. Sumner's Speech",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg/1280px-MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1869/05/26/archives/our-trouble-with-englandmr-summers-speechthe-administration.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/1280px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EAST AND WEST.; DECORATION DAY; EUROPE..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.19
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1919,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "BIG FIVE FINISH REVISING TREATY; DELIVER IT MONDAY; Germans Must Sign by Saturday or Face New Invasionand Blockade. MARCH TO BEGIN SUNDAY If Immediate Acceptance Is Given Signing Will Take Placeat Versailles Tomorrow. CIVIL RULE FOR RHINE AREA New Draft Provides for Superseding Martial Law in Occupied Regions. Senate Action Will Have No Effect on Treaty Plans BIG FIVE FINISH REVISING TREATY",
+          "summary": "ed, The consequences",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Charles_Marion_Russell_-_The_Custer_Fight_%281903%29.jpg/1280px-Charles_Marion_Russell_-_The_Custer_Fight_%281903%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1919/06/15/archives/big-five-finish-revising-treaty-deliver-it-monday-germans-must-sign.html"
+        },
+        {
+          "headline": "TREATY \"LEAK\" IS TRACED; Entitled to Document as Red Cross Ofificial, Davison Testifies. DENIES ANY IMPROPRIETY Root, Too, Resents Imputation in Senate That Text Was \"Stolen Goods.\" OTHER BANKERS ARE HEARD Morgan and Vanderlip Deny Having Seen Copy--Inquiry Likely to be Dropped. Light on State of Europe. Only One Copy Traced. Testimony on Treaty Leak tJAT mAY rESULT IN Inquiry Being Droppe. Root on Wilson's Course. Likely to Suspend Inquiry. Telegram from Mr. Schiff. Ban Merely on Distribution. Rights of the Senate. \"President of the World.\" As to Other Copies in New York. Condition of Europe. Got Treaty from Lamont. Heard of Other Copies Here. Mr. Vanderlip's Testimony. Increase of Foreign Loans. LAMONT WITHHOLDS COMMENT Silent in Paris About Subpoena to Testify at Leak Hearing. SYMPATHETIC WITH SENATE. Several London Papers Like Its Action in Publishing Treaty.",
+          "summary": "was shown copy of treaty by E. Root, latter tells Sen Foreign Relations Com",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1919/06/12/archives/treaty-leak-is-traced-entitled-to-document-as-red-cross-ofificial.html"
+        },
+        {
+          "headline": "TO COURT-MARTIAL GERMAN ADMIRAL FOR SINKING SHIPS; Paris Council to Take Up Question of Punishment forFleet's Loss.SHOT OWN MEN AT SCAPACrews Rebelled as the ShipsSank in Clouds of Steam, DeClare Witnesses.BERLIN SEES NEW PENALTYItalians and French Lament the Loss of Ships Destined asTheir Share. Sunk Ships on Concerted Signal TO COURT-MARTIAL GERMAN ADMIRAL Many of the 5,000 Sailors Missing. Ships Plunged in Clouds of Steam. British Hauled Down Enemy Flag. Germans Leaped Into the Sea. DENY OTHER SINKINGS. Report That Home Fleet Was Sunk by Sailors Contradicted. BRITISH KNEW OF DANGER. But It Was Practically Impossible to Keep Full Watch. REPARATIONS COVER SINKING. Paris Sees No Change in Situation Affecting Peace. BERLIN SEES MORE TO PAY. Public Makes No Demonstration on First News of Fleet.",
+          "summary": "will be court-martialed",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1919/06/24/archives/to-courtmartial-german-admiral-for-sinking-ships-paris-council-to.html"
+        },
+        {
+          "headline": "LUSTY BRITISH CHEERS FOR FLIER; Gracefully She Drops in Plymouth Harbor, Escorted from Far Out at Seaby British Airplanes.GREETED BY MAYOR AT THE MAYFLOWER ROCKAcclaimed by Throngs in Narrow Streets--500 Mile Trip from Ferrol Made At 72-Mile ClipLeaky Radiator Caused Mondego Halt. Flying Escort Puts to Sea. First Glimpse of the Ocean Crosser. Leaky Water Jacket Brought Her Down at Mondega River. Wireless Reports to the Rochester. At the Mayflower Stone. Calm Demeanor of the Crew Excites General Comment. Navy Doesn't Want to Gamble, Says Towers.",
+          "summary": "tells of arrival of NC-4 at Plymouth",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1919/06/01/archives/lusty-british-cheers-for-flier-gracefully-she-drops-in-plymouth.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Charles_Marion_Russell_-_The_Custer_Fight_%281903%29.jpg/1280px-Charles_Marion_Russell_-_The_Custer_Fight_%281903%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: BIG FIVE FINISH REVISING TREATY; TREATY \"LEAK\" IS TRACED; TO COURT-MARTIAL GERMAN ADMIRAL FOR SINKING SHIPS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.605
+      }
+    }
+  ]
+}
