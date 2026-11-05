@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T12:12:05.367534+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2008,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
+          "summary": "President-elect Barack Obama prepared to name an ally as his White House chief of staff in his first step toward assuming power.",
+          "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
+        },
+        {
+          "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
+          "summary": "Just as China has attained supercharged growth that astounded much of the world, it appears to be slowing more sharply and more quickly than anyone anticipated.",
+          "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
+        },
+        {
+          "headline": "Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided",
+          "summary": "Some are still wrestling with the question of how to vote. Which raises a follow-up: What is up with these people?",
+          "image": "https://static01.nyt.com/images/2008/11/02/us/politics/02undecided_span.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/02/us/politics/02undecided.html"
+        },
+        {
+          "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
+          "summary": "For all the news media outlets that set viewership records in recent months, the looming question after Senator Barack Obama’s election is: What happens now?",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Dmitry_Medvedev_official_large_photo_-5.jpg/1280px-Dmitry_Medvedev_official_large_photo_-5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team; Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling; Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.507
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1883,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "MRS. ROEBLING'S SKILL.; HOW THE WIFE OF THE BROOKLYN BRIDGE ENGINEER HAS ASSISTED HER HUSBAND.",
+          "summary": "",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg/1280px-Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1883/05/23/archives/mrs-roeblings-skill-how-the-wife-of-the-brooklyn-bridge-engineer.html"
+        },
+        {
+          "headline": "PROMISE OF THE WEST.; OHIO. THE WHEAT YIELD ESTIMATED AT FROM 80 TO 85 PER CENT. OF AN AVERAGE. INDIANA. MUCH WHEAT WINTER-KILLED BUT AN AVERAGE CORN CROP EXPECTED. ILLINOIS. A POOR WHEAT YIELD FEARED, BUT A GOOD CROP OF CORN EXPECTED. MICHIGAN. MUCH LESS WHEAT THAN LAST YEAR BUT MORE FRUIT. MINNESOTA. MORE CORN AND LESS WHEAT EXPECTED-- THE PRESENT CONDITIONS GOOD. IOWA. WHEAT PROSPECTS ABOUT AVERAGE, OATS VERY PROMISING, AND CORN POOR. KANSAS. EVERY INDICATION OF LARGER YIELDS OF WHEAT AND CORN. NEBRASKA. THE CORN ACREAGE LARGELY INCREASED AND LESS WHEAT. DAKOTA. THE GRAIN ACREAGE GREATLY INCREASED, WITH FINE PROSPECTS OF A BIG CROP. COLORADO. ANTICIPATING AN INCREASE OF TWENTY PER CENT. IN ALL CROPS. WYOMING. AS MANY CATTLE FOR MARKET AS LAST YEAR BUT LARGE LOSSES OF SHEEP. MISSOURI. CROP PROSPECTS ONLY FAIR, BUT HELPED MUCH BY LATE RAINS. ARKANSAS. GRAIN AND COTTON DOING WELL, WITH FAVORABLE PROSPECTS.",
+          "summary": "",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Promise_City_Iowa_1910s.jpg/1280px-Promise_City_Iowa_1910s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1883/05/21/archives/promise-of-the-west-ohio-the-wheat-yield-estimated-at-from-80-to-85.html"
+        },
+        {
+          "headline": "A FLOOD OF BILLS.; THE HARBOR-MASTERS BILL PASSED--A SOP TO WORKING MEN--THE SURROGATES BILL KILLED.",
+          "summary": "ALBANY,.--The tidal wave Legislature of adjourned sine die at 7 o'clock this evening. It disappears from public view leaving behind it a record fully justifying the old saying that the Democracy is unable to bear prosperity. Its closing hours were signalized by a clashing of the Tammany and Tilden factions in the Senate. All the old bitterness has been revived.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Le_d%C3%A9luge_-_mus%C3%A9e_de_beaux_arts_de_Nantes_20091017.jpg/1280px-Le_d%C3%A9luge_-_mus%C3%A9e_de_beaux_arts_de_Nantes_20091017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1883/05/05/archives/a-flood-of-bills-the-harbormasters-bill-passeda-sop-to-working.html"
+        },
+        {
+          "headline": "INCIDENTS OF THE GREAT DAY.; ON THE RED STAIRCASE--AGAINST FURTHER CONQUEST--TOASTS AT THE BANQUET.",
+          "summary": "MOSCOW,.--After the Emperor and Empress had prayed to-day in the Cathedral of Michael the Archangel, they were escorted to the palace by a procession which presented even a more splendid sight than that which escorted them to the cathedral, being now, augmented by the gorgeous state carriages of the imperial family.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Latter-day_Saint_Scripture_Quadruple_Combination.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1883/05/28/archives/incidents-of-the-great-day-on-the-red-staircaseagainst-further.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg/1280px-Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: MRS. ROEBLING'S SKILL.; PROMISE OF THE WEST.; A FLOOD OF BILLS..",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.0
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2008,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "Talks Implode During a Day of Chaos; Fate of Bailout Plan Remains Unresolved",
+          "summary": "Partisan presidential politics seemed to trample what had been exceedingly delicate Congressional negotiations over the $700 billion bailout package.",
+          "image": "https://static01.nyt.com/images/2008/09/25/business/26abush4_600.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/09/26/business/26bailout.html"
+        },
+        {
+          "headline": "A.I.G. Is Still Profitable, With a Wide Array of Enterprises",
+          "summary": "The great assortment of assets at the American International Group reflects the determination of Maurice R. Greenberg, the man who built A.I.G. into an empire spanning the globe.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/2008/09/17/business/17aig.html"
+        },
+        {
+          "headline": "Savings and Loan Crisis May Be Guide for Bank Bailout",
+          "summary": "The Resolution Trust Corporation, which helped to sort out the S.&L. debacle, found itself dealing with people trying to game the system to their financial advantage.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Barclays_Bank%2C_West_Kirby.jpg/1280px-Barclays_Bank%2C_West_Kirby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/09/29/business/29rtc.html"
+        },
+        {
+          "headline": "Dubious Claims in Obama’s Ads Against McCain, Despite Vow of Truth",
+          "summary": "Despite a vow of truth, Barack Obama’s latest ads match the misleading nature of some of John McCain’s spots.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Dmitry_Medvedev_official_large_photo_-5.jpg/1280px-Dmitry_Medvedev_official_large_photo_-5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2008/09/26/us/politics/26ads.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/09/25/business/26abush4_600.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Talks Implode During a Day of Chaos; A.I.G. Is Still Profitable, With a Wide Array of Enterprises; Savings and Loan Crisis May Be Guide for Bank Bailout.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.489
+      }
+    }
+  ]
+}
