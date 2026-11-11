@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T11:50:06.448601+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2000,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "GORE ASKS PUBLIC FOR PATIENCE; BUSH STARTS TRANSITION MOVES; ADMINISTRATION WITHHOLDS AID",
+          "summary": "Gov George W Bush presses forward with transition plans while Vice Pres Al Gore pleads in nationwide address for public patience while he contests award of Florida's 25 decisive electoral votes to Bush; Gore says he is not engaged in struggle for power, but in effort to preserve democracy itself; says challenge is to ensure that every American has change to register choice in one closest presidential races in American history; says fair count of Florida vote would provide him with more than enough votes to defeat Bush; blames series of lawsuits by Republicans and 'organized intimidation' of local canvassing officials for delay in reaching full count; Bush running mate and transition director Dick Cheney sharply criticizes Gore and White House for refusing to authorize public money and government office space for Bush transition; says administration has duty to honor certified results of Florida election; says Gore's obstinacy is getting in way of peaceful transfer of power; Florida Gov Jeb Bush signs document officially certifying brother as winner of state's 25 electoral votes; senior Republicans in Congress begin referring to Bush as president-elect; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_of_the_Public_Universal_Friend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/28/us/contesting-vote-overview-gore-asks-public-for-patience-bush-starts-transition.html"
+        },
+        {
+          "headline": "Ideas & Trends: Vacancy; Stunning Estate, 130-plus Rms., 18 Acres, Rose Garden. Available.",
+          "summary": "Assessment of brutal post-election clash between Democrats and Republicans over unresolved presidential election; photo (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Vladimir_Putin_taking_the_Presidential_Oath%2C_7_May_2000_%28cropped_3x4%29.jpg/1280px-Vladimir_Putin_taking_the_Presidential_Oath%2C_7_May_2000_%28cropped_3x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/12/weekinreview/ideas-trends-vacancy-stunning-estate-130-plus-rms-18-acres-rose-garden-available.html"
+        },
+        {
+          "headline": "Will Nasdaq's Fall Haunt the Democrats?",
+          "summary": "Gretchen Morgenson column on negative impact of falling Nasdaq stock prices on Vice Pres Al Gore's presidential campaign; notes analysts expect Gore victory would do little for stock prices, while victory by Gov George W Bush would likely boost prices; graph of drop in Nasdaq stocks (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/1280px-George-W-Bush.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/05/business/market-watch-will-nasdaq-s-fall-haunt-the-democrats.html"
+        },
+        {
+          "headline": "Entering Last Act, Senate Rivals Stick to the Script; Mrs. Clinton Preaches to the Party Faithful",
+          "summary": "Hillary Rodham Clinton moves to close out campaign for US Senate from New York by urging black parishioners in New York City to support her; makes appearances at seven churches in seven-hour period; implores churchgoers to vote Democratic, linking herself to husband and Vice Pres Al Gore at every turn; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg/1280px-Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2000/11/06/nyregion/entering-last-act-senate-rivals-stick-script-mrs-clinton-preaches-party-faithful.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_of_the_Public_Universal_Friend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: GORE ASKS PUBLIC FOR PATIENCE; Ideas & Trends: Vacancy; Will Nasdaq's Fall Haunt the Democrats?.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.89
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1959,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "REBELS DISSOLVE CUBAN CONGRESS; OFFICIALS OUSTED; Urrutia Drops Governors and Mayors -- Castro Due in Havana Tomorrow KEY POSTS ARE FILLED Regime Will Rule by Decree for at Least 18 Months -- Free Election Planned REBELS DISSOLVE CUBAN CONGRESS",
+          "summary": "Provisional Pres Urrutia says gambling will be abolished, s, Havana U",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/07/archives/rebels-dissolve-cuban-congress-officials-ousted-urrutia-drops.html"
+        },
+        {
+          "headline": "PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; Says They Are 'on All Sides' of the Question -- Supports Estimate of Revenue INFLATION FIGHT URGED Eisenhower Tells Newsmen He Still 'Despises' Controls on Wages and Prices President Derides Fiscal Critics For 'Budgetary Schizophrenia'",
+          "summary": "Eisenhower again warns on inflation, news conf; sees it harmful to growth",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/22/archives/president-sees-schizophrenia-in-budget-critics-says-they-are-on-all.html"
+        },
+        {
+          "headline": "KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'; Premier Cites Mikoyan Talks in Plea for Relaxation of East-West Tension AVOWS A FEAR OF WAR 'Clock Ticks On' as Plants Turn Out Arms, He Says at Indian Reception Khrushchev Sees 'Thaw' Possible In Relations of East and West",
+          "summary": "Khrushchev deplores W Ger Amb Kroll rejection of bid, s, Moscow reception",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/1280px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/khrushchev-says-thaw-is-possible-in-the-cold-war-premier-cites.html"
+        },
+        {
+          "headline": "BONN AIDES WEIGH SOVIET UNITY PLAN; Study Confederation Idea in Mapping Policy for West's German Talks Bonn Aides Study Soviet Plans For Reunification of Germany",
+          "summary": "W Ger studies USSR confed proposals to see if some elements might spur reunification; reluctance to shift discussed; Adenauer plans informal talks with Brit leaders",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Germaine_de_Sta%C3%ABl_-_De_l%27Allemagne.jpg/1280px-Germaine_de_Sta%C3%ABl_-_De_l%27Allemagne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1959/01/27/archives/bonn-aides-weigh-soviet-unity-plan-study-confederation-idea-in.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/1280px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: REBELS DISSOLVE CUBAN CONGRESS; PRESIDENT SEES 'SCHIZOPHRENIA' IN BUDGET CRITICS; KHRUSHCHEV SAYS 'THAW' IS POSSIBLE IN THE 'COLD WAR'.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.555
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1942,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "4 CARRIERS SUNK; Nimitz Says 2 Japanese Heavy Cruisers Also Went to Bottom 3 DESTROYERS IN TOLL 275 Enemy Planes and Most of Their Crews Were Lost -- Other Casualties High 4 CARRIERS SUNK IN MIDWAY ACTION ",
+          "summary": "HONOLULU, -- Admiral Chester W. Nimitz, Commander in Chief of the Pacific Fleet, released today an official compilation of Japanese losses in the Battle of Midway showing that four Japanese aircraft carriers had definitely been sunk.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Aircraft_carriers_of_2007_except_US._carriers.jpg/1280px-Aircraft_carriers_of_2007_except_US._carriers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/29/archives/4-carriers-sunk-nimitz-says-2-japanese-heavy-cruisers-also-went-to.html"
+        },
+        {
+          "headline": "U.S. REFUGEES LAND, SILENCE PLEDGED; JAPANESE TO LEAVE; Gripsholm Brings 194 From Sweden -- All Signed Promise to Reveal Nothing ENEMIES GO TOMORROW 1,000 Bound for Tokyo Will Be Exchanged for Americans -- To Get Special Food SILENCE PLEDGED, U.S. REFUGEES LAND A GREETING FOR ONE OF THE GRIPSHOLM'S PASSENGERS",
+          "summary": "Amer Red Cross, Hebrew Immigrant Aid Soc, Travelers Aid Soc and Natl Council of Jewish Women aid refugees arriving, U S on SS Gripsholm",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/10/archives/us-refugees-land-silence-pledged-japanese-to-leave-gripsholm-brings.html"
+        },
+        {
+          "headline": "SPY AIDES IN CITY CAPTURED BY FBI; MORE ARE HUNTED; Hoover Shields Identities of Those Accused of Helping Men Landed by U-Boats QUICK JUSTICE PROMISED Biddle Says That He Will Deal With the Invading Saboteurs 'Swiftly and Thoroughly' SPY AIDES IN CITY CAPTURED BY FBI NAZI SABOTEUR CRUISING IN U.S. WATERS THREE YEARS AGO",
+          "summary": "8 Nazi saboteurs reptd equipped with soc security cards, some of them forged",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1942/06/29/archives/spy-aides-in-city-captured-by-fbi-more-are-hunted-hoover-shields.html"
+        },
+        {
+          "headline": "NELSON IS MAPPING MORE SCRAP DRIVES TO GET WAR METAL; Truman Committee Is Told We Outstrip Axis Production, but Must Build Reserves TO TAKE CIVILIAN COPPER Progress Is Seen Against Steel Plate Shortage -- Dormitories Are Planned for Workers NELSON IS MAPPING MORE SCRAP DRIVES",
+          "summary": "D M Nelson indicates nonconvertible small plants may have to close, Truman com hearing",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/East_Slovak_Museum_in_Ko%C5%A1ice_-_The_Ko%C5%A1ice_Centuries_exhibit%2C_Pri_Miklu%C5%A1ovej_v%C3%A4znici_10_-_Upper_floor%2C_middle_room_-_Artisan_guilds_exhibit%2C_weapons_made_by_Ko%C5%A1ice%27s_weapon-making_guilds_between_the_15th_and_17th_century.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1942/06/26/archives/nelson-is-mapping-more-scrap-drives-to-get-war-metal-truman.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Aircraft_carriers_of_2007_except_US._carriers.jpg/1280px-Aircraft_carriers_of_2007_except_US._carriers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 4 CARRIERS SUNK; U.S. REFUGEES LAND, SILENCE PLEDGED; SPY AIDES IN CITY CAPTURED BY FBI.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.63
+      }
+    }
+  ]
+}
