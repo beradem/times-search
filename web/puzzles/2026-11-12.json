@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T12:34:10.294734+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1892,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "LANDED ON ELLIS ISLAND; NEW IMMIGRATION BUILDINGS OPENED YESTERDAY. A ROSY-CHEEKED IRISH GIRL THE FIRST REGISTERED -- ROOM ENOUGH FOR ALL ARRIVALS -- ONLY RAILROAD PEOPLE FIND FAULT.",
+          "summary": "",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/1280px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/02/archives/landed-on-ellis-island2-new-immigration-buildings-opened-yesterday.html"
+        },
+        {
+          "headline": "ENGLAND'S NOBLE DEAD; MANNING'S FUNERAL TO FOLLOW THE YOUNG DUKE'S. TO BE MADE VERY IMPRESSIVE -- RUMORS OF PEACE IN ITALY BETWEEN CHURCH AND STATE -- ONE OF BISMARCK'S FRIENDS IN TROUBLE -- BULGARIA THE ALLIED POWERS.",
+          "summary": "Death; Career; Funeral",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Portland_HeadLight_%28cropped%29.jpg/1280px-Portland_HeadLight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/17/archives/englands-noble-dead-mannings-funeral-to-follow-the-young-dukes-to.html"
+        },
+        {
+          "headline": "SHERMAN MEN ARE VICTORS; A SHARP FIGHT. BUT THEY NOMINATE LAYLIN AS SPEAKER. THE FORAKER FACTION SURPRISED AND DOWNCAST -- SHERMAN'S ELECTION TO THE UNITED STATES SENATE PRACTICALLY ASSURED.",
+          "summary": "United States Senatorship; Candidates Sherman and Foraker's Prospects",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Downtown_Columbus_View_from_Main_St_Bridge_-_edit1.jpg/1280px-Downtown_Columbus_View_from_Main_St_Bridge_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/03/archives/sherman-men-are-victors-a-sharp-fight-but-they-nominate-laylin-as.html"
+        },
+        {
+          "headline": "EUROPE'S EYE ON GERMANY; THE EMPEROR FACE TO FACE WITH LIBERAL OPPOSITION. A SITUATION THAT WAS TO BE YORE- SEEN -- FRENCH DEVOTION TO GER- MAN PEER -- AS TO POPE LEO'S HEALTH -- DUKE CONSTANTINE'S DEATH -- THE GRIP STILL IN FORCE.",
+          "summary": "LONDON, -- Young William's luck in politics has proved too good to last. All at once it has come to an abrupt and sensational end. Lifelong observers say there has been no such furious storm of partisan feeling in the Prussian Diet since the great battle over the army organization nearly thirty years ago as this which is now shaking Berlin.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Ergaki%2C_Buiba_Valley%2C_Western_Sayan_Mountains%2C_Krasnoyarsk_Krai%2C_Russia.jpg/1280px-Ergaki%2C_Buiba_Valley%2C_Western_Sayan_Mountains%2C_Krasnoyarsk_Krai%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1892/01/31/archives/europes-eye-on-germany-the-emperor-face-to-face-with-liberal.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/1280px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: LANDED ON ELLIS ISLAND; ENGLAND'S NOBLE DEAD; SHERMAN MEN ARE VICTORS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.187
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2011,
+        "month": 5
+      },
+      "stories": [
+        {
+          "headline": "Data Show Bin Laden Plots; C.I.A. Hid Near Raided House",
+          "summary": "Seized documents prompted U.S. officials to issue a warning that Al Qaeda had considered attacks on U.S. railroads. The C.I.A. also had Bin Laden’s compound under surveillance.",
+          "image": "https://static01.nyt.com/images/2011/05/07/world/07pakistan2-span/07pakistan2-span-articleLarge-v2.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2011/05/06/world/asia/06intel.html"
+        },
+        {
+          "headline": "Malick’s Film Adds a Dose of Sincerity to the Festivities",
+          "summary": "In “The Tree of Life” Terrence Malick takes a direct approach in asking some big questions.",
+          "image": "https://static01.nyt.com/images/2011/05/17/arts/JPMALICK/JPMALICK-articleLarge.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2011/05/17/movies/terrence-malick-asks-big-questions-in-the-tree-of-life.html"
+        },
+        {
+          "headline": "For Obama, Big Rise in Poll Numbers After Bin Laden Raid",
+          "summary": "A majority now approves of the president’s overall job performance, as well as his handling of foreign policy, according to the latest New York Times/CBS News poll.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Gary_Martin%2C_United_States_politics_and_government_reporter.jpg/1280px-Gary_Martin%2C_United_States_politics_and_government_reporter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2011/05/05/us/politics/05poll.html"
+        },
+        {
+          "headline": "Next for ‘Survivor’ Producer: Bible-Based Scripted Drama",
+          "summary": "Mark Burnett, reality-television producer extraordinaire, will step into the realm of scripted drama with the development of a 10-hour series of biblical stories for the History Channel.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/1990s_Television_Set.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2011/05/24/arts/television/reality-tv-producer-mark-burnett-tackles-the-bible.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2011/05/07/world/07pakistan2-span/07pakistan2-span-articleLarge-v2.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Data Show Bin Laden Plots; Malick’s Film Adds a Dose of Sincerity to the Festivities; For Obama, Big Rise in Poll Numbers After Bin Laden Raid.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.866
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1890,
+        "month": 12
+      },
+      "stories": [
+        {
+          "headline": "A FIGHT WITH THE HOSTILES; BIG FOOT'S TREACHERY PRECIPITATES A BATTLE. CAPT. WALLACE OF THE SEVENTH CAVALRY KILLED, WITH MANY INDIANS AND SOLDIERS -- LIEUT. GARLINGTON SERIOUSLY WOUNDED.",
+          "summary": "Wounded during Indian Campaign",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Boulons_anti-sdf_sur_un_perron_%28Marseille%2C_France%29.jpg/1280px-Boulons_anti-sdf_sur_un_perron_%28Marseille%2C_France%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1890/12/30/archives/a-fight-with-the-hostiles-big-foots-treachery-precipitates-a-battle.html"
+        },
+        {
+          "headline": "PARNELL SPLITS HIS PARTY; THE MAJORITY DRIVEN FROM HIM BY HIS SELFISHNESS. JUSTIN M'CARTHY ELECTED LEADER OF HIS OPPONENTS -- THE OLD LEADER LEFT WITH A FEW ADHERENTS AND THE CONTROL OF THE MONEY. BY THE COMMERCIAL CABLE FROM OUR OWN CORRESPONDENT.",
+          "summary": "Opponents Organize under J. McCarthy's Leadership; Mr. Gladstone's Letter; Resolutions; Mr. Parnell's Views",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Ireland_%28MODIS%29.jpg/1280px-Ireland_%28MODIS%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1890/12/07/archives/parnell-splits-his-party-the-majority-driven-from-him-by-his.html"
+        },
+        {
+          "headline": "BIG STRIKE IN SCOTLAND; RAILROAD TRAFFIC STOPPED AND BUSINESS CHECKED. NINE THOUSAND MEN STOP WORK -- VERY FEW TRAINS RUNNING -- FUEL SCARCE AND THE SUPPLY OF GAS THREATENED.",
+          "summary": "Strike by Glasgow Railway Men",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Munk%C3%A1csy_Sztr%C3%A1jk_1895.JPG/1280px-Munk%C3%A1csy_Sztr%C3%A1jk_1895.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1890/12/25/archives/big-strike-in-scotland-railroad-traffic-stopped-and-business.html"
+        },
+        {
+          "headline": "FOUR BLOCKS LAID WASTE; LONDON LOSES AT LEAST TWO MILLIONS BY FIRE. A LARGE NUMBER OF WAREHOUSES DESTROYED -- A BIG LOSS IN SEALSKINS ALONE -- THE USELESSNESS OF HAND ENGINES SHOWN.",
+          "summary": "Fire in Queen Victoria Street; Loss £400,000",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1890/12/31/archives/four-blocks-laid-waste-london-loses-at-least-two-millions-by-fire-a.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Boulons_anti-sdf_sur_un_perron_%28Marseille%2C_France%29.jpg/1280px-Boulons_anti-sdf_sur_un_perron_%28Marseille%2C_France%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: A FIGHT WITH THE HOSTILES; PARNELL SPLITS HIS PARTY; BIG STRIKE IN SCOTLAND.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.207
+      }
+    }
+  ]
+}
