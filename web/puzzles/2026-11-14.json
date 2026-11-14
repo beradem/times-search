@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T11:24:10.763820+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1989,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "EAST GERMANS FLOOD THE WEST, MOST TO REJOICE, THEN GO HOME; KOHL AND KRENZ AGREE TO MEET",
+          "summary": "LEAD: A million East Germans streamed into West Berlin and West Germany today on foot and by car, subway and train, many passing through border crossings so new that the paint was not yet dry. More important for East Germany, most were going back.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/12/world/clamor-east-open-frontier-east-germans-flood-west-most-rejoice-then-go-home-kohl.html"
+        },
+        {
+          "headline": "Western Europe Pledges Aid",
+          "summary": "LEAD: At an impromptu summit meeting called by France, the European Community pledged aid to East bloc countries that move toward democracy and agreed to set up a bank for low-interest loans to those nations. Page 28.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/19/world/western-europe-pledges-aid.html"
+        },
+        {
+          "headline": "WILDER SEEMS VIRGINIA WINNER, FLORIO IN; VOTERS, 5-4, APPROVE NEW YORK CHARTER; First Black Governor, If Recount Upholds Vote",
+          "summary": "LEAD: L. Douglas Wilder appeared to have eked out a narrow victory for the governorship of Virginia today, on the basis of almost complete but unofficial returns.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/1280px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/08/us/dinkins-defeats-giuliani-close-race-wilder-seems-virginia-winner-florio-voters-5-037689.html"
+        },
+        {
+          "headline": "POSTINGS: Reverse Mortgages and Repairs; New Help for Older Homeowners",
+          "summary": "LEAD: Two government programs announced this month offer loans and grants to older homeowners having low incomes or housing problems or both. In Washington, the Federal National Mortgage Association, known as Fannie Mae, made available for the first time about $200 million in guaranteed funds for 2,500 so-called reverse mortgages to be insured by the Federal Housing Administration.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Worker_home_from_1911_in_Helsinki.jpg/1280px-Worker_home_from_1911_in_Helsinki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1989/11/12/realestate/postings-reverse-mortgages-and-repairs-new-help-for-older-homeowners.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EAST GERMANS FLOOD THE WEST, MOST TO REJOICE, THEN GO HOME; Western Europe Pledges Aid; WILDER SEEMS VIRGINIA WINNER, FLORIO IN.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1995,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; RAIN STALLS SEARCH OF RUBBLE",
+          "summary": "A nationwide manhunt continued today for a second suspect in the bombing of a Federal office building in Oklahoma City, and the search for possible links between right-wing paramilitary groups and the 26-year-old Army veteran already in custody moved from a muddy Michigan bean field to the Arizona desert. Federal investigators said they believed there was a broader plot behind the bombing and were searching for evidence of a conspiracy hatched by several self-styled militiamen who oppose gun laws, income taxes and other forms of government control. Federal agents descended on Kingman, Ariz., the last known address of the suspect arrested on Friday, Timothy James McVeigh, and on the high desert surrounding the town, a training site for one such militia, the Arizona Patriots.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/23/us/terror-oklahoma-overview-fbi-hunts-2d-bombing-suspect-seeks-links-far-right-rain.html"
+        },
+        {
+          "headline": "Parking Rules",
+          "summary": "Because of religious holidays, alternate-side street parking regulations are suspended in New York City today and tomorrow. Other regulations remain in effect.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/21/nyregion/parking-rules-679395.html"
+        },
+        {
+          "headline": "Rethinking Welfare: Deterring New Births -- A special report.; State Aid Is Capped, but to What Effect?",
+          "summary": "At 16, Naikeya Haley decided to have a second child despite the state law that denied her extra welfare benefits because she was already receiving aid. \"It was a planned pregnancy,\" said Ms. Haley, who is now 17. The law that kept her from collecting $102 more a month \"doesn't make any difference to me,\" she said flatly, other than to make it that much harder to provide for her family. She and her two daughters live on $322 a month, and stay with friends.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1995/04/11/us/rethinking-welfare-deterring-new-births-special-report-state-aid-capped-but-what.html"
+        },
+        {
+          "headline": "AT LEAST 31 ARE DEAD, SCORES ARE MISSING AFTER CAR BOMB ATTACK IN OKLAHOMA CITY WRECKS 9-STORY FEDERAL OFFICE BUILDING",
+          "summary": "The authorities opened an intensive hunt today for whoever bombed a Federal office building in Oklahoma City, and proceeded on the theory that the bombing was a terrorist attack against the Government, law-enforcement officials said. President Clinton appeared in the White House press room this afternoon and somberly promised that the Government would hunt down the \"evil cowards\" responsible. \"These people are killers,\" he said, \"and must be treated like killers.\"",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Rochambeau_bomb_plot_1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1995/04/20/us/terror-oklahoma-city-investigation-least-31-are-dead-scores-are-missing-after.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/1280px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: F.B.I. HUNTS 2D BOMBING SUSPECT AND SEEKS LINKS TO FAR RIGHT; Parking Rules; Rethinking Welfare: Deterring New Births -- A special report..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1950,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "WAR IS DECLARED BY NORTH KOREANS; FIGHTING ON BORDER; Communist Regime Attacks South Republic, Uses Tanks --Broadcasts Hostilities FIRST DRIVE SEEN CURBED United States, Holding Soviet Responsible, Watches Event --Plea to U.N. Likely",
+          "summary": "N Korea invades S Korea; declares war; Kaesong seized; Ongjin peninsula reptd penetrated; tanks used, Chunchon area; landing below Kangnung reptd; US Amb to Korea Muccio urges Amers not to move pending check on Communists plans, radio s; 8 Amer Meth missionaries believed in Kaesong",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/1280px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/25/archives/war-is-declared-by-north-koreans-fighting-on-border-communist.html"
+        },
+        {
+          "headline": "ACHESON PICTURES COMMUNIST SURGE ISOLATING AMERICA; Warns Governors Divided U.S. Might Let Soviet Win Europe and Asia Without a Shot LAUDS STATE DEPARTMENT Secretary of State Discusses Policies With Executives and Is Received With Acclaim Calls Staff \"Clean, Loyal\" Acheson Wins Praise in Foreign Policy Discussion With Governors Point Four Plan Described Criticized 'Coming and Going' Pays Tribute to Peurifoy Discounts Britain's Stand",
+          "summary": "Acheson minimizes manifesto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/UCB_Miscellaneous_Symbols_Supplement.png/1280px-UCB_Miscellaneous_Symbols_Supplement.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/21/archives/acheson-pictures-communist-surge-isolating-america-warns-governors.html"
+        },
+        {
+          "headline": "KOREA HAMPERED BY TRADING CURBS; Lack of 'Know How' on the Markets and 2 Money Rates Also Impair Development Regime Limits Mark-Ups 2 Export Money Rates",
+          "summary": "Curbs hampering trade development discussed",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Provisional_Government_of_the_Republic_of_Korea_1921.jpg/1280px-Provisional_Government_of_the_Republic_of_Korea_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/04/archives/korea-hampered-by-trading-curbs-lack-of-know-how-on-the-markets-and.html"
+        },
+        {
+          "headline": "ATTLEE QUALIFIES PARTY'S REJECTION OF EUROPEAN UNITY; Disavows Manifesto as Policy of Government and Voices Readiness to Cooperate TALK CREATES CONFUSION Many Britons Remain Puzzled on Issue--Opposition Sees Duplicity, Maps Attack Faulty Liaison Seen Procedure Held Mysterious Attlee Qualifies Party Attitude Against European Unity Moves Technical Cause of Break Voices Desire to Help",
+          "summary": "Prime Min Attlee holds formative phase near; says GB will lead",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Deforestation_central_Europe_-_Rodungen_Mitteleuropa.jpg/1280px-Deforestation_central_Europe_-_Rodungen_Mitteleuropa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1950/06/14/archives/attlee-qualifies-partys-rejection-of-european-unity-disavows.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/1280px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: WAR IS DECLARED BY NORTH KOREANS; ACHESON PICTURES COMMUNIST SURGE ISOLATING AMERICA; KOREA HAMPERED BY TRADING CURBS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.577
+      }
+    }
+  ]
+}
