@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T11:54:04.481780+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1993,
+        "month": 2
+      },
+      "stories": [
+        {
+          "headline": "EXPLOSION AT THE TWIN TOWERS: The Overview; BLAST HITS TRADE CENTER, BOMB SUSPECTED; 5 KILLED, THOUSANDS FLEE SMOKE IN TOWERS",
+          "summary": "An explosion apparently caused by a car bomb in an underground garage shook the World Trade Center in lower Manhattan with the force of a small earthquake shortly after noon yesterday, collapsing walls and floors, igniting fires and plunging the city's largest building complex into a maelstrom of smoke, darkness and fearful chaos. The police said the blast killed at least five people and left more than 650 others injured, mostly with smoke inhalation or minor burns, but dozens with cuts, bruises, broken bones or serious burns. The police said 476 were treated at hospitals and the rest by rescue and medical crews at the scene.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/WTC_collapse_before_and_after.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/27/nyregion/explosion-twin-towers-overview-blast-hits-trade-center-bomb-suspected-5-killed.html"
+        },
+        {
+          "headline": "Woman in the News: CLINTON PICKS MIAMI WOMAN, VETERAN STATE PROSECUTOR, TO BE HIS ATTORNEY GENERAL; Tough 'Front-Line Warrior' Janet Reno",
+          "summary": "MIAMI, As State Attorney for Dade County for 15 years, Janet Reno has grown accustomed to controversy and conflict. A largely liberal Democrat in a mostly conservative Republican county, she has lost some big cases, but won enough to convince voters that no one can be more effective in one of the most difficult law enforcement jobs in the country. Race riots, crime waves, drug cartels, massive waves of immigrants, political corruption and police brutality are among the problems that Ms. Reno has confronted and survived. Now, after the collapse of two other attempts to nominate a woman as Attorney General, President Clinton has called upon the 54-year-old prosecutor to fight many of those same battles at the national level. - Mayor Seymour Gelber of Miami Beach, the former judge and prosecutor who hired Ms. Reno to the State Attorney's office here, called her \"a truly experienced big city prosecutor, a front-line warrior who has fought all the battles and faced all the slings and arrows.\" He added: \"She is a tough, tough lady. She has a soft, genteel way about her, but she is an adversary of steel.\" Speaking Her Mind",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1280px-Bill_Clinton.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/12/us/woman-clinton-picks-miami-woman-veteran-state-prosecutor-be-his-attorney-general.html"
+        },
+        {
+          "headline": "This Week's Numbers",
+          "summary": "Last Consensus Period Estimates (I.D.E.A. Inc.) Tuesday Dec. wholesale trade, percent change 0.4 0.6 Thursday Weekly jobless claims, thousands 352 325 January retail sales, percent change 1.2 0.4 Friday January producer prices, percent change 0.2 0.2 Dec. business inventories, percent change 0.2 0.1 Tuesday: Treasury auctions 3-year notes Wednesday: Treasury auctions 10-year notes Thursday: Treasury auctions 30-year bonds",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hang_Seng_Index.png/1280px-Hang_Seng_Index.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/07/business/this-week-s-numbers.html"
+        },
+        {
+          "headline": "National Recovery Fattening Tax Revenue in Many States",
+          "summary": "Evidence is continuing to build that the nation's economic expansion that took hold in the second half of is having a positive effect on battered state finances. Tax collections, not including legislated tax increases, rose nearly 6 percent in the fourth quarter compared with a year earlier, according to a survey of state tax officials by the Center for the Study of States, a research concern in Albany. That is the biggest increase since the beginning of the recent recession and five times last year's rise.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Lights_of_Rockefeller_Center_during_sunset.jpg/1280px-Lights_of_Rockefeller_Center_during_sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1993/02/17/us/national-recovery-fattening-tax-revenue-in-many-states.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/WTC_collapse_before_and_after.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: EXPLOSION AT THE TWIN TOWERS: The Overview; Woman in the News: CLINTON PICKS MIAMI WOMAN, VETERAN STATE PROSECUTOR, TO BE HIS ATTORNEY GENERAL; This Week's Numbers.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.999
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2012,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "Panicked Evacuations Mix With Nonchalance in Hurricane Sandy’s Path",
+          "summary": "In New York City, with memories of last year’s less-than-ferocious Hurricane Irene still fresh, some skeptical residents simply would not move.",
+          "image": "https://static01.nyt.com/images/2012/10/29/nyregion/EVAC1/EVAC1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2012/10/29/nyregion/panicked-evacuations-mix-with-nonchalance-in-hurricane-sandys-path.html"
+        },
+        {
+          "headline": "Voters Give Romney Better Grades for Leadership, Polls in 3 States Find",
+          "summary": "Mitt Romney is seen by more voters as a strong leader after his debate performance last week, but positive economic news appears to have buffered President Obama.",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/2012/10/11/us/politics/voters-give-mitt-romney-better-leadership-grades-polls-find.html"
+        },
+        {
+          "headline": "Suspect in Libya Attack, in Plain Sight, Scoffs at U.S.",
+          "summary": "Days after President Obama vowed to apprehend those behind the attack on American diplomats, a suspected ringleader spent an evening at a luxury hotel full of journalists.",
+          "image": "https://static01.nyt.com/images/2012/10/19/world/benghazi/benghazi-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2012/10/19/world/africa/suspect-in-benghazi-attack-scoffs-at-us.html"
+        },
+        {
+          "headline": "Utah Mayor Hopes Star Turn, and Romney’s Star Power, Lift Her to the House",
+          "summary": "Mia Love would be the first black Republican woman in the House, but she says the only history she wants to make is “getting our country on track.”",
+          "image": "https://static01.nyt.com/images/2012/10/31/us/LOVE/LOVE-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2012/10/31/us/politics/mia-love-mayor-in-utah-seeks-path-to-congress.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2012/10/29/nyregion/EVAC1/EVAC1-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Panicked Evacuations Mix With Nonchalance in Hurricane Sandy’s Path; Voters Give Romney Better Grades for Leadership, Polls in 3 States Find; Suspect in Libya Attack, in Plain Sight, Scoffs at U.S..",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.885
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1918,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "DUTCH TO INTERN FORMER KAISER; Holland Embarrassed by His Presence--Officials Go to Confer with Him. REMAINS ON RAILWAY TRAIN Three More German Rulers Ousted--All the Rest Likely to Go. Said to Have Planned Internment. DUTCH TO INTERN FORMER KAISER",
+          "summary": "reported to have fled with his staff from Liege where the garrison revolted",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1918/11/12/archives/dutch-to-intern-former-kaiser-holland-embarrassed-by-his.html"
+        },
+        {
+          "headline": "ARMIES VIEW EACH OTHER; Across Moselle Thousands of Enemy TroopsLoiter in Camps.TIME EXTENSION REFUSEDAmericans Veto a Request forDelayed Retiring Owing toFew Bridges.LUXEMBURG PEOPLE COOLERGerman Population at the Border Greet Pershing ForceLess Heartily. First View of Germany. ARMIES VIEW EACH OTHER American Officers in Troves. FOR RELEASED AMERICANS. Our Red Cross in France to Provide for Those Returning. GERMAN BARRIERS RAZED. Americans Destroy Steel and Concrete Obstacles Near Verdun. PERSHING GOES TO CHAUMONT His Special Train Drawn by an American Locomotive. RECORD OF 26TH DIVISION. New England Men Were in All Our Big Operations of the War. BRITISH ON GERMAN BORDER. Have Reached Frontier to the North of Luxemburg.",
+          "summary": "says entire 3d U. S. Army is at German border",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Schlacht_am_Wei%C3%9Fen_Berg_C-K_063.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1918/11/25/archives/armies-view-each-other-across-moselle-thousands-of-enemy.html"
+        },
+        {
+          "headline": "SPEED SURRENDER UNDER NAVAL TRUCE; Allied and German Delegates Will Confer at a British Port Today. RODMAN AMERICAN ENVOY Crews of U-Boats Said to Have Decided to Oppose Revolution. RHODES ON MISSION TO SPA. General of Rainbow Division Starts Today for German Headquarters. SPEED SURRENDER UNDER NAVAL TRUCE WANTS A VOICE ON ISLANDS. Australia Asks to be Consulted About Pacific Bases. WILLING TO ACCOMMODATE. German Fleet Had Only to Come Out, Wemyss Told Truce Envoys. POPE WATCHING AUSTRIA. Prays for Just Settlement of Irredentist Problems. WILL FREE 420,000 FRENCH. German Headquarters Arranging the Details of Their Repatriation. British Labor Wants Voice on Peace BEGIN EUACUATING POLAND. Germans in Warsaw Disarmed-- Reports of Pogrom There. 'OUR LADY OF VICTORY.' People of Albert Say She Clung to Her Tower Till Foe Was Beaten.",
+          "summary": "crews of U-boats said to oppose the revolution and favor reinstating officers",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg/1280px-Kloster_Paulinzella%2C_Th%C3%BCringen%2C_170316%2C_ako_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1918/11/16/archives/speed-surrender-under-naval-truce-allied-and-german-delegates-will.html"
+        },
+        {
+          "headline": "MOONEY SENTENCE IS COMMUTED TO PRISON FOR LIFE; California Governor Saves from Gallows Labor Leader Convicted of Bomb Murder. CITES PRESIDETN'S ADVICE But Convict Issues Statement from Cell Protesting Against Living Death. LABOR IS NOT SATISFIED Leaders Say Mooney Should Have a New Trial to Establish Guilt or Innocence. Motives of Anarchism. President Wilson's Messages. MOONEY SENTENCE IS COMMUTED Labor Demands a New Trial. Will Carry Out Protest Strike. New York Leaders Not Satisfied. FIGHT TO SAVE MOONEY. Labor Made His Case Its Own, Both Here and Abroad. RED FLAG IN SAN FRANCISCO Several Members of the Bolshevist Group Rounded Up by Police.",
+          "summary": "Mooney's sentence commuted to life imprisonment by Gov Stephens; text of Pres Wilson's messages to Stephens",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/1280px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1918/11/29/archives/mooney-sentence-is-commuted-to-prison-for-life-california-governor.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Among the month's major headlines: DUTCH TO INTERN FORMER KAISER; ARMIES VIEW EACH OTHER; SPEED SURRENDER UNDER NAVAL TRUCE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.591
+      }
+    }
+  ]
+}
