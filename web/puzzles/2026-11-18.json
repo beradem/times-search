@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T12:58:05.465373+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2017,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him",
+          "summary": "The material was considered so potentially explosive that the intelligence agencies decided that the president and the president-elect needed to be told and that the agencies were actively investigating it.",
+          "image": "https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/10/us/politics/donald-trump-russia-intelligence.html"
+        },
+        {
+          "headline": "Workers Say Andrew Puzder Is ‘Not the One to Protect’ Them, but He’s Been Chosen To",
+          "summary": "Donald J. Trump’s pick for labor secretary may soon be tasked with enforcing the very rules his company has been accused of violating.",
+          "image": "https://static01.nyt.com/images/2017/01/13/us/13PUZDER-3/13PUZDER-3-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/15/us/politics/andrew-puzder-labor-secretary.html"
+        },
+        {
+          "headline": "Megyn Kelly’s Jump to NBC From Fox News Will Test Her, and the Networks",
+          "summary": "Ms. Kelly’s departure from Fox News will test her ability to connect with a broader audience, but the most significant implications concern the larger television news industry.",
+          "image": "https://static01.nyt.com/images/2017/01/04/business/04kelly1/04kelly1-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/03/business/media/megyn-kelly-nbc-fox-news.html"
+        },
+        {
+          "headline": "Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry",
+          "summary": "The department’s inspector general will look into James B. Comey’s hotly debated decision to inform Congress about a new review of the Hillary Clinton email case.",
+          "image": "https://static01.nyt.com/images/2017/01/13/us/13comey/13comey-superJumbo.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2017/01/12/us/politics/james-comey-fbi-inspector-general-hillary-clinton.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-superJumbo.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him; Workers Say Andrew Puzder Is ‘Not the One to Protect’ Them, but He’s Been Chosen To; Megyn Kelly’s Jump to NBC From Fox News Will Test Her, and the Networks.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.92
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1920,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "MAY MAKE REFUND TO LIQUOR OWNERS; Prohibitionists Said to Approve Plan to Take Over Stock and Give Compensation. NO COST TO THE TREASURY Scheme Contemplates Sales from Warehouses for Industry--Supervisors Named. Many Thefts from Warehouses. MAY MAKE REFUND TO LIQUOR OWNERS Government Machinery Completed.",
+          "summary": "WASHINGTON,.--A plan to compensate the owners of intoxicating liquors now stored in bonded warehouses, whereby the Treasury will issue certificates to the owners of the whisky and take over the liquor for gradual sale under the law for non-beverage purposes...",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tomra_820.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/01/18/archives/may-make-refund-to-liquor-owners-prohibitionists-said-to-approve.html"
+        },
+        {
+          "headline": "FOES OF TREATY HOLD UP PARLEY; THREATEN LODGE; Bitter-Enders Block Conference at Which It Was Hoped to Agree on Article X. HOLD MEETING OF PROTEST Johnson and Borah Hint Revolt on Leader--Sherman Talks of Bolt from Party. FEAR COLLAPSE OF PARLEYS Taft Confers with Mild Group-- Ashurst Assails Nursing of Presidential Booms.",
+          "summary": "WASHINGTON,.--Republican irreconcilables in the Senate today threw a monkey wrench into treaty compromise machinery, stopping its wheels and perhaps damaging it beyond repair.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Strom_Thurmond%2C_c_1961_%28cropped%29.jpg/1280px-Strom_Thurmond%2C_c_1961_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/01/24/archives/foes-of-treaty-hold-up-parley-threaten-lodge-bitterenders-block.html"
+        },
+        {
+          "headline": "SOCIALISTS ELATED; SEE PROPAGANDA IN ASSEMBLY'S ACT; Excluded Members Raised from a Harmless Minority to a Political Force, Says One. PREPARE APPEAL TO LABOR Issue Statement Declaring Lusk Committee Feared Possible Disclosures. SUBMIT LIST OF QUESTIONS Public Men Differ as to Assembly's Attitude--Craig Approves; Hylan Demurs.",
+          "summary": "Roused by the action of the State Assembly in excluding the five Socialist members at its opening session on Wednesday Socialist leaders in the city worked feverishly yesterday preparing the defense they will make before the Assembly Judiciary Committee on Monday. Besides denying the charge that...",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Member_of_the_European_Parliament_for_Bulgaria_Sergey_Dmitrievich_Stanishev.jpg/1280px-Member_of_the_European_Parliament_for_Bulgaria_Sergey_Dmitrievich_Stanishev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/01/09/archives/socialists-elated-see-propaganda-in-assemblys-act-excluded-members.html"
+        },
+        {
+          "headline": "FLETCHER RESIGNS AS AMBASSADOR IN MEXICO CITY; Our Envoy Said to Feel It Is Impossible for Him to Deal Further with Carranza.--HAS PRESSED OUR DEMANDS-- Many Disputes with Carranza Have Robbed His Mission of Future Usefulness.--RECENTLY IN WASHINGTON-- His Service in Mexico Covered the Period of German Intrigue and Border Troubles.",
+          "summary": "WASHINGTON, (Associated Press)--Henry P. Fletcher has resigned as United States Ambassador to Mexico, to take effect in the course of the next few weeks.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Henry_P._Fletcher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1920/01/28/archives/fletcher-resigns-as-ambassador-in-mexico-city-our-envoy-said-to.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Tomra_820.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: MAY MAKE REFUND TO LIQUOR OWNERS; FOES OF TREATY HOLD UP PARLEY; SOCIALISTS ELATED.",
+      "ranking": {
+        "mode": "headline-richness",
+        "keyword_coverage": 0.001
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1963,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "KENNEDY OPPOSES QUOTAS FOR JOBS ON BASIS OF RACE; Says Education Is Greatest Need of Negroes--Doubts U.S. Can 'Repair Past' RIGHTS BILLS PRESSED Congress Urged to Act This Session--Election Year Pressure in '64 Cited Calls Education Vital KENNEDY OPPOSES RACIAL JOB QUOTA Protests Illustrate Plight",
+          "summary": "Kennedy calls educ greatest need of Negroes in redressing past grievances and improving present lot, news conf",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1963/08/21/archives/kennedy-opposes-quotas-for-jobs-on-basis-of-race-says-education-is.html"
+        },
+        {
+          "headline": "SAC HEAD DEMURS AS JOINT CHIEFS BACK A-TEST BAN; Gen. Power Urges Senate to Reject Pact as Not Being in Best U.S. Interest LEMAY HAS MISGIVINGS Air Force Leader Says He Might Have Fought Accord Had It Not Been Signed Goldwater Protests SAC HEAD DEMURS ON TEST BAN PACT Marines' Chief Decisive Wants Tests Continued Differ With LeMay Indicate No Pressure Had No Objection Humphrey Protests New Group Fights Treaty",
+          "summary": "Cs/S LeMay, Wheeler, McDonald and Shoup urge test ban treaty ratification but LeMay says he would not have backed it had it not already been signed, Foreign Relations Com; illus; all deny Adm pressure in decision; differ on degree of consultation by Adm; LeMay concedes he knew of treaty before signing and did not object; Fulbright repts LeMay, in later testimony, gives treaty more support; says 'heavy majority' of 9 heads of unified commands back treaty; SAC comdr Gen Power urges Sen reject treaty, Stennis subcom; illus; Goldwater suggests that without inspection USSR could encourage or participate in Chinese tests without detection, Sen s; Humphrey, defending US detection system, charges Goldwater, by putting up 'straw men,' does nation disservice",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1963/08/20/archives/sac-head-demurs-as-joint-chiefs-back-atest-ban-gen-power-urges.html"
+        },
+        {
+          "headline": "RAILS AND UNIONS ACCEPT PROPOSAL FOR ARBITRATION; Agree to Wirtz Plan on Two Main Issues, Crew Size and Job Reduction TALKS STILL 'CRITICAL' Secretary Says Decision on Concrete Steps Remains  Meeting Today Set Interpretation a Problem RAILS AND UNIONS ACCEPT PROPOSAL Wirtz Issues Report Unions Note Acceptance Size of Board Omitted Rail Stocks Rise",
+          "summary": "rrs and unions agree in principle to Wirtz plan to submit 2 major issues, job-cutting procedures and crew size, to binding arbitration; differ on how to apply principle; Wirtz holds talks still critical; says 'what to arbitrate remains serious problem'; mgt, union reprs comment on acceptance; rail stocks rise in anticipation of favorable settlement",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/George_Catlett_Marshall%2C_general_of_the_US_army_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/08/17/archives/rails-and-unions-accept-proposal-for-arbitration-agree-to-wirtz.html"
+        },
+        {
+          "headline": "ANTI-U.S. FEELING RISES IN VIETNAM AS UNREST GROWS; Nhu's Power in Regime Gains --Harder Line Toward Washington Is Feared 30 DEATHS REPORTED Troops Arrest Professors and May Seize Students to Avert a Rebellion Killing at Hue Indicated Regime Accuses Reds Anti-American Feeling Grows in Vietnam After Regime Acts Against Buddhists SAIGON STUDENTS REPORTED UNEASY Humiliation of U.S. Citizens Continues as Nhu Gains Power in Government Mrs. Nhu Exuberant Humiliations Continue Lodge Sees Two Buddhists",
+          "summary": "Dean of med faculty Dr Pham Bieu Tam arrested during pol crisis",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1963/08/24/archives/antius-feeling-rises-in-vietnam-as-unrest-grows-nhus-power-in.html"
+        }
+      ],
+      "reveal_image": null,
+      "blurb": "Among the month's major headlines: KENNEDY OPPOSES QUOTAS FOR JOBS ON BASIS OF RACE; SAC HEAD DEMURS AS JOINT CHIEFS BACK A-TEST BAN; RAILS AND UNIONS ACCEPT PROPOSAL FOR ARBITRATION.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.505
+      }
+    }
+  ]
+}
