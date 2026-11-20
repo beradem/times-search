@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T12:45:06.674277+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1886,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "BARTHOLDI WELL PLEASED; VIEWING, WITH HIS FRIENDS, HIS COMPLETED WORK. THE FRENCH GUESTS IN THE CITY--A TRIP TO BEDLOW'S ISLAND--PREPARING FOR THE CELEBRATION.",
+          "summary": "It was not the least use in the world for Louis de Bebian to try and look calm as he rushed hither and thither on the dock of the Compagnie Generale Transatlantique at 7:30 o'clock yesterday morning. Fatigue and anxiety were written on his face; they could be noticed in his actions, and they were still more conspicuous in his speech. \"Where are you going to take them?\"...",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/American-Vets-Disabled-Life-Memorial.jpg/1280px-American-Vets-Disabled-Life-Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/26/archives/bartholdi-well-pleased-viewing-with-his-friends-his-completed-work.html"
+        },
+        {
+          "headline": "INDORSING MR. ROOSEVELT; AN ENTHUSIASTIC MEETING OF THE UNION LEAGUE. THE CLUB LISTENS TO RINGING SPEECHES AND PLEDGES ITS SUPPORT TO THE REPUBLICAN CANDIDATE.",
+          "summary": "Roosevelt's Mayoralty Nomination Indorsed",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg/1280px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/22/archives/indorsing-mr-roosevelt-an-enthusiastic-meeting-of-the-union-league.html"
+        },
+        {
+          "headline": "CLOUD-CAPPED ST.ELIAS; PERILOUS WORK OF \"THE TIMES\" ALASKA EXPEDITIDN. CLIMBING THE ICE-LOCKED MOUNT. TOILING OVER THE GLACIERS TO THE BASE OF THE TOWERING MOUNTAIN --CREVASSES HIDDEN BY TREACHEROUS SNOW BRIDGES-THE PARTY TIED TO A ROPE TO SECURE SAFETY-AN ALTITUDE OF 7,200 FEET REACHED BEFORE NATURE'S IMPASSABLE BARRIER FORBADE FURTHER PROGRESS--THE HIGHEST CLIMB ABOVE THE SNOW LIMIT EVER MADE.",
+          "summary": "BASE OF MOUNT ST.ELIAS, Alaska,,. This camp, No.4, in which we found ourselves under the protection of the great high evergreen trees and on the soft carpet of moss under them, was, as any one would imagine, a most acceptable camp after the dismal bivouac on the ice and the hardly",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Anchorage_on_an_April_evening.jpg/1280px-Anchorage_on_an_April_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/07/archives/cloudcapped-stelias-perilous-work-of-the-times-alaska-expeditidn.html"
+        },
+        {
+          "headline": "BRITISH PIRATES AT WORK; BURNING EASTPORT INVADED AND PILLAGED. THIEVES FROM OVER THE BORDER BOLDLY SAIL TO THE DISTRESSED TOWN AND ROB RIGHT AND LEFT.",
+          "summary": "British Pirates' Thefts",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1886/10/19/archives/british-pirates-at-work-burning-eastport-invaded-and-pillaged.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/American-Vets-Disabled-Life-Memorial.jpg/1280px-American-Vets-Disabled-Life-Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: BARTHOLDI WELL PLEASED; INDORSING MR. ROOSEVELT; CLOUD-CAPPED ST.ELIAS.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.135
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 2008,
+        "month": 11
+      },
+      "stories": [
+        {
+          "headline": "For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team",
+          "summary": "President-elect Barack Obama prepared to name an ally as his White House chief of staff in his first step toward assuming power.",
+          "image": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/06/us/politics/06elect.html"
+        },
+        {
+          "headline": "Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling",
+          "summary": "Just as China has attained supercharged growth that astounded much of the world, it appears to be slowing more sharply and more quickly than anyone anticipated.",
+          "image": "https://static01.nyt.com/images/2008/11/07/business/07yuan01-75.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/07/business/worldbusiness/07yuan.html"
+        },
+        {
+          "headline": "Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided",
+          "summary": "Some are still wrestling with the question of how to vote. Which raises a follow-up: What is up with these people?",
+          "image": "https://static01.nyt.com/images/2008/11/02/us/politics/02undecided_span.jpg",
+          "image_source": "The New York Times",
+          "url": "https://www.nytimes.com/2008/11/02/us/politics/02undecided.html"
+        },
+        {
+          "headline": "Election’s Over, So What’s Next for the Cable News Channels?",
+          "summary": "For all the news media outlets that set viewership records in recent months, the looming question after Senator Barack Obama’s election is: What happens now?",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/2008/11/15/arts/television/15netw.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://static01.nyt.com/images/2008/11/05/us/06obama-600a.jpg",
+        "source": "The New York Times"
+      },
+      "blurb": "Among the month's major headlines: For Obama, No Time to Bask in Victory As He Starts to Build a Transition Team; Once Sizzling, China’s Economy Shows Rapid Signs of Fizzling; Sheepish, Proud or Set to Flip a Coin, They’re Still Undecided.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.507
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1991,
+        "month": 1
+      },
+      "stories": [
+        {
+          "headline": "WAR IN THE GULF: The Overview; IRAQIS FIRE MISSILES AT ISRAELI CITIES AFTER SECOND DAY OF ALLIED BOMBING; U.S. DISCOURAGES AN ISRAELI RESPONSE",
+          "summary": "After a day of allied successes in the war against Iraq, Baghdad struck back today with missile attacks on Israel and Saudi Arabia. Preliminary reports indicated that seven Iraqi missiles hit Israel, and there were reports of injuries but no deaths. The missiles did not appear to be armed with chemical warheads.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/18/world/war-gulf-overview-iraqis-fire-missiles-israeli-cities-after-second-day-allied.html"
+        },
+        {
+          "headline": "Mideast Crisis Threatens Unlikely Victim: Junk Mail",
+          "summary": "The prospect of war in the Persian Gulf may have one unlikely beneficiary: the nation's overstuffed mailboxes. Many direct marketing consultants say they are advising their clients to postpone plans to send out junk mail until after, the date when the United Nations has authorized the use of force to end Iraq's occupation of Kuwait. January is normally a peak month for mailing magazine subscription solicitations, catalogues and sweepstakes. But the consultants say they are deferring to a debated piece of direct marketing folklore that originated on,, the day President Kennedy was assassinated: Never send junk mail into the face of a national crisis, or you risk losing your customers to the television screen.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/1280px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/09/business/mideast-crisis-threatens-unlikely-victim-junk-mail.html"
+        },
+        {
+          "headline": "Military Contractors Struggle as Rules of the Game Change",
+          "summary": "A recent effort by the Navy and two of its largest contractors to save the troubled A-12 warplane is the clearest illustration yet of how policies intended for the arms buildup of the 's are haunting the military and its suppliers in an era of declining budgets. Even before they absorb the full impact of the coming shrinkage of the nation's combat forces, military contractors are reeling. They are victims of their own overly optimistic business projections and harsh terms imposed by the Pentagon in the last decade in an ill-fated attempt to hold down costs. Policies Built by $500 Hammers The builders of the A-12, for example, the McDonnell Douglas Corporation and the General Dynamics Corporation, agreed to develop the plane for a predetermined price, a condition of the contract. As in other fixed-price arrangements, the contractors ran into unforeseen technical problems that led to expenses far higher than the value of the contract, more than $1 billion higher with the A-12.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/North_American_F-86D-5_USAF_in_flight.jpg/1280px-North_American_F-86D-5_USAF_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/06/us/military-contractors-struggle-as-rules-of-the-game-change.html"
+        },
+        {
+          "headline": "The Incessant Lure of Kuwait's Oil",
+          "summary": "Kuwaiti oil is, after all, the immediate prize of the Persian Gulf crisis. But the oil was never supposed to be there. The world's great experts insisted that Kuwait would be dry of it, and the timing of its discovery was the peculiar result of the obsessions of a mining engineer from New Zealand and a noodle vendor in Japan. Thereafter, the development and shifting ownership of Kuwaiti oil embody much of the story of world oil -- from the end of World War I to the ticking clock of the current conflict with Iraq. The New Zealander, Frank Holmes, had knocked around the world for years as a mining engineer before ending up in World War I as a quartermaster in the British Army with the rank of major. On a beef-buying expedition to Ethiopia, he heard from Arab traders about oil seepages along the Arabian side of the Persian Gulf. His interest was piqued. Then, while stationed in Basra in what had not yet become Iraq, he learned of the oil production in neighboring Persia -- now Iran -- where the first successful well in the Middle East had been drilled in.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kuwait_City_Skyline_1.jpg/1280px-Kuwait_City_Skyline_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1991/01/13/business/forum-the-incessant-lure-of-kuwait-s-oil.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/1280px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: WAR IN THE GULF: The Overview; Mideast Crisis Threatens Unlikely Victim: Junk Mail; Military Contractors Struggle as Rules of the Game Change.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 1.0
+      }
+    }
+  ]
+}
