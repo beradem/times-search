@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T12:32:05.387866+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1987,
+        "month": 10
+      },
+      "stories": [
+        {
+          "headline": "Market Turmoil; STOCKS FALL 156, LOSS OF 8%, AFTER BIG SELL OFFS ABROAD; JOINT TALKS ON DEFICIT BEGIN",
+          "summary": "LEAD: A new wave of pessimism overwhelmed Wall Street yesterday, prompting another big selloff in stocks.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/27/business/market-turmoil-stocks-fall-156-loss-8-after-big-sell-offs-abroad-joint-talks.html"
+        },
+        {
+          "headline": "Perilous Economic Cures; Some Experts See Tax Increases and Cuts In Spending by U.S. as Spurs to Recession",
+          "summary": "LEAD: Just when President Reagan and Congressional leaders have at last started moving toward a compromise on measures to reduce the Federal budget deficit by at least $23 billion next year, with the logjam apparently broken by the stock market plunge, an unlikely alliance of normally warring economists is warning that shrinking the deficit by raising taxes and cutting",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Stocks_%26_Bonds.jpg/1280px-Stocks_%26_Bonds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/28/business/perilous-economic-cures-some-experts-see-tax-increases-cuts-spending-us-spurs.html"
+        },
+        {
+          "headline": "9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT",
+          "summary": "LEAD: The Senate Judiciary Committee voted 9 to 5 today against the nomination of Judge Robert H. Bork to the Supreme Court, and both supporters and opponents predicted his rejection by the full Senate if President Reagan continues to insist on a vote.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ronald_Reagan_with_his_mother_Nelle_1950_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/07/us/9-5-panel-vote-against-bork-sends-nomination-senate-amid-predictions-defeat.html"
+        },
+        {
+          "headline": "Carnation Settles Shareholder Suit for $13 Million",
+          "summary": "LEAD: The Carnation Company announced yesterday that it had agreed to pay $13 million to settle a lawsuit contending that company officials had issued false statements about negotiations when the food-products company was acquired by Nestle S.A. in.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Borussia_Dortmund_GmbH_%26_Co._KGaA_Economic_Share_Price_and_Stock_Market_Volume.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1987/10/10/business/carnation-settles-shareholder-suit-for-13-million.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: Market Turmoil; Perilous Economic Cures; 9-5 PANEL VOTE AGAINST BORK SENDS NOMINATION TO SENATE AMID PREDICTIONS OF DEFEAT.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.998
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1945,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "FOE'S ENVOYS CONFER IN MANILA; ASK SWIFT DISARMING OF JAPAN; WAINWRIGHT FOUND WELL IN CAMP; STEPS OF DEFEAT: JAPANESE ENVOYS ARRIVING IN MANILA FOE'S EMISSARIES CONFER IN MANILA New Yorkers Among Guards U.S. Silent on Kuriles",
+          "summary": "Heads MacArthur reprs, Jap surrender conf at Manila",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Order_of_Sikatuna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/20/archives/foes-envoys-confer-in-manila-ask-swift-disarming-of-japan.html"
+        },
+        {
+          "headline": "POTSDAM TERMS ACCEPTED, DOMEI SAYS; An Imperial Message Is Forthcoming Soon,' Official News Agency Reports in Broadcast at 1:49 A.M. DISCLOSES LONG SESSION BY CABINET FCC Monitors Hear Code Dispatch Being Sent by Japanese to Switzerland--Washington Began to Suspect 'Stalling' Message to Switzerland Heard Cheering Greets Report in Guam Capital Awaited Reply All Day DOMEI ANNOUNCES FOE'S SURRENDER Japanese End Vigil Swiss Blame Japanese",
+          "summary": "all-day vigil cited",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1945/08/14/archives/potsdam-terms-accepted-domei-says-an-imperial-message-is.html"
+        },
+        {
+          "headline": "ARMED ESCORT SET; 350 Planes Will Carry Troops to an Airfield Southwest of Tokyo JAPAN REPORTS TYPHOON Says Storm in Kanto District Has Delayed Preparations for Entry of Allies Ships to Begin Disarmament Asks for Data on Newsmen Five Exceptions Requested 7,500 SKY TROOPS TO LAND IN JAPAN JAPAN WARNED ON CLASHES Home Ministry Issues Instructions to People During Occupation",
+          "summary": "gives up post of War Min",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1945/08/24/archives/armed-escort-set-350-planes-will-carry-troops-to-an-airfield.html"
+        },
+        {
+          "headline": "FRENCH ASK LOANS OF BILLION HERE; Paris Officials Reveal Request as de Gaulle and Party Return by Plane TOP PRIORITY ALSO SOUGHT France Wants Credits Given in Three Parts, as Well as Aid in Reconstruction Believe Air Is Cleared No Pledge on Third Loan",
+          "summary": "French reptd disappointed at US plan to distribute captured gold among liberated countries in proportion to losses",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1945/08/31/archives/french-ask-loans-of-billion-here-paris-officials-reveal-request-as.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Order_of_Sikatuna.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: FOE'S ENVOYS CONFER IN MANILA; POTSDAM TERMS ACCEPTED, DOMEI SAYS; ARMED ESCORT SET.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.697
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1911,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "141 MEN AND GIRLS DIE IN WAIST FACTORY FIRE; TRAPPED HIGH UP IN WASHINGTON PLACE BUILDING; STREET STREWN WITH BODIES; PILES OF DEAD INSIDE; The Flames Spread with Deadly Rapidity Through Flimsy Material Used in the Factory.",
+          "summary": "fire cause unknown",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/26/archives/141-men-and-girls-die-in-waist-factory-fire-trapped-high-up-in.html"
+        },
+        {
+          "headline": "20,000 TROOPS AND TWO NAVAL DIVISIONS TO MOBILIZE NEAR MEXICAN BORDER; Fourth of United States Army Ordered to Concentrate in Texas and Southern California. REGIMENTS ALREADY MOVING Cruiser Division of Atlantic Fleet to Proceed to Gulf -- Pacific Fleet Held Ready. 2,000 MARINES ASSEMBLING Washington Explains It as Mobilization Test and Joint Army and Navy War Game. INTERVENTION TALK FOLLOWS Disorders in Mexico Have Caused Large British Interests to Claim Protection. FALSE RUMORS ABOUT DIAZ Washington and Mexican Authorities Deny That Aged President Is in Worse Health. GEN. CARTER HEADS FORCE Commanded in Philippines and Is Now Gen. Wood's Assistant as Chief of Staff.",
+          "summary": "US orders 20,000 troops, 2 naval divs to Tex and southern Calif near Mex border for mobilization tests; commanded by Maj Gen Carter; Taft and Maj Gen Wood comment; text of White House announcement; some see order as potential interference; Brit interests in Mex to seek US protection if Brit Govt unable to act under restraints of Monroe Doctrine; Mex and US officials deny repts of Diaz illness",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/1280px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/08/archives/20000-troops-and-two-naval-divisions-to-mobilize-near-mexican.html"
+        },
+        {
+          "headline": "SEEKS FRAUD NOTES IN CARNEGIE TRUST; Whitman Is Investigating Story That Names of Dead Men and Fictitious Persons Were Used.",
+          "summary": "Whitman probes rept of fraudulent notes; Rollins '10 lrs to Banks Supt and to Cummins group explaining his assn with co revealed; lrs texts",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Andrew_Carnegie%2C_by_Theodore_Marceau_%28cropped%29_%282%29.jpg/1280px-Andrew_Carnegie%2C_by_Theodore_Marceau_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/24/archives/seeks-fraud-notes-in-carnegie-trust-whitman-is-investigating-story.html"
+        },
+        {
+          "headline": "WON'T WITHDRAW, DECLARES SHEEHAN; Onus Is on the Party to Release His Supporters from Their Caucus Obligations, He Says. MUST RETIRE, IS OUTLOOK Murphy Said to Have Enough Votes for Cohalan -- Osborne Sees Trap for Insurgents in To-day's Caucus. WON'T WITHDRAW, DECLARES SHEEHAN",
+          "summary": "Sheehan refuses to withdraw, open lr to Dem Legislators; text; Osborne says caucus is Tammany plot to trap insurgents; Roosevelt sees insurgents refusing to enter caucus",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Mitch_McConnell_2016_official_photo_%281%29.jpg/1280px-Mitch_McConnell_2016_official_photo_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1911/03/27/archives/wont-withdraw-declares-sheehan-onus-is-on-the-party-to-release-his.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Image_of_Triangle_Shirtwaist_Factory_fire_on_March_25_-_1911.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: 141 MEN AND GIRLS DIE IN WAIST FACTORY FIRE; 20,000 TROOPS AND TWO NAVAL DIVISIONS TO MOBILIZE NEAR MEXICAN BORDER; SEEKS FRAUD NOTES IN CARNEGIE TRUST.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.352
+      }
+    }
+  ]
+}
