@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T12:29:48.321030+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 1906,
+        "month": 4
+      },
+      "stories": [
+        {
+          "headline": "SAN FRANCISCO'S PEOPLE FED; FEDERAL AUTHORITIES RULE; Food in Plenty Reaches the City; Order is Being Restored. CIVIL AND MILITARY CLASH AVERTED BY A CONFERENCE Fire Almost Out and the Ferry House Is Safe -- Forty Bodies Found In One House -- Meals Cooked In The Streets -- Houses and Vehicles Seized By the Authorities.",
+          "summary": "Food reaches city; Fed authorities rule; civil and mil clash averted by conf; rebldg plans; other stories; map; more funds given",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Federal_Reserve_Bank%2C_San_Francisco.jpg/1280px-Federal_Reserve_Bank%2C_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/22/archives/san-franciscos-people-fed-federal-authorities-rule-food-in-plenty.html"
+        },
+        {
+          "headline": "OVER 500 DEAD, $200,000,000 LOST IN SAN FRANCISCO EARTHQUAKE; Nearly Half the City Is in Ruins and 50,000 Are Homeless. WATER SUPPLY FAILS AND DYNAMITE IS USED IN VAIN Great Buildings Consumed Before Helpless Firemen -- Federal Troops and Militia Guard the City, With Orders to Shoot Down Thieves -- Citizens Roused in Early Morning by Great Convulsion and Hundreds Caught by Falling Walls.",
+          "summary": "Half of city in ruins following earthquake; over 500 dead; damage put at $200 million; 50,000 homeless; ins losses; map; illus",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/1280px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/19/archives/over-500-dead-200000000-lost-in-san-francisco-earthquake-nearly.html"
+        },
+        {
+          "headline": "THE MINERS PROPOSE A NEW ARBITRATION; Would Let Judge Gray and Conciliation Board Adjudicate. OPERATORS DELAY ANSWER Will Think It Over and Reply on Monday -- But They Issue an Unconciliatory Statement. THE MINERS PROPOSE A NEW ARBITRATION",
+          "summary": "Arbitration by the present Conciliation Board, with United States Circuit Court Judge George Gray, or some person appointed by him, as Chairman and umpire, is the solution of the anthracite coal difficulties proposed by the miners. The answer of the operators will not be known until Monday, but a statement issued last night on their behalf shows that they regard some of the miners' demands as entirely inadmissible, and are in no conciliatory mood.",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bituminous_Coal.JPG/1280px-Bituminous_Coal.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/06/archives/the-miners-propose-a-new-arbitration-would-let-judge-gray-and.html"
+        },
+        {
+          "headline": "MATTEUCCI TELLS OF THE ERUPTION; Stone Blocks Rose to a Height of 2,500 Feet. GREAT ELECTRIC DISPLAY Scientist Thinks It the Feature of the Outbreak. AMERICAN SHARED PERIL Perret Remained at the Observatory -- Volcano Exploded While Matteucci Was Interviewed. MATTEUCCI'S STORY OF THE ERUPTION",
+          "summary": "Prof Matteucci tells of his experience and observations",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg/1280px-Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1906/04/15/archives/matteucci-tells-of-the-eruption-stone-blocks-rose-to-a-height-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Federal_Reserve_Bank%2C_San_Francisco.jpg/1280px-Federal_Reserve_Bank%2C_San_Francisco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: SAN FRANCISCO'S PEOPLE FED; OVER 500 DEAD, $200,000,000 LOST IN SAN FRANCISCO EARTHQUAKE; THE MINERS PROPOSE A NEW ARBITRATION.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.182
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1914,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "ARMED LINER SUNK BY THE BRITISH; Cruiser High Flyer Sends Kaiser Wilhelm der Grosse to Bottom Off African Coast. WAS COMMERCE DESTROYER British Lose One Killed and Five Wouded ;- Survivors of Kaiser Landed. GERMAN CRUISER SMASHED Magdeburg, Stranded and Attacked by Russians, Blown Up ;- 17 Killed ;- Mines Sink Two Ships.",
+          "summary": "British cruiser Highflyer sinks Kaiser Wilhelm der Grosse",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/RMS_Queen_Mary.jpg/1280px-RMS_Queen_Mary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/28/archives/armed-liner-sunk-by-the-british-cruiser-high-flyer-sends-kaiser.html"
+        },
+        {
+          "headline": "KAISER IGNORES JAPAN'S DEMAND; TIME LIMIT ENDS; German Government Makes No Reply to Ultimatum ;- War Is Probably Now On. ENVOY ORDERED TO LEAVE Japanese Charge Instructed Throug h Washington to Quit Berlin at 4 A.M. Today. JAPAN EMBARKS TROOPS Shanghai Hears That 16,000 Men Are on Transports Ready to Move on Kiao-Chau. BIG FLEET ALSO ON PATROL London and Washington Both Believe Japan Will Begin Attack on Germans at Once. ALL NON-COMBATANTS FLEE American Ambassadors to Take Charge of Japanese and German Interests in Hostile Lands. KAISER IGNORES JAPAN'S DEMAND",
+          "summary": "Ambassadors will protect German and Japanese interests during hostilities",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Second_world_war_europe_animation_large_de.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/23/archives/kaiser-ignores-japans-demand-time-limit-ends-german-government.html"
+        },
+        {
+          "headline": "Kaiser at the Front With His Three Sons; Berlin Press Hails His Act With Enthusiasm",
+          "summary": "arrives at Mainz",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Germaine_de_Sta%C3%ABl_-_De_l%27Allemagne.jpg/1280px-Germaine_de_Sta%C3%ABl_-_De_l%27Allemagne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/18/archives/kaiser-at-the-front-with-his-three-sons-berlin-press-hails-his-act.html"
+        },
+        {
+          "headline": "ITALY WITH 800,000 MAY JOIN THE ALLIES; Swiss Papers Learn of Country-Wide Preparations for War ;- French Frontier Vacated.",
+          "summary": "England is key to Italy's attitude toward Triple Alliance",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Portland_HeadLight_%28cropped%29.jpg/1280px-Portland_HeadLight_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1914/08/30/archives/italy-with-800000-may-join-the-allies-swiss-papers-learn-of.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/RMS_Queen_Mary.jpg/1280px-RMS_Queen_Mary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ARMED LINER SUNK BY THE BRITISH; KAISER IGNORES JAPAN'S DEMAND; Kaiser at the Front With His Three Sons.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.545
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 1974,
+        "month": 8
+      },
+      "stories": [
+        {
+          "headline": "NIXON CALLS AIDES IN POSSIBLE MOVE ON IMPEACHMENT",
+          "summary": "Pres Nixon summons his chief defense atty James D St Clair, press sec Ronald L Ziegler, chief of staff Alexander M Haig Jr and speech writers Raymond K Price Jr and Patrick J Buchanan to Camp David, Md, arousing speculation that some new move is contemplated as result of Cong impeachment drive; deputy press sec Gerald L Warren says he knows of no plans for speech but does not rule out possibility that Nixon is preparing new response to pressures for impeachment; options open to Nixon noted; lr Sen R P Griffin sent to Pres Nixon warning that if Nixon defies Sen subpoenas for tapes Griffin will vote for conviction discussed; Repr J J Rhodes cancels news conf, in which he was to announce how he would vote on impeachment, because of illness (L)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1974/08/05/archives/nixon-calls-aides-in-possible-move-on-impeachment-went-with-family.html"
+        },
+        {
+          "headline": "All Europe Suddenly Focuses On the Political Crisis in U.S.",
+          "summary": "W Eur is swept by storm of intense reaction to Pres Nixon's latest disclosures in Watergate scandal; US pol crisis has suddenly eclipsed all other issues in public debate; Govt officials reluctant to comment publicly but press comment is most caustic in memory, some papers calling for Nixons resignation; several papers quoted (L)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/1280px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1974/08/08/archives/all-europe-suddenly-focuses-on-the-political-crisis-in-us-europe.html"
+        },
+        {
+          "headline": "CYPRUS FIGHTING RESUMES AS PEACE TALKS COLLAPSE; U.N. CALLED INTO SESSION",
+          "summary": "Fighting resumes on Cyprus shortly after peace talks break down in Geneva; Brit Sec James Callaghan calls for emergency meeting of UN Security Council; Turkish planes bomb Nicosia and area near airport; 2 hrs before attack, Turkish radio warns ships and civil aircraft to stay clear of area; AP and Reuters repts possibility that Greece is withdrawing from NATO; Greek Foreign Min George Mavros is quoted as saying 'NATO does not exist for Greece'; illus of Callaghan, Mavros and Turkish Foreign Min Turan Gunes leaving Geneva peace talks (S)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1974/08/14/archives/cyprus-fighting-resumes-as-peace-talks-collapse-un-called-into.html"
+        },
+        {
+          "headline": "Poll Fear a Depression Is Ahead; Ford's Vow to Curb Inflation Stirs Hope",
+          "summary": "Gallup Poll taken 2 wks ago shows that 46% of those questioned fear US is headed for depression such as 1 experienced in '30s; total of 44% do not believe depression is coming, while other 10% have no opinion; finds that 68% of public believe econ situation will worsen over next 6 mos, while 13% think it will get better, 15% feel situation will be same and 4% have no opinion; NY Times survey conducted last wk finds that Pres Ford's vow to curb inflation offers hope; consumers, students, businessmen and housewives comment (L)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/1974/08/18/archives/46-in-poll-fear-a-depression-is-ahead-fords-vow-to-curb-inflation.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: NIXON CALLS AIDES IN POSSIBLE MOVE ON IMPEACHMENT; All Europe Suddenly Focuses On the Political Crisis in U.S.; CYPRUS FIGHTING RESUMES AS PEACE TALKS COLLAPSE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.631
+      }
+    }
+  ]
+}
