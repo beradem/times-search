@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T13:45:47.338172+00:00",
+  "rounds": [
+    {
+      "round": 1,
+      "answer": {
+        "year": 2003,
+        "month": 3
+      },
+      "stories": [
+        {
+          "headline": "ALLIES CONFRONT BAGHDAD DEFENDERS; IRAQIS REPEL COPTERS; ONE GOES DOWN",
+          "summary": "American forces gather south of Baghdad, flinging artillery fire and attack helicopters against Republican Guard, outer ring of Saddam Hussein's defense of Baghdad; curtain of fire from small arms and machine guns drives back airborne force of 32 Apache helicopters seeking Iraqi tanks; nearly all helicopters sustain damage, and one goes down in farmer's field; its two crewmen are listed as missing in action; Iraqi state television runs video of two captured men; allied forces regroup to consider shift in strategy to take on Medina Republican Guard Division's armor from safer altitudes; heavy aerial bombardment is unleashed on targets south of Baghdad; Iraq appears to be pursuing military strategy of concentrating its forces in cities, where they are less immediately vulnerable to superior allied firepower; Deputy Prime Min Tariq Aziz appears buoyant during televised news conference while describing results of day's battles; photos; map (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BritsLookingOnBaghdad1941.jpg/1280px-BritsLookingOnBaghdad1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2003/03/25/world/nation-war-attack-allies-confront-baghdad-defenders-iraqis-repel-copters-one.html"
+        },
+        {
+          "headline": "'Chicago' Is Big Oscar Winner, but 'Pianist' Surprises; Hollywood Glamour Still Stars at Ceremony, but Security and War Play Supporting Roles",
+          "summary": "Chicago wins best picture and five other Oscars while losing a few upsets to The Pianist, including Roman Polanski winning award for best director; winners include Nicole Kidman for best actress (The Hours), Adrien Brody for best actor (Pianist), Chris Cooper for best supporting actor (Adaptation) and Catherine Zeta-Jones for best supporting actress (Chicago); war in Iraq dims glamour of ceremonies only slightly, but it is reflected in several acceptance speeches, notably Michael Moore's for his Oscar for best documentary (Bowling for Columbine); Moore attacks Pres Bush as ficticious president leading war on ficticious grounds; comments are booed by many people in audience; photos (L)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg/1280px-71st_Fighter-Interceptor_Squadron_F-106_58-0775_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2003/03/24/movies/chicago-big-oscar-winner-but-pianist-surprises-hollywood-glamour-still-stars.html"
+        },
+        {
+          "headline": "Gulf War Witnesses, at an Intimate Level; As a New Conflict Looms, Two Memoirs Examine a Past One",
+          "summary": "Persian Gulf war of is focus of two new memoirs: Jarhead by Anthony Swofford, who served as Marine sniper on Saudi-Kuwait border, and Baghdad Express by Joel Turnipseed, Marine reservist who ferried truckloads of ammunition and supplies across Saudi desert to American troops on front lines; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/1280px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2003/03/17/books/gulf-war-witnesses-intimate-level-new-conflict-looms-two-memoirs-examine-past.html"
+        },
+        {
+          "headline": "Untested Companies Enlist in U.S. Biodefense",
+          "summary": "Efforts in United States to create vibrant biodefense sector have left national security against bioterorism largely in hands of untested companies; about 100 biotechnology companies are trying to develop technology for detecting or fighting pathogens that may be used by terrorists or rogue nations; many are small companies, lured by government research money, that have never brought product to market successfully; Bush administration plan to spend some $6 billion over 10 years to buy and stockpile medicines to counter biological, chemical and radiological weapons will create guaranteed market for drugs; table of possible threats and companies working to counter them; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/U.S._Air_Force_Master_Sgt._Jess_V._Hernandez%2C_right%2C_assigned_to_the_119th_Maintenance_Squadron%2C_leads_Airmen_through_extreme_cold%2C_harsh_winds_and_snow_on_their_way_to_chemical_and_biological_warfare_training_080209-F-WA217-049.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2003/03/23/business/untested-companies-enlist-in-us-biodefense.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BritsLookingOnBaghdad1941.jpg/1280px-BritsLookingOnBaghdad1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: ALLIES CONFRONT BAGHDAD DEFENDERS; 'Chicago' Is Big Oscar Winner, but 'Pianist' Surprises; Gulf War Witnesses, at an Intimate Level.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.879
+      }
+    },
+    {
+      "round": 2,
+      "answer": {
+        "year": 1889,
+        "month": 6
+      },
+      "stories": [
+        {
+          "headline": "BURYING ITS MANY DEAD; JOHNSTOWN NOW A CITY OF MORGUES. UNKNOWN BODIES HURRIED TO UNNAMED GRAVES. THE DEATH LIST CERTAINLY 10,000-- STRINGENT MEASURES AND HARD WORK NECESSARY TO PREVENT A PESTILENCE--DISTRIBUTING THE GREAT STORES OF FOOD AND CLOTHING--THE STORY OF THE FATAL FLOOD RETOLD--THE GREAT DAMAGE BELOW THE AFFLICTED CITY. A CROWDED MORGUE. A TERRIBLE DEATH MILL.",
+          "summary": "Johnstown Flood; 10,000 Deaths",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Burying_of_dead_-_NARA_-_529064_%28page_2%29.jpg/1280px-Burying_of_dead_-_NARA_-_529064_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/06/archives/burying-its-many-dead-johnstown-now-a-city-of-morgues-unknown.html"
+        },
+        {
+          "headline": "REFORM IN THE BALLOT; CONNECTICUT'S EFFORT TO SECURE IT. HEARING BEFORE THE JUDICIARY COMMITTEE YESTERDAY--THE LONG CONTEST BE FOUGHT OVER.",
+          "summary": "HARTFORD,.--The interest in the Secret-Ballot bill attracted a large attendance at the bearing this afternoon before the Judiciary Committee. The principal supporters of the measure who were heard were the Hon. Henry C. Robinson and William A. Country man of this city, Speaker John H. Perry, the Rev. Dr. Chapin of Meriden, and Representative Wolff of New-Haven. Albert H. Walker of this city appeared in behalf of an envelope system.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Connecticut_State_Capitol%2C_Hartford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/19/archives/reform-in-the-ballot-connecticuts-effort-to-secure-it-hearing.html"
+        },
+        {
+          "headline": "FORAKER WINS THE PRIZE; OHIO REPUBLICANS OFFER HIM A THIRD TERM. WORK OF THE CONVENTION DONE WITHOUT CREATING ANY BITTER ANTAGONISMS--THE TICKET NAMED. THE DEMOCRATIC OUTLOOK.",
+          "summary": "Ticket; J. B. Foraker for Governor",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Downtown_Columbus_View_from_Main_St_Bridge_-_edit1.jpg/1280px-Downtown_Columbus_View_from_Main_St_Bridge_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/27/archives/foraker-wins-the-prize-ohio-republicans-offer-him-a-third-term-work.html"
+        },
+        {
+          "headline": "BODIES ARE EVERYWHERE; PESTILENCE THREATENED IN CONEMAUGH VALLEY. FULLY 10,000 PERSONS MUST HAVE PERISHED. DRAGGING THE CHARRED BODIES FROM THE BURNING WRECK--CORPSES FOUND IN THE MUD AND SAND--THE RESPONSIBILITY FOR THE DAM WHICH GAVE WAY--THE WHOLE COUNTRY RISING TO AID THE SUFFERERS.",
+          "summary": "Ten Thousand Drowned; Scenes; Incidents; General References",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Green_Bank_300ft_collapsed_telescope.jpg/1280px-Green_Bank_300ft_collapsed_telescope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/1889/06/04/archives/bodies-are-everywhere-pestilence-threatened-in-conemaugh-valley.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Burying_of_dead_-_NARA_-_529064_%28page_2%29.jpg/1280px-Burying_of_dead_-_NARA_-_529064_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: BURYING ITS MANY DEAD; REFORM IN THE BALLOT; FORAKER WINS THE PRIZE.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.18
+      }
+    },
+    {
+      "round": 3,
+      "answer": {
+        "year": 2001,
+        "month": 9
+      },
+      "stories": [
+        {
+          "headline": "BUSH AND TOP AIDES PROCLAIM POLICY OF 'ENDING' STATES THAT BACK TERROR; LOCAL AIRPORTS SHUT AFTER AN ARREST",
+          "summary": "Ten people are taken into custody at Kennedy International and La Guardia Airports shortly after they reopen for first time since terrorist attacks; authorities then shut all three major New York-area airports again; law enforcement officials say one of those held was carrying false pilot's identification; say one was wearing American Airlines crew uniform on and tried to board flight to Los Angeles around time of hijackings, only to become infuriated when it was canceled because of attacks at World Trade Center; Italian police reopen inquiry into theft of American Airlines uniform and credential in Rome four months ago; authorities say several of those detained showed up at airport with tickets for flights canceled on and tried to use them; man with false pilot's identification is arrested, and he and others are being questioned to determine whether they are part of plot to attack American targets (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/14/us/after-attacks-airports-bush-top-aides-proclaim-policy-ending-states-that-back.html"
+        },
+        {
+          "headline": "Attacks Spur a Surge of Interest in Religion; As Attendance at Services Rises, Clerics Hope for a General Moral Uplift",
+          "summary": "Many churches and religious groups are stepping forward in wake of World Trade Center disaster to confort, offer prayers and proselytize; in and around New York, houses of worship are more crowded than they have been in years; photos (M)",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/American_Airlines_Airplane.jpg/1280px-American_Airlines_Airplane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/30/nyregion/attacks-spur-surge-interest-religion-attendance-services-rises-clerics-hope-for.html"
+        },
+        {
+          "headline": "Voices Not Silenced, Feet Not Stilled; As They Return to Work, Artists Talk Performing in a Time of Tragedy",
+          "summary": "Some performing artists in New York City say experience of being on stage has changed, subtly as well as profoundly, after destruction of World Trade Center; photos (M)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Wtc7_from_wtc_observation_deck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "image_source": "Wikimedia Commons",
+          "url": "https://www.nytimes.com/2001/09/20/theater/voices-not-silenced-feet-not-stilled-they-return-work-artists-talk-performing.html"
+        },
+        {
+          "headline": "After a Pause, Arts Companies Find Their Role; Nationwide, People Turn to Theaters and Concert Halls for a Sense of Community",
+          "summary": "Directors of performing arts companies across country ponder how to react to attacks on World Trade Center and Pentagon; people turn to theaters and concert halls for sense of community; Sir Peter Hall, who is directing Verdi's Otello at Lyric Opera Company in Chicago, says people seem to want to be in theaters in times of tragedy; photo (M)",
+          "image": null,
+          "image_source": null,
+          "url": "https://www.nytimes.com/2001/09/18/theater/after-pause-arts-companies-find-their-role-nationwide-people-turn-theaters.html"
+        }
+      ],
+      "reveal_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/1280px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "source": "Wikimedia Commons"
+      },
+      "blurb": "Among the month's major headlines: BUSH AND TOP AIDES PROCLAIM POLICY OF 'ENDING' STATES THAT BACK TERROR; Attacks Spur a Surge of Interest in Religion; Voices Not Silenced, Feet Not Stilled.",
+      "ranking": {
+        "mode": "topic-clusters",
+        "keyword_coverage": 0.881
+      }
+    }
+  ]
+}
